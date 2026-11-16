@@ -3,12 +3,19 @@
 // Thêm: file nội bộ của repo (công cụ, nhật ký đăng bài, README...) không được công khai -> trả 404.
 // Muốn chặn thêm đường dẫn nào thì thêm vào BLOCKED. Lưu ý _routes.json: file .json/.txt/.xml... bị loại khỏi Functions
 // (để không tốn lượt chạy), nên phần _routes.json chỉ loại đúng các file cần phục vụ công khai (xem README mục "Chặn file nội bộ").
-const BLOCKED = /^\/(tools|functions|node_modules)(\/|$)|^\/README\.(md|txt)$|^\/_(headers|redirects|routes\.json)$/i;
+// BẢN THỬ: thêm .claude (cấu hình Claude Code/ECC nằm trong repo). _routes.json của bản thử không còn loại trừ theo đuôi file
+// trên toàn site (/*.js, /*.png...) mà chỉ loại đúng thư mục có file tĩnh, để mọi loại file trong /.claude/ đều đi qua đây.
+const BLOCKED = /^\/(tools|functions|node_modules|\.claude)(\/|$)|^\/README\.(md|txt)$|^\/_(headers|redirects|routes\.json)$/i;
+// Đường dẫn viết mã hoá (ví dụ /%2Eclaude/...) cũng phải bị chặn: giải mã rồi so lại, chỉ áp cho .claude.
+const CLAUDE_DIR = /^\/\.claude(\/|$)/i;
+function isClaudePath(pathname) {
+  try { return CLAUDE_DIR.test(decodeURIComponent(pathname)); } catch (e) { return false; }
+}
 
 export async function onRequest(context) {
   try {
     const url = new URL(context.request.url);
-    if (BLOCKED.test(url.pathname)) {
+    if (BLOCKED.test(url.pathname) || isClaudePath(url.pathname)) {
       try {   // dùng đúng trang 404 của web nếu lấy được, không thì trả chữ thường
         const nf = await context.env.ASSETS.fetch(new URL('/404.html', url));
         if (nf.status === 200 || nf.status === 404) return new Response(nf.body, { status: 404, headers: { 'content-type': 'text/html; charset=utf-8', 'cache-control': 'no-store', 'x-robots-tag': 'noindex' } });

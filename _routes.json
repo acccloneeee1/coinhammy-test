@@ -4,19 +4,20 @@
     "/*"
   ],
   "exclude": [
-    "/*.png",
-    "/*.jpg",
-    "/*.jpeg",
-    "/*.webp",
-    "/*.svg",
-    "/*.ico",
-    "/*.gif",
-    "/*.css",
-    "/*.js",
-    "/*.woff2",
+    "/favicon.ico",
+    "/favicon-192.png",
+    "/apple-touch-icon.png",
+    "/fonts/*.woff2",
+    "/img/*.webp",
+    "/tin/*.png",
+    "/tin/*.jpg",
+    "/tin/*.webp",
+    "/hoc/*.jpg",
+    "/hoc/*.webp",
+    "/tools/*.png",
     "/tin/index.json",
     "/hoc/index.json",
-    "/*.xml",
+    "/sitemap.xml",
     "/robots.txt"
   ]
 }

@@ -1,6 +1,12 @@
 # coinhammy
 Source Web CoinHammy
 
+## ĐÂY LÀ BẢN THỬ (coinhammy-test), khác bản thật ở các điểm sau
+- Chạy ở `coinhammy-test.pages.dev`, khoá bằng Cloudflare Access. Không đẩy lên repo bản thật (`acccloneeee1/coinhammy`): hook `.git/hooks/pre-push` từ chối (hook không đi theo commit, clone lại thì phải tạo lại).
+- Cấm lập chỉ mục: `_headers` có `X-Robots-Tag: noindex, nofollow` cho `/*`; `robots.txt` chỉ còn `User-agent: *` + `Disallow: /`, không có dòng Sitemap. Vì vậy các đoạn bên dưới nói về bot AI trong `robots.txt` không áp dụng cho bản thử.
+- Canonical, hreflang, `og:url`, `sitemap.xml`, JSON-LD vẫn trỏ về `coinhammy.com` (cố ý). Mã GA giữ nguyên vì chỉ chạy trên `coinhammy.com`. Link giới thiệu sàn giữ nguyên.
+- `/.claude/*` (cấu hình Claude Code/ECC) bị chặn 404 trong `BLOCKED` của `functions/_middleware.js`. Để file `.js`, ảnh... trong `.claude/` cũng đi qua Function, `_routes.json` của bản thử KHÔNG còn loại trừ theo đuôi file trên toàn site (`/*.js`, `/*.png`...), mà chỉ loại đúng chỗ có file tĩnh: `/fonts/*.woff2`, `/img/*.webp`, `/tin/*.{png,jpg,webp}`, `/hoc/*.{jpg,webp}`, `/tools/*.png`, 3 file favicon, `sitemap.xml`, `robots.txt`, hai `index.json`. Thêm file tĩnh ở thư mục khác thì vẫn chạy nhưng tốn một lượt Function mỗi lần tải; muốn tránh thì thêm đường dẫn vào `exclude`.
+
 ## Kiểm tra SEO toàn site
 
 Mỗi khi thêm hoặc sửa trang, chạy:

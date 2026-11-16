@@ -1,27 +1,2 @@
-# Bot tìm kiếm / trích dẫn của AI (OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User,
-# PerplexityBot, Perplexity-User...) và Googlebot, Bingbot: được vào như mọi bot khác (nhóm "*" bên dưới).
 User-agent: *
-Disallow: /tools/
-Disallow: /functions/
-Allow: /
-
-# Bot thu thập để HUẤN LUYỆN mô hình AI: không cho vào.
-User-agent: GPTBot
-User-agent: ClaudeBot
-User-agent: anthropic-ai
-User-agent: Google-Extended
-User-agent: Applebot-Extended
-User-agent: CCBot
-User-agent: Meta-ExternalAgent
-User-agent: FacebookBot
-User-agent: Bytespider
-User-agent: Amazonbot
-User-agent: cohere-ai
-User-agent: Diffbot
-User-agent: omgili
-User-agent: Omgilibot
-User-agent: Timpibot
-User-agent: ImagesiftBot
 Disallow: /
-
-Sitemap: https://coinhammy.com/sitemap.xml
