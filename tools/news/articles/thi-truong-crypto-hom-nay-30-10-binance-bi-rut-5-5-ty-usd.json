@@ -1,0 +1,88 @@
+{
+ "slug": "thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd",
+ "cat": "ex",
+ "coin": "BTC",
+ "ts": "2026-10-30T07:45:00+07:00",
+ "event": "Daily crypto market wrap 2026-10-30",
+ "src_urls": [
+  "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+  "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+  "https://cryptoslate.com/bitcoin-whipsaws-below-79000-as-binance-hot-wallet-reportedly-drained-by-tornado-cash-linked-wallet/",
+  "https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion/",
+  "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+  "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide",
+  "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
+  "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/two-gold-bitcoins-sitting-next-to-a-binance-sign--EyabHDAgbE",
+  "license": "Unsplash",
+  "alt_vi": "Hai đồng xu Bitcoin và Ethereum đặt cạnh biển hiệu Binance",
+  "alt_en": "Bitcoin and Ethereum coins next to the Binance sign",
+  "url": "/tin/img/thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd-h.jpg"
+ },
+ "images": [
+  {
+   "license": "chart",
+   "alt_vi": "Biểu đồ nến 1 giờ BTC/USDT cho thấy giá lao dốc về quanh 77.000 USD sáng 30/10",
+   "alt_en": "BTC/USDT 1-hour candlestick chart showing the slide toward about $77,000 on Oct. 30",
+   "caption_vi": "Bitcoin (nến 1 giờ) mất khoảng 4.700 USD từ đỉnh gần 81.800 USD ngày 29/10 về quanh 77.100 USD ngày 30/10.",
+   "caption_en": "Bitcoin (1-hour candles) fell roughly $4,700 from near $81,800 on Oct. 29 to about $77,100 on Oct. 30.",
+   "url": "/tin/img/thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd-1.jpg"
+  }
+ ],
+ "vi": {
+  "title": "Thị trường crypto hôm nay (30/10): Binance mất hơn 5,5 tỷ USD, Bitcoin lùi về quanh 77.000 USD",
+  "seo_title": "Crypto hôm nay 30/10: Binance bị rút 5,5 tỷ USD",
+  "desc": "Hơn 5,5 tỷ USD rời ví nóng Binance trong đêm, hơn 2,6 tỷ USD stablecoin bị đóng băng, Bitcoin lùi về quanh 77.000 USD và thanh lý lên gần 1 tỷ USD.",
+  "lead": "Sáng 30/10, thị trường crypto bị chi phối bởi vụ nghi tấn công Binance với ít nhất 5,5 tỷ USD rời ví nóng của sàn. Bitcoin giảm về quanh 77.000 USD, trong khi các tổ chức phát hành stablecoin đóng băng hơn 2,6 tỷ USD.",
+  "bullets": [
+   "Ít nhất 5,57 tỷ USD rời các ví liên quan tới Binance trên Ethereum, Bitcoin và Tron; Binance cho biết đang điều tra và khẳng định tiền người dùng được bảo vệ.",
+   "Bitcoin rơi từ vùng 81.000 USD xuống quanh 77.000 USD, BNB giảm khoảng 7%, lượng thanh lý trong 24 giờ lên gần 1 tỷ USD.",
+   "Tether, Circle, Ripple và các bên khác đã đóng băng hơn 2,6 tỷ USD; kẻ tấn công đang đổi stablecoin sang ETH để tránh bị khóa."
+  ],
+  "body_html": "<p>Vụ nghi tấn công Binance là diễn biến lớn nhất của đêm qua. Theo thống kê on-chain, ít nhất 5,57 tỷ USD đã rời các ví liên quan tới sàn giao dịch lớn nhất thế giới, và đây có thể là vụ hack lớn nhất lịch sử crypto nếu được xác nhận. Bitcoin giảm về quanh 77.000 USD, BNB mất khoảng 7% và thanh lý futures tăng mạnh.</p><h2>Binance bị rút hơn 5,5 tỷ USD</h2><p>Giao dịch đầu tiên xuất hiện lúc 20:24 UTC ngày 29/10 (3:24 sáng 30/10 giờ Việt Nam): 167.464 ETH cùng 63 loại token, trong đó có 1,615 tỷ USDT, chuyển sang một địa chỉ mới. Cú rút này đến từ ví nóng, tức loại ví nối mạng mà sàn dùng để xử lý lệnh rút tiền của khách. Theo bảng thống kê on-chain, tổng cộng có 3,51 tỷ USD trên Ethereum, 1,44 tỷ USD (18.270 BTC) trên mạng Bitcoin và 630 triệu USD trên Tron. Các ước tính khác nhau ở mức 5,5 đến 5,8 tỷ USD và chưa được đối chiếu hết.</p><p>Chỉ ba phút trước giao dịch đầu tiên, một địa chỉ được cấp vốn qua Tornado Cash đã gửi lệnh ủy quyền cho một ví nóng của Binance bằng EIP-7702, tính năng cho phép ví thường chạy mã hợp đồng thông minh. Các nhà nghiên cứu bảo mật cho rằng mã này đã biến ví thành công cụ quét tiền. Chưa rõ kẻ tấn công lấy được chữ ký cần thiết bằng cách nào; một số chuyên gia nghi ngờ hạ tầng ký giao dịch của sàn bị thao túng thay vì bị đánh cắp khóa theo nghĩa thông thường.</p><p>Binance cho biết đang điều tra và ban đầu chưa xác nhận ảnh hưởng tới tiền người dùng. Sau đó đồng CEO Yi He nói quỹ người dùng được bảo vệ nhờ quỹ SAFU, còn nhà sáng lập Changpeng Zhao kỳ vọng người dùng sẽ được hoàn trả đầy đủ. Dữ liệu bằng chứng dự trữ của chính Binance cho thấy một ví bị rút nằm trong nhóm ví đảm bảo số dư khách hàng, nên lượng ETH đảm bảo ước tính tụt còn khoảng 94% cho đến khi sàn bù lại phần đã mất. Lần chụp dữ liệu dự trữ kế tiếp của Binance dự kiến vào ngày 1/11.</p><h2>Stablecoin bị đóng băng, kẻ tấn công tìm đường thoát</h2><p>Tether cho biết đã đóng băng hơn 1,567 tỷ USDT, Circle khoảng 823 triệu USDC, Ripple khoảng 200 triệu USD RLUSD, World Liberty Financial 27 triệu USD1 và Paxos hơn 8 triệu USD vàng token hóa PAXG. Tổng cộng vượt 2,6 tỷ USD, tức khoảng một nửa số tiền bị rút.</p><p>Phần còn lại khó giữ hơn. Dữ liệu on-chain cho thấy kẻ tấn công đổi các stablecoin có thể bị khóa sang ETH, thứ không có tổ chức phát hành nào đóng băng được, qua các sàn phi tập trung như Uniswap. Một ví còn gửi 60 triệu USDT vào Aave để vay khoảng 19.800 ETH. Aave đã đóng băng các thị trường V3 trên Ethereum, còn Kamino tạm dừng vay ở thị trường SOL và BTC. Vào khoảng 22:07 UTC, khoảng 253.000 ETH (khoảng 570 triệu USD) nằm trong hai ví chưa có giao dịch chuyển ra.</p><h2>Giá, thanh lý và bối cảnh vĩ mô</h2><p>Bitcoin giảm xuống đáy 78.297 USD trên thị trường giao ngay Binance trong ngày 29/10, rồi tiếp tục trượt. Trên biểu đồ 1 giờ của BTC/USDT tại Binance, giá ở quanh 77.100 USD, đáy gần nhất khoảng 76.760 USD. Ether giảm khoảng 4% xuống quanh 2.260 USD lúc 23:24 UTC, tổng vốn hóa thị trường giảm 3,3% xuống khoảng 2,73 nghìn tỷ USD. Monero tăng khoảng 6% lên 637 USD, như từng xảy ra sau các vụ trộm lớn trước đây.</p><p>[[img:1]]</p><p>Dữ liệu thanh lý cho thấy gần 1 tỷ USD bị thanh lý trong 24 giờ, trong đó riêng một giờ có khoảng 532 triệu USD, với 289 triệu USD là vị thế BTC và 236 triệu USD là vị thế ETH. Cần lưu ý Bitcoin đã yếu từ trước giao dịch đầu tiên: giá dưới 80.000 USD trong ngày 29/10 khi cổ phiếu công nghệ bị bán và thị trường đọc quyết định giữ lãi suất của Fed theo hướng diều hâu. Fed giữ lãi suất 3,75–4,00% với tỷ lệ 10–2, hai thành viên bỏ phiếu muốn tăng. Lợi suất trái phiếu kho bạc 10 năm khoảng dưới 5%, giảm từ 5,05% hôm qua.</p><p>Dòng tiền ETF trước khi xảy ra vụ việc khá tích cực: các quỹ ETF Bitcoin giao ngay tại Mỹ hút ròng khoảng 424 triệu USD từ thứ Hai đến thứ Tư tuần này, sau khi rút ròng 635 triệu USD ngày 22/10. Tuy nhiên, giá vốn trung bình của các quỹ này được ước tính khoảng 81.500–82.000 USD, nghĩa là Bitcoin hiện nằm dưới mức giá vốn đó. Một phân tích on-chain cũng cho thấy khoảng 4 triệu BTC được mua trong vùng 85.000–118.000 USD, và vùng 84.000–85.000 USD đã chặn đà hồi bốn lần trong năm nay.</p><h2>Những tin khác đáng chú ý</h2><p>Hôm nay còn là ngày đáo hạn khoảng 11 tỷ USD quyền chọn Bitcoin trên Deribit, tương đương khoảng một phần ba lượng quyền chọn đang mở của sàn. Mức max pain nằm quanh 78.000 USD và khoảng 86% hợp đồng nằm ngoài giá trị tại thời điểm dữ liệu được công bố. Ngoài ra, Polymarket tạm dừng giao dịch sau khi một nhà cung cấp bên thứ ba bị xâm nhập, với khoảng 2,65 triệu USD bị rút; nền tảng này sau đó chuyển sang chế độ chỉ hủy lệnh.</p><h2>Tác động tới trader</h2><p>Với trader futures, vụ Binance mang lại hai rủi ro chồng lên nhau: biến động giá mạnh và rủi ro đối tác. Lượng thanh lý gần 1 tỷ USD trong 24 giờ cho thấy đòn bẩy cao bị quét khi giá giảm nhanh; trong những phiên như vậy funding rate và open interest thường biến động mạnh, nên spread rộng và trượt giá có thể làm lệnh khớp xa giá dự kiến. Chưa có số liệu funding và open interest xác thực cho đợt biến động này, vì vậy trader nên tự theo dõi hai chỉ số này trên sàn mình dùng.</p><p>Điều cần theo dõi tiếp: Binance có công bố tổng thiệt hại và kế hoạch bù đắp hay không, dữ liệu dự trữ ngày 1/11 có cho thấy tỷ lệ đảm bảo được khôi phục không, lượng ETH của kẻ tấn công có tiếp tục di chuyển không, và việc đáo hạn quyền chọn hôm nay có làm giá biến động thêm không. Nhắc lại: vị thế mở tại Binance đang gặp rủi ro hoạt động chưa rõ, nên quản lý rủi ro và kích thước vị thế là việc cần làm trước tiên. Công cụ tính vị thế và giá thanh lý có tại <a href='/cong-cu.html'>trang công cụ</a>; so sánh các sàn có tại <a href='/xep-hang.html'>bảng xếp hạng sàn</a>.</p>",
+  "keywords": [
+   "thị trường crypto hôm nay",
+   "Binance bị hack",
+   "giá Bitcoin hôm nay",
+   "thanh lý futures",
+   "ETF Bitcoin"
+  ]
+ },
+ "en": {
+  "title": "Crypto Market Today (Oct. 30): Binance Loses Over $5.5 Billion as Bitcoin Slides Toward $77,000",
+  "seo_title": "Crypto Today Oct. 30: Binance Drained of $5.5B",
+  "desc": "Over $5.5 billion left Binance hot wallets overnight, $2.6 billion in stablecoins was frozen, and Bitcoin slid toward $77,000 as liquidations neared $1 billion.",
+  "lead": "The crypto market on Oct. 30 is dominated by a suspected attack on Binance, with at least $5.5 billion leaving the exchange's hot wallets. Bitcoin fell toward $77,000 while stablecoin issuers froze more than $2.6 billion.",
+  "bullets": [
+   "At least $5.57 billion left Binance-linked wallets on Ethereum, Bitcoin and Tron; Binance says it is investigating and that user funds are protected.",
+   "Bitcoin dropped from the $81,000 area to about $77,000, BNB fell roughly 7%, and 24-hour liquidations approached $1 billion.",
+   "Tether, Circle, Ripple and others froze more than $2.6 billion, while the attacker is swapping stablecoins for ETH to avoid freezes."
+  ],
+  "body_html": "<p>The suspected attack on Binance is the biggest development overnight. On-chain tallies show at least $5.57 billion left wallets tied to the world's largest exchange, which would be the largest crypto hack on record if confirmed. Bitcoin slid toward $77,000, BNB lost about 7% and futures liquidations surged.</p><h2>Binance drained of more than $5.5 billion</h2><p>The first transaction came at 20:24 UTC on Oct. 29 (3:24 a.m. Vietnam time on Oct. 30): 167,464 ETH plus 63 tokens, including 1.615 billion USDT, moved to a fresh address. The funds came from hot wallets, the internet-connected wallets an exchange uses to process customer withdrawals. The on-chain tally counts $3.51 billion on Ethereum, $1.44 billion (18,270 BTC) on Bitcoin and $630 million on Tron. Estimates range from $5.5 billion to $5.8 billion and have not been fully reconciled.</p><p>Three minutes before that first transfer, an address funded through Tornado Cash submitted a delegation for a Binance hot wallet using EIP-7702, a feature that lets an ordinary wallet run smart-contract code. Security researchers say the code effectively turned the wallet into a sweeper. How the attacker obtained the needed signature is unknown; some experts suspect the exchange's transaction-signing infrastructure was manipulated rather than keys being stolen in the usual sense.</p><p>Binance said it is investigating and initially did not confirm any impact on user funds. Co-CEO Yi He later said user funds are protected by the exchange's SAFU reserve, and founder Changpeng Zhao said he expects users to be made whole. Binance's own proof-of-reserves data lists one of the drained wallets among those backing customer balances, which leaves ETH backing at an estimated 94% until the exchange replaces the missing assets. Its next reserve snapshot is due Nov. 1.</p><h2>Stablecoins frozen as the attacker looks for exits</h2><p>Tether said it froze more than $1.567 billion in USDT, Circle about $823 million in USDC, Ripple about $200 million in RLUSD, World Liberty Financial $27 million in USD1 and Paxos more than $8 million in tokenized gold (PAXG). The total tops $2.6 billion, roughly half of what was taken.</p><p>The rest is harder to hold. On-chain records show the attacker swapping freezable stablecoins for ETH, which no issuer can lock, on decentralized exchanges such as Uniswap. One wallet also deposited $60 million in USDT on Aave to borrow about 19,800 ETH. Aave froze its V3 markets on Ethereum and Kamino paused borrowing in its SOL and BTC markets. Around 22:07 UTC, about 253,000 ETH (roughly $570 million) sat in two wallets with no outgoing transfers.</p><h2>Prices, liquidations and the macro backdrop</h2><p>Bitcoin hit an intraday low of $78,297 on Binance spot on Oct. 29, then kept sliding. On Binance's 1-hour BTC/USDT chart, price was near $77,100, with the latest low around $76,760. Ether fell about 4% to near $2,260 at 23:24 UTC, and the total crypto market capitalization dropped 3.3% to about $2.73 trillion. Monero rose about 6% to $637, echoing moves after past large thefts.</p><p>[[img:1]]</p><p>Liquidation data shows nearly $1 billion wiped out over 24 hours, including about $532 million in a single hour, with $289 million in BTC positions and $236 million in ETH positions. Bitcoin was already weak before the first transfer: it traded below $80,000 on Oct. 29 as tech stocks sold off and markets read the Fed's hold as hawkish. The Fed kept rates at 3.75%–4.00% in a 10–2 vote, with two members voting to hike. The 10-year Treasury yield sat just under 5%, down from 5.05% at Wednesday's close.</p><p>ETF flows before the incident were constructive: U.S. spot Bitcoin ETFs took in about $424 million net from Monday to Wednesday this week, after $635 million of net outflows on Oct. 22. Still, the funds' average cost basis is estimated at roughly $81,500–$82,000, so Bitcoin now trades below it. On-chain analysis also shows about 4 million BTC bought between $85,000 and $118,000, and the $84,000–$85,000 band has turned Bitcoin back four times this year.</p><h2>Other notable news</h2><p>Today is also expiry day for about $11 billion in Bitcoin options on Deribit, roughly a third of the exchange's open Bitcoin options. Max pain sat near $78,000 and about 86% of contracts were out of the money when the data was published. Separately, Polymarket paused trading after a third-party provider was breached, with about $2.65 million drained; it then moved to cancel-only mode.</p><h2>What it means for traders</h2><p>For futures traders, the Binance incident stacks two risks: sharp price swings and counterparty risk. Nearly $1 billion of liquidations in 24 hours shows how quickly high leverage gets swept when prices fall fast; in such sessions funding rates and open interest tend to move sharply, and wide spreads and slippage can fill orders far from the expected price. Verified funding and open interest figures were not available for this move, so traders should check both on the platform they use.</p><p>What to watch next: whether Binance publishes a total loss figure and a plan to cover it, whether the Nov. 1 reserve data shows backing restored, whether the attacker's ETH keeps moving, and whether today's options expiry adds to volatility. Open positions on Binance carry operational risk that is still unclear, so risk management and position size come first. Position and liquidation-price calculators are on the <a href='/cong-cu.html'>tools page</a>, and exchange comparisons are in the <a href='/xep-hang.html'>exchange ranking</a>.</p>",
+  "keywords": [
+   "crypto market today",
+   "Binance hack",
+   "Bitcoin price today",
+   "futures liquidations",
+   "Bitcoin ETF flows"
+  ]
+ },
+ "cats": [
+  "ex",
+  "btc"
+ ],
+ "slug_en": "crypto-market-today-oct-30-binance-loses-over-5-5-billion",
+ "dir": "tin-tuc",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd"
+  }
+ ]
+}

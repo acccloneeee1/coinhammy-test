@@ -1,0 +1,1195 @@
+{
+ "items": [
+  {
+   "slug": "strategy-mua-485-btc-strc",
+   "slug_en": "strategy-buys-485-btc-strc",
+   "u": "/tin-tuc/strategy-mua-485-btc-strc",
+   "ue": "/en/news/strategy-buys-485-btc-strc",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-16T21:27:21+07:00",
+   "img": "/tin/img/strategy-mua-485-btc-strc-h.jpg",
+   "img_en": "/tin/img/strategy-mua-485-btc-strc-h.jpg",
+   "vi": {
+    "title": "Strategy mua thêm 485 BTC nhưng chi gấp gần 7 lần để mua lại cổ phiếu STRC",
+    "desc": "Strategy mua 485 BTC với 33,4 triệu USD, trong khi chi 228 triệu USD mua lại cổ phiếu ưu đãi STRC. Vì sao đây là tín hiệu cần theo dõi với trader hôm nay."
+   },
+   "en": {
+    "title": "Strategy Buys 485 BTC but Spends Nearly 7x More Repurchasing STRC",
+    "desc": "Strategy bought 485 BTC for $33.4 million while spending $228 million buying back its STRC preferred stock. Here is what traders should watch in the deal."
+   }
+  },
+  {
+   "slug": "aster-lao-doc-32-phut",
+   "slug_en": "aster-token-plunges-32-percent",
+   "u": "/tin-tuc/aster-lao-doc-32-phut",
+   "ue": "/en/news/aster-token-plunges-32-percent",
+   "cat": "ex",
+   "coin": "ASTER",
+   "ts": "2026-11-16T18:20:00+07:00",
+   "img": "/tin/img/aster-lao-doc-32-phut-h.jpg",
+   "img_en": "/tin/img/aster-lao-doc-32-phut-h.jpg",
+   "cats": [
+    "ex",
+    "fut"
+   ],
+   "vi": {
+    "title": "ASTER lao xuống 0,48 USD trong 15 phút, CEO Aster nghi thanh lý bị thao túng",
+    "desc": "Token ASTER giảm khoảng 32% trong chưa đầy 15 phút do thanh lý vị thế đòn bẩy. CEO Aster nghi bị thao túng, đang điều tra; sàn vẫn vận hành bình thường."
+   },
+   "en": {
+    "title": "ASTER falls 32% in 15 minutes as Aster CEO suspects malicious liquidations",
+    "desc": "ASTER token fell about 32% in just over 15 minutes as leveraged positions were liquidated. Aster's CEO calls it likely malicious and says the probe is ongoing."
+   }
+  },
+  {
+   "slug": "eth-sol-giam-manh-etf",
+   "slug_en": "ether-solana-slide-etf-outflows",
+   "u": "/tin-tuc/eth-sol-giam-manh-etf",
+   "ue": "/en/news/ether-solana-slide-etf-outflows",
+   "cat": "alt",
+   "coin": "ETH",
+   "ts": "2026-11-16T11:30:00+07:00",
+   "img": "/tin/img/eth-sol-giam-manh-etf-h.jpg",
+   "img_en": "/tin/img/eth-sol-giam-manh-etf-h.jpg",
+   "cats": [
+    "alt",
+    "btc"
+   ],
+   "vi": {
+    "title": "ETH và SOL giảm gần 20% trong tuần khi ETF tiền mã hoá rút ròng",
+    "desc": "Ethereum mất 19,5% và Solana mất 20,7% trong 7 ngày khi dòng vốn ETF rút ròng, tâm lý thị trường rơi vào sợ hãi cực độ. Diễn biến và tác động tới trader."
+   },
+   "en": {
+    "title": "Ether and Solana Drop Nearly 20% as ETF Outflows Mount",
+    "desc": "Ethereum fell 19.5% and Solana 20.7% in seven days as ETF outflows continued and sentiment hit extreme fear. Here is what the numbers mean for traders now."
+   }
+  },
+  {
+   "slug": "bitcoin-roi-62000-usd",
+   "slug_en": "bitcoin-four-month-low-etfs",
+   "u": "/tin-tuc/bitcoin-roi-62000-usd",
+   "ue": "/en/news/bitcoin-four-month-low-etfs",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-16T08:00:00+07:00",
+   "img": "/tin/img/bitcoin-roi-62000-usd-h.jpg",
+   "img_en": "/tin/img/bitcoin-roi-62000-usd-h.jpg",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "vi": {
+    "title": "Thị trường crypto hôm nay (16/11): Bitcoin xuống gần 62.000 USD, ETF rút ròng liên tiếp",
+    "desc": "Bitcoin chạm mức thấp nhất bốn tháng gần 62.000 USD, quỹ ETF rút ròng liên tiếp và ETH, SOL giảm mạnh. Diễn biến và tác động tới trader futures ra sao."
+   },
+   "en": {
+    "title": "Bitcoin Drops Near 62,000 USD as ETF Outflows Stretch to Seven Days",
+    "desc": "Bitcoin hit a four-month low near 62,000 USD, spot ETF outflows stretched for days and ETH and SOL fell sharply. What it means for futures traders right now."
+   }
+  },
+  {
+   "slug": "bitcoin-xuong-duoi-70000-usd",
+   "slug_en": "bitcoin-falls-below-70000-etf",
+   "u": "/tin-tuc/bitcoin-xuong-duoi-70000-usd",
+   "ue": "/en/news/bitcoin-falls-below-70000-etf",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-13T21:33:00+07:00",
+   "img": "/tin/img/bitcoin-xuong-duoi-70000-usd-h.jpg",
+   "img_en": "/tin/img/bitcoin-xuong-duoi-70000-usd-h.jpg",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "vi": {
+    "title": "Bitcoin xuống dưới 70.000 USD khi ETF rút ròng và CPI nóng hơn dự kiến",
+    "desc": "Bitcoin xuống dưới 70.000 USD, thấp nhất từ giữa tháng 8. ETF rút ròng liên tiếp, CPI nóng và thị trường đặt cược Fed có thể tăng lãi suất trong năm nay."
+   },
+   "en": {
+    "title": "Bitcoin Falls Below $70,000 as ETF Outflows and Hot CPI Weigh",
+    "desc": "Bitcoin dropped below $70,000, its lowest level since mid-August. Six straight days of ETF outflows, hot CPI and rising Fed hike bets add pressure this year."
+   }
+  },
+  {
+   "slug": "binance-hack-doj-thu-hoi",
+   "slug_en": "binance-hack-doj-seizure-funds",
+   "u": "/tin-tuc/binance-hack-doj-thu-hoi",
+   "ue": "/en/news/binance-hack-doj-seizure-funds",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-11-13T18:30:00+07:00",
+   "img": "/tin/img/binance-hack-doj-thu-hoi-h.jpg",
+   "img_en": "/tin/img/binance-hack-doj-thu-hoi-h.jpg",
+   "cats": [
+    "ex",
+    "reg"
+   ],
+   "vi": {
+    "title": "Mỹ được phép tịch thu hơn 1,2 tỷ USD từ vụ hack Binance",
+    "desc": "Bộ Tư pháp Mỹ được tòa cho phép tịch thu hơn 1,2 tỷ USD liên quan vụ hack Binance hồi cuối tháng 10, cùng lúc triệt phá chiến dịch lừa đảo FaceStealer."
+   },
+   "en": {
+    "title": "US Court Clears Seizure of Over $1.2 Billion From Binance Hack",
+    "desc": "The US Justice Department won court approval to seize over $1.2 billion tied to the Binance hack and dismantled the FaceStealer deepfake scam network."
+   }
+  },
+  {
+   "slug": "illinois-thue-giao-dich-crypto",
+   "slug_en": "illinois-crypto-tax-court-challenge",
+   "u": "/tin-tuc/illinois-thue-giao-dich-crypto",
+   "ue": "/en/news/illinois-crypto-tax-court-challenge",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-11-13T14:30:00+07:00",
+   "img": "/tin/img/illinois-thue-giao-dich-crypto-h.jpg",
+   "img_en": "/tin/img/illinois-thue-giao-dich-crypto-h.jpg",
+   "cats": [
+    "reg",
+    "pol"
+   ],
+   "vi": {
+    "title": "Illinois thu 0,2% mọi giao dịch crypto dù không lãi, bị kiện ra toà",
+    "desc": "Illinois định thu 0,2% trên mỗi lần giao dịch, chuyển hay giữ tài sản số dù không có lãi. Bộ Tư pháp Mỹ và nhiều bên đã kiện, việc thu thuế bị dời tới 1/7/2027."
+   },
+   "en": {
+    "title": "Illinois 0.2% Crypto Tax on Every Transfer, Even Without Profit",
+    "desc": "Illinois plans a 0.2% tax on every crypto trade or holding, even without profit. The DOJ and industry groups object, and collection is pushed to July 2027."
+   }
+  },
+  {
+   "slug": "dtcc-tich-hop-solana-2027",
+   "slug_en": "dtcc-brings-tokenization-to-solana",
+   "u": "/tin-tuc/dtcc-tich-hop-solana-2027",
+   "ue": "/en/news/dtcc-brings-tokenization-to-solana",
+   "cat": "alt",
+   "coin": "SOL",
+   "ts": "2026-11-13T11:30:00+07:00",
+   "img": "/tin/img/dtcc-tich-hop-solana-2027-h.jpg",
+   "img_en": "/tin/img/dtcc-tich-hop-solana-2027-h.jpg",
+   "vi": {
+    "title": "DTCC sẽ đưa tài sản token hoá lên Solana trong nửa cuối 2027",
+    "desc": "DTCC cho biết tài sản đã lưu ký tại DTC sẽ được token hoá trên Solana từ nửa cuối 2027. Quy định ví hiện hành vẫn giới hạn ai được nắm giữ và chuyển token."
+   },
+   "en": {
+    "title": "DTCC plans to bring tokenized securities to Solana in 2027",
+    "desc": "DTCC plans to tokenize DTC-custodied assets on Solana from the second half of 2027. Current SEC wallet rules still limit who can hold and transfer the tokens."
+   }
+  },
+  {
+   "slug": "thi-truong-crypto-eth-1983",
+   "slug_en": "crypto-market-today-eth-1983",
+   "u": "/tin-tuc/thi-truong-crypto-eth-1983",
+   "ue": "/en/news/crypto-market-today-eth-1983",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-13T07:50:00+07:00",
+   "img": "/tin/img/thi-truong-crypto-eth-1983-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-eth-1983-h.jpg",
+   "cats": [
+    "btc",
+    "fut"
+   ],
+   "vi": {
+    "title": "Thị trường crypto hôm nay: ETH chạm 1.983 USD, thanh lý gần 730 triệu USD",
+    "desc": "Ethereum chạm 1.983 USD, Bitcoin xuống dưới 72.000 USD, khoảng 727 triệu USD bị thanh lý trong 24 giờ. Dòng ETF tiếp tục rút ròng trước dữ liệu PPI thứ Sáu."
+   },
+   "en": {
+    "title": "Crypto market today: ETH touches $1,983 as $727M liquidated in 24 hours",
+    "desc": "Ethereum touched $1,983 and Bitcoin fell below $72,000 as about $727M was liquidated in 24 hours. ETF outflows continued ahead of Friday's PPI data release."
+   }
+  },
+  {
+   "slug": "bitcoin-thung-73000-nvidia",
+   "slug_en": "bitcoin-below-73000-nvidia-ceo",
+   "u": "/tin-tuc/bitcoin-thung-73000-nvidia",
+   "ue": "/en/news/bitcoin-below-73000-nvidia-ceo",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-12T21:30:00+07:00",
+   "img": "/tin/img/bitcoin-thung-73000-nvidia-h.jpg",
+   "img_en": "/tin/img/bitcoin-thung-73000-nvidia-h.jpg",
+   "vi": {
+    "title": "Bitcoin thủng 73.000 USD khi CEO Nvidia từ chức, ETF rút ròng 5 phiên liên tiếp",
+    "desc": "Bitcoin xuống dưới 73.000 USD khi Jensen Huang rời ghế CEO Nvidia, ETF rút ròng 5 phiên liên tiếp và hơn 1 tỷ USD vị thế đòn bẩy bị thanh lý trong ngày."
+   },
+   "en": {
+    "title": "Bitcoin Falls Below $73,000 as Nvidia's CEO Resigns and ETFs Bleed",
+    "desc": "Bitcoin fell under $73,000 as Nvidia's CEO quit, US Bitcoin ETFs logged five straight outflow days, and over $1 billion in leveraged positions were liquidated."
+   }
+  },
+  {
+   "slug": "okxice-mo-san-token",
+   "slug_en": "okxice-opens-tokenized-stock-venue",
+   "u": "/tin-tuc/okxice-mo-san-token",
+   "ue": "/en/news/okxice-opens-tokenized-stock-venue",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-11-12T18:40:00+07:00",
+   "img": "/tin/img/okxice-mo-san-token-h.jpg",
+   "img_en": "/tin/img/okxice-mo-san-token-h.jpg",
+   "vi": {
+    "title": "OKXICE mở sàn cổ phiếu token hoá từ 23/11 sau khi nhiều công ty từ chối niêm yết",
+    "desc": "OKXICE mở sàn cổ phiếu token hoá cho khách Mỹ đủ điều kiện từ 23/11 với hơn 70 tài sản, sau khi ít nhất 56 công ty, trong đó có Tesla và SpaceX, phản đối."
+   },
+   "en": {
+    "title": "OKXICE Opens Tokenized Stock Venue Nov 23 as Major Companies Refuse Listings",
+    "desc": "OKXICE opens its tokenized stock venue to eligible US customers on Nov 23 with 70+ assets, after at least 56 companies, including Tesla, objected to listings."
+   }
+  },
+  {
+   "slug": "han-quoc-tam-dung-rut",
+   "slug_en": "south-korea-exchanges-freeze-withdrawals",
+   "u": "/tin-tuc/han-quoc-tam-dung-rut",
+   "ue": "/en/news/south-korea-exchanges-freeze-withdrawals",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-11-12T14:20:00+07:00",
+   "img": "/tin/img/han-quoc-tam-dung-rut-h.jpg",
+   "img_en": "/tin/img/han-quoc-tam-dung-rut-h.jpg",
+   "cats": [
+    "reg",
+    "ex"
+   ],
+   "vi": {
+    "title": "Hàn Quốc cho sàn tạm dừng rút tiền khi nghi hack, không cần đợi xác nhận",
+    "desc": "FSC Hàn Quốc dự kiến cho sàn tạm dừng nạp rút ngay khi nghi tấn công, không chờ xác nhận hack. Trader trên sàn Hàn Quốc cần lưu ý nguy cơ bị chặn rút đột ngột."
+   },
+   "en": {
+    "title": "South Korea Lets Exchanges Halt Withdrawals on Suspected Hacks",
+    "desc": "South Korea's FSC plans to let exchanges suspend deposits and withdrawals as soon as a hack is suspected. Traders on local venues should watch for sudden halts."
+   }
+  },
+  {
+   "slug": "msci-loai-strategy-chi-so",
+   "slug_en": "msci-drops-strategy-metaplanet-indexes",
+   "u": "/tin-tuc/msci-loai-strategy-chi-so",
+   "ue": "/en/news/msci-drops-strategy-metaplanet-indexes",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-12T12:00:00+07:00",
+   "img": "/tin/img/msci-loai-strategy-chi-so-h.jpg",
+   "img_en": "/tin/img/msci-loai-strategy-chi-so-h.jpg",
+   "vi": {
+    "title": "MSCI chính thức loại Strategy khỏi chỉ số, có hiệu lực sau 30/11",
+    "desc": "MSCI xác nhận loại Strategy, Metaplanet và Upexi khỏi chỉ số toàn cầu sau phiên 30/11. Quỹ bám chỉ số có thể bán bao nhiêu và trader cần theo dõi gì? hiện nay?"
+   },
+   "en": {
+    "title": "MSCI Drops Strategy From Global Indexes Effective After Nov. 30",
+    "desc": "MSCI confirms Strategy, Metaplanet and Upexi removal from global indexes after November 30. How much index selling is expected, and what traders should watch?"
+   }
+  },
+  {
+   "slug": "bitcoin-duoi-75600-stablecoin-giam",
+   "slug_en": "bitcoin-below-cost-basis-stablecoin",
+   "u": "/tin-tuc/bitcoin-duoi-75600-stablecoin-giam",
+   "ue": "/en/news/bitcoin-below-cost-basis-stablecoin",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-12T08:00:00+07:00",
+   "img": "/tin/img/bitcoin-duoi-75600-stablecoin-giam-h.jpg",
+   "img_en": "/tin/img/bitcoin-duoi-75600-stablecoin-giam-h.jpg",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "vi": {
+    "title": "Bitcoin dưới 75.600 USD khi stablecoin co lại nhanh nhất từ 2022",
+    "desc": "Tổng stablecoin giảm 14,2 tỷ USD trong 30 ngày, ETF Bitcoin rút ròng 1,6 tỷ USD. Vì sao dòng tiền yếu khiến giá khó bật lên và trader cần theo dõi gì."
+   },
+   "en": {
+    "title": "Bitcoin slips below $75,600 as stablecoin supply shrinks fastest since 2022",
+    "desc": "Stablecoin supply fell $14.2B in 30 days and spot Bitcoin ETFs saw $1.6B in net outflows. Why weak liquidity keeps Bitcoin pinned and what traders should watch."
+   }
+  },
+  {
+   "slug": "kraken-xstocks-200-co-phieu",
+   "slug_en": "kraken-xstocks-200-eu-stocks",
+   "u": "/tin-tuc/kraken-xstocks-200-co-phieu",
+   "ue": "/en/news/kraken-xstocks-200-eu-stocks",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-11-11T21:25:00+07:00",
+   "img": "/tin/img/kraken-xstocks-200-co-phieu-h.jpg",
+   "img_en": "/tin/img/kraken-xstocks-200-co-phieu-h.jpg",
+   "vi": {
+    "title": "Kraken đưa hơn 200 cổ phiếu Anh và EU lên chuỗi qua xStocks",
+    "desc": "Payward thêm hơn 200 cổ phiếu Anh và EU vào xStocks, gồm 40 công ty DAX. Token bảo chứng 1:1 nhưng không có quyền biểu quyết; người Anh vẫn không được mua."
+   },
+   "en": {
+    "title": "Kraken xStocks Adds 200+ UK and EU Stocks, Including All of DAX",
+    "desc": "Payward added over 200 UK and EU stocks, including all 40 DAX names, to xStocks. Tokens are 1:1 backed without voting rights, and UK buyers remain excluded."
+   }
+  },
+  {
+   "slug": "lnbits-tat-server-vi-lightning",
+   "slug_en": "lnbits-shutdown-lightning-wallet-attacks",
+   "u": "/tin-tuc/lnbits-tat-server-vi-lightning",
+   "ue": "/en/news/lnbits-shutdown-lightning-wallet-attacks",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-11T19:05:00+07:00",
+   "img": "/tin/img/lnbits-tat-server-vi-lightning-h.jpg",
+   "img_en": "/tin/img/lnbits-tat-server-vi-lightning-h.jpg",
+   "vi": {
+    "title": "LNbits yêu cầu tắt mọi server sau làn tấn công rút BTC từ ví Lightning",
+    "desc": "LNbits yêu cầu mọi server tắt sau khi kẻ tấn công rút tiền từ tài khoản người dùng. Một nhà vận hành mất khoảng 0,023 BTC; bản vá 1.7.0 đã ra. Cần đổi khóa."
+   },
+   "en": {
+    "title": "LNbits Tells All Operators to Shut Down Servers After Lightning Wallet Attacks",
+    "desc": "LNbits told every operator to shut servers after attackers drained user accounts. One operator lost about 0.023 BTC. Version 1.7.0 is out with security fixes."
+   }
+  },
+  {
+   "slug": "cftc-canh-bao-kalshi",
+   "slug_en": "cftc-warns-kalshi-possible-charges",
+   "u": "/tin-tuc/cftc-canh-bao-kalshi",
+   "ue": "/en/news/cftc-warns-kalshi-possible-charges",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-11-11T15:30:00+07:00",
+   "img": "/tin/img/cftc-canh-bao-kalshi-h.jpg",
+   "img_en": "/tin/img/cftc-canh-bao-kalshi-h.jpg",
+   "cats": [
+    "reg",
+    "ex"
+   ],
+   "vi": {
+    "title": "CFTC cảnh báo Kalshi có thể bị truy tố vì cách nộp hồ sơ hợp đồng mới",
+    "desc": "CFTC cảnh báo Kalshi có thể bị truy tố vì cách thông báo hàng chục hợp đồng mới. Kalshi gọi đây là lỗi thủ tục, còn cơ quan chưa đưa ra quyết định nào."
+   },
+   "en": {
+    "title": "CFTC Warns Kalshi of Possible Charges Over New Contract Filings",
+    "desc": "The CFTC has warned Kalshi it may face charges over how it notified the agency about dozens of new contracts. Kalshi calls it a procedural error being fixed."
+   }
+  },
+  {
+   "slug": "grayscale-day-manh-zcash",
+   "slug_en": "grayscale-zcash-push-zec-falls",
+   "u": "/tin-tuc/grayscale-day-manh-zcash",
+   "ue": "/en/news/grayscale-zcash-push-zec-falls",
+   "cat": "alt",
+   "coin": "ZEC",
+   "ts": "2026-11-11T11:30:00+07:00",
+   "img": "/tin/img/grayscale-day-manh-zcash-h.jpg",
+   "img_en": "/tin/img/grayscale-day-manh-zcash-h.jpg",
+   "vi": {
+    "title": "Grayscale chi thêm 1 triệu USD cho Zcash, nhưng ZEC vẫn giảm hơn 10%",
+    "desc": "Grayscale nâng ngân sách hỗ trợ Zcash lên 1 triệu USD và chạy quảng cáo quốc gia, trong lúc ZEC giảm hơn 10% và quỹ ETF ZCSH rút vốn mạnh trong ngày 10/11."
+   },
+   "en": {
+    "title": "Grayscale Backs Zcash With $1M as ZEC Drops Over 10%",
+    "desc": "Grayscale lifts Zcash ecosystem grants to $1 million and launches a national ad campaign, as ZEC falls over 10% and its ZCSH ETF sees heavy outflows today."
+   }
+  },
+  {
+   "slug": "thi-truong-crypto-11-11",
+   "slug_en": "crypto-market-today-nov-11",
+   "u": "/tin-tuc/thi-truong-crypto-11-11",
+   "ue": "/en/news/crypto-market-today-nov-11",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-11T08:00:00+07:00",
+   "img": "/tin/img/thi-truong-crypto-11-11-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-11-11-h.jpg",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "vi": {
+    "title": "Thị trường crypto hôm nay (11/11): CPI nóng khiến BTC lùi dưới 74.000 USD",
+    "desc": "Lạm phát Mỹ tháng 10 cao hơn dự báo, xác suất Fed tăng lãi suất tháng 12 tăng mạnh. BTC thử 73.500 USD, khoảng 178 triệu USD long bị thanh lý trong một giờ qua."
+   },
+   "en": {
+    "title": "Crypto Market Today (Nov 11): Hot CPI Pushes Bitcoin Below $74,000",
+    "desc": "US inflation beat October forecasts, lifting odds of a December Fed hike. Bitcoin tested 73,500 USD and about $178M in longs were liquidated within an hour."
+   }
+  },
+  {
+   "slug": "hacker-ria-tien-binance-near",
+   "slug_en": "binance-hack-near-memecoin-laundering",
+   "u": "/tin-tuc/hacker-ria-tien-binance-near",
+   "ue": "/en/news/binance-hack-near-memecoin-laundering",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-11-10T18:30:00+07:00",
+   "img": "/tin/img/hacker-ria-tien-binance-near-h.jpg",
+   "img_en": "/tin/img/hacker-ria-tien-binance-near-h.jpg",
+   "vi": {
+    "title": "Hacker Triều Tiên dùng meme coin trên NEAR để rửa tiền hack Binance",
+    "desc": "Elliptic cho biết nhóm hacker Triều Tiên tự đúc sáu meme coin trên NEAR để rửa khoảng 430.000 USD từ vụ trộm Binance, trong khi hơn 3 tỷ USD vẫn chưa được rửa."
+   },
+   "en": {
+    "title": "North Korean Hackers Launder Binance Hack Funds Through NEAR Meme Coins",
+    "desc": "Elliptic says North Korean hackers minted six NEAR meme coins to launder about $430,000 from the Binance theft, while more than $3 billion remains unlaundered."
+   }
+  },
+  {
+   "slug": "warren-thuong-vien-soi-crypto",
+   "slug_en": "warren-senate-banking-crypto-scrutiny",
+   "u": "/tin-tuc/warren-thuong-vien-soi-crypto",
+   "ue": "/en/news/warren-senate-banking-crypto-scrutiny",
+   "cat": "pol",
+   "coin": "BTC",
+   "ts": "2026-11-10T14:55:00+07:00",
+   "img": "/tin/img/warren-thuong-vien-soi-crypto-h.jpg",
+   "img_en": "/tin/img/warren-thuong-vien-soi-crypto-h.jpg",
+   "cats": [
+    "pol",
+    "reg"
+   ],
+   "vi": {
+    "title": "Bà Warren sắp nắm Ủy ban Ngân hàng Thượng viện, nhắm crypto nhà Trump và kèo dự đoán",
+    "desc": "Bà Warren dự kiến chủ trì Ủy ban Ngân hàng Thượng viện từ tháng 1, hứa soi thị trường dự đoán và các dự án crypto của gia đình ông Trump bằng quyền điều tra."
+   },
+   "en": {
+    "title": "Warren to Chair Senate Banking, Eyeing Trump Family Crypto Ventures and Prediction Markets",
+    "desc": "Sen. Elizabeth Warren is set to chair the Senate Banking Committee in January, vowing to probe prediction markets and the Trump family's crypto ventures."
+   }
+  },
+  {
+   "slug": "nyse-chon-avalanche-avax-tang",
+   "slug_en": "nyse-picks-avalanche-avax-rallies",
+   "u": "/tin-tuc/nyse-chon-avalanche-avax-tang",
+   "ue": "/en/news/nyse-picks-avalanche-avax-rallies",
+   "cat": "alt",
+   "coin": "AVAX",
+   "ts": "2026-11-10T11:35:00+07:00",
+   "img": "/tin/img/nyse-chon-avalanche-avax-tang-h.jpg",
+   "img_en": "/tin/img/nyse-chon-avalanche-avax-tang-h.jpg",
+   "vi": {
+    "title": "NYSE chọn Avalanche thanh toán chứng khoán token hóa, AVAX tăng hơn 8%",
+    "desc": "NYSE chọn Avalanche làm sổ cái lõi cho nền tảng chứng khoán token hóa 24/7, AVAX tăng tới 10% trong phiên. Nền tảng còn chờ phê duyệt, trader cần lưu ý gì."
+   },
+   "en": {
+    "title": "NYSE Picks Avalanche to Settle Tokenized Stocks as AVAX Jumps 8%",
+    "desc": "NYSE picked Avalanche as the core ledger for its 24/7 tokenized securities platform and AVAX rose up to 10%. Approval is pending; what it means for traders."
+   }
+  },
+  {
+   "slug": "thi-truong-crypto-10-11",
+   "slug_en": "crypto-market-today-nov-10",
+   "u": "/tin-tuc/thi-truong-crypto-10-11",
+   "ue": "/en/news/crypto-market-today-nov-10",
+   "cat": "fut",
+   "coin": "BTC",
+   "ts": "2026-11-10T08:00:00+07:00",
+   "img": "/tin/img/thi-truong-crypto-10-11-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-10-11-h.jpg",
+   "cats": [
+    "fut",
+    "btc"
+   ],
+   "vi": {
+    "title": "Thị trường crypto hôm nay (10/11): Bitcoin đóng tuần dưới MA 50, hơn 1 tỷ USD long bị thanh lý",
+    "desc": "Bitcoin chạm đáy 11 tuần rồi quay lại quanh 75.000 USD, hơn 1 tỷ USD lệnh long bị thanh lý, ETF rút ròng 1,28 tỷ USD tuần trước và CPI Mỹ ra hôm nay nữa."
+   },
+   "en": {
+    "title": "Crypto Market Today (Nov 10): Bitcoin Closes Week Under 50-Week Average as $1B Longs Liquidated",
+    "desc": "Bitcoin hit an 11-week low then rebounded near 75,000 USD, over 1 billion USD of longs were liquidated, ETFs lost 1.28 billion USD and US CPI is due today."
+   }
+  },
+  {
+   "slug": "gopax-tam-dung-rut-tien",
+   "slug_en": "gopax-halts-withdrawals-hacking-threat",
+   "u": "/tin-tuc/gopax-tam-dung-rut-tien",
+   "ue": "/en/news/gopax-halts-withdrawals-hacking-threat",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-11-06T18:30:00+07:00",
+   "img": "/tin/img/gopax-tam-dung-rut-tien-h.jpg",
+   "img_en": "/tin/img/gopax-tam-dung-rut-tien-h.jpg",
+   "vi": {
+    "title": "GOPAX tạm dừng rút tiền sau lời đe doạ tấn công mạng",
+    "desc": "Sàn GOPAX của Hàn Quốc dừng rút tiền từ 14:55 ngày 6/11, chuyển tài sản ví nóng sang ví lạnh sau lời đe doạ tấn công; sàn nói chưa có thiệt hại tài sản."
+   },
+   "en": {
+    "title": "GOPAX Halts Withdrawals After Hacking Threat, Moves Assets Offline",
+    "desc": "South Korean exchange GOPAX stopped withdrawals at 2:55 p.m. on Nov 6 and moved hot wallet assets to cold storage after a hacking threat; no losses reported."
+   }
+  },
+  {
+   "slug": "han-quoc-hoan-thue-2029",
+   "slug_en": "south-korea-delays-crypto-tax",
+   "u": "/tin-tuc/han-quoc-hoan-thue-2029",
+   "ue": "/en/news/south-korea-delays-crypto-tax",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-11-06T14:30:00+07:00",
+   "img": "/tin/img/han-quoc-hoan-thue-2029-h.jpg",
+   "img_en": "/tin/img/han-quoc-hoan-thue-2029-h.jpg",
+   "cats": [
+    "reg",
+    "ex"
+   ],
+   "vi": {
+    "title": "Hàn Quốc đề xuất hoãn thuế crypto 22% sang năm 2029, kèm chuyển lỗ 3 năm",
+    "desc": "Chính phủ Hàn Quốc đề xuất lùi thuế thu nhập crypto 22% từ 2027 sang 2029, lần hoãn thứ tư, kèm cho chuyển lỗ ba năm. Dự luật vẫn cần Quốc hội thông qua."
+   },
+   "en": {
+    "title": "South Korea proposes delaying 22% crypto tax to 2029 with 3-year loss carryforward",
+    "desc": "South Korea proposes delaying its 22% crypto income tax from 2027 to 2029, a fourth delay, plus a three-year loss carryforward. Lawmakers must still approve."
+   }
+  },
+  {
+   "slug": "hyperliquid-strategies-xin-lam-fcm",
+   "slug_en": "hyperliquid-strategies-files-fcm-application",
+   "u": "/tin-tuc/hyperliquid-strategies-xin-lam-fcm",
+   "ue": "/en/news/hyperliquid-strategies-files-fcm-application",
+   "cat": "alt",
+   "coin": "HYPE",
+   "ts": "2026-11-06T11:30:00+07:00",
+   "img": "/tin/img/hyperliquid-strategies-xin-lam-fcm-h2.jpg",
+   "img_en": "/tin/img/hyperliquid-strategies-xin-lam-fcm-h2.jpg",
+   "cats": [
+    "alt",
+    "reg"
+   ],
+   "vi": {
+    "title": "Công ty nắm giữ HYPE xin làm FCM để đưa perp Hyperliquid vào Mỹ",
+    "desc": "Hyperliquid Strategies xin đăng ký FCM tại Mỹ để đưa perp HIP-3 đến khách Mỹ, báo lãi ròng 620,6 triệu USD quý III nhưng HYPE vẫn giảm theo thị trường chung."
+   },
+   "en": {
+    "title": "Hyperliquid Treasury Firm Files to Become a U.S. Futures Broker",
+    "desc": "Hyperliquid Strategies seeks U.S. FCM status to bring HIP-3 perps to American clients, posting 620.6M USD Q3 net income as HYPE slipped with the broader market."
+   }
+  },
+  {
+   "slug": "bitcoin-mat-80000-usd",
+   "slug_en": "bitcoin-slides-liquidations-ai-selloff",
+   "u": "/tin-tuc/bitcoin-mat-80000-usd",
+   "ue": "/en/news/bitcoin-slides-liquidations-ai-selloff",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-06T07:58:00+07:00",
+   "img": "/tin/img/bitcoin-mat-80000-usd-h.jpg",
+   "img_en": "/tin/img/bitcoin-mat-80000-usd-h.jpg",
+   "cats": [
+    "btc",
+    "fut"
+   ],
+   "vi": {
+    "title": "Thị trường crypto hôm nay (06/11): Bitcoin mất 80.000 USD, hơn 1 tỷ USD bị thanh lý",
+    "desc": "Bitcoin giảm 6% về quanh 75.700 USD theo chứng khoán Mỹ, hơn 1 tỷ USD bị thanh lý, phần lớn là lệnh long. Tổng hợp thị trường sáng 06/11 và mốc cần theo dõi."
+   },
+   "en": {
+    "title": "Crypto Market Today (Nov 6): Bitcoin Loses $80,000 as Over $1 Billion Is Liquidated",
+    "desc": "Bitcoin fell 6% to around $75,700 with US stocks as over $1 billion was liquidated, mostly longs. Morning market wrap for Nov. 6 and what to watch next."
+   }
+  },
+  {
+   "slug": "etf-bitcoin-hut-lai-tien",
+   "slug_en": "bitcoin-etf-inflows-return",
+   "u": "/tin-tuc/etf-bitcoin-hut-lai-tien",
+   "ue": "/en/news/bitcoin-etf-inflows-return",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-05T21:30:00+07:00",
+   "img": "/tin/img/etf-bitcoin-hut-lai-tien-h.jpg",
+   "img_en": "/tin/img/etf-bitcoin-hut-lai-tien-h.jpg",
+   "vi": {
+    "title": "ETF Bitcoin hút lại 74,6 triệu USD sau 3 phiên rút ròng, IBIT vẫn bị rút",
+    "desc": "ETF Bitcoin Mỹ có phiên dương đầu tiên sau 3 phiên rút ròng nhờ Fidelity FBTC, còn IBIT của BlackRock bị rút phiên thứ tư liên tiếp. Trader cần theo dõi gì?"
+   },
+   "en": {
+    "title": "Bitcoin ETF Inflows Return at $74.6M as IBIT Outflows Continue",
+    "desc": "US spot Bitcoin ETFs logged their first inflow after three outflow days as Fidelity's FBTC offset a fourth straight IBIT withdrawal. What traders should watch."
+   }
+  },
+  {
+   "slug": "bitmart-hack-lien-quan-mercado",
+   "slug_en": "bitmart-hack-linked-mercado-bitcoin",
+   "u": "/tin-tuc/bitmart-hack-lien-quan-mercado",
+   "ue": "/en/news/bitmart-hack-linked-mercado-bitcoin",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-11-05T18:25:00+07:00",
+   "img": "/tin/img/bitmart-hack-lien-quan-mercado-h.jpg",
+   "img_en": "/tin/img/bitmart-hack-lien-quan-mercado-h.jpg",
+   "vi": {
+    "title": "BitMart xác nhận bị hack, nghi cùng nhóm tấn công Mercado Bitcoin",
+    "desc": "Sàn BitMart xác nhận bị hack ngày 2/11 và nghi cùng nhóm tấn công Mercado Bitcoin, nơi bị rút tiền thêm khoảng 4 giờ sau khi tuyên bố đã khống chế sự cố."
+   },
+   "en": {
+    "title": "BitMart Confirms Hack, Suspects Same Group Behind Mercado Bitcoin Attack",
+    "desc": "BitMart confirms a Nov. 2 hack, suspects the group behind the Mercado Bitcoin attack, where draining went on four hours after it was called contained."
+   }
+  },
+  {
+   "slug": "hong-kong-thong-qua-carf",
+   "slug_en": "hong-kong-passes-carf-law",
+   "u": "/tin-tuc/hong-kong-thong-qua-carf",
+   "ue": "/en/news/hong-kong-passes-carf-law",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-11-05T14:25:00+07:00",
+   "img": "/tin/img/hong-kong-thong-qua-carf-h.jpg",
+   "img_en": "/tin/img/hong-kong-thong-qua-carf-h.jpg",
+   "vi": {
+    "title": "Hong Kong thông qua luật buộc nhà cung cấp crypto báo cáo thuế từ 2027",
+    "desc": "Hong Kong thông qua luật CARF: nhà cung cấp dịch vụ crypto thu thập thông tin khách hàng từ 2027, cơ quan thuế bắt đầu trao đổi dữ liệu quốc tế từ năm 2028."
+   },
+   "en": {
+    "title": "Hong Kong Passes Crypto Tax Reporting Law, Data Collection Starts in 2027",
+    "desc": "Hong Kong passes a CARF law: crypto service providers must collect customer tax data from 2027, and the tax department starts international exchanges in 2028."
+   }
+  },
+  {
+   "slug": "rune-tang-10-thorchain-mo-lai-tien-hack-binance",
+   "slug_en": "rune-jumps-10-percent-as-thorchain-reopens-binance-hack",
+   "u": "/tin-tuc/rune-tang-10-thorchain-mo-lai-tien-hack-binance",
+   "ue": "/en/news/rune-jumps-10-percent-as-thorchain-reopens-binance-hack",
+   "cat": "alt",
+   "coin": "RUNE",
+   "ts": "2026-11-05T11:40:00+07:00",
+   "img": "/tin/img/rune-tang-10-thorchain-mo-lai-tien-hack-binance-h.jpg",
+   "img_en": "/tin/img/rune-tang-10-thorchain-mo-lai-tien-hack-binance-h.jpg",
+   "cats": [
+    "alt",
+    "ex"
+   ],
+   "vi": {
+    "title": "RUNE tăng 10% khi THORChain mở lại, tiền hack Binance vẫn bị rửa qua đây",
+    "desc": "RUNE tăng 10,6% lên 0,637 USD khi THORChain mở lại giao dịch sau đợt dừng 31/10, trong lúc hacker vụ Binance 6,3 tỷ USD tiếp tục đổi tiền sang BTC."
+   },
+   "en": {
+    "title": "RUNE Jumps 10% as THORChain Reopens, Binance Hack Funds Still Flow",
+    "desc": "RUNE rose 10.6% to $0.637 as THORChain reopened most chains after its Oct. 31 halt, while Binance hack funds keep moving through the protocol into BTC."
+   }
+  },
+  {
+   "slug": "thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd",
+   "slug_en": "crypto-market-today-nov-5-bitcoin-back-above-80000-etfs",
+   "u": "/tin-tuc/thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd",
+   "ue": "/en/news/crypto-market-today-nov-5-bitcoin-back-above-80000-etfs",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-05T07:55:00+07:00",
+   "img": "/tin/img/thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd-h.jpg",
+   "cats": [
+    "btc",
+    "fut"
+   ],
+   "vi": {
+    "title": "Thị trường crypto hôm nay (05/11): Bitcoin lấy lại 80.000 USD, ETF vẫn rút ròng",
+    "desc": "Bitcoin hồi lên 80.000 USD, Ether tăng gần 6%, lệnh short bị quét trong khi ETF Bitcoin rút ròng phiên thứ ba liên tiếp. Tổng hợp thị trường sáng 05/11."
+   },
+   "en": {
+    "title": "Crypto Market Today (Nov 5): Bitcoin Back Above $80,000, ETFs Still Bleed",
+    "desc": "Bitcoin rebounds above $80,000 and Ether gains nearly 6% as shorts get squeezed, while US spot Bitcoin ETFs post a third straight day of outflows."
+   }
+  },
+  {
+   "slug": "cftc-cho-phep-perpetual-co-phieu-bi-kien-cung-ngay",
+   "slug_en": "cftc-clears-us-stock-perpetuals-sued-the-same-day-by-cboe",
+   "u": "/tin-tuc/cftc-cho-phep-perpetual-co-phieu-bi-kien-cung-ngay",
+   "ue": "/en/news/cftc-clears-us-stock-perpetuals-sued-the-same-day-by-cboe",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-11-04T21:30:00+07:00",
+   "img": "/tin/img/cftc-cho-phep-perpetual-co-phieu-bi-kien-cung-ngay-h.jpg",
+   "img_en": "/tin/img/cftc-cho-phep-perpetual-co-phieu-bi-kien-cung-ngay-h.jpg",
+   "cats": [
+    "reg",
+    "fut"
+   ],
+   "vi": {
+    "title": "CFTC cho phép perpetual cổ phiếu Mỹ, nhóm Cboe và Citadel ủng hộ kiện cùng ngày",
+    "desc": "CFTC cho phép sàn đăng ký niêm yết perpetual futures cổ phiếu, nhưng một nhóm do Cboe và Citadel Securities ủng hộ đã kiện chính sách này ngay trong ngày."
+   },
+   "en": {
+    "title": "CFTC Clears US Stock Perpetuals, Sued the Same Day by Cboe-Backed Group",
+    "desc": "The CFTC cleared stock perpetual futures on registered US venues, but a group backed by Cboe and Citadel Securities sued to overturn the policy the same day."
+   }
+  },
+  {
+   "slug": "credit-mutuel-arkea-133-trieu-usd-san-giao-dich",
+   "slug_en": "credit-mutuel-arkea-named-in-133m-crypto-exchange-theft",
+   "u": "/tin-tuc/credit-mutuel-arkea-133-trieu-usd-san-giao-dich",
+   "ue": "/en/news/credit-mutuel-arkea-named-in-133m-crypto-exchange-theft",
+   "cat": "ex",
+   "coin": "ETH",
+   "ts": "2026-11-04T18:30:00+07:00",
+   "img": "/tin/img/credit-mutuel-arkea-133-trieu-usd-san-giao-dich-h.jpg",
+   "img_en": "/tin/img/credit-mutuel-arkea-133-trieu-usd-san-giao-dich-h.jpg",
+   "vi": {
+    "title": "Crédit Mutuel Arkéa bị cho là nạn nhân vụ trộm hơn 133 triệu USD trên các sàn",
+    "desc": "ZachXBT gọi tên ngân hàng Pháp Crédit Mutuel Arkéa trong vụ rút hơn 133 triệu USD khỏi tài khoản sàn; Kraken và Crypto.com đã chặn tiền liên quan."
+   },
+   "en": {
+    "title": "Crédit Mutuel Arkéa Named in $133M Crypto Exchange Theft",
+    "desc": "ZachXBT names French bank Crédit Mutuel Arkéa as the suspected victim of a $133M-plus theft from exchange accounts; Kraken and Crypto.com blocked funds."
+   }
+  },
+  {
+   "slug": "dang-dan-chu-gianh-thuong-vien-my-bitcoin-hoi-phuc",
+   "slug_en": "democrats-win-us-senate-as-bitcoin-dips-below-76000-then",
+   "u": "/tin-tuc/dang-dan-chu-gianh-thuong-vien-my-bitcoin-hoi-phuc",
+   "ue": "/en/news/democrats-win-us-senate-as-bitcoin-dips-below-76000-then",
+   "cat": "pol",
+   "coin": "BTC",
+   "ts": "2026-11-04T14:25:00+07:00",
+   "img": "/tin/img/dang-dan-chu-gianh-thuong-vien-my-bitcoin-hoi-phuc-h.jpg",
+   "img_en": "/tin/img/dang-dan-chu-gianh-thuong-vien-my-bitcoin-hoi-phuc-h.jpg",
+   "cats": [
+    "pol",
+    "reg",
+    "btc"
+   ],
+   "vi": {
+    "title": "Đảng Dân chủ giành Thượng viện Mỹ, Bitcoin chao đảo rồi hồi về gần 78.000 USD",
+    "desc": "Đảng Dân chủ giành Thượng viện Mỹ trong cuộc bầu cử giữa kỳ, Bitcoin tụt về 75.700 USD rồi hồi lại; số phận luật CLARITY của crypto thêm bất định."
+   },
+   "en": {
+    "title": "Democrats Win US Senate as Bitcoin Dips Below $76,000, Then Rebounds",
+    "desc": "Democrats won the US Senate in the midterms. Bitcoin slid to about $75,700 before rebounding, and the outlook for the CLARITY crypto bill is murkier."
+   }
+  },
+  {
+   "slug": "sec-xem-canton-coin-la-hang-hoa-so-khong-khuyen-nghi-thuc-thi",
+   "slug_en": "sec-staff-calls-canton-coin-a-digital-commodity-in-no-action",
+   "u": "/tin-tuc/sec-xem-canton-coin-la-hang-hoa-so-khong-khuyen-nghi-thuc-thi",
+   "ue": "/en/news/sec-staff-calls-canton-coin-a-digital-commodity-in-no-action",
+   "cat": "alt",
+   "coin": "CC",
+   "ts": "2026-11-04T11:35:00+07:00",
+   "img": "/tin/img/sec-xem-canton-coin-la-hang-hoa-so-khong-khuyen-nghi-thuc-thi-h.jpg",
+   "img_en": "/tin/img/sec-xem-canton-coin-la-hang-hoa-so-khong-khuyen-nghi-thuc-thi-h.jpg",
+   "cats": [
+    "alt",
+    "reg"
+   ],
+   "vi": {
+    "title": "SEC xem Canton Coin là hàng hoá số, không khuyến nghị xử lý việc phát hành token",
+    "desc": "Bộ phận Tài chính doanh nghiệp của SEC nói sẽ không khuyến nghị xử lý việc Canton Coin được phát hành tự động, và xem CC là hàng hoá số. CC tăng khoảng 4%."
+   },
+   "en": {
+    "title": "SEC Staff Calls Canton Coin a Digital Commodity in No-Action Letter",
+    "desc": "SEC corporation finance staff said they view Canton Coin as a digital commodity and won't recommend enforcement over its programmatic minting. CC rose about 4%."
+   }
+  },
+  {
+   "slug": "thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky",
+   "slug_en": "crypto-market-today-nov-4-bitcoin-holds-near-77000-as-us",
+   "u": "/tin-tuc/thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky",
+   "ue": "/en/news/crypto-market-today-nov-4-bitcoin-holds-near-77000-as-us",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-04T08:00:00+07:00",
+   "img": "/tin/img/thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky-h.jpg",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "vi": {
+    "title": "Thị trường crypto hôm nay (04/11): Bitcoin đi ngang quanh 77.000 USD giữa ngày bầu cử Mỹ",
+    "desc": "Bitcoin đi ngang quanh 77.000 USD khi ETF rút ròng hơn 1 tỷ USD trong hai phiên, thanh lý nghiêng về lệnh long và cử tri Mỹ bỏ phiếu giữa kỳ."
+   },
+   "en": {
+    "title": "Crypto Market Today (Nov 4): Bitcoin Holds Near $77,000 as US Midterm Votes Are Counted",
+    "desc": "Bitcoin moved sideways near $77,000 as spot ETFs shed over $1 billion in two sessions, liquidations skewed to longs and US midterm voting played out."
+   }
+  },
+  {
+   "slug": "bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6",
+   "slug_en": "bitcoin-etfs-lose-399-million-as-ibit-sees-biggest-outflow",
+   "u": "/tin-tuc/bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6",
+   "ue": "/en/news/bitcoin-etfs-lose-399-million-as-ibit-sees-biggest-outflow",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-03T21:21:00+07:00",
+   "img": "/tin/img/bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6-h.jpg",
+   "img_en": "/tin/img/bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6-h.jpg",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "vi": {
+    "title": "Quỹ ETF Bitcoin rút ròng 399 triệu USD, IBIT có phiên xả mạnh nhất từ tháng 6",
+    "desc": "ETF Bitcoin giao ngay tại Mỹ rút ròng khoảng 399 triệu USD hôm 02/11, IBIT rút 405,3 triệu USD, giữa lúc Bitcoin quanh 77.000 USD và chờ bầu cử giữa kỳ."
+   },
+   "en": {
+    "title": "Bitcoin ETFs Lose $399 Million as IBIT Sees Biggest Outflow Since June",
+    "desc": "US spot Bitcoin ETFs saw about $399 million in net outflows on Nov. 2, with IBIT down $405.3 million, as Bitcoin holds near $77,000 before the midterms."
+   }
+  },
+  {
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien",
+   "slug_en": "mercado-bitcoin-hacked-for-over-40m-pauses-withdrawals",
+   "u": "/tin-tuc/mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien",
+   "ue": "/en/news/mercado-bitcoin-hacked-for-over-40m-pauses-withdrawals",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-11-03T18:30:00+07:00",
+   "img": "/tin/img/mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien-h.jpg",
+   "img_en": "/tin/img/mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien-h.jpg",
+   "vi": {
+    "title": "Mercado Bitcoin bị hack hơn 40 triệu USD, tạm dừng nạp rút",
+    "desc": "Sàn lớn nhất Brazil mất khoảng 38–46 triệu USD từ ví nóng trên hơn 10 blockchain, cam kết bồi thường toàn bộ cho người dùng và đã đóng băng một phần tiền."
+   },
+   "en": {
+    "title": "Mercado Bitcoin Hacked for Over $40M, Pauses Withdrawals",
+    "desc": "Brazil's largest crypto exchange lost about $38-46 million from hot wallets across 10+ blockchains, vows to cover all customer losses and has frozen some funds."
+   }
+  },
+  {
+   "slug": "new-jersey-rut-lenh-cam-staking-coinbase",
+   "slug_en": "new-jersey-drops-coinbase-staking-order-ending-a-three-year",
+   "u": "/tin-tuc/new-jersey-rut-lenh-cam-staking-coinbase",
+   "ue": "/en/news/new-jersey-drops-coinbase-staking-order-ending-a-three-year",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-11-03T14:30:00+07:00",
+   "img": "/tin/img/new-jersey-rut-lenh-cam-staking-coinbase-h.jpg",
+   "img_en": "/tin/img/new-jersey-rut-lenh-cam-staking-coinbase-h.jpg",
+   "cats": [
+    "reg",
+    "pol"
+   ],
+   "vi": {
+    "title": "New Jersey rút lệnh cấm staking của Coinbase sau hơn ba năm, trước thềm bầu cử giữa kỳ",
+    "desc": "Cơ quan chứng khoán New Jersey hủy lệnh cấm staking và khoản phạt 5 triệu USD với Coinbase, nhưng việc mở lại cho người dùng bang này chưa có ngày."
+   },
+   "en": {
+    "title": "New Jersey Drops Coinbase Staking Order, Ending a Three-Year Ban Ahead of Midterms",
+    "desc": "New Jersey's securities regulator withdrew its Coinbase staking ban and $5 million penalty, but staking has not yet reopened for residents of the state."
+   }
+  },
+  {
+   "slug": "xrp-ledger-va-loi-in-token-kich-hoat-4-11",
+   "slug_en": "xrp-ledger-fix-for-token-minting-flaw-due-to-activate",
+   "u": "/tin-tuc/xrp-ledger-va-loi-in-token-kich-hoat-4-11",
+   "ue": "/en/news/xrp-ledger-fix-for-token-minting-flaw-due-to-activate",
+   "cat": "alt",
+   "coin": "XRP",
+   "ts": "2026-11-03T11:40:00+07:00",
+   "img": "/tin/img/xrp-ledger-va-loi-in-token-kich-hoat-4-11-h.jpg",
+   "img_en": "/tin/img/xrp-ledger-va-loi-in-token-kich-hoat-4-11-h.jpg",
+   "vi": {
+    "title": "XRP Ledger sắp vá lỗi cho phép tài khoản đốt token tạo thêm token",
+    "desc": "Bản vá fixCleanup3_4_0 của XRP Ledger dự kiến chạy ngày 4/11 để chặn lỗi cho phép quyền đốt token tạo thêm token, không ảnh hưởng nguồn cung XRP."
+   },
+   "en": {
+    "title": "XRP Ledger Fix for Token-Minting Flaw Due to Activate November 4",
+    "desc": "The XRP Ledger's fixCleanup3_4_0 amendment is due November 4 to stop burn-only permissions from minting new tokens. XRP's own supply is not affected."
+   }
+  },
+  {
+   "slug": "thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd",
+   "slug_en": "crypto-market-today-nov-3-bitcoin-near-77000-ahead-of-us",
+   "u": "/tin-tuc/thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd",
+   "ue": "/en/news/crypto-market-today-nov-3-bitcoin-near-77000-ahead-of-us",
+   "cat": "btc",
+   "coin": "BTC",
+   "ts": "2026-11-03T07:49:16+07:00",
+   "img": "/tin/img/thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd-h.jpg",
+   "cats": [
+    "btc",
+    "fut",
+    "ex"
+   ],
+   "vi": {
+    "title": "Thị trường crypto hôm nay (03/11): Bitcoin quanh 77.000 USD trước bầu cử Mỹ",
+    "desc": "Bitcoin quanh 77.000 USD, ETF rút ròng, quyền chọn đắt lên trước bầu cử Mỹ, Binance mở lại rút tiền sau vụ hack 6,3 tỷ USD. Tổng hợp thị trường sáng 03/11."
+   },
+   "en": {
+    "title": "Crypto Market Today (Nov 3): Bitcoin Near $77,000 Ahead of US Midterms",
+    "desc": "Bitcoin near $77,000 as ETFs bleed, options get pricier before the US midterms and Binance reopens withdrawals after a $6.3B hack. Morning wrap for Nov. 3."
+   }
+  },
+  {
+   "slug": "binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc",
+   "slug_en": "binance-posts-3-64b-net-outflow-as-safu-bitcoin-halves",
+   "u": "/tin-tuc/binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc",
+   "ue": "/en/news/binance-posts-3-64b-net-outflow-as-safu-bitcoin-halves",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-11-02T21:35:00+07:00",
+   "img": "/tin/img/binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc-h.jpg",
+   "img_en": "/tin/img/binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc-h.jpg",
+   "cats": [
+    "ex",
+    "btc"
+   ],
+   "vi": {
+    "title": "Binance rút ròng 3,64 tỷ USD, quỹ SAFU giảm một nửa Bitcoin",
+    "desc": "Binance mở lại rút tiền sau vụ hack 6,3 tỷ USD: dòng ra ròng 3,64 tỷ USD, quỹ SAFU còn khoảng 7.500 BTC. Tác động tới trader futures."
+   },
+   "en": {
+    "title": "Binance Posts $3.64B Net Outflow as SAFU Bitcoin Halves",
+    "desc": "Binance reopens withdrawals after the $6.3B hack with a $3.64B net outflow, while its SAFU fund falls to about 7,500 BTC. What it means for traders."
+   }
+  },
+  {
+   "slug": "thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd",
+   "cat": "ex",
+   "cats": [
+    "ex",
+    "btc"
+   ],
+   "coin": "BTC",
+   "ts": "2026-10-30T07:45:00+07:00",
+   "img": "/tin/img/thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd-h.jpg",
+   "vi": {
+    "title": "Thị trường crypto hôm nay (30/10): Binance mất hơn 5,5 tỷ USD, Bitcoin lùi về quanh 77.000 USD",
+    "desc": "Hơn 5,5 tỷ USD rời ví nóng Binance trong đêm, hơn 2,6 tỷ USD stablecoin bị đóng băng, Bitcoin lùi về quanh 77.000 USD và thanh lý lên gần 1 tỷ USD."
+   },
+   "en": {
+    "title": "Crypto Market Today (Oct. 30): Binance Loses Over $5.5 Billion as Bitcoin Slides Toward $77,000",
+    "desc": "More than $5.5 billion left Binance hot wallets overnight, over $2.6 billion in stablecoins was frozen, and Bitcoin slid toward $77,000 as liquidations neared $1 billion."
+   },
+   "u": "/tin-tuc/thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd",
+   "slug_en": "crypto-market-today-oct-30-binance-loses-over-5-5-billion",
+   "ue": "/en/news/crypto-market-today-oct-30-binance-loses-over-5-5-billion"
+  },
+  {
+   "slug": "ice-trade-xyz-hyperliquid-perpetual-futures-my",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-10-29T21:27:00+07:00",
+   "img": "/tin/img/ice-trade-xyz-hyperliquid-perpetual-futures-my-h.jpg",
+   "img_en": "/tin/img/ice-trade-xyz-hyperliquid-perpetual-futures-my-h.jpg",
+   "vi": {
+    "title": "ICE, công ty mẹ NYSE, bắt tay Trade[XYZ] đưa perpetual futures kiểu Hyperliquid vào Mỹ",
+    "desc": "ICE, công ty mẹ của NYSE, ký thỏa thuận với Trade[XYZ] mở thị trường perpetual futures 24/7 kiểu Hyperliquid tại Mỹ, nhưng còn chờ cơ quan quản lý phê duyệt."
+   },
+   "en": {
+    "title": "NYSE Owner ICE Teams With Trade[XYZ] to Bring Hyperliquid-Style Perpetual Futures to the U.S.",
+    "desc": "ICE, the parent of the NYSE, signed a deal with Trade[XYZ] to launch regulated 24/7 perpetual futures markets built on Hyperliquid in the U.S., pending approvals."
+   },
+   "u": "/tin-tuc/ice-trade-xyz-hyperliquid-perpetual-futures-my",
+   "slug_en": "nyse-owner-ice-teams-with-trade-xyz-to-bring-hyperliquid",
+   "ue": "/en/news/nyse-owner-ice-teams-with-trade-xyz-to-bring-hyperliquid"
+  },
+  {
+   "slug": "lagarde-roi-ghe-chu-tich-ecb-ngay-7-2-2027-giua-chu-ky-tang-lai-suat",
+   "cat": "pol",
+   "coin": "BTC",
+   "ts": "2026-10-29T18:45:00+07:00",
+   "img": "/tin/img/lagarde-roi-ghe-chu-tich-ecb-ngay-7-2-2027-giua-chu-ky-tang-lai-suat-h.jpg",
+   "img_en": "/tin/img/lagarde-roi-ghe-chu-tich-ecb-ngay-7-2-2027-giua-chu-ky-tang-lai-suat-h.jpg",
+   "vi": {
+    "title": "Christine Lagarde rời ghế Chủ tịch ECB ngày 7/2/2027 giữa chu kỳ tăng lãi suất",
+    "desc": "Chủ tịch ECB Christine Lagarde sẽ từ chức ngày 7/2/2027, sớm hơn khoảng tám tháng. Tin đến khi ECB tăng lãi suất và thị trường crypto theo dõi sát chính sách tiền tệ."
+   },
+   "en": {
+    "title": "Christine Lagarde to leave ECB on 7 February 2027, mid-way through a rate-hike cycle",
+    "desc": "ECB President Christine Lagarde will step down on 7 February 2027, about eight months early, as the bank raises rates and crypto traders watch monetary policy."
+   },
+   "u": "/tin-tuc/lagarde-roi-ghe-chu-tich-ecb-ngay-7-2-2027-giua-chu-ky-tang-lai-suat",
+   "slug_en": "christine-lagarde-to-leave-ecb-on-7-february-2027",
+   "ue": "/en/news/christine-lagarde-to-leave-ecb-on-7-february-2027"
+  },
+  {
+   "slug": "utah-truy-to-hinh-su-kalshi-14-toi-danh-co-bac",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-10-29T14:25:00+07:00",
+   "img": "/tin/img/utah-truy-to-hinh-su-kalshi-14-toi-danh-co-bac-h.jpg",
+   "img_en": "/tin/img/utah-truy-to-hinh-su-kalshi-14-toi-danh-co-bac-h.jpg",
+   "vi": {
+    "title": "Utah truy tố hình sự Kalshi và hai nhà sáng lập với 14 tội danh cờ bạc",
+    "desc": "Tổng chưởng lý Utah truy tố Kalshi cùng CEO và COO với 14 tội danh quảng bá cờ bạc, hai ngày sau khi CFTC kiện bang Utah vì thẩm quyền thị trường dự đoán."
+   },
+   "en": {
+    "title": "Utah files criminal charges against Kalshi and its co-founders on 14 counts",
+    "desc": "Utah's attorney general charged Kalshi, its CEO and COO with 14 gambling-promotion counts, two days after the CFTC sued the state over prediction market authority."
+   },
+   "u": "/tin-tuc/utah-truy-to-hinh-su-kalshi-14-toi-danh-co-bac",
+   "slug_en": "utah-files-criminal-charges-against-kalshi-and-its-co",
+   "ue": "/en/news/utah-files-criminal-charges-against-kalshi-and-its-co"
+  },
+  {
+   "slug": "ripple-doanh-thu-ky-luc-rlusd-moodys-a2-xrp-giam-30-phan-tram",
+   "cat": "alt",
+   "coin": "XRP",
+   "ts": "2026-10-29T11:30:00+07:00",
+   "img": "/tin/img/ripple-doanh-thu-ky-luc-rlusd-moodys-a2-xrp-giam-30-phan-tram-h.jpg",
+   "img_en": "/tin/img/ripple-doanh-thu-ky-luc-rlusd-moodys-a2-xrp-giam-30-phan-tram-h.jpg",
+   "vi": {
+    "title": "Ripple đạt doanh thu kỷ lục, RLUSD được Moody's xếp hạng A2 nhưng XRP giảm gần 30%",
+    "desc": "Ripple tiến tới mức doanh thu quy năm 900 triệu USD, RLUSD được xếp hạng A2 và lên Coinbase, nhưng giá XRP vẫn giảm gần 30% từ đầu năm."
+   },
+   "en": {
+    "title": "Ripple Posts Record Revenue and Moody's Rates RLUSD A2, Yet XRP Is Down Nearly 30%",
+    "desc": "Ripple nears a $900M annualized revenue run rate as RLUSD earns an A2 rating and lists on Coinbase, yet XRP is still down almost 30% this year."
+   },
+   "u": "/tin-tuc/ripple-doanh-thu-ky-luc-rlusd-moodys-a2-xrp-giam-30-phan-tram",
+   "slug_en": "ripple-posts-record-revenue-and-moodys-rates-rlusd-a2",
+   "ue": "/en/news/ripple-posts-record-revenue-and-moodys-rates-rlusd-a2"
+  },
+  {
+   "slug": "thi-truong-crypto-hom-nay-29-10-fed-giu-lai-suat-bitcoin-81000-usd",
+   "cat": "btc",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "coin": "BTC",
+   "ts": "2026-10-29T07:58:00+07:00",
+   "img": "/tin/img/thi-truong-crypto-hom-nay-29-10-fed-giu-lai-suat-bitcoin-81000-usd-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-hom-nay-29-10-fed-giu-lai-suat-bitcoin-81000-usd-h.jpg",
+   "vi": {
+    "title": "Thị trường crypto hôm nay (29/10): Fed giữ lãi suất, Bitcoin đi ngang quanh 81.000 USD",
+    "desc": "Fed giữ lãi suất 3,75–4,00%, Bitcoin đi ngang quanh 81.000 USD, thanh lý 183,6 triệu USD và ETF Bitcoin vào ròng hai phiên liên tiếp."
+   },
+   "en": {
+    "title": "Crypto Market Today (Oct. 29): Fed Holds Rates, Bitcoin Drifts Near $81,000",
+    "desc": "The Fed held rates at 3.75%–4.00% and Bitcoin drifted near $81,000, with $183.6M in liquidations and a second straight day of Bitcoin ETF inflows."
+   },
+   "u": "/tin-tuc/thi-truong-crypto-hom-nay-29-10-fed-giu-lai-suat-bitcoin-81000-usd",
+   "slug_en": "crypto-market-today-oct-29-fed-holds-rates-bitcoin-drifts",
+   "ue": "/en/news/crypto-market-today-oct-29-fed-holds-rates-bitcoin-drifts"
+  },
+  {
+   "slug": "dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-10-28T21:35:00+07:00",
+   "img": "/tin/img/dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain-h.jpg",
+   "img_en": "/tin/img/dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain-h.jpg",
+   "vi": {
+    "title": "DTCC chính thức token hoá chứng khoán Mỹ trên blockchain, 20 tổ chức Phố Wall tham gia",
+    "desc": "DTCC vận hành dịch vụ token hoá cổ phiếu, ETF và trái phiếu kho bạc Mỹ trên Canton và Besu, với 20 tổ chức Phố Wall đã ký thỏa thuận tham gia."
+   },
+   "en": {
+    "title": "DTCC Launches Live Tokenization of U.S. Securities With 20 Wall Street Firms Signed Up",
+    "desc": "DTCC has gone live with tokenized U.S. stocks, ETFs and Treasuries on Canton and Besu, with 20 Wall Street firms signed up to use the service."
+   },
+   "u": "/tin-tuc/dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain",
+   "slug_en": "dtcc-launches-live-tokenization-of-u-s-securities-with-20",
+   "ue": "/en/news/dtcc-launches-live-tokenization-of-u-s-securities-with-20"
+  },
+  {
+   "slug": "bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu",
+   "cat": "ex",
+   "coin": "BTC",
+   "ts": "2026-10-28T18:35:00+07:00",
+   "img": "/tin/img/bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu-h.jpg",
+   "img_en": "/tin/img/bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu-h.jpg",
+   "vi": {
+    "title": "Bithumb bị xâm nhập hệ thống nội bộ, lộ thông tin cá nhân nhưng chưa mất tiền",
+    "desc": "Sàn Bithumb của Hàn Quốc xác nhận kẻ tấn công vào hệ thống di động nội bộ và lấy thông tin cá nhân; chưa có báo cáo mất tiền số."
+   },
+   "en": {
+    "title": "Bithumb Breached Through Internal System, Personal Data Leaked but No Crypto Lost",
+    "desc": "South Korea's Bithumb confirms an outsider entered its internal mobile system and took personal data; no loss of crypto funds has been reported."
+   },
+   "u": "/tin-tuc/bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu",
+   "slug_en": "bithumb-breached-through-internal-system-personal-data",
+   "ue": "/en/news/bithumb-breached-through-internal-system-personal-data"
+  },
+  {
+   "slug": "cftc-kien-utah-bao-ve-thi-truong-du-doan-kalshi",
+   "cat": "reg",
+   "coin": "BTC",
+   "ts": "2026-10-28T14:25:00+07:00",
+   "img": "/tin/img/cftc-kien-utah-bao-ve-thi-truong-du-doan-kalshi-h.jpg",
+   "img_en": "/tin/img/cftc-kien-utah-bao-ve-thi-truong-du-doan-kalshi-h.jpg",
+   "vi": {
+    "title": "CFTC kiện bang Utah để bảo vệ thị trường dự đoán, vụ kiện thứ 10 nhằm vào một bang",
+    "desc": "CFTC kiện bang Utah và Tổng chưởng lý Derek Brown, đòi chặn lệnh đóng cửa Kalshi. Đây là vụ kiện thứ 10 với một bang, quyết định ai quản lý thị trường dự đoán."
+   },
+   "en": {
+    "title": "CFTC Sues Utah to Protect Prediction Markets in Its Tenth Suit Against a State",
+    "desc": "The CFTC sued Utah and Attorney General Derek Brown to block the state's bid to shut down Kalshi, its tenth suit against a state over who regulates prediction markets."
+   },
+   "u": "/tin-tuc/cftc-kien-utah-bao-ve-thi-truong-du-doan-kalshi",
+   "slug_en": "cftc-sues-utah-to-protect-prediction-markets-in-its-tenth",
+   "ue": "/en/news/cftc-sues-utah-to-protect-prediction-markets-in-its-tenth"
+  },
+  {
+   "slug": "bny-luu-ky-xrp-rlusd-robinhood-ripple-ha-tang-ngan-hang",
+   "cat": "alt",
+   "coin": "XRP",
+   "ts": "2026-10-28T11:30:00+07:00",
+   "img": "/tin/img/bny-luu-ky-xrp-rlusd-robinhood-ripple-ha-tang-ngan-hang-h.jpg",
+   "img_en": "/tin/img/bny-luu-ky-xrp-rlusd-robinhood-ripple-ha-tang-ngan-hang-h.jpg",
+   "vi": {
+    "title": "BNY lưu ký XRP, RLUSD lên Robinhood: Ripple mở rộng hạ tầng ngân hàng",
+    "desc": "BNY thêm dịch vụ lưu ký XRP và RLUSD, Robinhood sẽ cung cấp RLUSD, sau giấy phép ngân hàng ủy thác của Ripple. Giá XRP chưa phản ứng rõ rệt."
+   },
+   "en": {
+    "title": "BNY Adds XRP Custody and Robinhood Taps RLUSD as Ripple Builds Bank Rails",
+    "desc": "BNY now offers XRP and RLUSD custody and Robinhood plans to offer RLUSD, a day after Ripple's national trust bank approval. XRP price barely moved."
+   },
+   "u": "/tin-tuc/bny-luu-ky-xrp-rlusd-robinhood-ripple-ha-tang-ngan-hang",
+   "slug_en": "bny-adds-xrp-custody-and-robinhood-taps-rlusd-as-ripple",
+   "ue": "/en/news/bny-adds-xrp-custody-and-robinhood-taps-rlusd-as-ripple"
+  },
+  {
+   "slug": "thi-truong-crypto-hom-nay-28-10-bitcoin-80000-usd-cho-fed",
+   "cat": "btc",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "coin": "BTC",
+   "ts": "2026-10-28T07:56:00+07:00",
+   "img": "/tin/img/thi-truong-crypto-hom-nay-28-10-bitcoin-80000-usd-cho-fed-h.jpg",
+   "img_en": "/tin/img/thi-truong-crypto-hom-nay-28-10-bitcoin-80000-usd-cho-fed-h.jpg",
+   "vi": {
+    "title": "Thị trường crypto hôm nay (28/10): Bitcoin quanh 80.000 USD chờ Fed, ETF Ether rút ròng",
+    "desc": "Bitcoin giữ quanh 80.000 USD trước quyết định lãi suất của Fed, ETF Bitcoin hút 110,3 triệu USD còn ETF Ether rút ròng 88,6 triệu USD."
+   },
+   "en": {
+    "title": "Crypto Market Today (Oct. 28): Bitcoin Near $80,000 Awaits Fed as Ether ETFs See Outflows",
+    "desc": "Bitcoin holds near $80,000 before the Fed's rate decision as spot Bitcoin ETFs add $110.3 million while Ether ETFs lose $88.6 million."
+   },
+   "u": "/tin-tuc/thi-truong-crypto-hom-nay-28-10-bitcoin-80000-usd-cho-fed",
+   "slug_en": "crypto-market-today-oct-28-bitcoin-near-80000-awaits-fed",
+   "ue": "/en/news/crypto-market-today-oct-28-bitcoin-near-80000-awaits-fed"
+  },
+  {
+   "slug": "bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu",
+   "cat": "btc",
+   "cats": [
+    "btc",
+    "pol"
+   ],
+   "coin": "BTC",
+   "ts": "2026-10-27T23:20:00+07:00",
+   "img": "/tin/img/bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu-h.jpg",
+   "img_en": "/tin/img/bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu-h.jpg",
+   "vi": {
+    "title": "Bitcoin xuống dưới 80.000 USD trước thềm họp Fed, ETF hồi 110 triệu USD",
+    "desc": "Bitcoin có lúc xuống 79.370 USD khi Fed bắt đầu họp hai ngày. ETF hút lại 110 triệu USD sau hai phiên rút vốn, còn futures cho thấy phe long vẫn trụ."
+   },
+   "en": {
+    "title": "Bitcoin Slips Below $80,000 Before Fed Decision as ETFs Take In $110M",
+    "desc": "Bitcoin touched $79,370 as the Fed began a two-day meeting. Spot ETFs took in $110M after two outflow days, and futures data shows longs are still holding."
+   },
+   "u": "/tin-tuc/bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu",
+   "slug_en": "bitcoin-slips-below-80000-before-fed-decision-as-etfs-take",
+   "ue": "/en/news/bitcoin-slips-below-80000-before-fed-decision-as-etfs-take"
+  },
+  {
+   "slug": "hyperliquid-payward-kraken-hip-3-cftc-perpetual",
+   "cat": "ex",
+   "cats": [
+    "ex",
+    "reg"
+   ],
+   "coin": "BTC",
+   "ts": "2026-10-27T18:30:00+07:00",
+   "img": "/tin/img/hyperliquid-payward-kraken-hip-3-cftc-perpetual-h.jpg",
+   "vi": {
+    "title": "Hyperliquid chọn công ty mẹ Kraken làm nhà triển khai HIP-3 đầu tiên được CFTC quản lý",
+    "desc": "Hyperliquid cho biết sẽ chọn Payward, công ty mẹ Kraken, làm nhà triển khai HIP-3 đầu tiên được CFTC quản lý. Kế hoạch còn chờ phê duyệt."
+   },
+   "en": {
+    "title": "Hyperliquid Picks Kraken Parent as First CFTC-Regulated HIP-3 Deployer",
+    "desc": "Hyperliquid says Kraken parent Payward will be the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. on-chain perpetuals pending approval."
+   },
+   "img_en": "/tin/img/hyperliquid-payward-kraken-hip-3-cftc-perpetual-h.jpg",
+   "u": "/tin-tuc/hyperliquid-payward-kraken-hip-3-cftc-perpetual",
+   "slug_en": "hyperliquid-picks-kraken-parent-as-first-cftc-regulated-hip",
+   "ue": "/en/news/hyperliquid-picks-kraken-parent-as-first-cftc-regulated-hip"
+  }
+ ],
+ "updated": "2026-11-16T21:27:36+07:00"
+}

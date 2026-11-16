@@ -1,0 +1,90 @@
+{
+ "slug": "thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky",
+ "cat": "btc",
+ "cats": [
+  "btc",
+  "pol"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-04T08:00:00+07:00",
+ "event": "Daily crypto market wrap 2026-11-04",
+ "src_urls": [
+  "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails/",
+  "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+  "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-76k-sizable-etf-outflows-liquidations/",
+  "https://cryptoslate.com/binance-relied-on-ai-to-fight-fraud-before-hackers-exploited-internal-tool-in-6-billion-theft/",
+  "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets/",
+  "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
+  "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street"
+ ],
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd"
+  },
+  {
+   "kind": "learn",
+   "slug": "ty-le-long-short-la-gi"
+  }
+ ],
+ "image": {
+  "license": "chart",
+  "alt_vi": "Biểu đồ nến 4 giờ của Bitcoin so với USDT: giảm mạnh ngày 30/10 rồi đi ngang quanh 77.000 USD",
+  "alt_en": "4-hour Bitcoin vs USDT candlestick chart: sharp drop on Oct. 30 then sideways near $77,000",
+  "url": "/tin/img/thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky-h.jpg"
+ },
+ "images": [
+  {
+   "license": "chart",
+   "alt_vi": "Biểu đồ nến 4 giờ của Bitcoin từ giữa tháng 10 đến đầu tháng 11",
+   "alt_en": "4-hour Bitcoin chart from mid-October to early November",
+   "caption_vi": "Bitcoin giảm mạnh ngày 30/10 rồi đi ngang quanh 77.000 USD trong các phiên gần đây.",
+   "caption_en": "Bitcoin dropped sharply on Oct. 30 and has moved sideways near $77,000 since.",
+   "url": "/tin/img/thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky-1.jpg"
+  }
+ ],
+ "vi": {
+  "title": "Thị trường crypto hôm nay (04/11): Bitcoin đi ngang quanh 77.000 USD giữa ngày bầu cử Mỹ",
+  "seo_title": "Thị trường crypto 04/11: BTC quanh 77.000 USD",
+  "desc": "Bitcoin đi ngang quanh 77.000 USD khi ETF rút ròng hơn 1 tỷ USD trong hai phiên, thanh lý nghiêng về lệnh long và cử tri Mỹ bỏ phiếu giữa kỳ.",
+  "lead": "Bitcoin giữ quanh 77.000 USD sau phiên Mỹ nhiều áp lực: dòng tiền ETF rút ra, thanh lý tập trung ở lệnh long và bầu cử giữa kỳ đang diễn ra.",
+  "bullets": [
+   "Bitcoin dao động quanh 77.000 USD, ether quanh 2.260–2.280 USD, phần lớn các đồng lớn biến động nhẹ trong 24 giờ.",
+   "ETF Bitcoin giao ngay tại Mỹ rút ròng khoảng 1,04 tỷ USD trong hai phiên ngày 30/10 và 2/11, riêng IBIT rút 405,3 triệu USD ngày 2/11.",
+   "Thị trường theo dõi kết quả bầu cử giữa kỳ Mỹ, báo cáo an ninh của Binance và việc CFTC cho phép perpetual trên cổ phiếu."
+  ],
+  "body_html": "<p>Bitcoin giao dịch quanh 77.000 USD vào sáng 4/11, đi ngang trong biên độ khoảng 76.300–78.000 USD sau phiên Mỹ chịu áp lực từ dòng tiền ETF rút ra, cổ phiếu công nghệ yếu và cuộc bầu cử giữa kỳ đang diễn ra. Ether quanh 2.260–2.280 USD, Solana khoảng 92–93 USD, XRP khoảng 1,26 USD, hầu hết biến động nhẹ trong 24 giờ.</p>\n<h2>Bitcoin và ether đi ngang sau cú giảm cuối tháng 10</h2>\n<p>Từ 21/10 đến 30/10, Bitcoin giảm 8,25%, từ khoảng 84.134 USD xuống 77.191 USD, trong lúc chỉ số Nasdaq-100 mất 4,82%. Cú trượt mạnh nhất xảy ra đúng thời điểm sàn Binance bị tấn công ngày 29/10. Từ đó đến nay giá chủ yếu đi ngang: phiên 2/11 Bitcoin giảm 1,34% xuống khoảng 77.062 USD, còn Nasdaq-100 mất thêm 1,39%.</p>\n<p>[[img:1]]</p>\n<p>Đáng chú ý là bức tranh vĩ mô không hoàn toàn bất lợi. Lợi suất thực của trái phiếu Mỹ kỳ hạn 10 năm giảm từ 2,76% xuống 2,60% trong cùng giai đoạn, nhưng Bitcoin vẫn không bật lên. Theo các phân tích trên thị trường, áp lực từ cổ phiếu công nghệ và lực cầu giao ngay yếu đang lấn át yếu tố hỗ trợ này.</p>\n<h2>Dòng tiền ETF: hai phiên rút ròng hơn 1 tỷ USD</h2>\n<p>Các quỹ ETF Bitcoin giao ngay tại Mỹ ghi nhận rút ròng 643,2 triệu USD ngày 30/10 và 398,6 triệu USD ngày 2/11, tổng khoảng 1,04 tỷ USD trong hai phiên. <a href=\"/tin-tuc/bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6\">Quỹ IBIT của BlackRock chiếm 405,3 triệu USD</a> tiền rút ra, trong khi FBTC của Fidelity có 6,7 triệu USD tiền vào. Số liệu của phiên 3/11 chưa được công bố đầy đủ, nên xu hướng rút tiền còn cần thêm dữ liệu để xác nhận.</p>\n<h2>Thanh lý và phái sinh</h2>\n<p>Trong tuần Binance bị tấn công, khoảng 1,5 tỷ USD vị thế bị thanh lý, trong đó lệnh long chiếm khoảng 85%. Công ty tạo lập thị trường Wintermute nhận định phần lớn lực mua đỡ giá đến từ hợp đồng perpetual có đòn bẩy, chưa thấy nhiều dòng vốn mới vào thị trường giao ngay.</p>\n<p>Phiên Mỹ ngày 3/11, thanh lý toàn thị trường vượt 365 triệu USD, trong đó lệnh long khoảng 286 triệu USD. Riêng Bitcoin có khoảng 96 triệu USD bị thanh lý, tăng từ mức 69 triệu USD của 24 giờ trước đó.</p>\n<h2>Tin đáng chú ý qua đêm</h2>\n<p>Bầu cử giữa kỳ Mỹ: cử tri đi bỏ phiếu ngày 3/11 và kết quả đang dần được công bố. Các thị trường dự đoán nghiêng về khả năng đảng Dân chủ giành lợi thế ở cả Hạ viện lẫn Thượng viện. Kết quả sẽ ảnh hưởng đến triển vọng các dự luật crypto đang chờ Quốc hội xem xét.</p>\n<p>Binance công bố báo cáo an ninh ngày 3/11: kẻ tấn công dùng một công cụ AI nội bộ để chiếm quyền hai kỹ sư phụ trách hạ tầng ví từ 20/10, rồi đến 29/10 thâm nhập hệ thống ký giao dịch ví và rút khoảng 6,34 tỷ USD. Sàn cho biết đã bổ sung khoảng 95% tài sản bị mất, phần còn lại là các token kém thanh khoản, và đang mở lại việc rút tiền theo từng cặp tài sản–mạng.</p>\n<p>Ở mảng pháp lý, Chủ tịch CFTC Michael Selig cho biết hợp đồng perpetual gắn với từng cổ phiếu riêng lẻ có thể giao dịch trên các sàn Mỹ đã đăng ký, dưới sự giám sát chung của CFTC và SEC. Thông báo chưa nêu sàn nào sẽ niêm yết hay mã cổ phiếu nào có mặt đầu tiên.</p>\n<h2>Tác động tới trader</h2>\n<p>Thanh lý tập trung ở lệnh long cho thấy phần lớn vị thế đòn bẩy đang đặt cược chiều tăng. Khi giá đi ngang nhưng dòng tiền ETF vẫn rút ra, những cú giảm nhanh dễ kéo theo thanh lý dây chuyền, như đã xảy ra cuối tháng 10.</p>\n<p>Kết quả bầu cử có thể làm biến động tăng trong vài phiên tới, vì thị trường đang định giá kịch bản chính trị lẫn triển vọng pháp lý. Trader nên theo dõi dòng tiền ETF các phiên kế tiếp, funding rate và open interest trên sàn mình dùng, đồng thời kiểm soát đòn bẩy và quy mô vị thế. Có thể thử tính trước giá thanh lý bằng <a href=\"/cong-cu.html\">công cụ tính vị thế</a> và xem diễn biến giá trên <a href=\"/bieu-do.html\">trang biểu đồ</a>.</p>",
+  "keywords": [
+   "thị trường crypto hôm nay",
+   "giá Bitcoin",
+   "ETF Bitcoin",
+   "thanh lý crypto",
+   "bầu cử giữa kỳ Mỹ"
+  ]
+ },
+ "en": {
+  "title": "Crypto Market Today (Nov 4): Bitcoin Holds Near $77,000 as US Midterm Votes Are Counted",
+  "seo_title": "Crypto Market Today Nov 4: Bitcoin Holds Near $77,000",
+  "desc": "Bitcoin moved sideways near $77,000 as spot ETFs shed over $1 billion in two sessions, liquidations skewed to longs and US midterm voting played out.",
+  "lead": "Bitcoin held near $77,000 after a pressured US session: ETF money kept leaving, liquidations were concentrated in longs and the midterm elections were underway.",
+  "bullets": [
+   "Bitcoin traded near $77,000 and ether near $2,260–$2,280, with most large coins little changed over 24 hours.",
+   "US spot Bitcoin ETFs lost about $1.04 billion over two sessions on Oct. 30 and Nov. 2, including $405.3 million out of IBIT on Nov. 2.",
+   "Markets are watching the US midterm results, Binance's security report and the CFTC's go-ahead for single-stock perpetual futures."
+  ],
+  "body_html": "<p>Bitcoin traded near $77,000 on the morning of Nov. 4, moving sideways in a range of roughly $76,300 to $78,000 after a US session weighed down by ETF outflows, soft tech stocks and the midterm elections underway. Ether sat around $2,260–$2,280, Solana near $92–$93 and XRP about $1.26, with most majors little changed over 24 hours.</p>\n<h2>Bitcoin and ether drift after the late-October drop</h2>\n<p>Between Oct. 21 and Oct. 30, Bitcoin fell 8.25%, from about $84,134 to $77,191, while the Nasdaq-100 lost 4.82%. The sharpest leg down came as Binance was hit by an attack on Oct. 29. Since then price has mostly moved sideways: on Nov. 2 Bitcoin slipped 1.34% to about $77,062 and the Nasdaq-100 lost another 1.39%.</p>\n<p>[[img:1]]</p>\n<p>The macro backdrop is not entirely negative. The 10-year US real Treasury yield fell from 2.76% to 2.60% over the same stretch, yet Bitcoin did not bounce. Market analysts say tech-stock weakness and thin spot demand are outweighing that tailwind.</p>\n<h2>ETF flows: more than $1 billion out over two sessions</h2>\n<p>US spot Bitcoin ETFs recorded net outflows of $643.2 million on Oct. 30 and $398.6 million on Nov. 2, about $1.04 billion across the two sessions. <a href=\"/en/news/bitcoin-etfs-lose-399-million-as-ibit-sees-biggest-outflow\">BlackRock's IBIT accounted for $405.3 million of withdrawals</a>, while Fidelity's FBTC took in $6.7 million. Full figures for Nov. 3 were not yet out, so it takes more data to confirm whether the pattern continues.</p>\n<h2>Liquidations and derivatives</h2>\n<p>In the week of the Binance attack, about $1.5 billion in positions were liquidated, roughly 85% of them longs. Market maker Wintermute said most of the dip-buying came through leveraged perpetual futures, with little sign of fresh capital entering spot markets.</p>\n<p>During the US session on Nov. 3, liquidations across crypto topped $365 million, of which about $286 million were longs. Bitcoin alone saw around $96 million liquidated, up from $69 million a day earlier.</p>\n<h2>Overnight headlines</h2>\n<p>US midterms: voters went to the polls on Nov. 3 and results are coming in. Prediction markets lean toward Democrats gaining ground in both the House and Senate. The outcome will shape the outlook for crypto bills awaiting action in Congress.</p>\n<p>Binance published a security report on Nov. 3 saying attackers used an internal AI tool to take over two engineers responsible for wallet infrastructure from Oct. 20, then on Oct. 29 broke into the wallet-signing systems and moved about $6.34 billion. The exchange says it has replaced about 95% of the lost assets, with the remainder in less liquid tokens, and is reopening withdrawals asset-by-asset and network-by-network.</p>\n<p>On regulation, CFTC Chairman Michael Selig said perpetual futures tied to individual stocks can trade on registered US exchanges under joint CFTC and SEC oversight. The announcement did not say which exchanges will list them or which stocks will come first.</p>\n<h2>What it means for traders</h2>\n<p>Liquidations concentrated in longs show most leveraged positioning is betting on a rise. With price moving sideways while ETF money keeps leaving, a quick drop can trigger cascading liquidations, as it did in late October.</p>\n<p>The election outcome could lift volatility over the next few sessions, as markets price both the political outcome and the regulatory outlook. Traders may want to watch the next ETF flow prints, funding rates and open interest on their own venue, and keep leverage and position size in check. A <a href=\"/en/tools.html\">position calculator</a> can help work out liquidation prices in advance.</p>",
+  "keywords": [
+   "crypto market today",
+   "Bitcoin price",
+   "Bitcoin ETF",
+   "crypto liquidations",
+   "US midterm elections"
+  ]
+ },
+ "dir": "tin-tuc",
+ "slug_en": "crypto-market-today-nov-4-bitcoin-holds-near-77000-as-us"
+}

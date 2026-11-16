@@ -1,0 +1,73 @@
+{
+ "slug": "hacker-ria-tien-binance-near",
+ "slug_en": "binance-hack-near-memecoin-laundering",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "rune-tang-10-thorchain-mo-lai-tien-hack-binance"
+  },
+  {
+   "kind": "news",
+   "slug": "binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc"
+  }
+ ],
+ "cat": "ex",
+ "cats": [
+  "ex"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-10T18:30:00+07:00",
+ "event": "Elliptic: North Korean launderers of the Binance hack mint six NEAR meme coins (Nov 5-8 2026) and route ~117,000 NEAR (~$430k) through liquidity pools; 11.8M NEAR ($43.7M) unmoved",
+ "src_urls": [
+  "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+  "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/man-in-hoodie-working-on-laptop-in-dark-room-S8oQZrUf-hc",
+  "license": "Unsplash",
+  "credit": "",
+  "alt_vi": "Người đội mũ trùm đầu trong bóng tối, chỉ thấy phần dưới khuôn mặt",
+  "alt_en": "Hooded figure in the dark with only the lower half of the face visible",
+  "url": "/tin/img/hacker-ria-tien-binance-near-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Hacker Triều Tiên dùng meme coin trên NEAR để rửa tiền hack Binance",
+  "seo_title": "Hacker rửa tiền hack Binance bằng meme coin NEAR",
+  "desc": "Elliptic cho biết nhóm hacker Triều Tiên tự đúc sáu meme coin trên NEAR để rửa khoảng 430.000 USD từ vụ trộm Binance, trong khi hơn 3 tỷ USD vẫn chưa được rửa.",
+  "lead": "Nhóm hacker Triều Tiên đứng sau vụ trộm hơn 6 tỷ USD từ Binance đang tự đúc meme coin và đẩy tiền qua bể thanh khoản để làm đứt dấu vết chuyển tiền, theo Elliptic.",
+  "bullets": [
+   "Từ 5 đến 7/11, nhóm hacker tạo ít nhất sáu meme coin trên NEAR, mỗi token tốn khoảng 90 USD, để chuyển tiền trộm qua các bể thanh khoản rồi bỏ token.",
+   "Khoảng 117.000 NEAR, tương đương 430.000 USD, đi qua sáu token này, một con số nhỏ so với hơn 3 tỷ USD tiền trộm Elliptic cho là chưa được rửa.",
+   "Elliptic nhấn mạnh dòng tiền vẫn truy vết được trên chuỗi, chiêu này chỉ làm chậm điều tra, và khoảng 11,8 triệu NEAR trộm từ Binance vẫn chưa di chuyển."
+  ],
+  "body_html": "<p>Các hacker Triều Tiên đứng sau vụ trộm kỷ lục khoảng 6,3–6,4 tỷ USD từ Binance đang tự đúc meme coin rồi đẩy tiền bị đánh cắp qua các bể thanh khoản trên sàn phi tập trung để làm đứt mạch chuyển tiền trực tiếp giữa ví kẻ trộm và ví nhận. Công ty phân tích chuỗi khối Elliptic công bố phát hiện này trong báo cáo mới.</p>\n<h2>Cách kẻ tấn công dùng meme coin để che dấu vết</h2>\n<p>Theo Elliptic, quy trình gồm bốn bước: tạo một token mới, ghép nó với tài sản thật như NEAR hoặc stablecoin trong một bể thanh khoản, dùng một nhóm ví đưa tiền trộm vào bể để mua token, rồi dùng nhóm ví khác bán token ngược lại để rút về tài sản trông \"sạch\". Vì bể nằm ở giữa nên không có khoản nào đi thẳng từ ví mua sang ví nhận, và ví nhận trông như một người chơi meme coin bình thường chốt lời.</p>\n<p>Trường hợp rõ nhất xuất hiện trên NEAR: từ 5 đến 7/11, nhóm này tạo ít nhất sáu token, mỗi token gắn với bể riêng. Logo là hình khỉ thắt nơ, vịt cầm cờ, tinh tinh, cáo, và một token dùng hình ông Elon Musk với dòng chữ \"Elon 2028 President\" dù ông không liên quan. Mỗi token tốn khoảng 25 NEAR (chừng 90 USD) để tạo, được giao dịch dày đặc trong vài giờ bằng NEAR bị trộm rồi bị bỏ, phần thanh khoản còn lại được rút ngày 8/11. Elliptic cho biết kỹ thuật tương tự cũng xuất hiện trên Tron, và một biến thể gần giống trên Solana.</p>\n<h2>Quy mô còn nhỏ, dấu vết vẫn truy được</h2>\n<p>Tổng cộng khoảng 117.000 NEAR, tương đương chừng 430.000 USD, đi qua sáu token này trước khi phần lớn chuyển sang stablecoin hoặc cầu nối chuỗi chéo. Con số đó rất nhỏ so với số tiền bị lấy. Elliptic nhấn mạnh thủ thuật không che giấu được dòng tiền, mọi giao dịch vẫn truy vết được trên chuỗi, chỉ làm chậm các nhà điều tra. Báo cáo cũng ghi nhận 5 trong 6 ví tạo token được cấp vốn từ tiền bán token trước đó chỉ 2–13 phút trước lần ra mắt tiếp theo, giúp nối các token thành một chuỗi giao dịch. Tại thời điểm Elliptic phân tích, khoảng 11,8 triệu NEAR trộm từ Binance vẫn chưa được di chuyển, trị giá khoảng 43,7 triệu USD.</p>\n<h2>Bối cảnh: hơn 3 tỷ USD vẫn chưa được rửa</h2>\n<p>Elliptic trước đó cho biết hơn 3 tỷ USD tiền trộm vẫn chưa được rửa và nhóm tấn công tạo một ví mới khoảng 25 giây một lần để di chuyển tiền với tốc độ máy. Chiêu bài mới là một lớp rẻ tiền, dùng một lần, chồng lên nhiều kỹ thuật khác. Elliptic từng thấy chiêu này khi truy vết vụ trộm 1,5 tỷ USD tại Bybit năm ngoái, cũng do nhóm TraderTraitor, nhóm bị quy cho vụ Binance. Trước đó, một phần tiền cũng bị rửa qua giao thức hoán đổi liên chuỗi, như đã nêu trong bài về <a href=\"/tin-tuc/rune-tang-10-thorchain-mo-lai-tien-hack-binance\">đợt rửa tiền hack Binance qua THORChain</a>.</p>\n<p>Elliptic cảnh báo các đội tuân thủ không nên mặc định tiền đến từ bể thanh khoản là sạch, nhất là khi liên quan token mới đúc và chỉ vài ví giao dịch.</p>\n<h2>Tác động tới trader</h2>\n<p>Đây là tin về an ninh, không phải tín hiệu giá. Cùng ngày, Bitcoin giao dịch dưới 75.000 USD khi thị trường chờ báo cáo lạm phát Mỹ, nên không có căn cứ nào cho thấy vụ rửa tiền này tác động trực tiếp lên giá.</p>\n<p>Với người giao dịch, điều đáng chú ý là rủi ro đối tác: sau một vụ mất hàng tỷ USD, sàn lớn vẫn là mục tiêu của các nhóm có tổ chức, và số tiền chưa rửa vẫn có thể bị bán ra bất kỳ lúc nào. Khả năng bán ra này chỉ là rủi ro cần theo dõi, chưa có dữ liệu về việc nó đang xảy ra.</p>\n<p>Điều cần theo dõi tiếp: khoản 11,8 triệu NEAR chưa di chuyển, việc các sàn và bên phát hành stablecoin đóng băng thêm tiền, và khả năng kỹ thuật bể thanh khoản lan sang chuỗi khác. Nên cân nhắc không để toàn bộ ký quỹ nằm trên một sàn và theo dõi thông báo về nạp rút của sàn đang dùng.</p>",
+  "keywords": [
+   "hack Binance",
+   "rửa tiền crypto",
+   "meme coin NEAR",
+   "hacker Triều Tiên",
+   "Elliptic"
+  ]
+ },
+ "en": {
+  "title": "North Korean Hackers Launder Binance Hack Funds Through NEAR Meme Coins",
+  "seo_title": "Binance Hack Funds Laundered via NEAR Meme Coins",
+  "desc": "Elliptic says North Korean hackers minted six NEAR meme coins to launder about $430,000 from the Binance theft, while more than $3 billion remains unlaundered.",
+  "lead": "The North Korean hackers behind the multibillion-dollar Binance theft are minting their own meme coins and routing stolen funds through liquidity pools to break the trail, Elliptic says.",
+  "bullets": [
+   "Between Nov. 5 and 7, the hackers created at least six meme coins on NEAR, each costing about $90, to move stolen funds through liquidity pools before abandoning them.",
+   "Roughly 117,000 NEAR, about $430,000, passed through the six tokens, a small amount next to the more than $3 billion Elliptic says is still unlaundered.",
+   "Elliptic stresses the funds remain traceable onchain and the trick only slows investigators, with about 11.8 million stolen NEAR still unmoved."
+  ],
+  "body_html": "<p>The North Korean hackers behind the record theft of roughly $6.3–6.4 billion from Binance are now minting their own meme coins and pushing stolen funds through decentralized-exchange liquidity pools, so that no money moves directly from the thieves' wallets to the receiving wallets. Blockchain analytics firm Elliptic detailed the tactic in a new report.</p>\n<h2>How the attackers use meme coins to cover their tracks</h2>\n<p>According to Elliptic, the routine has four steps: create a brand-new token, pair it with a real asset such as NEAR or a stablecoin in a liquidity pool, use one set of wallets to pay stolen funds into the pool and buy the token, then use a second set of wallets to sell the token back and withdraw clean-looking assets. Because the pool sits in the middle, nothing travels straight from the buying wallet to the collecting one, and the receiving wallets look like ordinary traders cashing out a meme coin.</p>\n<p>The clearest case came on NEAR. Between Nov. 5 and 7, the group launched at least six tokens, each with its own pool. Their logos included a bow-wearing monkey, a flag-draped duck, a chimpanzee and a fox, and one token used an \"Elon 2028 President\" image of Elon Musk, who has no link to it. Each cost about 25 NEAR (roughly $90) to create, traded heavily for a few hours using stolen NEAR, and was then abandoned, with the leftover liquidity pulled on Nov. 8. Elliptic said the same technique appeared on Tron, with a close variant on Solana.</p>\n<h2>Small amounts, still fully traceable</h2>\n<p>About 117,000 NEAR, or roughly $430,000, passed through the six tokens before much of it flowed into stablecoins or a cross-chain bridge. That is tiny next to the size of the theft. Elliptic stressed that the maneuver does not hide the money: every transaction stays traceable onchain, and the trick mainly buys time. It also found that five of the six token creators were funded with proceeds from earlier token sales just two to 13 minutes before the next launch, which links the tokens in one chain. When Elliptic ran its analysis, about 11.8 million NEAR stolen in the hack remained unmoved, valued at $43.7 million.</p>\n<h2>Context: more than $3 billion is still unlaundered</h2>\n<p>Elliptic had earlier reported that more than $3 billion of the stolen crypto had yet to be laundered, and that the launderers were spinning up a new wallet roughly every 25 seconds to move funds at machine speed. The meme-coin trick is one cheap, disposable layer stacked on top of many others. Elliptic first saw it while tracing the $1.5 billion Bybit theft last year, which was attributed to the same TraderTraitor group linked to the Binance breach. Part of the loot was also washed through a cross-chain swap protocol, as covered in our report on <a href=\"/en/news/rune-jumps-10-percent-as-thorchain-reopens-binance-hack\">Binance hack funds still flowing through THORChain</a>.</p>\n<p>Elliptic warned compliance teams not to assume that funds arriving from a liquidity pool are clean, especially when freshly minted tokens and only a handful of trading wallets are involved.</p>\n<h2>What it means for traders</h2>\n<p>This is a security story, not a price signal. Bitcoin was trading below $75,000 the same day as markets waited for the US inflation report, and nothing in the reporting suggests the laundering is moving prices directly.</p>\n<p>The relevant point for traders is counterparty risk: after a multibillion-dollar loss, large exchanges remain targets for organized groups, and the unlaundered balance could be sold at any time. That is a risk to monitor, not something the data shows happening now.</p>\n<p>What to watch next: the 11.8 million NEAR that have not moved, further freezes by exchanges and stablecoin issuers, and whether the liquidity-pool technique spreads to other chains. Spreading margin across venues instead of keeping everything on one exchange, and following withdrawal notices from the platform you use, are sensible precautions.</p>",
+  "keywords": [
+   "Binance hack",
+   "crypto laundering",
+   "NEAR meme coins",
+   "North Korea",
+   "Elliptic"
+  ]
+ },
+ "dir": "tin-tuc"
+}

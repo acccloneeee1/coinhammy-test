@@ -1,0 +1,74 @@
+{
+ "slug": "cftc-cho-phep-perpetual-co-phieu-bi-kien-cung-ngay",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "ice-trade-xyz-hyperliquid-perpetual-futures-my"
+  },
+  {
+   "kind": "news",
+   "slug": "cftc-kien-utah-bao-ve-thi-truong-du-doan-kalshi"
+  }
+ ],
+ "cat": "reg",
+ "cats": [
+  "reg",
+  "fut"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-04T21:30:00+07:00",
+ "event": "CFTC clears equity perpetual futures on registered US exchanges (Nov 3 2026); Capital Markets Alliance (Cboe, Citadel Securities backers) sues in SDNY the same day",
+ "src_urls": [
+  "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+  "https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
+  "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/a-large-building-with-columns-and-pillars-in-front-of-it-Cf7XLAEo_0I",
+  "license": "Unsplash",
+  "alt_vi": "Mặt tiền tòa án có hàng cột đá ở Manhattan, New York",
+  "alt_en": "Columned courthouse facade in Manhattan, New York",
+  "url": "/tin/img/cftc-cho-phep-perpetual-co-phieu-bi-kien-cung-ngay-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "CFTC cho phép perpetual cổ phiếu Mỹ, nhóm Cboe và Citadel ủng hộ kiện cùng ngày",
+  "seo_title": "CFTC cho phép perpetual cổ phiếu, bị kiện cùng ngày",
+  "desc": "CFTC cho phép sàn đăng ký niêm yết perpetual futures cổ phiếu, nhưng một nhóm do Cboe và Citadel Securities ủng hộ đã kiện chính sách này ngay trong ngày.",
+  "lead": "CFTC cho phép các sàn đăng ký niêm yết hợp đồng perpetual gắn với cổ phiếu riêng lẻ, nhưng nhóm Capital Markets Alliance đã kiện chính sách này tại New York trong cùng ngày.",
+  "bullets": [
+   "CFTC cho biết sàn đăng ký với cơ quan này có thể niêm yết perpetual futures gắn với từng cổ phiếu, mở rộng công cụ quen thuộc của crypto sang chứng khoán.",
+   "Nhóm Capital Markets Alliance, được cho là có Cboe và Citadel Securities ủng hộ, kiện tại New York vì cho rằng sản phẩm thuộc thẩm quyền SEC.",
+   "Chưa có ngày giao dịch cụ thể, nên rủi ro pháp lý và diễn biến tại tòa là điểm trader futures cần theo dõi."
+  ],
+  "body_html": "<p>Ủy ban Giao dịch Hàng hóa Tương lai Mỹ (CFTC) hôm 3/11 cho biết các sàn đăng ký với cơ quan này nay có thể niêm yết hợp đồng tương lai vĩnh cửu (perpetual futures) gắn với từng cổ phiếu riêng lẻ. Cùng ngày, một nhóm mới thành lập đại diện cho các định chế tài chính truyền thống đã đâm đơn kiện chính sách này lên tòa án liên bang ở New York.</p>\n<h2>CFTC mở đường cho perpetual cổ phiếu</h2>\n<p>Chủ tịch CFTC Michael Selig nói quyết định này mở rộng công cụ perpetual, vốn quen thuộc trong crypto, sang chứng khoán truyền thống. Theo ông, đây là lựa chọn được quản lý cho nhà giao dịch Mỹ thay cho các sàn nước ngoài, nơi thường không chịu giám sát. Động thái diễn ra khoảng năm tháng sau khi cơ quan này mở đường cho perpetual Bitcoin.</p>\n<p>Perpetual là hợp đồng không có ngày đáo hạn, giá được giữ sát giá cơ sở nhờ funding rate, khoản phí trao đổi định kỳ giữa phe long và phe short. Với cổ phiếu, hợp đồng được xếp vào nhóm sản phẩm hợp đồng tương lai chứng khoán, nên cả CFTC lẫn SEC cùng có vai trò giám sát và sàn phải đăng ký với cả hai cơ quan.</p>\n<p>Trước đó, vào tháng 9, Coinbase, Kalshi và Payward (công ty mẹ của Kraken, thông qua sàn Bitnomial) đã nộp hồ sơ xin niêm yết perpetual gắn với cổ phiếu Mỹ. Quyết định mới của CFTC được xem là bước dọn đường cho các hồ sơ đó, dù chưa có mốc ngày giao dịch cụ thể được công bố.</p>\n<h2>Nhóm Capital Markets Alliance kiện lên tòa New York</h2>\n<p>Đơn kiện do Capital Markets Alliance, một nhóm mới lập, nộp tại Tòa án Quận miền Nam New York. Nhóm cho biết các bên ủng hộ gồm Cboe, Citadel Securities và Healthy Markets Association. Họ lập luận perpetual cổ phiếu thực chất là hợp đồng hoán đổi dựa trên chứng khoán (security-based swap), thuộc thẩm quyền SEC chứ không phải CFTC.</p>\n<p>Lý lẽ thứ hai là CFTC vi phạm Đạo luật Thủ tục Hành chính khi đảo ngược lập trường trước đó mà không giải thích lý do. Nhóm yêu cầu tòa hủy bỏ chính sách. Hiệp hội Chứng khoán Mỹ (ASA) cũng chỉ trích, cho rằng việc gọi sản phẩm là hợp đồng tương lai chứng khoán đã né thẩm quyền của SEC.</p>\n<p>Người phát ngôn CFTC gọi vụ kiện là “đáng lo ngại” và nói một nhóm ẩn danh đang dùng kiện tụng để cản trở thị trường được quản lý. Điểm đáng chú ý là Cboe vừa nằm trong số các bên ủng hộ vụ kiện, vừa là sàn có thể niêm yết loại hợp đồng này.</p>\n<h2>Tiền lệ từ vụ kiện của CME</h2>\n<p>Đây không phải lần đầu perpetual bị đưa ra tòa. Hồi tháng 6, CME Group đã kiện CFTC với lập luận perpetual tiền số nên được coi là hợp đồng hoán đổi và cơ quan này vượt quyền. CFTC sau đó đề nghị bác đơn, cho rằng CME không đủ tư cách khởi kiện. Vụ mới có thêm lớp tranh cãi về ranh giới giữa CFTC và SEC.</p>\n<h2>Bối cảnh thị trường</h2>\n<p>Tin này đến vào lúc thị trường crypto đang nhạy cảm sau bầu cử giữa kỳ Mỹ. Bitcoin có lúc xuống 75.618 USD, mức thấp nhất trong bảy tuần, khi tổng lệnh long bị thanh lý trong 24 giờ gần chạm 300 triệu USD, trước khi hồi về vùng gần 78.000 USD. Chuyển biến quyền lực ở Quốc hội cũng làm triển vọng chính sách cho crypto thêm bất định.</p>\n<p>Với ngành, điểm đáng theo dõi là cuộc giằng co giữa các sàn truyền thống. Một số bên vừa muốn tham gia thị trường perpetual vừa lo mất thị phần, nên kết quả vụ kiện sẽ quyết định tốc độ đưa sản phẩm này vào Mỹ.</p>\n<h2>Tác động tới trader</h2>\n<p>Với trader futures, perpetual cổ phiếu được quản lý ở Mỹ có thể tạo thêm kênh giao dịch đòn bẩy gắn với cổ phiếu mà không phải dùng sàn nước ngoài. Tuy vậy, sản phẩm chưa có ngày giao dịch cụ thể, nên chưa có dữ liệu về funding rate hay thanh khoản để đánh giá.</p>\n<p>Rủi ro pháp lý là yếu tố cần tính: nếu tòa bác chính sách, lộ trình niêm yết có thể bị trì hoãn hoặc thu hẹp. Ngược lại, nếu chính sách đứng vững, dòng vốn và sự chú ý có thể dịch dần sang các sàn Mỹ được cấp phép.</p>\n<p>Trong ngắn hạn, thị trường crypto vẫn chịu chi phối bởi biến động quanh bầu cử và dòng tiền ETF hơn là bởi sản phẩm mới này. Nên theo dõi các thông báo niêm yết từ sàn đăng ký, diễn biến hồ sơ tại tòa và phản ứng của SEC, vì đây là những điểm có thể thay đổi bức tranh.</p>",
+  "keywords": [
+   "perpetual cổ phiếu",
+   "CFTC",
+   "perpetual futures",
+   "Capital Markets Alliance",
+   "Cboe"
+  ]
+ },
+ "en": {
+  "title": "CFTC Clears US Stock Perpetuals, Sued the Same Day by Cboe-Backed Group",
+  "seo_title": "CFTC Clears Stock Perpetuals, Sued Same Day",
+  "desc": "The CFTC cleared stock perpetual futures on registered US venues, but a group backed by Cboe and Citadel Securities sued to overturn the policy the same day.",
+  "lead": "The CFTC cleared perpetual futures on individual stocks for registered US exchanges, but the Capital Markets Alliance sued in New York the same day to overturn the policy.",
+  "bullets": [
+   "The CFTC said exchanges registered with it can list perpetual futures tied to individual stocks, extending a crypto-native instrument to traditional securities.",
+   "The Capital Markets Alliance, which says Cboe and Citadel Securities back it, sued in New York, arguing the products fall under SEC jurisdiction.",
+   "No trading date has been set, so legal risk and the court docket are what futures traders should watch next."
+  ],
+  "body_html": "<p>The US Commodity Futures Trading Commission (CFTC) said on November 3 that exchanges registered with it can now list perpetual futures tied to individual stocks. On the same day, a newly formed group representing traditional financial firms sued to overturn the policy in federal court in New York.</p>\n<h2>CFTC opens the door to stock perpetuals</h2>\n<p>CFTC Chairman Michael Selig said the move extends the perpetual contract, a staple of crypto trading, to traditional securities. In his framing, it gives US traders a regulated alternative to offshore venues that are often unregulated. It comes roughly five months after the agency cleared a path for Bitcoin perpetuals.</p>\n<p>A perpetual contract has no expiry date. Its price is kept close to the underlying through a funding rate, a periodic payment between long and short traders. For stocks, the contracts are treated as security futures products, so both the CFTC and the SEC have a role, and venues must be registered with both agencies.</p>\n<p>In September, Coinbase, Kalshi and Payward (Kraken's parent, through the Bitnomial exchange) filed to list perpetuals on US stocks. The new CFTC position is seen as clearing the way for those applications, although no trading start date has been announced.</p>\n<h2>The Capital Markets Alliance sues in New York</h2>\n<p>The suit was filed in the US District Court for the Southern District of New York by the Capital Markets Alliance, a new group. It says its backers include Cboe, Citadel Securities and the Healthy Markets Association. It argues that stock perpetuals are really security-based swaps, which fall under the SEC rather than the CFTC.</p>\n<p>Its second argument is that the CFTC broke the Administrative Procedure Act by reversing an earlier position without explaining why. The group wants the court to eliminate the policy. The American Securities Association also criticized the decision, saying that labeling the products security futures sidestepped the SEC's jurisdiction.</p>\n<p>A CFTC spokesman called the lawsuit “troubling” and said an anonymous group was using litigation to interfere with regulated markets. One wrinkle is that Cboe is both among the backers of the suit and a venue that could list these contracts.</p>\n<h2>Precedent from the CME case</h2>\n<p>This is not the first time perpetuals have ended up in court. In June, CME Group sued the CFTC, arguing that crypto perpetuals should be treated as swaps and that the agency overstepped its authority. The CFTC then moved to dismiss, saying CME lacked standing. The new case adds a dispute over the line between the CFTC and the SEC.</p>\n<h2>Market backdrop</h2>\n<p>The news landed while crypto was still reacting to the US midterms. Bitcoin dipped to $75,618, a seven-week low, as long liquidations over 24 hours neared $300 million, before recovering toward the $78,000 area. The shift in control of Congress has also made the policy outlook for crypto less certain.</p>\n<p>For the industry, the thing to watch is the tug of war among established exchanges. Some want to join the perpetual market while worrying about losing share, so the outcome of the case will shape how quickly the product reaches the US.</p>\n<h2>What it means for traders</h2>\n<p>For futures traders, US-regulated stock perpetuals could add a leveraged way to trade equities without using offshore platforms. But the product has no specific trading date yet, so there is no funding-rate or liquidity data to judge.</p>\n<p>Legal risk matters here: if a court strikes down the policy, the listing timeline could be delayed or narrowed. If it holds, flows and attention could gradually shift toward licensed US venues.</p>\n<p>In the short term, crypto remains driven more by midterm-related volatility and ETF flows than by this new product. Listing announcements from registered exchanges, developments in the court filing and any response from the SEC are the points that could change the picture.</p>",
+  "keywords": [
+   "stock perpetual futures",
+   "CFTC",
+   "perpetual futures",
+   "Capital Markets Alliance",
+   "Cboe"
+  ]
+ },
+ "dir": "tin-tuc",
+ "slug_en": "cftc-clears-us-stock-perpetuals-sued-the-same-day-by-cboe"
+}

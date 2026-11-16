@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/*.png",
+    "/*.jpg",
+    "/*.jpeg",
+    "/*.webp",
+    "/*.svg",
+    "/*.ico",
+    "/*.gif",
+    "/*.css",
+    "/*.js",
+    "/*.woff2",
+    "/tin/index.json",
+    "/hoc/index.json",
+    "/*.xml",
+    "/robots.txt"
+  ]
+}

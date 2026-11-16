@@ -1,0 +1,77 @@
+{
+ "slug": "cftc-canh-bao-kalshi",
+ "slug_en": "cftc-warns-kalshi-possible-charges",
+ "cat": "reg",
+ "cats": [
+  "reg",
+  "ex"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-11T15:30:00+07:00",
+ "event": "CFTC warned Kalshi of imminent charges over how it notified the agency about dozens of new contracts (Nov 10 2026)",
+ "src_urls": [
+  "https://www.thestar.com.my/tech/tech-news/2026/11/11/wall-street-regulator-poised-to-bring-charges-against-kalshi-politico-reports",
+  "https://whbl.com/2026/11/10/wall-street-regulator-poised-to-bring-charges-against-kalshi-politico-reports/",
+  "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts"
+ ],
+ "image": {
+  "src": "https://commons.wikimedia.org/wiki/File:US_Commodity_Futures_Trading_Commission_(CFTC)_(55264578721).jpg",
+  "license": "CC BY",
+  "credit": "Ajay Suresh, CC BY 4.0, Wikimedia Commons",
+  "alt_vi": "Mặt tiền tòa nhà Bldg 3 ở Lafayette Centre với bảng CFTC và con dấu Ủy ban Giao dịch Hàng hóa Tương lai Mỹ",
+  "alt_en": "Facade of Building 3 at Lafayette Centre with the CFTC sign and the Commodity Futures Trading Commission seal",
+  "caption_vi": "Trụ sở CFTC tại Lafayette Centre, Washington. Cơ quan này đang điều tra cách Kalshi thông báo về các hợp đồng mới.",
+  "caption_en": "The CFTC building at Lafayette Centre in Washington, where the agency is probing how Kalshi notified it of new contracts.",
+  "url": "/tin/img/cftc-canh-bao-kalshi-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "CFTC cảnh báo Kalshi có thể bị truy tố vì cách nộp hồ sơ hợp đồng mới",
+  "seo_title": "CFTC cảnh báo Kalshi về nguy cơ truy tố",
+  "desc": "CFTC cảnh báo Kalshi có thể bị truy tố vì cách thông báo hàng chục hợp đồng mới. Kalshi gọi đây là lỗi thủ tục, còn cơ quan chưa đưa ra quyết định nào.",
+  "lead": "Ủy ban Giao dịch Hàng hóa Tương lai Mỹ (CFTC) đã thông báo riêng cho Kalshi rằng có thể sớm đưa ra cáo buộc, liên quan đến việc sàn này có thông báo đầy đủ về các sản phẩm mới hay không.",
+  "bullets": [
+   "CFTC đang điều tra việc Kalshi có thông báo đúng quy định về hàng chục hợp đồng mới hay không, cuộc điều tra kéo dài nhiều tháng.",
+   "Kalshi nói đây là lỗi thủ tục với một số ít hợp đồng, phần lớn chưa từng được niêm yết, và công ty đang xử lý vấn đề.",
+   "Chưa có cáo buộc chính thức nào được đưa ra, và CFTC chưa bình luận công khai về thông tin này."
+  ],
+  "body_html": "<p>Ủy ban Giao dịch Hàng hóa Tương lai Mỹ đã cảnh báo sàn dự đoán Kalshi rằng cơ quan có thể sớm đưa ra cáo buộc. Theo thông tin từ một người nắm rõ vụ việc, CFTC đang điều tra việc Kalshi có thông báo đầy đủ cho cơ quan về hàng chục sản phẩm mới hay không. Thông báo riêng gửi cho sàn cho thấy cơ quan đã đi tới bước chuẩn bị xử lý.</p><h2>Cơ chế tự chứng nhận đang bị xem xét</h2><p>Trọng tâm của cuộc điều tra là quy trình tự chứng nhận, cách các sàn có quy định đưa sản phẩm mới ra giao dịch, đôi khi chỉ một ngày sau khi nộp hồ sơ. Sàn chỉ cần tự xác nhận sản phẩm đáp ứng yêu cầu của cơ quan, và không cần CFTC phê duyệt trước. Quy trình này giúp Kalshi mở rộng nhanh danh mục, nhưng cũng khiến việc nộp hồ sơ đúng hạn trở nên quan trọng.</p><p>Kalshi gọi vấn đề là một lỗi thủ tục liên quan đến việc nộp hồ sơ cho một số ít hợp đồng, phần lớn chưa từng được đưa vào giao dịch. Công ty cho biết đã và đang xử lý.</p><h2>Bối cảnh cạnh tranh và pháp lý</h2><p>Vụ việc diễn ra khi CFTC đang bảo vệ quyền hạn của mình trước các bang muốn quản lý thị trường dự đoán, như trong <a href=\"/tin-tuc/cftc-kien-utah-bao-ve-thi-truong-du-doan-kalshi\">vụ CFTC kiện bang Utah</a>, và Kalshi đang đứng cùng cơ quan trong một số vụ kiện khác. Cùng lúc, Thượng viện Mỹ sắp có chủ tịch ủy ban ngân hàng mới, người đã nói sẽ giám sát chặt hơn các thị trường dự đoán và hoạt động của gia đình Tổng thống Trump trong crypto.</p><h2>Điều cần theo dõi</h2><p>Điểm cần theo dõi là CFTC có đưa cáo buộc chính thức hay không, và mức phạt nếu có. Một kết luận bất lợi về quy trình nộp hồ sơ có thể làm chậm việc niêm yết hợp đồng mới trên toàn ngành, vì nhiều sàn đang dùng cùng cơ chế tự chứng nhận.</p><h2>Tác động tới trader</h2><p>Hiện chưa có hành động cưỡng chế nào được công bố, và các hợp đồng của Kalshi vẫn đang giao dịch bình thường. Với trader, rủi ro chủ yếu nằm ở thanh khoản và khả năng một số hợp đồng bị đình chỉ nếu cơ quan yêu cầu. Thị trường crypto đang yếu: BTC đã lùi dưới 74.000 USD sau số liệu CPI nóng, và dòng vốn rút khỏi quỹ ETF spot khoảng 201 triệu USD trong phiên 10/11. Trong bối cảnh đó, tin pháp lý có thể làm tâm lý thận trọng hơn. Người chơi nên theo dõi thông báo chính thức của CFTC trước khi suy diễn thêm về tác động lên các sàn khác.</p>",
+  "keywords": [
+   "CFTC",
+   "Kalshi",
+   "thị trường dự đoán",
+   "điều tra",
+   "hợp đồng mới"
+  ]
+ },
+ "en": {
+  "title": "CFTC Warns Kalshi of Possible Charges Over New Contract Filings",
+  "seo_title": "CFTC Warns Kalshi Over Possible Charges",
+  "desc": "The CFTC has warned Kalshi it may face charges over how it notified the agency about dozens of new contracts. Kalshi calls it a procedural error being fixed.",
+  "lead": "The Commodity Futures Trading Commission has privately warned Kalshi that charges could come soon, over whether the prediction market properly notified the agency about dozens of new products.",
+  "bullets": [
+   "The CFTC is investigating whether Kalshi properly notified it about dozens of new contracts, a probe that has run for months.",
+   "Kalshi says the issue is a procedural error involving a handful of contracts, most of which never went live, and that it is addressing it.",
+   "No formal charges have been filed, and the CFTC has not publicly commented on the matter."
+  ],
+  "body_html": "<p>The Commodity Futures Trading Commission has warned prediction market Kalshi that charges could come soon. According to a person familiar with the matter, the agency is investigating whether Kalshi properly notified it about dozens of new products. The private warning suggests the agency has moved toward enforcement.</p><h2>Self-certification under review</h2><p>The probe centers on self-certification, the process exchanges use to list new contracts, sometimes a day after filing. Exchanges attest that a product meets the agency's requirements, and CFTC approval is not required. The process lets Kalshi expand its catalog quickly, but it also makes timely and accurate filings important.</p><p>Kalshi describes the issue as a procedural error involving submissions for a handful of contracts, many of which never went live. The company says it is already addressing the matter.</p><h2>Why the filings matter</h2><p>Kalshi raised $1 billion at a $40 billion valuation late last month, and it has been expanding beyond event contracts into perpetual futures. That growth depends on listing products quickly, which makes any finding about filing procedures more consequential than the size of a single penalty.</p><h2>Competitive and legal context</h2><p>The episode comes as the CFTC defends its authority against states that want to regulate prediction markets, including its <a href=\"/en/news/cftc-sues-utah-to-protect-prediction-markets-in-its-tenth\">suit against Utah</a>, and as Kalshi sides with the agency in other legal fights. Incoming Senate Banking Committee chair Elizabeth Warren has also said she will scrutinize prediction markets and crypto ventures tied to the Trump family.</p><h2>What to watch</h2><p>The key questions are whether the CFTC files formal charges and what penalties it seeks. An adverse finding on filing procedures could slow new contract listings across the sector, since many platforms rely on the same self-certification route.</p><h2>What it means for traders</h2><p>No enforcement action has been announced, and Kalshi's contracts remain live. For traders, the near-term risks are liquidity and the possibility that a contract is suspended if the agency asks for it. The broader crypto market is weak: BTC slipped below 74,000 USD after a hotter-than-expected CPI print, and spot ETF outflows reached roughly 201 million USD on November 10. In that setting, regulatory headlines can make sentiment more cautious. Traders should follow official CFTC statements before drawing conclusions about other platforms.</p>",
+  "keywords": [
+   "CFTC",
+   "Kalshi",
+   "prediction markets",
+   "investigation",
+   "new contracts"
+  ]
+ },
+ "related": [
+  {
+   "kind": "news",
+   "slug": "cftc-kien-utah-bao-ve-thi-truong-du-doan-kalshi"
+  },
+  {
+   "kind": "news",
+   "slug": "utah-truy-to-hinh-su-kalshi-14-toi-danh-co-bac"
+  }
+ ],
+ "dir": "tin-tuc"
+}

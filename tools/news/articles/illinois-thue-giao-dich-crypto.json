@@ -1,0 +1,78 @@
+{
+ "slug": "illinois-thue-giao-dich-crypto",
+ "slug_en": "illinois-crypto-tax-court-challenge",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "hong-kong-thong-qua-carf"
+  },
+  {
+   "kind": "news",
+   "slug": "han-quoc-hoan-thue-2029"
+  },
+  {
+   "kind": "news",
+   "slug": "warren-thuong-vien-soi-crypto"
+  }
+ ],
+ "cat": "reg",
+ "cats": [
+  "reg",
+  "pol"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-13T14:30:00+07:00",
+ "event": "Illinois 0.2% digital asset tax challenged in court by DOJ, industry groups and DeFi coalition; start delayed to July 1, 2027 (Nov 6-12 2026)",
+ "src_urls": [
+  "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+  "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi"
+ ],
+ "image": {
+  "src": "https://commons.wikimedia.org/wiki/File:Illinois_State_Capitol,_Capitol_Avenue_and_2nd_Street,_Springfield,_IL_-_53319247500.jpg",
+  "license": "CC BY-SA",
+  "credit": "w_lemay (Flickr), CC BY-SA 2.0, Wikimedia Commons",
+  "alt_vi": "Mái vòm Toà nhà Quốc hội bang Illinois ở Springfield",
+  "alt_en": "Dome of the Illinois State Capitol in Springfield",
+  "caption_vi": "Toà nhà Quốc hội bang Illinois ở Springfield, nơi làm việc của cơ quan lập pháp và hành pháp của bang.",
+  "caption_en": "The Illinois State Capitol in Springfield, home to the state's legislature and governor's offices.",
+  "url": "/tin/img/illinois-thue-giao-dich-crypto-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Illinois thu 0,2% mọi giao dịch crypto dù không lãi, bị kiện ra toà",
+  "seo_title": "Thuế crypto Illinois 0,2%: DOJ phản đối",
+  "desc": "Illinois định thu 0,2% trên mỗi lần giao dịch, chuyển hay giữ tài sản số dù không có lãi. Bộ Tư pháp Mỹ và nhiều bên đã kiện, việc thu thuế bị dời tới 1/7/2027.",
+  "lead": "Bang Illinois sắp áp thuế 0,2% trên toàn bộ giá trị tài sản số mỗi lần giao dịch, chuyển hoặc lưu giữ qua nhà môi giới, kể cả khi người nắm giữ không có lợi nhuận. Nhiều bên đã đệ đơn phản đối và ngày thu thuế được dời sang giữa năm 2027.",
+  "bullets": [
+   "Thuế 0,2% tính trên toàn bộ giá trị tài sản số mỗi lần giao dịch, chuyển hoặc lưu giữ, không cần có lợi nhuận hay chuyển nhượng thật sự.",
+   "Bộ Tư pháp Mỹ hôm 6/11 gửi văn bản cho rằng luật này phân biệt đối xử với crypto; Phòng Thương mại Mỹ và SIFMA cũng phản đối.",
+   "Ngày bắt đầu thu được dời từ 1/1/2027 sang 1/7/2027 theo đề nghị chung của các bên, đang chờ toà quyết định có tạm đình chỉ thuế hay không."
+  ],
+  "body_html": "<p>Bang Illinois đang chuẩn bị áp một loại thuế mới lên tài sản số, và loại thuế này gây tranh cãi vì nó không phụ thuộc vào việc người nắm giữ có lãi hay không. Luật này được thông qua hồi tháng 6. Theo đó, mỗi lần khách hàng ở Illinois giao dịch, chuyển hoặc lưu giữ tài sản số qua một nhà môi giới sẽ phải nộp 0,2% trên toàn bộ giá trị của tài sản đó. Không cần bán, không cần có lời, và cũng không cần đổi chủ thực sự để bị tính thuế.</p><h2>Diễn biến chính</h2><p>Ngày 6/11, Bộ Tư pháp Mỹ nộp một văn bản bày tỏ quan điểm trong vụ kiện. Theo Bộ, thuế này làm suy yếu các chính sách liên bang thúc đẩy crypto, như Kho dự trữ Bitcoin chiến lược và khung luật stablecoin GENIUS Act. Bộ cũng gọi luật này là mơ hồ và phân biệt đối xử, vì Illinois không đánh loại thuế tương tự lên đô la, vàng hay cổ phiếu.</p><p>Cùng ngày, Phòng Thương mại Mỹ và SIFMA, hiệp hội đại diện hàng trăm công ty môi giới, ngân hàng và quản lý tài sản, nộp bản ý kiến cảnh báo rằng thuế này không chỉ ảnh hưởng tới sàn crypto mà còn lan sang các ngân hàng, đơn vị lưu ký và cố vấn đầu tư đang cung cấp sản phẩm tài sản số. Họ nhấn mạnh rằng người mất tiền vẫn phải chịu thuế như người có lời, và việc chuyển tài sản giữa hai tài khoản của cùng một người cũng có thể bị đánh thuế ở cả hai đầu.</p><p>Ngày 11/11, một liên minh do quỹ DeFi Education Fund, a16z, Paradigm và Uniswap dẫn đầu nộp thêm một bản ý kiến. Họ cho rằng định nghĩa trong luật quá mơ hồ, có thể áp lên cả lập trình viên phần mềm và các giao thức phi tập trung, những bên không giữ tiền của khách và không có cách nào biết ai đang giao dịch hay giao dịch ở đâu. Theo ước tính trong bản ý kiến, khoảng 2,64 triệu người Illinois đang nắm giữ tài sản số, đứng thứ năm trong các bang.</p><h2>Bối cảnh các vụ kiện</h2><p>Theo dự toán của văn phòng ngân sách thống đốc, Illinois kỳ vọng thu về khoảng 60 triệu USD trong năm tài chính 2027. Con số này cho thấy bang coi đây là một nguồn thu thực sự chứ không mang tính biểu tượng. Digital Chamber đã kiện Bộ trưởng Tư pháp bang Kwame Raoul và viên chức thu thuế David Harris vào tháng 7. Tháng 8, Crypto Council for Innovation và Blockchain Association nộp đơn kiện riêng, và vụ này hiện được xét tại toà án hạt Sangamon.</p><h2>Điều còn chờ</h2><p>Ngày 12/11, các bên trong vụ kiện nộp một đề nghị chung lên toà án hạt Sangamon. Quan chức Illinois đồng ý dời ngày có hiệu lực từ 1/1/2027 sang 1/7/2027, còn đề nghị yêu cầu thẩm phán tạm thời chặn việc thi hành thuế trong khi vụ việc tiếp tục. Việc toà có chấp thuận hay không sẽ quyết định liệu thuế có thật sự được áp dụng vào mùa hè năm sau hay không.</p><h2>Tác động tới trader</h2><p>Với trader ở Illinois, điểm đáng chú ý nhất là thuế tính trên giá trị đầy đủ của tài sản, không tính theo lợi nhuận. Một vị thế mở rồi đóng với mức lỗ vẫn có thể phát sinh nghĩa vụ thuế. Chi phí thực tế của việc giao dịch thường xuyên, chuyển coin giữa các sàn hay giữ tài sản qua nhà môi giới vì vậy có thể tăng đáng kể, nhất là với các vị thế lớn.</p><p>Nhà môi giới và sàn sẽ phải xác định khách hàng ở Illinois, định giá từng loại tài sản và quyết định giao dịch nào thuộc diện chịu thuế, trong khi hồ sơ kiện cảnh báo về khả năng bị truy cứu hình sự nếu vi phạm. Một số đơn vị có thể cân nhắc hạn chế dịch vụ cho người dùng ở bang này. Nếu sàn bạn đang dùng bắt đầu đổi điều khoản cho tài khoản Illinois, nên đọc kỹ vì khả năng tiếp cận thị trường và thanh khoản có thể thay đổi.</p><p>[[rel:1]]</p><p>Điểm cần theo dõi là quyết định của toà về lệnh tạm đình chỉ và mốc 1/7/2027. Nếu thuế bị chặn, chi phí này tạm thời không áp dụng. Nếu thuế được giữ nguyên, định nghĩa về người có trách nhiệm thu thuế sẽ là điểm then chốt, vì nó quyết định liệu các giao thức không có quan hệ với khách hàng có bị kéo vào nghĩa vụ tuân thủ hay không.</p>",
+  "keywords": [
+   "thuế crypto Illinois",
+   "thuế tài sản số",
+   "Illinois 0,2%",
+   "luật crypto Mỹ"
+  ]
+ },
+ "en": {
+  "title": "Illinois 0.2% Crypto Tax on Every Transfer, Even Without Profit",
+  "seo_title": "Illinois 0.2% Crypto Tax: DOJ Joins Challenge",
+  "desc": "Illinois plans a 0.2% tax on every crypto trade or holding, even without profit. The DOJ and industry groups object, and collection is pushed to July 2027.",
+  "lead": "Illinois is set to apply a 0.2% tax on the full value of a digital asset each time it is traded, transferred or stored through a broker, even when the holder makes no profit. Several parties have filed objections, and the start date has been pushed to mid-2027.",
+  "bullets": [
+   "The 0.2% levy applies to the full value of a digital asset each time it is traded, transferred or stored, with no requirement for a profit or sale.",
+   "On November 6 the US Justice Department argued the law discriminates against crypto, and the US Chamber of Commerce and SIFMA also filed objections.",
+   "The start date has moved from January 1, 2027 to July 1, 2027 under a joint motion, and the court is now weighing whether to temporarily block the tax."
+  ],
+  "body_html": "<p>Illinois is preparing to apply a new tax on digital assets, and it is drawing unusual opposition because it does not depend on whether the holder makes money. The law was passed in June. Each time an Illinois customer trades, transfers or stores a digital asset through a broker, 0.2% of the asset's full value is owed. No sale, gain or change in ownership is required.</p><h2>What happened</h2><p>On November 6, the US Justice Department filed a statement of interest in the case. It argued that the tax undermines federal policy promoting crypto, including the Strategic Bitcoin Reserve and the GENIUS Act stablecoin framework, and called the measure vague and discriminatory, since Illinois does not levy a comparable tax on dollars, gold or stocks.</p><p>The same day, the US Chamber of Commerce and the Securities Industry and Financial Markets Association, which represents hundreds of broker-dealers, banks and asset managers, filed an amicus brief. They warned that the tax reaches traditional banks, custodians and advisers offering digital asset products, not only crypto-native platforms. Their filing also noted that a customer who loses money owes the same tax as one who profits, and that moving an asset between two of one's own accounts can be taxed at both ends.</p><p>On November 11, a separate brief led by the DeFi Education Fund, Andreessen Horowitz, Paradigm and Uniswap argued that the law's definitions are so vague they could reach software developers and decentralized protocols that never hold customer funds and cannot identify users. The brief cited an estimated 2.64 million Illinois residents who hold digital assets, the fifth-highest total of any state.</p><h2>Background to the lawsuits</h2><p>According to estimates from the governor's budget office, Illinois expected the tax to bring in about 60 million USD in fiscal 2027 revenue, which suggests the state treats it as a real revenue source rather than a symbolic measure. The Digital Chamber sued the state's attorney general and a revenue official in July. In August, the Crypto Council for Innovation and the Blockchain Association filed a separate challenge, and that case is now being heard in Sangamon County Circuit Court.</p><h2>What comes next</h2><p>On November 12, the parties filed a joint motion in Sangamon County Circuit Court. Illinois officials agreed to move the start date from January 1, 2027 to July 1, 2027, and the motion asks the judge to preliminarily enjoin the tax while the case proceeds. Whether the court grants that request will determine whether the tax is enforced at all next summer.</p><h2>What it means for traders</h2><p>For traders in Illinois, the key point is that the tax applies to the full value of the asset, not to profit. A position opened and closed at a loss can still trigger the levy, so the real cost of frequent trading, moving coins between exchanges or holding assets through a broker could rise, particularly on large positions.</p><p>Brokers and platforms would need to identify Illinois customers, value each digital asset and decide which transactions are taxable, and the filings warn of possible criminal penalties for violations. Some providers may consider limiting services to users in the state. If the platform you use begins changing terms for Illinois accounts, read them closely, since access and liquidity could shift.</p><p>[[rel:1]]</p><p>The items to watch are the court's ruling on the preliminary injunction and the July 1, 2027 effective date. A block would pause the cost for now. If the tax stands, the definition of who must collect it becomes the central question, because it decides whether developers and protocols with no customer relationship are drawn into compliance duties.</p>",
+  "keywords": [
+   "Illinois crypto tax",
+   "digital asset tax",
+   "0.2% crypto tax",
+   "US crypto regulation"
+  ]
+ },
+ "dir": "tin-tuc"
+}

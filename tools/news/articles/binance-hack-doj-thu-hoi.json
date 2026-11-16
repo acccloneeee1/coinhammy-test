@@ -1,0 +1,76 @@
+{
+ "slug": "binance-hack-doj-thu-hoi",
+ "slug_en": "binance-hack-doj-seizure-funds",
+ "cat": "ex",
+ "cats": [
+  "ex",
+  "reg"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-13T18:30:00+07:00",
+ "event": "DOJ obtains court authorization to seize over $1.2B tied to Binance hack; FaceStealer infrastructure seized (Nov 12 2026)",
+ "src_urls": [
+  "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+  "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls"
+ ],
+ "image": {
+  "src": "user-generated:binance-hack-doj-2026-11-13",
+  "license": "CC0",
+  "credit": "",
+  "alt_vi": "Minh họa con dấu Bộ Tư pháp Mỹ, chiếc búa thẩm phán và logo Binance bên cạnh các bó tiền",
+  "alt_en": "Illustration of the US Department of Justice seal, a judge's gavel and the Binance logo beside stacks of cash",
+  "caption_vi": "Ảnh minh họa: con dấu Bộ Tư pháp Mỹ, chiếc búa thẩm phán và logo Binance.",
+  "caption_en": "Illustration: the US Department of Justice seal, a judge's gavel and the Binance logo.",
+  "url": "/tin/img/binance-hack-doj-thu-hoi-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Mỹ được phép tịch thu hơn 1,2 tỷ USD từ vụ hack Binance",
+  "seo_title": "DOJ thu hồi 1,2 tỷ USD từ vụ hack Binance",
+  "desc": "Bộ Tư pháp Mỹ được tòa cho phép tịch thu hơn 1,2 tỷ USD liên quan vụ hack Binance hồi cuối tháng 10, cùng lúc triệt phá chiến dịch lừa đảo FaceStealer.",
+  "lead": "Bộ Tư pháp Mỹ vừa được tòa cho phép tịch thu hoặc phong tỏa hơn 1,2 tỷ USD liên quan vụ hack Binance xảy ra ngày 29/10, đồng thời thu giữ hạ tầng của một chiến dịch lừa đảo dùng video deepfake nhắm vào người làm kỹ thuật trong ngành crypto.",
+  "bullets": [
+   "Bộ Tư pháp Mỹ đã được tòa cho phép tịch thu hoặc phong tỏa hơn 1,2 tỷ USD trong số tiền bị đánh cắp khỏi Binance.",
+   "Vụ hack ngày 29/10 lấy đi khoảng 6,3 tỷ USD; các cơ quan Mỹ và đối tác tư nhân đã phong tỏa hơn 2,7 tỷ USD.",
+   "FBI quy trách nhiệm cho nhóm TraderTraitor của Triều Tiên, còn Bình Nhưỡng bác bỏ và gọi đây là hành động khiêu khích chính trị."
+  ],
+  "body_html": "<p>Bộ Tư pháp Mỹ (DOJ) cho biết họ đã nhận được lệnh của tòa án cho phép tịch thu hoặc phong tỏa hơn 1,2 tỷ USD tiền mã hóa liên quan vụ tấn công Binance hôm 29/10. Đây là phần nhỏ trong tổng số hơn 2,7 tỷ USD mà các cơ quan Mỹ và đối tác trong khu vực tư nhân đã đóng băng kể từ khi vụ việc xảy ra.</p><h2>Diễn biến chính</h2><p>Theo thông báo của DOJ, số tiền bị đánh cắp từ Binance lên tới khoảng 6,3 tỷ USD, được xem là một trong những vụ trộm tiền mã hóa lớn nhất từ trước đến nay. Lệnh tòa mới cho phép cơ quan chức năng giữ lại phần tài sản đã bị đóng băng, trong khi việc truy tìm để thu hồi thêm vẫn đang tiếp diễn.</p><p>Cùng ngày, DOJ công bố một hành động riêng nhắm vào chiến dịch FaceStealer. Cơ quan này đã thu giữ hạ tầng đám mây mà nhóm tin tặc dùng để vận hành chiến dịch, đồng thời triệt phá một mạng lưới bị cho là gắn với Triều Tiên.</p><h2>Vụ hack Binance và việc quy trách nhiệm</h2><p>FBI quy trách nhiệm vụ tấn công cho nhóm TraderTraitor thuộc Triều Tiên trong một cảnh báo an ninh mạng. Phía Bình Nhưỡng đã phủ nhận, em gái lãnh đạo Kim Jong Un gọi kết luận này là một hành động khiêu khích chính trị.</p><p>Về phía Binance, sàn cho biết đã dùng nguồn vốn riêng để bù đắp các tài sản bị ảnh hưởng. Một ảnh chụp dự trữ mới được công bố cho thấy tài sản khách hàng được bảo chứng ít nhất theo tỷ lệ 1:1.</p><h2>Chiến dịch FaceStealer</h2><p>Theo DOJ, chiến dịch FaceStealer đã đánh cắp hơn 400 triệu USD tiền mã hóa trong 18 tháng qua. Kẻ tấn công ghi lại video của các nạn nhân trước đó, kết hợp với deepfake của những gương mặt nổi tiếng trong ngành, rồi dựng cuộc gọi video để tạo lòng tin. Sau đó, chúng đưa ra một lỗi kỹ thuật giả và yêu cầu nạn nhân cài phần mềm độc hại để “sửa” lỗi.</p><p>FBI đã thu giữ hơn 900 đoạn video webcam của các nạn nhân theo lệnh của tòa. DOJ cũng cảnh báo nhóm này ngày càng nhắm vào các nhà phát triển mã nguồn mở, có thể nhằm tấn công chuỗi cung ứng phần mềm.</p><h2>Tác động tới trader</h2><p>Về thị trường, bối cảnh hiện tại yếu hơn nhiều so với tin này. Bitcoin đang quanh 68.600 USD, giảm khoảng 9% trong tuần qua, và chỉ số Sợ hãi và Tham lam đã xuống 20, mức sợ hãi cực độ thấp nhất trong hơn bốn tháng. Trong bối cảnh đó, tin tức về thu hồi tài sản không phải là yếu tố trực tiếp làm thay đổi funding rate hay open interest trên futures.</p><p>Điều đáng theo dõi là cách Binance xử lý việc bù đắp tài sản và phản hồi từ thanh khoản trên sàn nếu có thêm thông tin về số tiền được hoàn trả hoặc các đợt tịch thu tiếp theo. Với người giao dịch futures, rủi ro sàn tập trung luôn là một phần trong quản lý vị thế, nên đây là thông tin nên đưa vào danh sách theo dõi, không phải tín hiệu để hành động ngay.</p>",
+  "keywords": [
+   "vụ hack Binance",
+   "DOJ thu hồi tiền",
+   "Binance hack 2026",
+   "FaceStealer",
+   "TraderTraitor"
+  ]
+ },
+ "en": {
+  "title": "US Court Clears Seizure of Over $1.2 Billion From Binance Hack",
+  "seo_title": "DOJ Seizes $1.2B From Binance Hack Funds",
+  "desc": "The US Justice Department won court approval to seize over $1.2 billion tied to the Binance hack and dismantled the FaceStealer deepfake scam network.",
+  "lead": "The US Justice Department has won court approval to seize or restrain more than $1.2 billion linked to the October 29 Binance hack, while also taking down infrastructure used by a deepfake video-call scheme targeting crypto workers.",
+  "bullets": [
+   "A US court has authorized the Justice Department to seize or restrain more than $1.2 billion of the crypto stolen from Binance.",
+   "The October 29 hack took roughly $6.3 billion; US authorities and private partners have frozen over $2.7 billion so far.",
+   "The FBI attributes the hack to North Korea's TraderTraitor group, while Pyongyang denies it and calls the finding a political provocation."
+  ],
+  "body_html": "<p>The US Department of Justice said it has obtained a court order allowing it to seize or restrain more than $1.2 billion in cryptocurrency tied to the attack on Binance on October 29. That amount is part of more than $2.7 billion that US authorities and private-sector partners have frozen since the hack.</p><h2>Key developments</h2><p>The DOJ put the total stolen from Binance at about $6.3 billion, one of the largest crypto thefts on record. The new order lets investigators hold the frozen assets, while efforts to trace and recover additional funds continue.</p><p>The same day, the DOJ announced a separate action against the FaceStealer campaign. Authorities seized cloud infrastructure the group used to run the operation, which is linked by US officials to North Korean hackers.</p><h2>The Binance hack and attribution</h2><p>The FBI attributed the theft to North Korea's TraderTraitor group in a cyber alert. Pyongyang has denied involvement, with Kim Yo Jong, sister of leader Kim Jong Un, calling the accusation a political provocation.</p><p>Binance said it covered the affected assets with its own funds. A new proof-of-reserves snapshot showed customer assets backed at least one-to-one.</p><h2>The FaceStealer campaign</h2><p>According to the DOJ, FaceStealer stole more than $400 million in crypto over 18 months. Attackers used secretly recorded footage of earlier victims and AI deepfakes of well-known crypto figures to build trust on video calls, then posed as a technical glitch to push malware. The FBI seized more than 900 webcam videos of victims under a federal warrant, and the DOJ warned that the group increasingly targets open-source developers in a possible supply-chain attack.</p><h2>What it means for traders</h2><p>The market backdrop is weaker than the news itself. Bitcoin trades around $68,600, down about 9% over the past week, and the Crypto Fear and Greed Index has fallen to 20, its lowest reading in more than four months. The seizure order does not directly change funding rates or open interest on futures markets.</p><p>The points to watch are how Binance completes its asset backing, whether more funds are returned or seized, and how liquidity on the exchange responds to any new details. For futures traders, counterparty risk at a centralized exchange is a standing part of position management, so this is a line for the watchlist rather than a trigger for action.</p>",
+  "keywords": [
+   "Binance hack",
+   "DOJ seizure",
+   "FaceStealer",
+   "North Korea crypto hack",
+   "crypto theft 2026"
+  ]
+ },
+ "related": [
+  {
+   "kind": "news",
+   "slug": "hacker-ria-tien-binance-near"
+  },
+  {
+   "kind": "news",
+   "slug": "rune-tang-10-thorchain-mo-lai-tien-hack-binance"
+  }
+ ],
+ "dir": "tin-tuc"
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "xrp-ledger-va-loi-in-token-kich-hoat-4-11",
+ "cat": "alt",
+ "coin": "XRP",
+ "ts": "2026-11-03T11:40:00+07:00",
+ "event": "XRP Ledger fixCleanup3_4_0 amendment, fixing PaymentBurn token-minting flaw, due to activate Nov 4 2026 14:46 UTC",
+ "src_urls": [
+  "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+  "https://www.altcoinbuzz.io/xrp-ledger-fix-for-token-minting-flaw-is-due-to-activate-wednesday",
+  "https://cryptoticker.io/en/xrp-amendment-delay-validators-november-4/"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/gold-round-coin-on-persons-hand-0kRsP5iRZI4",
+  "license": "Unsplash",
+  "alt_vi": "Đồng xu vàng in biểu tượng XRP cầm trên tay, nền đen",
+  "alt_en": "A gold XRP-branded coin held in a hand against a black background",
+  "url": "/tin/img/xrp-ledger-va-loi-in-token-kich-hoat-4-11-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "XRP Ledger sắp vá lỗi cho phép tài khoản đốt token tạo thêm token",
+  "seo_title": "XRP Ledger vá lỗi in token, kích hoạt 4/11",
+  "desc": "Bản vá fixCleanup3_4_0 của XRP Ledger dự kiến chạy ngày 4/11 để chặn lỗi cho phép quyền đốt token tạo thêm token, không ảnh hưởng nguồn cung XRP.",
+  "lead": "XRP Ledger dự kiến kích hoạt bản vá fixCleanup3_4_0 vào khoảng 14:46 UTC ngày 4/11, sửa lỗi quyền đốt token có thể tạo thêm token phát hành trên sổ cái.",
+  "bullets": [
+   "Lỗi nằm ở quyền ủy thác PaymentBurn: trong một số điều kiện, bên chỉ được đốt token có thể tạo mới token của nhà phát hành, kể cả stablecoin.",
+   "Nguồn cung XRP không bị ảnh hưởng, và chưa có báo cáo nào về việc lỗ hổng bị khai thác hay nhà phát hành nào bị ảnh hưởng.",
+   "Có 33 trong 35 validator ủng hộ; cần giữ tối thiểu 29, nếu tụt dưới ngưỡng thì đồng hồ hai tuần bị đặt lại, còn sửa đổi cho vay có thể sớm nhất ngày 18/11."
+  ],
+  "body_html": "<p>Một bản sửa lỗi cho XRP Ledger (XRPL) dự kiến được kích hoạt vào khoảng 14:46 UTC ngày 4/11 (21:46 giờ Việt Nam), nếu sự ủng hộ của các validator được giữ nguyên. Bản vá có tên fixCleanup3_4_0 nhằm chặn một lỗ hổng cho phép tài khoản chỉ được cấp quyền huỷ token của nhà phát hành, trong một số điều kiện, tạo ra token mới. Lỗi chỉ ảnh hưởng token do bên khác phát hành trên sổ cái, kể cả stablecoin, chứ không ảnh hưởng nguồn cung XRP.</p>\n<h2>Lỗi nằm ở đâu</h2>\n<p>Theo tài liệu của XRPL, quyền ủy thác PaymentBurn vốn chỉ để đốt token, nhưng trước khi có bản vá, bên được ủy quyền có thể tạo thêm token dạng trust line hoặc MPT trong một số trường hợp. Tài liệu khuyến cáo chưa nên ủy thác quyền này cho tới khi bản vá có hiệu lực. Ví dụ điển hình là đơn vị thanh toán của một nhà phát hành stablecoin: họ được phép đốt token khi khách hàng rút tiền, nhưng lẽ ra không được phép tạo mới.</p>\n<p>Các nguồn đã đọc đều cho biết chưa có báo cáo nào về việc lỗ hổng bị khai thác, và chưa xác định được nhà phát hành nào bị ảnh hưởng. Cũng chưa rõ ai là người phát hiện lỗi.</p>\n<p>Gói sửa lỗi này còn gồm một số chỉnh sửa khác, như thu hồi token từ các pool giao dịch, tính toán khi gửi và rút ở vault, và logic trạng thái khoản vay để khoản vay không bị đánh dấu trễ hạn hay vỡ nợ trước ngày đáo hạn.</p>\n<h2>Vì sao ngày kích hoạt bị lùi</h2>\n<p>Một thay đổi trên XRPL cần hơn 80% validator được tin cậy ủng hộ liên tục trong hai tuần. Bản vá ban đầu dự kiến chạy vào 23/10. Ngày 21/10, mức ủng hộ rơi xuống còn 26 validator và phục hồi sau khoảng hai giờ, nhưng chừng đó đủ để đồng hồ đếm ngược hai tuần bắt đầu lại, đẩy ngày kích hoạt sớm nhất sang 4/11.</p>\n<p>Hiện có 33 trong số 35 validator được theo dõi ủng hộ bản vá (khoảng 94%). Cần tối thiểu 29 validator giữ vững cho tới thời điểm chuyển đổi. Nếu mức ủng hộ lại tụt dưới ngưỡng, đồng hồ sẽ bị đặt lại một lần nữa.</p>\n<h2>Các nâng cấp cho vay chưa nằm trong đợt này</h2>\n<p>Các sửa đổi liên quan tới giao thức cho vay là việc riêng. Theo số liệu mới nhất được ghi nhận, sửa đổi cho vay chính có 19 phiếu và hệ thống vault mà nó phụ thuộc có 21 phiếu, cả hai cần 29 phiếu mới bắt đầu đếm ngược của riêng mình. Nếu đạt ngưỡng vào ngày 4/11, việc cho vay có thể được kích hoạt sớm nhất vào 18/11.</p>\n<h2>Tác động tới trader</h2>\n<p>Bản vá không đụng tới nguồn cung XRP, nên về cơ chế đây là tin hạ tầng chứ không phải tin về lượng cung. Phiên này không lấy được mức giá XRP đủ tin cậy để đưa vào bài, vì vậy bài không nêu số liệu giá.</p>\n<p>Với trader giữ vị thế XRP và các token phát hành trên XRPL, điểm cần theo dõi là hai mốc: việc bản vá có kích hoạt đúng giờ hay không (nếu validator rút ủng hộ, ngày lại bị lùi), và tiến độ phiếu của các sửa đổi cho vay và vault. Tin kiểu này thường chỉ tác động gián tiếp tới giá qua tâm lý về độ an toàn của mạng, nên biến động quanh thời điểm kích hoạt có thể nhỏ, nhưng không loại trừ khả năng chuyển động mạnh vì các yếu tố khác của thị trường, đặc biệt khi sàn giao dịch lớn vẫn đang chịu áp lực sau vụ hack gần đây.</p>\n<p>Trader futures nên nhớ rằng một bản nâng cấp mạng hiếm khi là lý do duy nhất khiến funding rate hay thanh lý thay đổi; các biến số vĩ mô và dòng tiền chung vẫn chi phối nhiều hơn. Công cụ tính vị thế và giá thanh lý có tại <a href=\"/cong-cu.html\">trang công cụ</a> để kiểm tra rủi ro trước khi vào lệnh.</p>",
+  "keywords": [
+   "XRP Ledger",
+   "XRPL",
+   "fixCleanup3_4_0",
+   "lỗi XRP Ledger",
+   "tin XRP"
+  ]
+ },
+ "en": {
+  "title": "XRP Ledger Fix for Token-Minting Flaw Due to Activate November 4",
+  "seo_title": "XRP Ledger Token-Minting Flaw Fix Due Nov 4",
+  "desc": "The XRP Ledger's fixCleanup3_4_0 amendment is due November 4 to stop burn-only permissions from minting new tokens. XRP's own supply is not affected.",
+  "lead": "The XRP Ledger is set to activate fixCleanup3_4_0 around 14:46 UTC on November 4, closing a flaw that let burn-only permissions create new issued tokens.",
+  "bullets": [
+   "The flaw sits in the delegated PaymentBurn permission: under certain conditions a burn-only account could mint an issuer's tokens, stablecoins included.",
+   "XRP's own supply is unaffected, and no report describes the flaw being exploited or names an affected issuer.",
+   "33 of 35 validators back the fix and at least 29 must hold; a dip below the threshold resets the two-week clock, and lending amendments could land November 18 at the earliest."
+  ],
+  "body_html": "<p>A fix for the XRP Ledger (XRPL) is due to activate at about 14:46 UTC on November 4, provided validator support holds. The amendment, called fixCleanup3_4_0, closes a flaw that could let an account authorized only to burn an issuer's tokens create new ones under certain conditions. It affects tokens issued by third parties on the ledger, stablecoins included, but not XRP's own supply.</p>\n<h2>What the flaw is</h2>\n<p>According to XRPL documentation, the delegated PaymentBurn permission is meant only to destroy tokens, but until the fix is live a delegate could mint trust line tokens or MPTs in some circumstances. The documentation advises against delegating the permission until the amendment is active. A typical case would be a payments provider working for a stablecoin issuer: it is allowed to burn tokens during redemptions, but should not be able to create them.</p>\n<p>None of the reports reviewed describe the flaw being exploited, and no affected issuer has been identified. Who found the bug has not been disclosed.</p>\n<p>The same package also corrects token recovery from trading pools, vault deposit and withdrawal math, and loan-status logic so loans are not marked late or in default before they are due.</p>\n<h2>Why the date slipped</h2>\n<p>An XRPL amendment needs more than 80% of trusted validators to back it without interruption for two weeks. The fix was first expected on October 23. On October 21, support dipped to 26 validators and recovered about two hours later, but that was enough to restart the two-week clock and push the earliest activation to November 4.</p>\n<p>Currently 33 of the 35 tracked validators support the fix, roughly 94%. At least 29 must keep backing it until the switch. If support falls below the threshold again, the countdown resets once more.</p>\n<h2>Lending amendments are a separate track</h2>\n<p>The lending-related amendments are not part of this activation. Latest figures show the main lending amendment at 19 votes and the vault system it depends on at 21, with 29 needed for each to start its own countdown. If both reach that level on Wednesday, lending could activate as early as November 18.</p>\n<h2>What it means for traders</h2>\n<p>The fix does not touch XRP's supply, so this is an infrastructure story rather than a supply story. A reliable XRP price could not be retrieved for this article, so no price figures are quoted.</p>\n<p>For anyone holding XRP or tokens issued on XRPL, two things are worth watching: whether the fix activates on schedule (another validator dip would push it back again) and how the vote count for the lending and vault amendments develops. News like this tends to affect price only indirectly, through sentiment about network safety, so the reaction around activation may be modest, although other market forces can easily dominate, especially while major exchanges are still under pressure after the recent hack.</p>\n<p>Futures traders should remember that a network upgrade is rarely the only driver of funding rates or liquidations; macro conditions and overall flows usually matter more. The <a href=\"/cong-cu.html\">position and liquidation calculator</a> can help check risk before opening a trade.</p>",
+  "keywords": [
+   "XRP Ledger",
+   "XRPL",
+   "fixCleanup3_4_0",
+   "XRP news",
+   "XRP amendment"
+  ]
+ },
+ "cats": [
+  "alt"
+ ],
+ "dir": "tin-tuc",
+ "slug_en": "xrp-ledger-fix-for-token-minting-flaw-due-to-activate",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "new-jersey-rut-lenh-cam-staking-coinbase"
+  },
+  {
+   "kind": "news",
+   "slug": "bny-luu-ky-xrp-rlusd-robinhood-ripple-ha-tang-ngan-hang"
+  }
+ ]
+}

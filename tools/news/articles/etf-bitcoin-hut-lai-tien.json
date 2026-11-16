@@ -1,0 +1,75 @@
+{
+ "slug": "etf-bitcoin-hut-lai-tien",
+ "slug_en": "bitcoin-etf-inflows-return",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd"
+  }
+ ],
+ "cat": "btc",
+ "cats": [
+  "btc"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-05T21:30:00+07:00",
+ "event": "US spot Bitcoin ETFs net inflow ~$74.6M on Nov 4 2026 ending 3-session outflow streak; FBTC +$237M, IBIT -$201M (4th straight outflow); Ether ETFs +$53M",
+ "src_urls": [
+  "https://cryptoslate.com/bitcoin-etfs-record-74-6-million-in-net-inflows-as-fbtc-offsets-ibit-withdrawals/",
+  "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound"
+ ],
+ "image": {
+  "src": "",
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến ngày của Bitcoin trên Binance với nhãn ETF flows",
+  "alt_en": "Bitcoin daily candlestick chart on Binance with an ETF flows label",
+  "caption_vi": "Bitcoin khung ngày, giao dịch quanh 79.500 USD sau khi chạm vùng 76.000 USD hôm 4/11.",
+  "caption_en": "Bitcoin daily chart, trading around 79,500 USD after touching the 76,000 USD area on Nov 4.",
+  "url": "/tin/img/etf-bitcoin-hut-lai-tien-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "ETF Bitcoin hút lại 74,6 triệu USD sau 3 phiên rút ròng, IBIT vẫn bị rút",
+  "seo_title": "ETF Bitcoin vào ròng 74,6 triệu USD, IBIT bị rút",
+  "desc": "ETF Bitcoin Mỹ có phiên dương đầu tiên sau 3 phiên rút ròng nhờ Fidelity FBTC, còn IBIT của BlackRock bị rút phiên thứ tư liên tiếp. Trader cần theo dõi gì?",
+  "lead": "ETF Bitcoin giao ngay tại Mỹ ghi nhận dòng vốn vào ròng 74,6 triệu USD ngày 4/11, chấm dứt chuỗi ba phiên rút ròng, nhưng IBIT vẫn bị rút tiếp.",
+  "bullets": [
+   "ETF Bitcoin giao ngay Mỹ vào ròng khoảng 74,6 triệu USD ngày 4/11, phiên dương đầu tiên sau ba phiên rút ròng tổng cộng khoảng 1,16 tỷ USD.",
+   "Fidelity FBTC thu về khoảng 237 triệu USD còn IBIT của BlackRock bị rút khoảng 201,2 triệu USD, phiên rút thứ tư liên tiếp.",
+   "ETF Ether cũng vào ròng khoảng 53 triệu USD, chấm dứt chuỗi bảy phiên rút ròng, nhưng dòng vốn lũy kế năm 2026 của ETF Bitcoin vẫn âm."
+  ],
+  "body_html": "<p>Các quỹ ETF Bitcoin giao ngay tại Mỹ ghi nhận dòng vốn vào ròng khoảng 74,6 triệu USD trong phiên 4/11, phiên dương đầu tiên sau ba phiên rút ròng liên tiếp. Quỹ Fidelity FBTC kéo tổng về mức dương, còn IBIT của BlackRock tiếp tục bị rút.</p>\n<h2>Diễn biến dòng tiền ngày 4/11</h2>\n<p>Theo số liệu Farside Investors, FBTC thu về khoảng 237 triệu USD, trong khi IBIT bị rút ròng khoảng 201,2 triệu USD. Ba quỹ khác cũng có tiền vào: ARKB 20 triệu USD, BITB 15 triệu USD và BTCO 4 triệu USD. Bảy quỹ còn lại không có dòng vốn ròng, nên chỉ bốn trong 12 sản phẩm được theo dõi kết thúc phiên ở mức dương.</p>\n<p>Đây là phiên IBIT bị rút thứ tư liên tiếp, với tổng cộng khoảng 935,2 triệu USD trong bốn phiên. Nói cách khác, mức dương của cả nhóm đến từ việc tiền dịch chuyển sang quỹ khác chứ chưa phải nhu cầu lan đều ở mọi sản phẩm.</p>\n<h2>Bối cảnh: chuỗi rút ròng trước đó</h2>\n<p>Trước phiên này, ETF Bitcoin bị rút ròng 643 triệu USD ngày 30/10, <a href=\"/tin-tuc/bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6\">399 triệu USD ngày 2/11</a> và 116 triệu USD ngày 3/11, tổng khoảng 1,16 tỷ USD. Tính từ đầu năm 2026, dòng vốn lũy kế của nhóm ETF Bitcoin vẫn âm khoảng 79 triệu USD sau phiên 4/11, theo số liệu dẫn trong báo cáo thị trường.</p>\n<p>Bên cạnh Bitcoin, các quỹ ETF Ether giao ngay thu về khoảng 53 triệu USD theo SoSoValue, chấm dứt chuỗi bảy phiên rút ròng tổng khoảng 657 triệu USD. Cộng cả hai nhóm, dòng vốn vào ròng vào khoảng 128 triệu USD.</p>\n<h2>Giá và nhận định</h2>\n<p>Bitcoin phục hồi lên trên 80.000 USD sau kết quả bầu cử giữa kỳ của Mỹ. Trên biểu đồ ngày của Binance, BTC giao dịch quanh 79.500 USD, giảm khoảng 1,3% trong phiên hiện tại, sau khi chạm vùng thấp quanh 76.000 USD hôm 4/11.</p>\n<p>Ông James Butterfill, giám đốc nghiên cứu của CoinShares, cho rằng thị trường đã phản ánh phần lớn khả năng Đảng Dân chủ thắng lớn, nên có dư địa phục hồi khi bất định giảm, và khuyên không gán quá nhiều biến động của Bitcoin cho kết quả bầu cử. Ông CK Zheng của ZX Squared Capital thì nhấn mạnh thanh khoản tiền tệ, dòng vốn tổ chức và khẩu vị rủi ro mới là yếu tố tác động trực tiếp hơn tới giá.</p>\n<h2>Tác động tới trader</h2>\n<p>Một phiên dương sau chuỗi rút ròng chưa đủ để kết luận về xu hướng dòng vốn. Điều trader nên theo dõi là phiên kế tiếp: nếu tiền vào lặp lại và lan sang nhiều quỹ hơn thay vì chỉ một quỹ, đó là tín hiệu nhu cầu tổ chức đang quay lại; còn nếu IBIT tiếp tục bị rút và FBTC không duy trì được, mức dương có thể chỉ là nhiễu ngắn hạn.</p>\n<p>Với người giao dịch futures, dòng ETF thường là thước đo cầu giao ngay, khác với đòn bẩy trên sàn phái sinh. Bản tin thị trường trong ngày cũng nhận xét đòn bẩy đang thiếu và nhu cầu còn yếu, nên các cú đảo chiều có thể diễn ra nhanh khi thanh khoản mỏng. Cổ phiếu công nghệ Mỹ cũng đang chịu áp lực bán, với hợp đồng tương lai Nasdaq 100 giảm gần 1%, và đây là yếu tố có thể ảnh hưởng tâm lý chung của tài sản rủi ro.</p>",
+  "keywords": [
+   "ETF Bitcoin",
+   "dòng tiền ETF",
+   "IBIT",
+   "FBTC",
+   "Bitcoin"
+  ]
+ },
+ "en": {
+  "title": "Bitcoin ETF Inflows Return at $74.6M as IBIT Outflows Continue",
+  "seo_title": "Bitcoin ETFs Take In $74.6M, IBIT Still Bleeds",
+  "desc": "US spot Bitcoin ETFs logged their first inflow after three outflow days as Fidelity's FBTC offset a fourth straight IBIT withdrawal. What traders should watch.",
+  "lead": "US spot Bitcoin ETFs took in $74.6 million on November 4, ending a three-session outflow streak, though BlackRock's IBIT kept losing assets.",
+  "bullets": [
+   "US spot Bitcoin ETFs drew about $74.6 million on November 4, the first positive session after three days of outflows totaling about $1.16 billion.",
+   "Fidelity's FBTC took in about $237 million while BlackRock's IBIT lost about $201.2 million, its fourth consecutive session of withdrawals.",
+   "Ether ETFs also gained about $53 million, ending a seven-session outflow run, yet cumulative 2026 flows for Bitcoin ETFs are still negative."
+  ],
+  "body_html": "<p>US spot Bitcoin ETFs took in roughly $74.6 million in net inflows on November 4, the first positive session after three straight days of withdrawals. Fidelity's FBTC pushed the total into the green, while BlackRock's IBIT kept bleeding assets.</p>\n<h2>What the November 4 flows looked like</h2>\n<p>Farside Investors data shows FBTC drew about $237 million while IBIT lost about $201.2 million. Three other funds also attracted money: ARKB with $20 million, BITB with $15 million and BTCO with $4 million. The remaining seven products recorded zero net flow, so only four of the 12 tracked funds finished the day in positive territory.</p>\n<p>It was IBIT's fourth consecutive session of outflows, adding up to about $935.2 million over four days. The group-level gain therefore reflects money rotating into other funds rather than demand spreading evenly across every product.</p>\n<h2>The outflow streak before it</h2>\n<p>Before the reversal, Bitcoin ETFs shed $643 million on October 30, <a href=\"/en/news/bitcoin-etfs-lose-399-million-as-ibit-sees-biggest-outflow\">$399 million on November 2</a> and $116 million on November 3, about $1.16 billion in total. Year to date, cumulative flows for the group remain negative by roughly $79 million after the November 4 session, according to figures cited in market coverage.</p>\n<p>Spot Ether ETFs also turned positive, pulling in about $53 million according to SoSoValue and snapping a seven-session outflow streak worth roughly $657 million. Across both groups, net inflows came to around $128 million.</p>\n<h2>Price action and analyst views</h2>\n<p>Bitcoin rebounded above $80,000 after the US midterm election results. On Binance's daily chart, BTC trades around $79,500, down about 1.3% on the current session, after touching the area near $76,000 on November 4.</p>\n<p>James Butterfill, head of research at CoinShares, said the market had already priced in much of a Democratic sweep, leaving room for a rebound as uncertainty faded, and cautioned against crediting too much of Bitcoin's move to the election. CK Zheng of ZX Squared Capital pointed to monetary liquidity, institutional flows and risk appetite as more direct drivers of price.</p>\n<h2>What it means for traders</h2>\n<p>One positive session after a long outflow streak is not enough to call a trend in flows. The next sessions matter more: if inflows repeat and broaden beyond a single fund, that would point to institutional demand returning, while continued IBIT outflows without follow-through from FBTC would suggest the gain was short-term noise.</p>\n<p>For futures traders, ETF flows are a gauge of spot demand, separate from leverage on derivatives venues. Market commentary on the day also described leverage as missing and demand as tepid, so reversals can come quickly when liquidity is thin. US tech stocks are also under selling pressure, with Nasdaq 100 futures down nearly 1%, which could weigh on sentiment across risk assets.</p>",
+  "keywords": [
+   "Bitcoin ETF",
+   "ETF flows",
+   "IBIT",
+   "FBTC",
+   "Bitcoin"
+  ]
+ },
+ "dir": "tin-tuc"
+}

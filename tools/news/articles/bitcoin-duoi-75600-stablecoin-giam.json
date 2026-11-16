@@ -1,0 +1,79 @@
+{
+ "slug": "bitcoin-duoi-75600-stablecoin-giam",
+ "slug_en": "bitcoin-below-cost-basis-stablecoin",
+ "cat": "btc",
+ "cats": [
+  "btc",
+  "pol"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-12T08:00:00+07:00",
+ "event": "Stablecoin supply falls $14.2B in 30 days, fastest since June 2022; BTC spot ETFs see $1.6B net outflows over 20 sessions",
+ "src_urls": [
+  "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+  "https://cryptoslate.com/bitcoin-faces-70000-test-as-14-2-billion-stablecoin-contraction-exposes-demand-weakness/",
+  "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi"
+ ],
+ "image": {
+  "src": "",
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến 4 giờ của Bitcoin trên Binance, nền tối",
+  "alt_en": "4-hour Bitcoin candlestick chart on Binance, dark theme",
+  "caption_vi": "Bitcoin khung 4 giờ, giá đóng cửa quanh 74.000 USD sau đỉnh gần 81.000 USD hôm 5/11.",
+  "caption_en": "Bitcoin 4-hour chart, closing near 74,000 USD after a peak near 81,000 USD on Nov 5.",
+  "url": "/tin/img/bitcoin-duoi-75600-stablecoin-giam-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Bitcoin dưới 75.600 USD khi stablecoin co lại nhanh nhất từ 2022",
+  "seo_title": "BTC dưới 75.600 USD, stablecoin giảm 14,2 tỷ",
+  "desc": "Tổng stablecoin giảm 14,2 tỷ USD trong 30 ngày, ETF Bitcoin rút ròng 1,6 tỷ USD. Vì sao dòng tiền yếu khiến giá khó bật lên và trader cần theo dõi gì.",
+  "lead": "Nguồn cung stablecoin co lại mạnh nhất kể từ tháng 6/2022, trong khi các quỹ ETF Bitcoin ở Mỹ rút ròng. Giá đang nằm dưới chi phí trung bình của người mua gần đây.",
+  "bullets": [
+   "Tổng stablecoin giảm khoảng 14,2 tỷ USD trong 30 ngày đến ngày 9/11, mức co lại nhanh nhất kể từ tháng 6/2022 từ một báo cáo on-chain.",
+   "Các quỹ ETF Bitcoin spot ở Mỹ rút ròng khoảng 1,6 tỷ USD trong 20 phiên giao dịch gần nhất.",
+   "Giá đã lùi xuống dưới chi phí trung bình của nhóm nắm giữ dưới 155 ngày, khoảng 75.600 USD, khiến phần lớn người mua gần đây đang lỗ."
+  ],
+  "body_html": "<p>Tổng lượng stablecoin trên thị trường đã co lại mạnh trong tháng qua, trong khi dòng tiền vào quỹ ETF Bitcoin ở Mỹ chuyển sang rút ròng. Hai xu hướng này khiến Bitcoin khó có thêm nguồn vốn mới để bật lên, và giá hiện nằm dưới chi phí trung bình của nhóm người mua gần đây.</p><h2>Stablecoin co lại nhanh nhất từ 2022</h2><p>Một báo cáo phân tích on-chain công bố ngày 11/11 cho biết tổng giá trị stablecoin giảm khoảng 14,2 tỷ USD trong 30 ngày đến ngày 9/11. Đây là mức co lại nhanh nhất kể từ tháng 6/2022, và tổng nguồn cung hiện còn dưới 280 tỷ USD.</p><p>Stablecoin thường được xem như tiền mặt của thị trường crypto, vì nhà giao dịch đưa tiền vào đó trước khi mua tài sản khác. Khi nguồn cung giảm, nghĩa là người nắm giữ đang đổi token lấy USD và rút vốn khỏi crypto, làm giảm nhiên liệu cho một đợt tăng giá mới. Báo cáo này cho rằng tín hiệu đảo chiều đầu tiên sẽ là khi nguồn cung stablecoin quay lại tăng.</p><h2>ETF rút ròng và người mua gần đây đang lỗ</h2><p>Các quỹ ETF Bitcoin spot ở Mỹ ghi nhận khoảng 1,6 tỷ USD rút ròng trong 20 phiên giao dịch gần nhất. Giá Bitcoin đã lùi xuống dưới chi phí trung bình của nhóm nắm giữ dưới 155 ngày, khoảng 75.600 USD, khiến phần lớn người mua gần đây đang ở trạng thái lỗ.</p><p>Một dữ liệu khác cho thấy khoảng 48.500 BTC, tương đương hơn 3,6 tỷ USD, được chuyển vào sàn trong 24 giờ, phần lớn ở mức lỗ. Lượng coin chuyển vào sàn khi người mua đang lỗ thường làm tăng áp lực bán nếu giá hồi về gần vùng hòa vốn. Chênh lệch giá trên Coinbase, thước đo nhu cầu từ người mua Mỹ, cũng âm liên tục 30 ngày.</p><p>Giá đang giao dịch quanh 74.000 USD, gần như đi ngang trong 4 giờ gần nhất theo biểu đồ phía trên. Trong phiên 11/11, chứng khoán Mỹ tăng nhưng Bitcoin đi ngang, khi lợi suất trái phiếu Mỹ kỳ hạn 10 năm quay lên quanh 5% sau số lạm phát cao hơn dự kiến. Thị trường hiện đang định giá khả năng Fed tăng lãi suất trong tháng 12.</p><h2>Tác động tới trader</h2><p>Với trader futures, hai chỉ số cần theo dõi là funding rate và open interest. Khi thanh khoản spot yếu và ETF tiếp tục rút ròng, một đợt hồi giá dễ gặp áp lực bán từ những người mua mới đang hòa vốn. Ngược lại, nếu nguồn cung stablecoin bắt đầu tăng trở lại và dòng ETF đảo chiều, đó là dấu hiệu vốn mới đang quay vào thị trường.</p><p>Trong bối cảnh này, biến động có thể mạnh theo cả hai chiều, vì phần lớn đòn bẩy đã được xả ra trong đợt giảm gần đây. Trader nên kiểm soát đòn bẩy và quy mô vị thế, và không coi một phiên hồi giá là xác nhận xu hướng mới khi dòng tiền vẫn chưa cải thiện.</p>",
+  "keywords": [
+   "bitcoin giá",
+   "stablecoin",
+   "ETF bitcoin rút ròng",
+   "bitcoin 75.600"
+  ]
+ },
+ "en": {
+  "title": "Bitcoin slips below $75,600 as stablecoin supply shrinks fastest since 2022",
+  "seo_title": "BTC below $75,600 as stablecoins shrink",
+  "desc": "Stablecoin supply fell $14.2B in 30 days and spot Bitcoin ETFs saw $1.6B in net outflows. Why weak liquidity keeps Bitcoin pinned and what traders should watch.",
+  "lead": "Stablecoin supply has contracted at its fastest pace since June 2022 while US spot Bitcoin ETFs post net redemptions, leaving the price below the average cost basis of recent buyers.",
+  "bullets": [
+   "Total stablecoin supply fell by about $14.2 billion over the 30 days to November 9, the fastest contraction since June 2022, per an on-chain analysis report.",
+   "US spot Bitcoin ETFs recorded roughly $1.6 billion in net redemptions across the last 20 trading sessions.",
+   "Price has slipped below the cost basis of holders of coins bought within the past 155 days, near 75,600 USD, leaving most recent buyers at a loss."
+  ],
+  "body_html": "<p>Stablecoin supply has shrunk sharply over the past month while US spot Bitcoin ETFs have turned to net redemptions. Together those two trends leave Bitcoin with fewer new sources of capital to fuel a rebound, and the price now sits below the average cost basis of recent buyers.</p><h2>Stablecoin supply shrinks at its fastest pace since 2022</h2><p>An on-chain analysis report published on November 11 shows total stablecoin supply fell by about $14.2 billion over the 30 days to November 9. That is the fastest contraction since June 2022, and total supply now sits just under $280 billion.</p><p>Stablecoins are often treated as the cash of the crypto market, since traders park money in them before buying other assets. When supply falls, holders are redeeming tokens for dollars and taking capital out of crypto, which removes fuel for a new rally. The report argues that the first sign of a turn would be stablecoin supply starting to grow again.</p><h2>ETF redemptions and recent buyers under water</h2><p>US spot Bitcoin ETFs recorded about $1.6 billion in net redemptions over the last 20 trading sessions. The price has dropped below the average cost basis of holders of coins bought within the past 155 days, around 75,600 USD, which leaves most recent buyers sitting at a loss.</p><p>Separate on-chain data shows roughly 48,500 BTC, worth more than $3.6 billion, moved to exchanges within 24 hours, mostly at a loss. Coins sent to exchanges by holders who are underwater tend to add selling pressure if the price recovers toward breakeven. The Coinbase premium, a gauge of US buying demand, has also stayed negative for 30 consecutive days.</p><p>Bitcoin is trading near 74,000 USD and has been roughly flat over the last four hours, according to the chart above. On November 11, US stocks rose while Bitcoin stayed flat, as the 10-year Treasury yield climbed back to about 5% after a hotter-than-expected inflation print. Markets are now pricing a possible Fed rate hike in December.</p><h2>What it means for traders</h2><p>For futures traders, funding rate and open interest are the two metrics to watch. When spot liquidity is weak and ETFs keep redeeming, a rebound can run into selling from recent buyers who are near breakeven. If stablecoin supply starts growing again and ETF flows turn positive, that would be a sign that fresh capital is returning.</p><p>Volatility in this setup can run in both directions, because much of the leverage was flushed out in the recent slide. Traders should keep leverage and position size under control, and should not treat one bounce as confirmation of a new trend while capital flows have not improved.</p>",
+  "keywords": [
+   "bitcoin price",
+   "stablecoin supply",
+   "bitcoin ETF outflows",
+   "bitcoin 75,600"
+  ]
+ },
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd"
+  },
+  {
+   "kind": "learn",
+   "slug": "open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi"
+  }
+ ],
+ "dir": "tin-tuc"
+}

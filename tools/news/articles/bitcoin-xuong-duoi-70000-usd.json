@@ -1,0 +1,80 @@
+{
+ "slug": "bitcoin-xuong-duoi-70000-usd",
+ "slug_en": "bitcoin-falls-below-70000-etf",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-11-11"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-thung-73000-nvidia"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-duoi-75600-stablecoin-giam"
+  }
+ ],
+ "cat": "btc",
+ "cats": [
+  "btc",
+  "pol"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-13T21:33:00+07:00",
+ "event": "Bitcoin falls below 70,000 USD to a 3-month low as spot ETF outflows run six sessions and CPI comes in hotter than expected",
+ "src_urls": [
+  "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear",
+  "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand"
+ ],
+ "image": {
+  "src": "",
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến 4 giờ của Bitcoin trên TradingView, giá giảm từ trên 72.000 USD xuống quanh 69.000 USD",
+  "alt_en": "Bitcoin 4-hour candlestick chart on TradingView, price falling from above 72,000 USD to around 69,000 USD",
+  "caption_vi": "Bitcoin khung 4 giờ, giá lao từ trên 72.000 USD xuống dưới mốc 70.000 USD trong phiên thứ Sáu.",
+  "caption_en": "Bitcoin 4-hour chart, price dropping from above 72,000 USD through the 70,000 USD level on Friday.",
+  "url": "/tin/img/bitcoin-xuong-duoi-70000-usd-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Bitcoin xuống dưới 70.000 USD khi ETF rút ròng và CPI nóng hơn dự kiến",
+  "seo_title": "Bitcoin dưới 70.000 USD, ETF rút ròng 6 phiên",
+  "desc": "Bitcoin xuống dưới 70.000 USD, thấp nhất từ giữa tháng 8. ETF rút ròng liên tiếp, CPI nóng và thị trường đặt cược Fed có thể tăng lãi suất trong năm nay.",
+  "lead": "Bitcoin giảm xuống dưới 70.000 USD vào thứ Sáu 13/11, mức thấp nhất kể từ giữa tháng 8. Áp lực đến từ dòng tiền ETF rút ròng liên tục, thanh khoản mỏng và lạm phát tháng 10 cao hơn dự kiến.",
+  "bullets": [
+   "Bitcoin giảm hơn 5% trong ngày, chạm 67.922 USD rồi giao dịch quanh 69.000 USD, thấp nhất kể từ giữa tháng 8.",
+   "Quỹ ETF Bitcoin giao ngay tại Mỹ rút ròng sáu phiên liên tiếp, còn độ sâu sổ lệnh giảm khoảng 33% so với mức thường lệ.",
+   "CPI tháng 10 tăng 0,4% và cao hơn dự kiến, khiến thị trường đặt cược mạnh hơn vào khả năng Fed tăng lãi suất."
+  ],
+  "body_html": "<p>Bitcoin đã giảm xuống dưới 70.000 USD trong phiên thứ Sáu, mức thấp nhất kể từ giữa tháng 8. Trong ngày, giá từng chạm 67.922 USD trước khi hồi nhẹ về quanh 69.000 USD. Đà giảm xuất hiện sau một chuỗi tín hiệu xấu về dòng tiền và vĩ mô.</p><h2>Diễn biến chính</h2><p>Một nhà phân tích cho rằng cú giảm được kích hoạt chủ yếu bởi việc thanh lý tập trung các vị thế mua có đòn bẩy, chứ không phải một tin riêng lẻ. Trong ngày, giá giảm khoảng 5–6%, còn chỉ số tâm lý thị trường crypto rơi xuống 20, vùng sợ hãi cực độ và là mức thấp nhất trong hơn bốn tháng.</p><p>Trong một tuần qua, Bitcoin đã mất gần 9% giá trị. Khi giá rơi qua các mức hỗ trợ tâm lý, nhiều vị thế mua có đòn bẩy bị ép đóng, khiến lực bán tự củng cố.</p><h2>Dòng tiền ETF và thanh khoản</h2><p>Các quỹ ETF Bitcoin giao ngay tại Mỹ đã rút ròng sáu phiên liên tiếp. Riêng quỹ IBIT của BlackRock ghi nhận hơn 2 tỷ USD rút ròng trong chín phiên giao dịch đến hết thứ Tư. Theo một nhà phân tích, nguồn cung stablecoin đang co lại và việc MSCI sắp loại Strategy khỏi các chỉ số khiến ba trụ cột hỗ trợ dòng tiền của đợt tăng trước đó cùng chịu áp lực.</p><p>Về thanh khoản, một công ty giao dịch tổ chức ghi nhận độ sâu sổ lệnh Bitcoin trên các sàn lớn vào ngày 9/11 chỉ còn khoảng 72 triệu USD, thấp hơn khoảng 33% so với mức bình thường. Khi sổ lệnh mỏng, một lệnh bán lớn có thể đẩy giá xuống nhanh hơn nhiều.</p><h2>Bối cảnh vĩ mô</h2><p>Chỉ số giá tiêu dùng (CPI) tháng 10 tăng 0,4% so với tháng trước, còn lạm phát lõi tăng 0,3%, cao hơn kỳ vọng. Dữ liệu này khiến thị trường đặt cược mạnh hơn vào khả năng Fed tăng lãi suất. Công cụ theo dõi xác suất của CME cho khoảng 88% khả năng một lần tăng 25 điểm cơ bản, còn thị trường dự báo Polymarket đặt xác suất khoảng 97% rằng Fed sẽ tăng lãi suất trong năm nay.</p><p>Lợi suất trái phiếu Mỹ kỳ hạn 10 năm đã vượt 5%, đồng đô la mạnh lên và vàng cũng giảm. Từ 5 đến 12/11, Bitcoin giảm gần 6% trong khi Nasdaq 100 tăng khoảng 6,4%, cho thấy Bitcoin đang phản ứng nhiều hơn với lợi suất và đô la thay vì với cổ phiếu công nghệ. Việc CEO Nvidia Jensen Huang từ chức cũng làm tăng biến động ở nhóm cổ phiếu công nghệ, theo một nhà phân tích, và làm giảm thêm khẩu vị rủi ro.</p><h2>Tác động tới trader</h2><p>Với người giao dịch futures, điểm đáng chú ý là vụ thanh lý vị thế mua tập trung cho thấy đòn bẩy vẫn đang khuếch đại biến động. Khi đòn bẩy còn ở mức cao và sổ lệnh mỏng, biến động hai chiều có thể mạnh hơn bình thường, và một nhịp hồi ngắn cũng dễ bị bán lại.</p><p>Điều cần theo dõi tiếp là dòng tiền ETF có đảo sang mua ròng hay không, số liệu lạm phát và phát biểu của Fed trong những tuần tới, cũng như lợi suất trái phiếu Mỹ có tiếp tục nằm trên 5% hay không. Bài này chỉ mô tả diễn biến và các yếu tố liên quan, không phải khuyến nghị giao dịch.</p>",
+  "keywords": [
+   "bitcoin 70000",
+   "bitcoin giảm",
+   "ETF bitcoin rút ròng",
+   "CPI Mỹ",
+   "thanh lý futures"
+  ]
+ },
+ "en": {
+  "title": "Bitcoin Falls Below $70,000 as ETF Outflows and Hot CPI Weigh",
+  "seo_title": "Bitcoin Below $70K: ETF Outflows Deepen Selloff",
+  "desc": "Bitcoin dropped below $70,000, its lowest level since mid-August. Six straight days of ETF outflows, hot CPI and rising Fed hike bets add pressure this year.",
+  "lead": "Bitcoin fell below $70,000 on Friday, November 13, its lowest level since mid-August. Pressure came from persistent spot ETF outflows, thin liquidity and October inflation running hotter than expected.",
+  "bullets": [
+   "Bitcoin fell more than 5% on the day, touching $67,922 before recovering to around $69,000, its lowest level since mid-August.",
+   "US spot Bitcoin ETFs logged six straight sessions of net outflows, while order-book depth fell about 33% below normal levels.",
+   "October CPI rose 0.4% and came in hotter than expected, pushing markets to price in a higher chance of a Fed rate hike this year."
+  ],
+  "body_html": "<p>Bitcoin dropped below $70,000 during Friday's session, its lowest level since mid-August. Intraday, the price touched $67,922 before recovering to around $69,000. The slide followed a run of negative signals on capital flows and macro conditions.</p><h2>What drove the drop</h2><p>One analyst said the move was triggered mainly by a concentrated liquidation of leveraged long positions rather than by a single headline. The day's decline was roughly 5 to 6 percent, and the crypto market's fear gauge fell to 20, its lowest reading in more than four months.</p><p>Bitcoin has lost close to 9 percent over the past week. As the price broke through psychological support levels, leveraged long positions were forced to close, which pushed selling pressure further.</p><h2>ETF flows and liquidity</h2><p>US spot Bitcoin ETFs have now recorded six straight days of net outflows. BlackRock's iShares Bitcoin Trust alone shed more than $2 billion across nine trading sessions through Wednesday. According to one analyst, stablecoin supply is shrinking and MSCI's decision to remove Strategy from its indexes adds to pressure on three pillars that supported the earlier rally.</p><p>On liquidity, one institutional trading firm measured Bitcoin order-book depth across major exchanges at about $72 million on November 9, roughly 33 percent below normal. When the order book is this thin, a single large sell order can push prices down much faster.</p><h2>Macro backdrop</h2><p>October's consumer price index rose 0.4 percent from the previous month, and core inflation rose 0.3 percent, both hotter than expected. That shifted expectations toward a Fed rate hike. A CME FedWatch reading showed about an 88 percent chance of a 25-basis-point increase, while Polymarket traders priced roughly a 97 percent chance of a Fed hike this year.</p><p>The 10-year US Treasury yield has climbed above 5 percent, the dollar has strengthened and gold has also fallen. Between November 5 and 12, Bitcoin dropped about 5.9 percent while the Nasdaq 100 gained 6.4 percent, suggesting Bitcoin is reacting more to yields and the dollar than to tech stocks. Nvidia CEO Jensen Huang's resignation also added volatility to tech shares, which one analyst said further dampened risk appetite.</p><h2>What it means for traders</h2><p>For futures traders, the key point is that a concentrated liquidation of long positions shows leverage is still amplifying moves. With leverage elevated and order books thin, price swings in both directions can be sharper than usual, and short rebounds can be sold quickly.</p><p>Over the coming weeks, watch whether ETF flows turn back to net buying, the next inflation data and Fed commentary, and whether the 10-year yield holds above 5 percent. This article describes the market move and its drivers. It is not trading advice.</p>",
+  "keywords": [
+   "bitcoin below 70000",
+   "bitcoin price drop",
+   "bitcoin ETF outflows",
+   "US CPI bitcoin",
+   "crypto liquidations"
+  ]
+ },
+ "dir": "tin-tuc"
+}

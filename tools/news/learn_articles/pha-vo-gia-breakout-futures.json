@@ -1,0 +1,64 @@
+{
+ "slug": "pha-vo-gia-breakout-futures",
+ "slug_en": "false-breakout-confirmation-futures",
+ "cat": "tr",
+ "coin": "BTC",
+ "ts": "2026-11-14T20:00:00+07:00",
+ "related": [
+  {
+   "kind": "learn",
+   "slug": "fomo-khi-trade-futures"
+  },
+  {
+   "kind": "learn",
+   "slug": "cau-truc-dinh-day-futures"
+  },
+  {
+   "kind": "learn",
+   "slug": "gong-lo-doi-cat-lo"
+  }
+ ],
+ "image": {
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ 4 giờ BTC/USDT vĩnh cửu trên Binance, đường kháng cự 81.271 USD đánh dấu ví dụ phá vỡ giả",
+  "alt_en": "4-hour BTC/USDT perpetual chart on Binance with a 81,271 USD resistance line marking a false breakout example",
+  "caption_vi": "BTC/USDT vĩnh cửu trên Binance, khung 4 giờ, đường kháng cự 81.271 USD, ví dụ ngày 28/10/2026 (đã xảy ra)",
+  "caption_en": "BTC/USDT perpetual on Binance, 4-hour chart, resistance line at 81,271 USD, example from 28 October 2026 (past)",
+  "url": "/hoc/img/pha-vo-gia-breakout-futures-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Phá vỡ giả là gì và cách xác nhận breakout trước khi vào lệnh Futures",
+  "seo_title": "Phá vỡ giả là gì và cách xác nhận breakout",
+  "desc": "Phá vỡ giả là khi giá vượt một vùng kháng cự rồi quay lại dưới vùng đó. Bài nêu bốn cách xác nhận breakout và đọc một ví dụ BTC đã xảy ra trên khung 4 giờ.",
+  "lead": "Breakout là lúc giá vượt một vùng giá quan trọng. Nhưng không ít lần giá chỉ vượt rồi quay lại, và người vào lệnh sớm thường là bên chịu lỗ.",
+  "body_html": "<p>Breakout (phá vỡ) là lúc giá vượt qua một vùng kháng cự hoặc hỗ trợ đã được thị trường kiểm tra nhiều lần. Phá vỡ giả (false breakout) là trường hợp giá vượt qua vùng đó nhưng không giữ được, rồi quay lại phía bên kia. Người mua <a href=\"/kien-thuc/fomo-khi-trade-futures\">đuổi theo cú vượt</a> thường là người gánh phần lỗ lớn nhất khi điều này xảy ra.</p>\n<p>[[rel:1]]</p>\n<h2>Vì sao phá vỡ giả xảy ra</h2>\n<p>Các vùng gần đỉnh cũ thường có nhiều lệnh chờ, gồm lệnh mua dừng phía trên mức và lệnh cắt lỗ của phe bán. Khi giá chạm vùng này, một đợt mua mạnh có thể kích hoạt các lệnh đó và đẩy giá lên nhanh. Nếu lực mua không tiếp tục, phe bán lấy lại thế chủ động và giá quay về. Một cú vượt vì vậy có thể chỉ là thanh khoản được kích hoạt, chưa phải xu hướng mới.</p>\n<h2>Bốn dấu hiệu cần kiểm tra trước khi tin vào breakout</h2>\n<ul><li><strong>Đóng cửa nến trên vùng, không chỉ râu nến:</strong> râu vượt qua mức rồi đóng dưới mức đó là dấu hiệu bị từ chối ở vùng giá cao.</li><li><strong>Giữ được qua nhiều nến:</strong> ít nhất hai nến đóng cửa liên tiếp trên vùng và, nếu có thể, một lần kiểm tra lại (retest) mà giá không rơi xuống dưới.</li><li><strong>Khối lượng xác nhận:</strong> khối lượng nến phá vỡ cao hơn mức trung bình gần đây, và các nến sau không bị lực bán áp đảo.</li><li><strong>Mức vô hiệu rõ ràng:</strong> trước khi vào, phải biết giá đóng cửa ở đâu thì luận điểm breakout bị bác bỏ. Mức này thường nằm dưới vùng vừa bị phá.</li></ul>\n<p>Không dấu hiệu nào đảm bảo đúng tuyệt đối. Bốn tiêu chí này chỉ giảm số lần bị bẫy, và chúng cần đi cùng quy tắc cắt lỗ đã định trước.</p>\n<h2>Ví dụ BTC ngày 28/10/2026 trên khung 4 giờ</h2>\n<p>Ảnh bìa là biểu đồ 4 giờ của hợp đồng vĩnh cửu BTC/USDT trên Binance, có đường kháng cự tại 81.271 USD. Mức này là đỉnh cao nhất trong 24 nến 1 giờ trước đó. Đây là ví dụ đã xảy ra để minh hoạ, không phải tín hiệu cho lệnh mới.</p>\n<p>Trên khung 4 giờ, các diễn biến này nằm trong một vài cây nến, nên bài dùng dữ liệu nến 1 giờ để đọc chi tiết. Lúc 15:00 ngày 28/10 (giờ Việt Nam), nến 1 giờ đóng cửa ở 81.446 USD, cao hơn mức 81.271 USD. Khối lượng nến đó khoảng 3 lần trung bình của 24 nến trước, nên dấu hiệu khối lượng khá rõ. Các nến 16:00 và 17:00 tiếp tục đóng cửa trên 81.400 USD. Đến 18:00, nến đóng ở 81.298 USD, chỉ cao hơn mức kháng cự khoảng 27 USD.</p>\n<p>Nến 19:00 mở cửa gần 81.298 USD, xuống thấp nhất 80.670 USD và đóng ở 80.708 USD. Sáu nến 1 giờ liên tiếp sau đó đều đóng cửa dưới 81.271 USD. Đến 02:00 ngày 29/10, giá quay lại và đóng trên mức này ở 81.545 USD. Một nến đơn lẻ, theo chiều nào, cũng chưa đủ để kết luận, đó là lý do cần xác định trước mức vô hiệu và thời gian chấp nhận sai.</p>\n<h2>Điều ví dụ dạy được</h2>\n<p>Thứ nhất, đóng cửa trên vùng kháng cự chỉ là điều kiện cần. Ở nến 18:00, khoảng cách chỉ khoảng 27 USD, nên mọi quyết định dựa trên đó sẽ rất nhạy với nhiễu. Thứ hai, một cú phá vỡ với khối lượng lớn cho thấy nhiều người tham gia, nhưng không cho biết họ đang mua hay đang bán. Thứ ba, không ai biết trước giá sẽ đi đâu, nên việc thực tế cần làm là định sẵn điều kiện chứng minh mình sai.</p>\n<h2>Những lỗi hay gặp</h2>\n<ul><li><strong>Vào ngay khi giá vượt mức</strong>, chưa chờ nến đóng cửa, nên thường mua ở đỉnh râu nến.</li><li><strong>Bỏ qua khối lượng và nến đóng cửa</strong>, chỉ nhìn vào đường kẻ trên biểu đồ.</li><li><strong>Dời mức vô hiệu xuống thấp</strong> khi giá quay lại, khiến một luận điểm đã sai vẫn bị giữ.</li></ul>\n<h2>Tóm lại</h2>\n<p>Phá vỡ giả là cú vượt qua vùng quan trọng rồi không giữ được. Trước khi tin vào breakout, hãy kiểm tra nến đóng cửa, số nến giữ vững, khối lượng và mức bác bỏ. Các bước này không đảm bảo thắng, nhưng giúp hạn chế việc vào lệnh theo một nến đơn lẻ.</p>",
+  "keywords": [
+   "phá vỡ giả",
+   "false breakout",
+   "xác nhận breakout",
+   "breakout futures",
+   "kháng cự là gì"
+  ]
+ },
+ "en": {
+  "title": "What a false breakout is and how to confirm a breakout before a futures trade",
+  "seo_title": "False Breakouts: How to Confirm a Breakout",
+  "desc": "A false breakout is a move above resistance that falls back. Learn four checks to confirm a breakout before a futures trade, with a real BTC 4-hour example.",
+  "lead": "A breakout is when price moves through an important level. Many breakouts fail, and traders who enter too early are often the ones who take the loss.",
+  "body_html": "<p>A breakout happens when price moves above a level the market has tested several times, such as a prior high. A false breakout is when price moves above that level but cannot hold it and falls back underneath. Traders who <a href=\"/en/learn/fomo-trading-chasing-candles\">chase the first push</a> often take the largest losses when this happens.</p>\n<p>[[rel:1]]</p>\n<h2>Why false breakouts happen</h2>\n<p>Areas near old highs often hold many pending orders, including buy stop orders above the level and stop losses from short sellers. When price reaches the area, a strong buying push can trigger those orders and lift price quickly. If buying does not continue, sellers regain control and price returns. A breakout can therefore be a liquidity event rather than the start of a new trend.</p>\n<h2>Four checks before you trust a breakout</h2>\n<ul><li><strong>A close above the level, not just a wick:</strong> a wick that pierces the level and closes back below it shows rejection at higher prices.</li><li><strong>Holding across several candles:</strong> at least two consecutive closes above the level and, where possible, a retest that does not fall back below it.</li><li><strong>Volume that confirms:</strong> the breakout candle's volume is above its recent average, and the candles after it are not dominated by selling.</li><li><strong>A clear invalidation level:</strong> before entering, decide which close would cancel the breakout idea. This is usually below the level that was broken.</li></ul>\n<p>None of these checks guarantees a result. They reduce the chance of being trapped, and they work best alongside a stop loss set in advance.</p>\n<h2>A BTC example from 28 October 2026 on the 4-hour chart</h2>\n<p>The cover image is a 4-hour chart of the BTC/USDT perpetual contract on Binance, with a resistance line at 81,271 USD. That level was the highest price in the prior 24 one-hour candles. This is a past example used for illustration, not a signal for a new trade.</p>\n<p>On the 4-hour chart these moves occupy only a few candles, so the detail below uses the 1-hour data. At 15:00 on 28 October (Vietnam time), the 1-hour candle closed at 81,446 USD, above 81,271 USD. Its volume was about three times the average of the previous 24 candles. The 16:00 and 17:00 candles kept closing above 81,400 USD. At 18:00 the close was 81,298 USD, only about 27 USD above the level.</p>\n<p>The 19:00 candle opened near 81,298 USD, fell to 80,670 USD and closed at 80,708 USD. The next six hourly closes all stayed below 81,271 USD. At 02:00 on 29 October, price closed back above the level at 81,545 USD. A single candle in either direction does not settle the question, which is why defining the invalidation rule before entry matters.</p>\n<h2>What the example teaches</h2>\n<p>First, a close above resistance is a necessary condition, not a sufficient one. At 18:00 the margin was about 27 USD, so any decision based on it would have been very sensitive to noise. Second, a breakout on heavy volume shows that many participants were active, but not which side they were on. Third, nobody knows the next move in advance, so the practical task is to define beforehand what would prove the idea wrong.</p>\n<h2>Common mistakes</h2>\n<ul><li><strong>Entering the moment price crosses the level</strong>, before any candle closes, which often means buying near a wick high.</li><li><strong>Ignoring volume and closes</strong> and looking only at the drawn line.</li><li><strong>Moving the invalidation level lower</strong> when price returns, which keeps a failed idea alive.</li></ul>\n<h2>Summary</h2>\n<p>A false breakout is a move through an important level that cannot be held. Before trusting a breakout, check the close, the number of candles that hold, volume, and the level that would cancel the idea. These checks do not guarantee a win, but they reduce the chance of acting on a single candle.</p>",
+  "keywords": [
+   "false breakout",
+   "breakout confirmation",
+   "futures breakout",
+   "resistance level",
+   "crypto trading"
+  ]
+ },
+ "event": "Phá vỡ giả là gì và cách xác nhận breakout trước khi vào lệnh Futures",
+ "cats": [
+  "tr"
+ ],
+ "dir": "kien-thuc"
+}

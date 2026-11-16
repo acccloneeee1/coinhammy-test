@@ -1,0 +1,62 @@
+{
+ "slug": "cau-truc-dinh-day-futures",
+ "slug_en": "higher-highs-lower-lows-trend",
+ "cat": "tr",
+ "coin": "BTC",
+ "ts": "2026-11-12T20:05:00+07:00",
+ "image": {
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến 4 giờ của Bitcoin trên Binance với các đỉnh hồi thấp dần đầu tháng 11/2026",
+  "alt_en": "Bitcoin 4-hour candlestick chart on Binance with successively lower rally peaks in early November 2026",
+  "caption_vi": "Bitcoin khung 4 giờ, các nhịp hồi đầu tháng 11/2026 có đỉnh thấp dần, giá dao động quanh vùng 72.000 đến 81.000 USD",
+  "caption_en": "Bitcoin 4-hour chart, early November 2026 rallies peaking lower each time, price between about 72,000 and 81,000 USD",
+  "url": "/hoc/img/cau-truc-dinh-day-futures-h.jpg"
+ },
+ "images": [],
+ "related": [
+  {
+   "kind": "learn",
+   "slug": "cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac"
+  },
+  {
+   "kind": "learn",
+   "slug": "gong-lo-doi-cat-lo"
+  },
+  {
+   "kind": "learn",
+   "slug": "fomo-khi-trade-futures"
+  }
+ ],
+ "vi": {
+  "title": "Cấu trúc đỉnh đáy là gì và cách xác định xu hướng trước khi vào lệnh Futures",
+  "seo_title": "Cấu trúc đỉnh đáy và xác định xu hướng Futures",
+  "desc": "Cấu trúc đỉnh đáy là cách đọc chuỗi đỉnh và đáy để biết xu hướng tăng, giảm hay đi ngang trước khi vào lệnh Futures, kèm ví dụ Bitcoin khung 4 giờ đầu tháng 11.",
+  "lead": "Cấu trúc đỉnh đáy là cách đọc chuỗi các đỉnh và đáy liên tiếp của giá để biết xu hướng đang đi lên, đi xuống hay đi ngang.",
+  "body_html": "<p>Cấu trúc đỉnh đáy là cách đọc chuỗi các đỉnh và đáy liên tiếp của giá để biết xu hướng đang đi lên, đi xuống hay đi ngang. Trước khi vào lệnh, đây là bước cho biết lệnh đang đi cùng hay ngược dòng quán tính của thị trường.</p>\n<p>Nhiều người mới nhìn chỉ báo trước rồi mới nhìn giá. Cấu trúc đỉnh đáy làm ngược lại: đọc hình dạng của giá trước, rồi mới xem chỉ báo nào xác nhận. Bài này giải thích cách nhận diện xu hướng bằng đỉnh và đáy, cách kiểm tra trên nhiều khung thời gian và cách dùng kết quả để cân nhắc lệnh, không phải để dự đoán giá.</p>\n<h2>Đỉnh đáy là gì và xu hướng được xác định ra sao</h2>\n<p>Đỉnh là mức giá cao hơn các cây nến xung quanh, đáy là mức thấp hơn các nến xung quanh. Khi nối các đỉnh và đáy liên tiếp, có ba trường hợp:</p>\n<ul><li><strong>Xu hướng tăng:</strong> đỉnh sau cao hơn đỉnh trước (higher high) và đáy sau cao hơn đáy trước (higher low).</li><li><strong>Xu hướng giảm:</strong> đỉnh sau thấp hơn đỉnh trước (lower high) và đáy sau thấp hơn đáy trước (lower low).</li><li><strong>Đi ngang:</strong> đỉnh và đáy nằm quanh cùng một vùng giá, không tạo được chuỗi cao dần hay thấp dần rõ rệt.</li></ul>\n<p>Điểm quan trọng là chuỗi phải liên tục. Một đỉnh cao hơn đơn lẻ chưa đủ để nói xu hướng đã đổi. Cần đáy kế tiếp cũng nâng lên thì cấu trúc tăng mới được xác nhận.</p>\n<h2>Ví dụ trên Bitcoin khung 4 giờ đầu tháng 11/2026</h2>\n<p>Trên khung 4 giờ của hợp đồng BTCUSDT, từ cuối tháng 10 đến 12/11/2026, giá có các nhịp hồi chính. Dữ liệu nến ngày cho thấy đỉnh khoảng 81.950 USD vào 29/10, khoảng 81.190 USD vào 04/11 và khoảng 80.890 USD vào 05/11. Mỗi đỉnh thấp hơn đỉnh trước, và sau đó giá giảm mạnh.</p>\n<p>Ở phía đáy, giá xuống 75.158 USD vào 05/11, rồi 74.811 USD vào 06/11, 73.333 USD vào 08/11 và 72.691 USD vào 10/11. Mỗi đáy đều thấp hơn đáy trước. Trên khung ngày, các đỉnh tiếp tục thấp dần: 76.381 USD (06/11), 75.575 USD (09/11), 75.411 USD (10/11), 74.771 USD (11/11) và 74.192 USD (12/11). Cấu trúc này nghiêng về xu hướng giảm trong ngắn hạn, dù giá vẫn có các phiên hồi.</p>\n<h2>Cách kiểm tra xu hướng trên nhiều khung thời gian</h2>\n<p>Một cấu trúc trên một khung chỉ là một phần bức tranh. Nên xem khung ngày để biết xu hướng lớn, khung 4 giờ để chọn vùng đáng chú ý, và khung 1 giờ để quan sát nhịp ngắn hạn. Nếu khung lớn giảm nhưng khung nhỏ tăng, đó là một nhịp hồi ngược xu hướng. Rủi ro lúc này cao hơn, và nó không phải tín hiệu đảo chiều.</p>\n<ul><li>Khung ngày: xác định xu hướng chính bằng cách đếm đỉnh đáy trong 20 đến 30 phiên gần nhất.</li><li>Khung 4 giờ: tìm đỉnh hoặc đáy gần nhất để đặt mốc cắt lỗ theo cấu trúc.</li><li>Khung 1 giờ: quan sát giá phản ứng thế nào khi chạm vùng đó, không dùng để đoán hướng tiếp theo.</li></ul>\n<h2>Dùng cấu trúc để đặt cắt lỗ, không để đoán đáy</h2>\n<p>Cách an toàn hơn là đặt cắt lỗ ở phía bên kia của cấu trúc. Với lệnh theo xu hướng giảm, đỉnh gần nhất là mốc sẽ bị phá nếu nhận định sai. Với lệnh theo xu hướng tăng, đáy gần nhất giữ vai trò đó. Khoảng cách từ giá vào đến mốc này nên được đối chiếu với <a href=\"/kien-thuc/cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac\">biên độ dao động trung bình (ATR)</a>, để tránh đặt cắt lỗ quá sát khiến nhiễu nến làm lệnh bị đóng sớm.</p>\n<p>Ví dụ minh họa: trên khung 4 giờ, ATR14 đến 12/11/2026 khoảng 847 USD. Một mốc cắt lỗ đặt cách giá vào 3 lần ATR sẽ cách khoảng 2.541 USD. Con số này chỉ minh họa cách tính, không phải gợi ý vào lệnh.</p>\n<p>[[rel:1]]</p>\n<h2>Các lỗi người mới hay gặp</h2>\n<p>Lỗi đầu tiên là mua khi giá đang rơi mạnh chỉ vì giá đã giảm nhiều, trong khi xu hướng vẫn là giảm. Lỗi thứ hai là coi một cây nến hồi mạnh là đã đổi xu hướng, trong khi chuỗi đỉnh đáy chưa bị phá. Lỗi thứ ba là vẽ quá nhiều đường, khiến đoạn giá nào cũng có vẻ có cấu trúc. Nên chỉ đánh dấu những đỉnh và đáy rõ ràng, đã được giá kiểm tra.</p>\n<h2>Tóm lại</h2>\n<p>Cấu trúc đỉnh đáy trả lời câu hỏi lệnh đang đi cùng hay ngược dòng xu hướng. Đọc trên ba khung thời gian, đối chiếu với ATR và đặt cắt lỗ theo cấu trúc giúp quyết định bớt cảm tính hơn. Cấu trúc chỉ mang tính xác suất và không đảm bảo giá đi đúng hướng.</p>",
+  "keywords": [
+   "cấu trúc đỉnh đáy",
+   "xác định xu hướng",
+   "lệnh Futures",
+   "higher high lower low"
+  ]
+ },
+ "en": {
+  "title": "Higher highs and lower lows: how to read trend structure before a futures trade",
+  "seo_title": "Higher Highs and Lower Lows Trend Guide",
+  "desc": "Learn how higher highs, higher lows, lower highs and lower lows reveal trend direction, with a worked Bitcoin 4-hour example before opening a futures trade.",
+  "lead": "Higher highs and lower lows are the simplest way to read trend direction from price alone.",
+  "body_html": "<p>Higher highs and lower lows are the simplest way to read trend direction from price alone. Before opening a futures position, checking this structure shows whether the trade runs with or against the market's current momentum.</p>\n<p>Many newer traders look at indicators first and price second. Structure reverses that order: read the shape of price first, then check whether any indicator confirms it. This article explains how to identify a trend from swing highs and lows, how to check it across several timeframes, and how to use the result when weighing a trade, not how to predict the next move.</p>\n<h2>What swing highs and lows tell you about trend</h2>\n<p>A swing high is a price peak higher than the candles around it, and a swing low is a trough lower than the candles around it. Connecting consecutive swings gives three possible structures:</p>\n<ul><li><strong>Uptrend:</strong> each swing high is above the previous one (higher high) and each swing low is above the previous one (higher low).</li><li><strong>Downtrend:</strong> each swing high is below the previous one (lower high) and each swing low is below the previous one (lower low).</li><li><strong>Range:</strong> highs and lows cluster around the same price zone without a clear rising or falling sequence.</li></ul>\n<p>The sequence has to be continuous. One higher peak does not prove the trend has changed. The next low must also rise before an uptrend structure is confirmed.</p>\n<h2>A worked example on Bitcoin's 4-hour chart in November 2026</h2>\n<p>On the 4-hour chart of the BTCUSDT perpetual contract, from late October to 12 November 2026, price produced several main rallies. Daily candle data shows highs near 81,950 USD on 29 October, about 81,190 USD on 4 November and about 80,890 USD on 5 November. Each peak sat below the one before it, and price then fell sharply.</p>\n<p>On the downside, price dropped to 75,158 USD on 5 November, then 74,811 USD on 6 November, 73,333 USD on 8 November and 72,691 USD on 10 November. Each low was below the previous one. On the daily chart, the rallies kept stepping down: 76,381 USD (6 November), 75,575 USD (9 November), 75,411 USD (10 November), 74,771 USD (11 November) and 74,192 USD (12 November). The structure leaned toward a short-term downtrend, even though price still had bounces within it.</p>\n<h2>How to check the trend across several timeframes</h2>\n<p>One timeframe gives only part of the picture. Use the daily chart to judge the larger trend, the 4-hour chart to locate meaningful swing levels, and the 1-hour chart to watch short-term moves. If the daily structure is falling while the hourly chart is rising, the move is a counter-trend bounce. Risk is higher in that case, and it is not a confirmed reversal.</p>\n<ul><li>Daily chart: identify the main trend by counting swings over the last 20 to 30 sessions.</li><li>4-hour chart: find the nearest swing high or low to place a structural stop reference.</li><li>1-hour chart: observe how price reacts when it reaches that zone, rather than using it to guess the next direction.</li></ul>\n<h2>Using structure for stop placement, not for calling bottoms</h2>\n<p>A safer approach is to place the stop on the far side of the structure. In a downtrend, the nearest swing high is the level that would invalidate the view. In an uptrend, the nearest swing low plays that role. The distance from the entry price to that level should be compared with <a href=\"/en/learn/how-to-set-a-stop-loss-using-atr-instead-of-gut-feeling\">average true range (ATR)</a>, so the stop is not so tight that normal candle noise closes the trade early.</p>\n<p>As an illustration: on the 4-hour chart, the ATR(14) as of 12 November 2026 was about 847 USD. A stop placed three ATR away from the entry would sit roughly 2,541 USD from it. This number only demonstrates the calculation and is not a suggested trade.</p>\n<p>[[rel:1]]</p>\n<h2>Common mistakes newer traders make</h2>\n<p>The first mistake is buying a falling market simply because price has already dropped a lot, while the trend is still down. The second is treating one strong bounce candle as a trend change when the swing sequence has not been broken. The third is drawing too many lines, so that every stretch of price appears to have a pattern. Mark only the swings that are clear and have been tested by price.</p>\n<h2>Summary</h2>\n<p>Higher highs and lower lows answer one question: is the trade moving with the trend or against it? Reading structure across three timeframes, comparing it with ATR, and placing stops beyond the structure makes decisions less emotional. Structure gives probabilities, not guarantees about direction.</p>",
+  "keywords": [
+   "higher highs lower lows",
+   "trend structure",
+   "futures trading trend",
+   "read bitcoin trend"
+  ]
+ },
+ "event": "Cấu trúc đỉnh đáy là gì và cách xác định xu hướng trước khi vào lệnh Futures",
+ "cats": [
+  "tr"
+ ],
+ "dir": "kien-thuc"
+}

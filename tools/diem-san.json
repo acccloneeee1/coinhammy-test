@@ -1,0 +1,23 @@
+{
+ "order": [
+  "deribit",
+  "binance",
+  "okx",
+  "bybit",
+  "bitget",
+  "mexc",
+  "bingx",
+  "kucoin",
+  "phemex",
+  "primexbt",
+  "htx",
+  "lbank",
+  "weex",
+  "kraken",
+  "coinbase",
+  "gate",
+  "cryptocom",
+  "bitunix",
+  "blofin"
+ ]
+}

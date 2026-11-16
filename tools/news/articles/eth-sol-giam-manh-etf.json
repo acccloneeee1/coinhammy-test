@@ -1,0 +1,84 @@
+{
+ "slug": "eth-sol-giam-manh-etf",
+ "slug_en": "ether-solana-slide-etf-outflows",
+ "cat": "alt",
+ "cats": [
+  "alt",
+  "btc"
+ ],
+ "coin": "ETH",
+ "ts": "2026-11-16T11:30:00+07:00",
+ "event": "Ether and Solana fall nearly 20% in a week as ETF outflows deepen",
+ "src_urls": [
+  "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+  "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+ ],
+ "image": {
+  "src": "",
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến 4 giờ của Ethereum trên Binance, giá giảm từ vùng 2.400 USD xuống quanh 1.800 USD",
+  "alt_en": "Four-hour Ethereum candlestick chart on Binance, price falling from around 2,400 USD to near 1,800 USD",
+  "caption_vi": "Ethereum khung 4 giờ trên Binance: giá giảm từ vùng 2.400 USD đầu tháng 11 xuống quanh 1.820 USD sáng 16/11.",
+  "caption_en": "Ethereum 4-hour chart on Binance: price fell from the 2,400 USD area in early November to about 1,820 USD on the morning of November 16.",
+  "url": "/tin/img/eth-sol-giam-manh-etf-h.jpg"
+ },
+ "images": [
+  {
+   "src": "",
+   "license": "chart",
+   "alt_vi": "Biểu đồ nến 4 giờ của Solana trên Binance, giá giảm từ khoảng 104 USD xuống quanh 72 USD",
+   "alt_en": "Four-hour Solana candlestick chart on Binance, price falling from about 104 USD to around 72 USD",
+   "caption_vi": "Solana khung 4 giờ trên Binance: giá giảm từ khoảng 104 USD cuối tháng 10 xuống quanh 72 USD sáng 16/11.",
+   "caption_en": "Solana 4-hour chart on Binance: price fell from about 104 USD at the end of October to around 72 USD on the morning of November 16.",
+   "url": "/tin/img/eth-sol-giam-manh-etf-1.jpg"
+  }
+ ],
+ "vi": {
+  "title": "ETH và SOL giảm gần 20% trong tuần khi ETF tiền mã hoá rút ròng",
+  "seo_title": "ETH, SOL giảm gần 20%: ETF rút ròng liên tục",
+  "desc": "Ethereum mất 19,5% và Solana mất 20,7% trong 7 ngày khi dòng vốn ETF rút ròng, tâm lý thị trường rơi vào sợ hãi cực độ. Diễn biến và tác động tới trader.",
+  "lead": "Ethereum và Solana cùng giảm mạnh trong tuần đến ngày 15/11, theo sau đợt rút vốn liên tiếp khỏi các quỹ ETF giao ngay. Tâm lý thị trường rơi vào vùng sợ hãi cực độ.",
+  "bullets": [
+   "Ethereum giảm 19,5% và Solana giảm 20,7% trong 7 ngày đến Chủ nhật 15/11, khi tổng vốn hoá thị trường còn khoảng 2,26 nghìn tỷ USD.",
+   "Quỹ ETF Ethereum mất khoảng 336 triệu USD trong tuần đến ngày 13/11, còn ETF Solana mất khoảng 28 triệu USD cùng kỳ.",
+   "Chỉ số Sợ hãi và Tham lam xuống 10 điểm, trong vùng sợ hãi cực độ; nhà đầu tư theo dõi xem dòng vốn ETF có đảo chiều hay không."
+  ],
+  "body_html": "<p>Ethereum và Solana tiếp tục lao dốc trong tuần qua, đi cùng đợt bán mạnh của Bitcoin. Tính đến Chủ nhật 15/11, Ethereum đã mất 19,5% trong 7 ngày và Solana mất 20,7%, trong khi tổng vốn hoá toàn thị trường giảm khoảng 4% trong 24 giờ, xuống còn khoảng 2,26 nghìn tỷ USD.</p>\n<h2>Diễn biến chính</h2>\n<p>Bitcoin từng chạm vùng 62.000 USD vào Chủ nhật, mức thấp nhất kể từ tháng 7, trước khi hồi lên trên 65.000 USD. Các altcoin lớn không hồi cùng nhịp. Giá Ethereum đã giảm 8,4% xuống quanh 1.790 USD trong phiên thứ Sáu 13/11, còn Solana rơi 12% xuống khoảng 70 USD cùng ngày.</p>\n<p>Cả hai đồng đều giảm mạnh hơn Bitcoin trong tuần. Đây là kiểu phản ứng thường gặp khi vốn rút khỏi tài sản rủi ro, vì altcoin có thanh khoản mỏng hơn và biên độ dao động lớn hơn.</p>\n<h2>Dòng vốn ETF</h2>\n<p>Các quỹ ETF Ethereum giao ngay mất khoảng 336 triệu USD trong tuần đến ngày 13/11, nâng tổng rút ròng trong tháng 11 lên khoảng 702 triệu USD. Phiên thứ Sáu có khoảng 2,3 triệu USD được nạp vào, chấm dứt chuỗi sáu phiên rút ròng liên tiếp, nhưng chưa đủ để đảo xu hướng của cả tuần.</p>\n<p>Quỹ ETF Solana mất khoảng 28 triệu USD trong cùng tuần, nhỏ hơn nhiều so với Ethereum. Tổng dòng vốn tích luỹ vào các quỹ Solana vẫn khoảng 1,6 tỷ USD, cho thấy phần lớn vốn tổ chức chưa rời hẳn.</p>\n<p>Ở chiều rộng hơn, ETF Bitcoin ghi nhận đợt rút ròng khoảng 2,35 tỷ USD trong hai tuần liên tiếp, theo dữ liệu công bố cuối tuần. Giai đoạn rút vốn này trùng với lúc altcoin giảm sâu nhất.</p>\n<h2>Solana đang ở đâu trên biểu đồ</h2>\n<p>Trên biểu đồ khung 4 giờ, Solana đi xuống từ vùng 104 USD cuối tháng 10 và chạm đáy quanh 70 USD trong phiên cuối tuần. Sáng 16/11, giá giao dịch quanh 72 USD, sát đáy tuần nhưng chưa có dấu hiệu bật mạnh.</p>\n<p>[[img:1]]</p>\n<p>Chuỗi nến đỏ kéo dài từ đầu tháng cho thấy áp lực bán chưa được hấp thụ hết, dù khối lượng giao dịch tăng vọt mỗi lần giá lao xuống. Các phiên tới sẽ cho thấy liệu vùng đáy tuần có được giữ vững hay không.</p>\n<h2>Tâm lý thị trường</h2>\n<p>Chỉ số Sợ hãi và Tham lam giảm xuống 10 điểm vào Chủ nhật, từ 13 hôm thứ Bảy và 20 hôm thứ Sáu, nằm trong vùng sợ hãi cực độ. Mức này thường phản ánh giai đoạn người nắm giữ bán để cắt lỗ nhiều hơn là mua vào.</p>\n<h2>Tác động tới trader</h2>\n<p>Với người giao dịch futures, điểm cần chú ý là altcoin giảm mạnh hơn Bitcoin làm tăng rủi ro thanh lý ở các vị thế đòn bẩy cao trên cặp ETH và SOL. Khi biến động lớn và thanh khoản mỏng, một nến đảo chiều có thể kéo theo nhiều lệnh bị đóng cưỡng bức trong thời gian ngắn. Bạn có thể <a href=\"/cong-cu.html\">tính giá thanh lý</a> trước khi mở vị thế.</p>\n<p>Ba việc cần theo dõi tiếp gồm: dòng vốn ETF Ethereum và Solana có đảo chiều bền vững hay không, tỷ lệ funding trên hợp đồng ETH và SOL có chuyển sang âm không, và Bitcoin có giữ được vùng hồi phục hiện tại không, vì altcoin thường đi theo Bitcoin khi thị trường yếu. Bài này chưa lấy được dữ liệu funding và open interest trong phiên, nên không đưa con số cụ thể.</p>\n<p>Bài chỉ mang tính thông tin, không phải khuyến nghị mua bán. Với mọi vị thế đòn bẩy, nên tự xác định mức rủi ro trước khi vào lệnh.</p>",
+  "keywords": [
+   "ETH giảm",
+   "SOL giảm",
+   "ETF Ethereum rút ròng",
+   "tin altcoin hôm nay"
+  ]
+ },
+ "en": {
+  "title": "Ether and Solana Drop Nearly 20% as ETF Outflows Mount",
+  "seo_title": "ETH, SOL Drop Near 20%: ETF Outflows Persist",
+  "desc": "Ethereum fell 19.5% and Solana 20.7% in seven days as ETF outflows continued and sentiment hit extreme fear. Here is what the numbers mean for traders now.",
+  "lead": "Ethereum and Solana both slid sharply in the week to November 15, following a run of withdrawals from spot ETFs. Market sentiment fell into extreme fear territory.",
+  "bullets": [
+   "Ethereum dropped 19.5% and Solana 20.7% over seven days to Sunday, November 15, as the total crypto market value sat near 2.26 trillion USD.",
+   "Spot Ethereum ETFs lost about 336 million USD in the week to November 13, while Solana ETFs shed about 28 million USD over the same period.",
+   "The Fear and Greed Index fell to 10, deep in extreme fear, and investors are watching whether ETF flows turn around."
+  ],
+  "body_html": "<p>Ethereum and Solana kept sliding through the past week, following a sharp selloff in Bitcoin. As of Sunday, November 15, Ethereum was down 19.5% over seven days and Solana was down 20.7%, while the total crypto market lost about 4% in 24 hours to roughly 2.26 trillion USD.</p>\n<h2>What happened</h2>\n<p>Bitcoin dipped near 62,000 USD on Sunday, its lowest level since July, before recovering above 65,000 USD. The large altcoins did not bounce in step. Ethereum fell 8.4% to about 1,790 USD on Friday, November 13, and Solana dropped 12% to around 70 USD the same day.</p>\n<p>Both tokens fell further than Bitcoin over the week. That pattern is common when capital leaves higher-risk assets, because altcoins tend to have thinner liquidity and wider price swings.</p>\n<h2>ETF flows</h2>\n<p>Spot Ethereum ETFs lost about 336 million USD in the week to November 13, lifting November outflows to roughly 702 million USD. On Friday they took in about 2.3 million USD, ending a six-day outflow streak, but that was not enough to change the weekly direction.</p>\n<p>Solana ETFs shed about 28 million USD in the same week, a much smaller outflow than Ethereum's. Cumulative net inflows into Solana funds still stand near 1.6 billion USD, which suggests most institutional money has not fully left.</p>\n<p>On a broader scale, spot Bitcoin ETFs posted outflows of about 2.35 billion USD over two consecutive weeks, according to data published over the weekend. The withdrawals coincided with the steepest part of the altcoin decline.</p>\n<h2>Where Solana sits on the chart</h2>\n<p>On the 4-hour chart, Solana has fallen from the 104 USD area at the end of October and touched a low near 70 USD in the weekend session. On the morning of November 16 it traded around 72 USD, close to the week's low but without a clear sign of a strong bounce.</p>\n<p>[[img:1]]</p>\n<p>The run of red candles since early November shows selling pressure has not been fully absorbed, although volume spikes each time price drops. The coming sessions will show whether the weekly low holds.</p>\n<h2>Market sentiment</h2>\n<p>The Crypto Fear and Greed Index fell to 10 on Sunday, from 13 on Saturday and 20 on Friday, deep in extreme fear territory. Readings like this often reflect holders selling to cut losses rather than buying.</p>\n<h2>What it means for traders</h2>\n<p>For futures traders, the key point is that altcoins falling faster than Bitcoin raise liquidation risk for highly leveraged positions in ETH and SOL. When volatility is high and liquidity is thin, a single reversal candle can force many positions to close in a short window. You can <a href=\"/en/tools.html\">estimate your liquidation price</a> before opening a position.</p>\n<p>Three things to watch next: whether Ethereum and Solana ETF flows turn sustainably positive, whether funding rates on ETH and SOL perpetuals flip negative, and whether Bitcoin holds its current recovery zone, since altcoins usually follow Bitcoin when the market is weak. This article did not capture funding or open interest data during the session, so it does not quote specific figures for them.</p>\n<p>This article is for information only and is not a trading recommendation. For any leveraged position, define your risk before entering.</p>",
+  "keywords": [
+   "ETH price drop",
+   "SOL price drop",
+   "Ethereum ETF outflows",
+   "altcoin news today"
+  ]
+ },
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bitcoin-roi-62000-usd"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-eth-1983"
+  }
+ ],
+ "dir": "tin-tuc"
+}

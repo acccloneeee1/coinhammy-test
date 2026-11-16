@@ -1,0 +1,73 @@
+{
+ "slug": "credit-mutuel-arkea-133-trieu-usd-san-giao-dich",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc"
+  }
+ ],
+ "cat": "ex",
+ "coin": "ETH",
+ "ts": "2026-11-04T18:30:00+07:00",
+ "event": "ZachXBT names French bank Credit Mutuel Arkea as suspected victim of $133M+ theft from exchange accounts (Kraken, Crypto.com, OKX), Nov 1-4 2026; funds swapped to ETH then XMR",
+ "src_urls": [
+  "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+  "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft",
+  "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/steel-bank-vault-door-locking-wheel-3wPJxh-piRw",
+  "license": "Unsplash",
+  "alt_vi": "Cánh cửa kho tiền ngân hàng bằng thép với then cài và tay nắm",
+  "alt_en": "Steel bank vault door with bolts and handles",
+  "url": "/tin/img/credit-mutuel-arkea-133-trieu-usd-san-giao-dich-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Crédit Mutuel Arkéa bị cho là nạn nhân vụ trộm hơn 133 triệu USD trên các sàn",
+  "seo_title": "Crédit Mutuel Arkéa mất hơn 133 triệu USD crypto?",
+  "desc": "ZachXBT gọi tên ngân hàng Pháp Crédit Mutuel Arkéa trong vụ rút hơn 133 triệu USD khỏi tài khoản sàn; Kraken và Crypto.com đã chặn tiền liên quan.",
+  "lead": "Nhà điều tra on-chain ZachXBT nghi ngân hàng Pháp Crédit Mutuel Arkéa là nạn nhân của vụ rút hơn 133 triệu USD khỏi tài khoản sàn tập trung, và ngân hàng đã xác nhận có giao dịch gian lận.",
+  "bullets": [
+   "ZachXBT ước tính tổng số tiền bị rút khỏi tài khoản trên sàn tập trung vượt 133 triệu USD, có thể cao hơn nếu tính cả giao dịch OTC.",
+   "Dữ liệu truy vết cho thấy USDC bị rút từ Kraken, Crypto.com và OKX rồi đổi sang ETH, một phần chuyển sang Monero và chuyển chéo chuỗi.",
+   "Crypto.com và Kraken cho biết đã chặn tiền liên quan; ngân hàng xác nhận có giao dịch gian lận nhưng chưa nêu số tiền mất."
+  ],
+  "body_html": "<p>Nhà điều tra on-chain ZachXBT cho biết nạn nhân của vụ rút tiền hàng loạt khỏi các tài khoản sàn tập trung vừa qua rất có thể là Crédit Mutuel Arkéa, một nhóm ngân hàng hợp tác của Pháp. Tổng số tiền bị lấy đi được ước tính vượt 133 triệu USD và có thể còn cao hơn khi tính cả các giao dịch OTC.</p>\n<h2>Diễn biến vụ việc</h2>\n<p>Ngày 2/11, ZachXBT lần đầu cảnh báo một tổ chức ở châu Âu mất hơn 106 triệu USD qua các lệnh rút từ tài khoản trên sàn tập trung. Sau đó ông truy thêm khoảng 27 triệu USD rút ra, một phần diễn ra sau cảnh báo đầu tiên, đưa tổng mức lên trên 133 triệu USD. Đến ngày 4/11, ông gọi tên Crédit Mutuel Arkéa là nạn nhân bị nghi ngờ.</p>\n<p>Công ty phân tích blockchain Bitquery lần theo 108,8 triệu USD USDC bị rút khỏi các tài khoản tại Kraken, Crypto.com và OKX trong khoảng 21 giờ của ngày 1 và 2/11. Dòng tiền đi qua hàng trăm ví, và một phần lớn được đổi sang ether, loại tài sản mà không tổ chức phát hành nào có thể đóng băng. Một nguồn khác ghi nhận khoảng 63 triệu USD stablecoin được đổi sang ETH chỉ trong bốn giờ.</p>\n<p>ZachXBT cho rằng kẻ tấn công nhiều khả năng không phải nhóm Lazarus của Triều Tiên vì cách di chuyển tiền khác biệt. Theo các bản truy vết, tiền còn đi qua các dịch vụ hoán đổi tức thời rồi được chuyển sang Monero và chuyển chéo giữa nhiều chuỗi. Cho đến nay chưa có thông tin công khai về cách kẻ tấn công chiếm được quyền truy cập vào các tài khoản.</p>\n<h2>Phản hồi của ngân hàng và các sàn</h2>\n<p>Ngân hàng xác nhận với một số báo rằng một vụ tấn công đã cho phép thực hiện các giao dịch gian lận, nói tình hình đã được kiểm soát và khách hàng không chịu hậu quả tài chính. Ngân hàng không nêu số tiền bị mất, cũng không cho biết đó là tiền pháp định hay tiền mã hoá, và nói vẫn đang đánh giá hệ quả. Những bản tin đăng trước đó ghi nhận ngân hàng chưa phản hồi, nên diễn biến này vẫn chủ yếu dựa trên phân tích của ZachXBT và chưa được cơ quan chức năng xác minh độc lập.</p>\n<p>Crypto.com cho biết đã chặn các khoản tiền liên quan và khẳng định tiền của người dùng vẫn an toàn. Kraken cũng nói đã hạn chế tài khoản hoặc chặn tiền liên quan. Kraken và OKX không trả lời yêu cầu bình luận của một số báo. Bitquery lưu ý họ không xác minh được toàn bộ số tiền bị mất lẫn danh tính nạn nhân.</p>\n<h2>Bối cảnh: chuỗi sự cố an ninh</h2>\n<p>Vụ việc nối tiếp một loạt sự cố trong tuần, từ vụ Binance bị tấn công hơn 6 tỷ USD đến việc <a href=\"/tin-tuc/mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien\">sàn Mercado Bitcoin của Brazil bị rút hơn 40 triệu USD</a>. Điểm khác ở đây là nạn nhân bị nghi là một định chế tài chính truyền thống, không phải một sàn crypto, và các sàn lớn chỉ là nơi tiền đi qua.</p>\n<p>ZachXBT cũng chỉ trích việc hơn 30 triệu USD bị cho là đã được rửa trong thời gian chưa có thông báo công khai, và cho rằng nếu báo cáo sớm cho cơ quan thực thi pháp luật châu Âu, một phần tiền có thể đã bị đóng băng. Đây là nhận định của riêng ông, chưa có bên nào xác nhận.</p>\n<h2>Tác động tới trader</h2>\n<p>Các khoản bị rút chủ yếu là stablecoin rồi bán sang ETH. Việc quy đổi hàng chục triệu USD sang ether trong vài giờ có thể tạo áp lực mua ngắn hạn trên các cặp ETH, nhưng bài viết không có số liệu về mức tác động lên giá hay funding rate nên chưa thể kết luận. Cần phân biệt giữa dòng tiền bị đổi sang ETH và dòng tiền bị bán ra tiếp sau đó trong quá trình rửa tiền.</p>\n<p>Với người giao dịch trên sàn tập trung, bài học thực tế là rủi ro tài khoản: các sàn đã phản ứng bằng cách chặn tiền liên quan, nhưng quy trình này cho thấy những tài khoản bị chiếm quyền vẫn có thể rút lượng lớn trong thời gian ngắn. Trader nên theo dõi các thông báo của sàn về hạn chế rút tiền, kiểm tra cài đặt bảo mật như khoá bảo mật phần cứng và danh sách địa chỉ rút được phép, và chú ý dòng tiền on-chain từ các ví liên quan, vì việc đổi sang Monero hay chuyển chéo chuỗi có thể kéo dài. Mọi diễn biến tiếp theo từ ngân hàng và cơ quan chức năng cần được kiểm chứng trước khi coi là xác nhận.</p>\n<p>Nếu bạn muốn tính toán rủi ro vị thế trước các biến động bất ngờ, có thể dùng <a href=\"/cong-cu.html\">công cụ tính vị thế và giá thanh lý</a> của CoinHammy.</p>",
+  "keywords": [
+   "Crédit Mutuel Arkéa",
+   "vụ trộm 133 triệu USD",
+   "ZachXBT",
+   "hack sàn giao dịch",
+   "rửa tiền crypto"
+  ]
+ },
+ "en": {
+  "title": "Crédit Mutuel Arkéa Named in $133M Crypto Exchange Theft",
+  "seo_title": "Crédit Mutuel Arkéa Named in $133M Crypto Theft",
+  "desc": "ZachXBT names French bank Crédit Mutuel Arkéa as the suspected victim of a $133M-plus theft from exchange accounts; Kraken and Crypto.com blocked funds.",
+  "lead": "On-chain investigator ZachXBT names French bank Crédit Mutuel Arkéa as the suspected victim of a $133 million-plus theft from exchange accounts, and the bank confirms fraudulent transactions occurred.",
+  "bullets": [
+   "ZachXBT estimates total withdrawals from centralized exchange accounts at more than $133 million, possibly higher once OTC trades are counted.",
+   "Tracing shows USDC pulled from Kraken, Crypto.com and OKX, swapped into ETH, and partly moved into Monero and across chains.",
+   "Crypto.com and Kraken say they blocked linked funds; the bank confirms fraudulent transactions but has not given a loss figure."
+  ],
+  "body_html": "<p>On-chain investigator ZachXBT says the victim behind a string of large withdrawals from centralized exchange accounts is most likely Crédit Mutuel Arkéa, a French cooperative banking group. Total losses are estimated at more than $133 million and could be higher once over-the-counter trades are counted.</p>\n<h2>How the case unfolded</h2>\n<p>On Nov. 2, ZachXBT first warned that an entity in Europe had lost more than $106 million through withdrawals from exchange accounts. He later traced about $27 million in further withdrawals, some made after his first alert, bringing the total above $133 million. By Nov. 4 he had named Crédit Mutuel Arkéa as the suspected victim.</p>\n<p>Blockchain analytics firm Bitquery traced $108.8 million in USDC pulled from accounts at Kraken, Crypto.com and OKX over about 21 hours on Nov. 1 and 2. The money passed through hundreds of wallets, and much of it was swapped into ether, an asset no issuer can freeze. A separate analysis found roughly $63 million in stablecoins converted to ETH within four hours.</p>\n<p>ZachXBT says he has high confidence the attacker is not North Korea's Lazarus Group, citing differences in how the funds moved. Tracing shows the money also went through instant swap services, was converted into Monero and was bridged across several chains. How the attacker gained access to the accounts has not been disclosed.</p>\n<h2>What the bank and exchanges said</h2>\n<p>The bank told some outlets that an attack had enabled fraudulent transactions, that the situation is under control and that clients face no financial consequences. It did not give an amount or say whether the loss was in fiat or crypto, and it said it is still assessing the impact. Earlier reports noted the bank had not responded, so the story still rests mainly on ZachXBT's analysis and has not been independently verified by authorities.</p>\n<p>Crypto.com said it blocked funds linked to the incident and that user funds remain secure. Kraken also said it restricted accounts or blocked related funds. Kraken and OKX did not respond to some outlets' requests for comment. Bitquery noted it could not verify the full amount lost or identify the victim.</p>\n<h2>Context: a run of security incidents</h2>\n<p>The case follows a string of incidents this week, from the Binance breach of more than $6 billion to the <a href=\"/en/news/mercado-bitcoin-hacked-for-over-40m-pauses-withdrawals\">hack of Brazil's Mercado Bitcoin for over $40 million</a>. What is different here is that the alleged victim is a traditional financial institution rather than a crypto exchange, with the major exchanges acting only as the path the money took.</p>\n<p>ZachXBT also criticized what he says was more than $30 million laundered before any public disclosure, arguing that earlier reporting to European law enforcement could have let some funds be frozen. That is his own assessment and no one has confirmed it.</p>\n<h2>What it means for traders</h2>\n<p>The stolen funds were mostly stablecoins swapped into ETH. Converting tens of millions of dollars into ether within hours can add short-term buying pressure on ETH pairs, but the reports give no data on the effect on price or funding rates, so no conclusion can be drawn. It also matters whether the ETH is later sold during laundering, which is a separate flow.</p>\n<p>For anyone trading on centralized platforms, the practical lesson is account risk: exchanges responded by blocking linked funds, yet the case shows compromised accounts can still move large sums in a short window. Traders can watch exchange notices about withdrawal restrictions, review account security such as hardware keys and withdrawal address allowlists, and keep an eye on on-chain flows from linked wallets, since conversion into Monero and cross-chain bridging can drag on. Any further statements from the bank or authorities should be verified before being treated as confirmed.</p>\n<p>To size positions against sudden shocks, CoinHammy's <a href=\"/en/tools.html\">position and liquidation price calculator</a> may help.</p>",
+  "keywords": [
+   "Crédit Mutuel Arkéa",
+   "$133 million crypto theft",
+   "ZachXBT",
+   "exchange hack",
+   "crypto laundering"
+  ]
+ },
+ "cats": [
+  "ex"
+ ],
+ "dir": "tin-tuc",
+ "slug_en": "credit-mutuel-arkea-named-in-133m-crypto-exchange-theft"
+}

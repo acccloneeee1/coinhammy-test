@@ -1,0 +1,73 @@
+{
+ "slug": "hong-kong-thong-qua-carf",
+ "slug_en": "hong-kong-passes-carf-law",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "dang-dan-chu-gianh-thuong-vien-my-bitcoin-hoi-phuc"
+  },
+  {
+   "kind": "news",
+   "slug": "dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain"
+  }
+ ],
+ "cat": "reg",
+ "coin": "BTC",
+ "ts": "2026-11-05T14:25:00+07:00",
+ "event": "Hong Kong LegCo passes CARF and amended CRS bill on Nov 4 2026; providers collect crypto tax info from 2027, IRD exchanges from 2028",
+ "src_urls": [
+  "https://cryptoslate.com/hong-kong-forces-crypto-providers-to-track-customer-trades/",
+  "https://www.news.gov.hk/eng/2026/11/20261104/20261104_181944_819.html"
+ ],
+ "image": {
+  "src": "https://commons.wikimedia.org/wiki/File:Legislative_Council_Complex_Council_Block.jpg",
+  "license": "CC BY-SA",
+  "credit": "Ảnh: Ceeseven, CC BY-SA 3.0, Wikimedia Commons",
+  "alt_vi": "Toà nhà Hội đồng Lập pháp Hong Kong, nơi thông qua luật báo cáo thuế tài sản mã hoá",
+  "alt_en": "The Legislative Council building in Hong Kong, where the crypto tax reporting law was passed",
+  "url": "/tin/img/hong-kong-thong-qua-carf-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Hong Kong thông qua luật buộc nhà cung cấp crypto báo cáo thuế từ 2027",
+  "seo_title": "Hong Kong thông qua luật báo cáo thuế crypto",
+  "desc": "Hong Kong thông qua luật CARF: nhà cung cấp dịch vụ crypto thu thập thông tin khách hàng từ 2027, cơ quan thuế bắt đầu trao đổi dữ liệu quốc tế từ năm 2028.",
+  "lead": "Hội đồng Lập pháp Hong Kong ngày 4/11 thông qua luật đưa khung báo cáo thuế crypto CARF của OECD vào thực thi: thu thập dữ liệu từ 2027, trao đổi quốc tế từ 2028.",
+  "bullets": [
+   "Dự luật đưa CARF và Chuẩn báo cáo chung (CRS) sửa đổi vào luật thuế Hong Kong, được Hội đồng Lập pháp thông qua ngày 4/11.",
+   "Nhà cung cấp dịch vụ liên quan phải thu thập thông tin từ năm 2027; Sở Thuế vụ trao đổi với các khu vực đối tác từ 2028, còn CRS sửa đổi trao đổi từ 2029.",
+   "Dữ liệu gồm thông tin nhận dạng, cư trú thuế và giao dịch tổng hợp; cổng báo cáo và lược đồ dữ liệu của cơ quan thuế vẫn chờ công bố."
+  ],
+  "body_html": "<p>Hội đồng Lập pháp Hong Kong ngày 4/11 đã thông qua dự luật đưa Khung báo cáo tài sản mã hoá (CARF) của OECD vào luật thuế địa phương. Theo lịch được công bố, các nhà cung cấp dịch vụ liên quan phải bắt đầu thu thập thông tin từ năm 2027, còn Sở Thuế vụ (IRD) sẽ trao đổi dữ liệu với các khu vực đối tác từ năm 2028.</p>\n<h2>Luật mới quy định điều gì</h2>\n<p>Dự luật mang tên Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026, làm hai việc cùng lúc. Thứ nhất, đưa CARF vào luật, tức một khuôn khổ để tổ chức thuế các nước tự động trao đổi thông tin về giao dịch tiền mã hoá hằng năm. Thứ hai, sửa Chuẩn báo cáo chung (CRS) hiện hành để bao gồm thêm sản phẩm tài chính số và siết yêu cầu thẩm định.</p>\n<p>Hai chuẩn chạy theo hai lịch riêng. CARF: thu thập thông tin năm 2027, trao đổi quốc tế từ 2028. CRS sửa đổi: có hiệu lực năm 2028, trao đổi từ 2029. Chính quyền Hong Kong cho biết việc trao đổi sẽ có đi có lại và tuân thủ các điều kiện bảo mật, an toàn dữ liệu.</p>\n<h2>Ai phải báo cáo, báo cáo gì</h2>\n<p>Theo giải thích của IRD, nhà cung cấp phải báo cáo là doanh nghiệp thực hiện giao dịch quy đổi giữa tài sản mã hoá và tiền pháp định, hoặc giữa các tài sản mã hoá với nhau, gồm cả bên đóng vai đối tác, trung gian và đơn vị vận hành sàn giao dịch. Nghĩa vụ cụ thể còn phụ thuộc mức độ gắn kết của nhà cung cấp với Hong Kong theo các quy tắc của khuôn khổ.</p>\n<p>Phía người dùng, nhà cung cấp phải xác định khách hàng và người kiểm soát của tổ chức theo nơi cư trú thuế. Dữ liệu cần thu thập gồm thông tin nhận dạng, thông tin cư trú thuế và dữ liệu giao dịch ở dạng tổng hợp. Đây là khuôn khổ minh bạch thông tin cho cơ quan thuế, không quy định mức thuế mà một cá nhân phải nộp.</p>\n<p>IRD cho biết sẽ ban hành hướng dẫn, đã lập nhóm chuyên trách hỗ trợ kỹ thuật cho ngành, đồng thời sẽ xây cổng báo cáo CARF và công bố lược đồ dữ liệu quy định định dạng báo cáo. Các chi tiết đó chưa được công bố khi luật thông qua.</p>\n<h2>Vì sao Hong Kong thúc đẩy</h2>\n<p>Ông Christopher Hui, Bộ trưởng Tài chính và Ngân khố, nói việc áp dụng chuẩn quốc tế mới nhất về trao đổi thông tin thuế tự động giúp giữ vị thế của Hong Kong như một trung tâm tài chính và thương mại quốc tế. Theo ông, việc bám chuẩn cũng củng cố niềm tin của nhà cung cấp dịch vụ tài sản mã hoá, tổ chức tài chính và người dùng khi hoạt động, đầu tư dài hạn tại đây. Lộ trình này khớp với kế hoạch Hong Kong nêu từ tháng 12/2024: hoàn tất sửa luật trong năm 2026 và bắt đầu trao đổi thông tin vào năm 2028.</p>\n<h2>Điều cần theo dõi tiếp</h2>\n<p>Hai mốc cần để ý là hướng dẫn chi tiết của IRD và việc cổng báo cáo cùng lược đồ dữ liệu được công bố. Vì thu thập bắt đầu trước khi trao đổi quốc tế một năm, các sàn và nhà cung cấp có hoạt động liên quan tới Hong Kong có thể phải chuẩn bị quy trình xác minh khách hàng sớm hơn mốc 2028.</p>\n<h2>Tác động tới trader</h2>\n<p>Luật này không đổi cách giao dịch futures hay thuế suất của cá nhân, và ngày hiệu lực còn cách khá xa. Tác động chủ yếu là dài hạn: dữ liệu khách hàng và giao dịch trên các sàn có liên hệ với Hong Kong sẽ có thể được chia sẻ với cơ quan thuế các khu vực đối tác từ năm 2028, nên người giao dịch cần nắm rõ nghĩa vụ khai báo thuế nơi mình cư trú.</p>\n<p>Về thị trường, tin này không được ghi nhận là yếu tố làm giá biến động. Bitcoin đang giữ trên 80.000 USD và ether tăng khoảng 8% trong <a href=\"/tin-tuc/dang-dan-chu-gianh-thuong-vien-my-bitcoin-hoi-phuc\">đợt hồi phục sau kết quả bầu cử giữa kỳ Mỹ</a>, nên dòng tin thuế của Hong Kong chỉ là một phần của bức tranh pháp lý rộng hơn. Điều đáng theo dõi là các nhà cung cấp dịch vụ công bố kế hoạch tuân thủ ra sao trước năm 2027, và các khu vực khác có tiến độ tương tự hay không.</p>",
+  "keywords": [
+   "Hong Kong crypto",
+   "CARF",
+   "thuế tiền mã hoá",
+   "báo cáo thuế crypto",
+   "OECD"
+  ]
+ },
+ "en": {
+  "title": "Hong Kong Passes Crypto Tax Reporting Law, Data Collection Starts in 2027",
+  "seo_title": "Hong Kong Passes Crypto Tax Reporting Law",
+  "desc": "Hong Kong passes a CARF law: crypto service providers must collect customer tax data from 2027, and the tax department starts international exchanges in 2028.",
+  "lead": "Hong Kong's Legislative Council on Nov. 4 passed a bill bringing the OECD's CARF crypto tax-reporting framework into force: data collection from 2027, cross-border exchange from 2028.",
+  "bullets": [
+   "The bill writes CARF and an amended Common Reporting Standard (CRS) into Hong Kong tax law; the Legislative Council passed it on Nov. 4.",
+   "Relevant service providers must collect information from 2027; the Inland Revenue Department exchanges it with partner jurisdictions from 2028, with the amended CRS exchanging from 2029.",
+   "Required data covers identifying details, tax residence and aggregated transactions; the tax department's reporting portal and data schema are still to be published."
+  ],
+  "body_html": "<p>Hong Kong's Legislative Council passed a bill on Nov. 4 that writes the OECD's Crypto-Asset Reporting Framework (CARF) into local tax law. Under the published timetable, relevant service providers must start collecting information in 2027, and the Inland Revenue Department (IRD) will begin exchanging data with partner jurisdictions in 2028.</p>\n<h2>What the new law does</h2>\n<p>The Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026 does two things at once. It brings CARF into law, a framework under which tax authorities automatically exchange annual information on crypto transactions. It also amends the existing Common Reporting Standard (CRS) to cover digital financial products and tighten due-diligence requirements.</p>\n<p>The two standards run on separate calendars. For CARF, providers collect information in 2027 and international exchanges start in 2028. The amended CRS takes effect in 2028, with exchanges from 2029. The Hong Kong government says exchanges will be reciprocal and subject to confidentiality and data-security safeguards.</p>\n<h2>Who has to report, and what</h2>\n<p>According to the IRD's explanation, reporting providers are businesses that carry out exchanges between crypto-assets and fiat currency, or between crypto-assets, including those acting as counterparties or intermediaries and those operating trading platforms. Specific obligations depend on a provider's connection to Hong Kong under the framework's nexus rules.</p>\n<p>On the user side, providers must identify customers and, for entities, controlling persons by tax residence. The required data includes identifying details, tax-residence information and aggregated transaction information. This is a transparency framework for tax authorities; it does not set the tax an individual owes.</p>\n<p>The IRD says it will issue guidance, has set up a dedicated team to give industry technical support, and will build a CARF reporting portal and publish the data schema that defines the reporting format. Those details had not been published when the law passed.</p>\n<h2>Why Hong Kong is pushing ahead</h2>\n<p>Christopher Hui, Secretary for Financial Services and the Treasury, said adopting the latest international standard on automatic exchange of tax information helps keep Hong Kong's standing as an international financial and commercial centre. He added that aligning with the standard should strengthen confidence among crypto-asset service providers, financial institutions and digital-asset users who operate and invest in the city for the long term. The timeline matches the plan Hong Kong set out in December 2024: finish the legislative changes in 2026 and begin exchanging information in 2028.</p>\n<h2>What to watch next</h2>\n<p>Two milestones matter: the IRD's detailed guidance, and the release of the reporting portal and data schema. Because collection starts a year before the first international exchange, exchanges and providers with activity linked to Hong Kong may need to prepare customer-verification processes earlier than 2028.</p>\n<h2>What it means for traders</h2>\n<p>The law does not change how futures trade or the tax rate an individual pays, and the effective dates are still some way off. The impact is mainly long-term: customer and transaction data held by platforms linked to Hong Kong could be shared with partner tax authorities from 2028, so traders should be clear on their reporting obligations where they are tax resident.</p>\n<p>For markets, the news is not reported as a price driver. Bitcoin is holding above $80,000 and ether is up about 8% in the <a href=\"/en/news/democrats-win-us-senate-as-bitcoin-dips-below-76000-then\">rebound after the US midterm results</a>, so Hong Kong's tax step is one part of a wider regulatory picture. What to watch is how service providers set out their compliance plans before 2027, and whether other jurisdictions are on a similar timetable.</p>",
+  "keywords": [
+   "Hong Kong crypto",
+   "CARF",
+   "crypto tax reporting",
+   "OECD",
+   "crypto regulation"
+  ]
+ },
+ "cats": [
+  "reg"
+ ],
+ "dir": "tin-tuc"
+}

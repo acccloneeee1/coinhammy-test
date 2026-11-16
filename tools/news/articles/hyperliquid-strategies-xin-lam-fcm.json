@@ -1,0 +1,76 @@
+{
+ "slug": "hyperliquid-strategies-xin-lam-fcm",
+ "slug_en": "hyperliquid-strategies-files-fcm-application",
+ "cat": "alt",
+ "cats": [
+  "alt",
+  "reg"
+ ],
+ "coin": "HYPE",
+ "ts": "2026-11-06T11:30:00+07:00",
+ "event": "Hyperliquid Strategies (HYPE treasury firm) seeks to become a US futures commission merchant for HIP-3 perps; Q3 revenue $13.3M, net income $620.6M (Nov 5 2026)",
+ "src_urls": [
+  "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+  "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455"
+ ],
+ "vi": {
+  "title": "Công ty nắm giữ HYPE xin làm FCM để đưa perp Hyperliquid vào Mỹ",
+  "seo_title": "Hyperliquid Strategies xin làm FCM tại Mỹ",
+  "desc": "Hyperliquid Strategies xin đăng ký FCM tại Mỹ để đưa perp HIP-3 đến khách Mỹ, báo lãi ròng 620,6 triệu USD quý III nhưng HYPE vẫn giảm theo thị trường chung.",
+  "lead": "Công ty niêm yết nắm giữ HYPE cho biết đang xin làm FCM tại Mỹ để mở kênh có quản lý cho perpetual futures trên Hyperliquid, trong lúc chưa có bảo đảm về thời điểm được chấp thuận.",
+  "bullets": [
+   "Hyperliquid Strategies xin đăng ký FCM qua công ty con HypeStrat Markets để nhận tài khoản khách Mỹ cho các thị trường HIP-3 có phép.",
+   "Công ty báo doanh thu 13,3 triệu USD và lãi ròng 620,6 triệu USD quý III, phần lớn là lãi chưa thực hiện 803 triệu USD trên số HYPE nắm giữ.",
+   "Công ty nói không có gì bảo đảm về thời điểm hay kết quả của đơn đăng ký, còn HYPE giảm khoảng 7% trong 24 giờ cùng đà bán tháo chung."
+  ],
+  "body_html": "<p>Hyperliquid Strategies, công ty niêm yết chuyên nắm giữ token HYPE, cho biết đang xin đăng ký làm futures commission merchant (FCM, nhà môi giới hợp đồng tương lai) tại Mỹ. Thông tin được công bố ngày 5/11 cùng báo cáo kết quả quý kết thúc ngày 30/9. Nếu được chấp thuận, đây sẽ là một cửa ngõ có quản lý để perpetual futures chạy trên Hyperliquid tiếp cận khách hàng Mỹ.</p>\n<h2>Công ty xin làm FCM để làm gì</h2>\n<p>Theo tuyên bố của công ty, đơn đăng ký do công ty con HypeStrat Markets đứng tên. FCM này sẽ nhận tài khoản của khách hàng Mỹ cho các thị trường có phép (permissioned) triển khai trên Hyperliquid theo khung HIP-3. Công ty mô tả việc lập FCM là cách để \"đưa các thị trường triển khai trên Hyperliquid về trong nước Mỹ\", với mục tiêu cung cấp perpetual futures cho khách Mỹ trong một khuôn khổ được quản lý.</p>\n<p>Hyperliquid hiện vẫn đóng với khách hàng Mỹ. Đây là sàn perp lớn hoạt động ngoài nước Mỹ, chạy trên blockchain riêng và dùng token HYPE. Công ty cũng nói rõ không có gì bảo đảm về thời điểm hay kết quả của đơn đăng ký, cũng như việc các thị trường HIP-3 có phép được cơ quan quản lý chấp thuận hay không.</p>\n<h2>Kết quả kinh doanh quý III</h2>\n<p>Cùng ngày, công ty báo doanh thu 13,3 triệu USD cho quý kết thúc ngày 30/9, cao hơn mức dự báo của giới phân tích, vốn dao động từ 10,6 đến 12 triệu USD tuỳ nguồn dữ liệu. Lợi nhuận ròng đạt 620,6 triệu USD, chủ yếu nhờ khoản lãi chưa thực hiện 803 triệu USD trên số HYPE đang nắm giữ, được bù đắp một phần bởi 172,3 triệu USD dự phòng thuế thu nhập.</p>\n<p>Cần lưu ý đây là lãi trên giá trị sổ sách của token chứ chưa phải tiền mặt thu về. Nhóm nhà đầu tư theo dõi công ty này thường nhìn vào doanh thu hoạt động hơn là lãi chưa thực hiện, vì khoản sau thay đổi theo giá HYPE từng ngày.</p>\n<h2>Bối cảnh: Mỹ đang mở cửa cho Hyperliquid từng bước</h2>\n<p>Đây là bước mới trong chuỗi động thái đưa Hyperliquid vào thị trường Mỹ. Hồi tháng 8, Tổng thống Donald Trump nói chính quyền đang tìm cách đưa Hyperliquid vào Mỹ \"theo cách tuân thủ đầy đủ và hợp pháp\". Cuối tháng 10, Hyperliquid chọn công ty mẹ của Kraken làm <a href=\"/tin-tuc/hyperliquid-payward-kraken-hip-3-cftc-perpetual\">nhà triển khai HIP-3 đầu tiên được CFTC quản lý</a>. Tuần trước, ICE cũng thoả thuận <a href=\"/tin-tuc/ice-trade-xyz-hyperliquid-perpetual-futures-my\">hợp tác với Trade[XYZ]</a> để đưa các thị trường perp kiểu Hyperliquid đến trader Mỹ, trong đó ICE vận hành sàn và hạ tầng thanh toán bù trừ còn Trade[XYZ] thiết kế thị trường.</p>\n<p>Nhiều con đường song song cho thấy hồ sơ của Hyperliquid tại Mỹ đang được xây theo nhiều lớp, nhưng chưa có lớp nào được chấp thuận cuối cùng trong những gì đã công bố.</p>\n<h2>Tác động tới trader</h2>\n<p>Tin này nổi bật hơn vì xuất hiện đúng lúc thị trường bán tháo mạnh. Trong phiên thứ Năm, Bitcoin giảm khoảng 6% xuống quanh 75.700 USD, ether giảm khoảng 7% và hơn 1 tỷ USD vị thế bị thanh lý khi cổ phiếu công nghệ Mỹ lao dốc. HYPE cũng giảm khoảng 7% trong 24 giờ, nên một tin tích cực về pháp lý chưa đủ để đi ngược xu hướng chung.</p>\n<p>Với người giao dịch futures, điều đáng theo dõi là cơ chế chứ không phải một con số: nếu khách hàng Mỹ được phép tiếp cận perp HIP-3 qua kênh có quản lý, thanh khoản và open interest của các thị trường này có thể mở rộng, nhưng điều đó phụ thuộc hoàn toàn vào quyết định của cơ quan quản lý, chưa có mốc thời gian. Trong lúc chờ, token ở nhóm altcoin thường biến động mạnh hơn Bitcoin khi dòng tiền rút khỏi tài sản rủi ro, nên nên chú ý funding rate và lượng thanh lý của HYPE khi thị trường chung còn rung lắc.</p>",
+  "keywords": [
+   "Hyperliquid",
+   "HYPE",
+   "FCM",
+   "HIP-3",
+   "perpetual futures"
+  ]
+ },
+ "en": {
+  "title": "Hyperliquid Treasury Firm Files to Become a U.S. Futures Broker",
+  "seo_title": "Hyperliquid Strategies Files to Become a US FCM",
+  "desc": "Hyperliquid Strategies seeks U.S. FCM status to bring HIP-3 perps to American clients, posting 620.6M USD Q3 net income as HYPE slipped with the broader market.",
+  "lead": "The listed HYPE treasury firm said it is applying to become a U.S. FCM to open a regulated channel for Hyperliquid perpetual futures, with no assurance on timing of approval.",
+  "bullets": [
+   "Hyperliquid Strategies is applying for FCM status through its subsidiary HypeStrat Markets to carry U.S. client accounts for permissioned HIP-3 markets.",
+   "The company reported 13.3 million USD in revenue and 620.6 million USD in net income for Q3, mostly 803 million USD of unrealized gains on its HYPE holdings.",
+   "The firm said there is no assurance on timing or outcome of the application, while HYPE fell about 7% over 24 hours with the broader selloff."
+  ],
+  "body_html": "<p>Hyperliquid Strategies, a listed company that holds HYPE tokens, said it is applying to become a futures commission merchant (FCM) in the United States. The company disclosed the plan on Nov. 5 alongside results for the quarter ended Sept. 30. If approved, it would give perpetual futures running on Hyperliquid a regulated route to U.S. customers.</p>\n<h2>What the FCM would do</h2>\n<p>According to the company's statement, the application is filed by its subsidiary HypeStrat Markets. The FCM would carry U.S. client accounts for permissioned markets deployed on Hyperliquid under the HIP-3 framework. The company described setting up an FCM as a way to bring markets deployed on Hyperliquid onshore, so that perpetual futures can reach U.S. customers within a regulated framework.</p>\n<p>Hyperliquid itself remains closed to U.S. clients. It is a leading perpetuals venue based outside the country that runs on its own blockchain and uses the HYPE token. The company also stressed there is no assurance on the timing or outcome of the application, or on regulatory approval of permissioned HIP-3 markets.</p>\n<h2>Third-quarter results</h2>\n<p>The firm reported revenue of 13.3 million USD for the quarter ended Sept. 30, above analyst estimates that ranged from 10.6 million to 12 million USD depending on the data provider. Net income came in at 620.6 million USD, driven mostly by 803 million USD of unrealized gains on its HYPE holdings and partly offset by a 172.3 million USD income tax provision.</p>\n<p>Those gains are paper gains on the token's book value, not cash received. Investors who follow the company tend to focus on operating revenue instead, because unrealized gains move with the HYPE price every day.</p>\n<h2>Context: the U.S. door is opening step by step</h2>\n<p>The filing is the latest move in a string of efforts to bring Hyperliquid to the U.S. market. In August, President Donald Trump said his administration was trying to bring Hyperliquid into the country in a fully compliant and legal fashion. In late October, Hyperliquid picked Kraken's parent company as the <a href=\"/en/news/hyperliquid-picks-kraken-parent-as-first-cftc-regulated-hip\">first CFTC-regulated HIP-3 deployer</a>. Last week, ICE also agreed to <a href=\"/en/news/nyse-owner-ice-teams-with-trade-xyz-to-bring-hyperliquid\">team up with Trade[XYZ]</a> to bring Hyperliquid-style perp markets to U.S. traders, with ICE running the exchange and clearing and Trade[XYZ] designing the markets.</p>\n<p>Several parallel routes suggest Hyperliquid's U.S. presence is being built in layers, though none of them has received final approval in the information disclosed so far.</p>\n<h2>What it means for traders</h2>\n<p>The news lands at an awkward moment for the market. On Thursday, Bitcoin fell about 6% to around 75,700 USD, ether dropped about 7%, and more than 1 billion USD of positions were liquidated as U.S. tech stocks slid. HYPE also fell about 7% over 24 hours, so a regulatory positive was not enough to offset the broad move.</p>\n<p>For futures traders, the thing to watch is the mechanism rather than a single number: if U.S. clients gain access to HIP-3 perps through a regulated channel, liquidity and open interest in those markets could expand, but that depends entirely on a regulator's decision, with no timeline. Until then, altcoins tend to swing harder than Bitcoin when money leaves risk assets, so funding rates and liquidations on HYPE are worth monitoring while the broader market stays shaky.</p>",
+  "keywords": [
+   "Hyperliquid",
+   "HYPE",
+   "FCM",
+   "HIP-3",
+   "perpetual futures"
+  ]
+ },
+ "image": {
+  "src": "coinhammy-cover:hyperliquid-fcm-2026-11-06",
+  "license": "Ban biên tập cung cấp",
+  "credit": "",
+  "alt_vi": "Logo Hyperliquid, toà nhà Quốc hội Mỹ, cờ Mỹ và hồ sơ FCM trên nền biểu đồ nến",
+  "alt_en": "Hyperliquid logo, the U.S. Capitol, an American flag and an FCM filing over candlestick charts",
+  "caption_vi": "Hyperliquid Strategies xin đăng ký FCM qua công ty con HypeStrat Markets",
+  "caption_en": "Hyperliquid Strategies files to register as an FCM through its subsidiary HypeStrat Markets",
+  "url": "/tin/img/hyperliquid-strategies-xin-lam-fcm-h2.jpg"
+ },
+ "images": [],
+ "related": [
+  {
+   "kind": "news",
+   "slug": "hyperliquid-payward-kraken-hip-3-cftc-perpetual"
+  },
+  {
+   "kind": "news",
+   "slug": "ice-trade-xyz-hyperliquid-perpetual-futures-my"
+  }
+ ],
+ "dir": "tin-tuc"
+}

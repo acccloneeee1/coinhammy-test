@@ -1,0 +1,60 @@
+{
+ "slug": "basis-futures-am-la-gi",
+ "slug_en": "negative-futures-basis-explained",
+ "related": [
+  {
+   "kind": "learn",
+   "slug": "funding-rate-duong-keo-dai-co-phai-tin-hieu-dao-chieu"
+  },
+  {
+   "kind": "learn",
+   "slug": "open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi"
+  }
+ ],
+ "cat": "mk",
+ "coin": "BTC",
+ "ts": "2026-11-11T19:50:00+07:00",
+ "image": {
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến ngày Bitcoin hợp đồng vĩnh viễn trên Binance, có nhãn Negative basis",
+  "alt_en": "Daily candlestick chart of the Bitcoin perpetual contract on Binance with a Negative basis label",
+  "caption_vi": "Bitcoin khung ngày trên hợp đồng vĩnh viễn Binance, giá quanh 74.000 USD sau đợt giảm từ vùng 86.000 USD trong tháng 10",
+  "caption_en": "Bitcoin daily chart of the Binance perpetual contract, trading near 74,000 USD after a drop from the 86,000 USD area in October",
+  "url": "/hoc/img/basis-futures-am-la-gi-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Basis futures âm là gì và đọc tín hiệu Bitcoin ra sao",
+  "seo_title": "Basis futures âm là gì? Đọc tín hiệu BTC",
+  "desc": "Basis futures âm là gì? Cách tính chênh lệch giá hợp đồng và spot, đọc basis âm 30 nến của Bitcoin cùng funding rate và open interest, kèm mốc theo dõi.",
+  "lead": "Basis futures là chênh lệch giữa giá hợp đồng và giá spot. Bài này giải thích vì sao basis âm kéo dài và cách đọc tín hiệu đó cùng các chỉ số khác.",
+  "body_html": "<p>Basis futures là chênh lệch giữa giá hợp đồng tương lai và giá giao ngay (spot) của cùng một tài sản. Khi giá futures cao hơn spot, basis dương. Khi giá futures thấp hơn spot, basis âm. Trong 30 nến ngày gần nhất, giá Bitcoin trên thị trường hợp đồng vĩnh viễn của Binance luôn thấp hơn giá spot, nên basis âm là trạng thái đáng chú ý. Bài này giải thích basis được tính ra sao, vì sao nó âm và cách đọc cùng funding rate và open interest.</p>\n<h2>Basis được tính như thế nào</h2>\n<p>Hợp đồng vĩnh viễn (perpetual) không có ngày đáo hạn, nên giá của nó được giữ gần giá spot nhờ cơ chế funding rate, tức phí tài trợ được trao đổi định kỳ giữa người long và người short. Basis là khoảng cách trực tiếp giữa hai mức giá, thường đo bằng phần trăm:</p>\n<p><strong>Basis (%) = (giá futures − giá spot) ÷ giá spot × 100</strong></p>\n<p>Ví dụ, với mức giá ghi nhận trong phiên này: giá đánh dấu (mark price) BTC trên Binance là 74.025,7 USD và giá spot là 74.040,0 USD. Basis khi đó là −0,019%. Con số nhỏ, nhưng dấu âm cho biết hợp đồng đang được định giá thấp hơn thị trường giao ngay.</p>\n<h2>30 nến ngày gần nhất: basis âm đều đặn</h2>\n<p>Lấy giá đóng cửa của nến ngày trên cặp BTCUSDT hợp đồng vĩnh viễn và cặp BTCUSDT spot, basis âm ở mọi nến trong 30 ngày gần nhất, tính đến hôm nay (nến hôm nay chưa đóng). Mức trung bình khoảng −0,047%. Mức âm sâu nhất là −0,077% ngày 31/10/2026, mức nông nhất là −0,016% ngày 03/11/2026. Bảng dưới đây lấy ba nến đã đóng cửa làm ví dụ:</p>\n<table><tr><th>Ngày (UTC)</th><th>Giá futures đóng cửa</th><th>Giá spot đóng cửa</th><th>Basis</th></tr>\n<tr><td>31/10/2026</td><td>77.522,6 USD</td><td>77.582,0 USD</td><td>−0,077%</td></tr>\n<tr><td>03/11/2026</td><td>77.441,7 USD</td><td>77.453,9 USD</td><td>−0,016%</td></tr>\n<tr><td>10/11/2026</td><td>73.762,9 USD</td><td>73.796,1 USD</td><td>−0,045%</td></tr></table>\n<h2>Vì sao basis có thể âm</h2>\n<p>Khi basis dương, người có thể mua spot và bán futures để thu chênh lệch, rồi giữ đến khi hai giá hội tụ. Khi basis âm, chiến lược ngược lại khó thực hiện hơn, vì bán khống spot thường không dễ bằng mua spot. Vì vậy basis âm kéo dài thường phản ánh một bên thị trường đang sẵn sàng trả giá thấp hơn để có hoặc bán vị thế futures, chứ không chỉ là sai lệch ngắn hạn.</p>\n<p>Các yếu tố thường đi cùng gồm nhu cầu long đòn bẩy yếu, lượng bán phòng hộ tăng và tâm lý thận trọng. Chúng không tự chứng minh xu hướng giảm, nên cần đối chiếu với các chỉ số khác.</p>\n<h2>Đọc basis cùng funding rate và open interest</h2>\n<p>Funding rate là phí định kỳ giữa long và short. Funding gần nhất của BTC là 0,006853% mỗi kỳ, vẫn dương nhưng ở mức thấp, nghĩa là phía long vẫn trả phí nhẹ cho phía short. <a href=\"/kien-thuc/open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi\">Open interest khi giá giảm</a> cho thấy tổng số vị thế đang mở, hiện khoảng 100.759 BTC. Khi basis âm đi cùng funding thấp và open interest không tăng mạnh, thị trường đang thiếu đòn bẩy mua hơn là có một đợt bán tháo lớn.</p><p>[[rel:1]]</p>\n<p>Cách đọc này chỉ là gợi ý. Mỗi chỉ số đo một phần của thị trường, nên cần xem chúng cùng lúc thay vì đọc riêng một con số.</p>\n<h2>Điều gì sẽ chứng minh nhận định này sai</h2>\n<p>Đọc basis âm như dấu hiệu bi quan chỉ đúng khi nó kéo dài và được xác nhận bởi dòng tiền bán. Nhận định sẽ sai nếu basis quay về dương và giữ được vài ngày liên tiếp, funding tăng lên mức dương rõ rệt, và giá spot tăng kéo theo futures. Khi đó, chênh lệch âm chỉ là một nhịp tạm thời.</p>\n<h2>Mốc cần theo dõi</h2>\n<p>Có bốn điểm để theo dõi hằng ngày: basis so với mốc 0, funding rate ở mỗi kỳ, open interest so với mức đầu tuần, và giá đóng cửa BTC so với vùng 74.000 USD. Khi các chỉ số cùng đổi hướng, nhận định trước đó cần được cập nhật.</p>\n<h2>Tóm lại</h2>\n<p>Basis futures là khoảng cách giữa giá hợp đồng và giá spot. Basis âm kéo dài cho thấy hợp đồng đang được định giá thấp hơn thị trường giao ngay. Để hiểu đúng, cần đọc basis cùng funding rate, open interest và giá, đồng thời xác định trước điều kiện nào sẽ làm nhận định sai.</p>",
+  "keywords": [
+   "basis futures",
+   "basis âm",
+   "chênh lệch giá futures spot",
+   "funding rate",
+   "open interest"
+  ]
+ },
+ "en": {
+  "title": "Negative futures basis explained and what it signals for Bitcoin",
+  "seo_title": "Negative Futures Basis: Bitcoin Signal Guide",
+  "desc": "Negative futures basis explained: how to calculate the futures-spot gap, why BTC basis stayed below zero for 30 days, and how to read it with funding.",
+  "lead": "Futures basis is the gap between a contract price and spot. This article explains why a negative basis can persist and how to read it alongside other indicators.",
+  "body_html": "<p>Futures basis is the gap between a futures contract price and the spot price of the same asset. When futures trade above spot, the basis is positive. When they trade below spot, it is negative. Across the last 30 daily candles, Bitcoin's perpetual contract on Binance has closed below spot every day, which makes a negative basis worth understanding. This article explains how basis is calculated, why it can turn negative, and how to read it alongside funding rate and open interest.</p>\n<h2>How the basis is calculated</h2>\n<p>Perpetual contracts have no expiry date, so their price is kept close to spot by the funding rate, a periodic payment between long and short traders. The basis is the direct gap between the two prices, usually expressed as a percentage:</p>\n<p><strong>Basis (%) = (futures price − spot price) ÷ spot price × 100</strong></p>\n<p>As an example, on 11 November 2026 the BTC mark price on Binance was 74,025.7 USD and the spot price was 74,040.0 USD. The basis at that point was −0.019%. The number is small, but the minus sign shows the contract was priced below the spot market.</p>\n<h2>The last 30 daily candles: a steady negative basis</h2>\n<p>Using daily closing prices for the BTCUSDT perpetual and the BTCUSDT spot pair, the basis was negative on every one of the last 30 daily candles, including today's candle, which has not yet closed. The average was about −0.047%. The deepest reading was −0.077% on 31 October 2026, and the shallowest was −0.016% on 3 November 2026. The table below shows three closed days as examples:</p>\n<table><tr><th>Date (UTC)</th><th>Futures close</th><th>Spot close</th><th>Basis</th></tr>\n<tr><td>31 Oct 2026</td><td>77,522.6 USD</td><td>77,582.0 USD</td><td>−0.077%</td></tr>\n<tr><td>3 Nov 2026</td><td>77,441.7 USD</td><td>77,453.9 USD</td><td>−0.016%</td></tr>\n<tr><td>10 Nov 2026</td><td>73,762.9 USD</td><td>73,796.1 USD</td><td>−0.045%</td></tr></table>\n<h2>Why the basis can be negative</h2>\n<p>When the basis is positive, a trader can buy spot and short futures to capture the gap, then hold until the two prices converge. When the basis is negative, the reverse trade is harder to run, because short-selling spot is usually less accessible than buying it. A negative basis that lasts therefore often reflects a market willing to accept a lower futures price to hold or take short exposure, rather than a brief mispricing.</p>\n<p>Common factors include weaker demand from leveraged longs, more hedging by holders who sell, and cautious sentiment. None of these proves a downtrend on its own, so the basis should be checked against other indicators.</p>\n<h2>Reading the basis with funding rate and open interest</h2>\n<p>Funding rate is the periodic payment between longs and shorts. The latest BTC funding rate is 0.006853% per interval. It is still positive, but low, meaning longs pay a small fee to shorts. <a href=\"/en/learn/open-interest-rises-as-price-falls-what-is-leverage\">open interest when price falls</a> measures the total number of open positions, currently about 100,759 BTC. When a negative basis appears alongside low funding and open interest that is not rising sharply, the market looks short of leveraged buying rather than facing a large sell-off.</p><p>[[rel:1]]</p>\n<p>This reading is a hypothesis, not a forecast. Each indicator measures one part of the market, so they should be read together rather than in isolation.</p>\n<h2>What would prove this reading wrong</h2>\n<p>A negative basis is a bearish signal only if it lasts and is confirmed by selling flow. The reading would be wrong if the basis returns to positive and holds for several days, funding rises clearly above zero, and spot gains pull futures higher. In that case the negative gap was only a temporary phase.</p>\n<h2>Levels to watch</h2>\n<p>Four points deserve daily attention: the basis relative to zero, the funding rate at each interval, open interest compared with the start of the week, and the BTC daily close relative to the 74,000 USD area. When these move in the same direction, the earlier reading should be updated.</p>\n<h2>Key takeaways</h2>\n<p>Futures basis is the gap between a contract price and the spot price. A negative basis that persists means the contract trades below the spot market. To read it correctly, combine the basis with funding rate, open interest and price, and decide in advance which conditions would invalidate the reading.</p>",
+  "keywords": [
+   "negative futures basis",
+   "futures basis",
+   "Bitcoin futures",
+   "funding rate",
+   "open interest"
+  ]
+ },
+ "event": "Basis futures âm là gì và đọc tín hiệu Bitcoin ra sao",
+ "cats": [
+  "mk"
+ ],
+ "dir": "kien-thuc"
+}

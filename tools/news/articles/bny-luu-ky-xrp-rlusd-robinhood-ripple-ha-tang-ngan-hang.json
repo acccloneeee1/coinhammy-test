@@ -1,0 +1,72 @@
+{
+ "slug": "bny-luu-ky-xrp-rlusd-robinhood-ripple-ha-tang-ngan-hang",
+ "cat": "alt",
+ "coin": "XRP",
+ "ts": "2026-10-28T11:30:00+07:00",
+ "event": "Ripple widens its bank-grade footprint: BNY adds XRP and RLUSD custody and Robinhood to offer RLUSD, a day after final OCC trust bank approval (Oct 26-27 2026)",
+ "src_urls": [
+  "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
+  "https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/",
+  "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+  "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+  "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/looking-up-at-tall-buildings-in-a-city-H-zfuLqByEg",
+  "license": "Unsplash",
+  "alt_vi": "Các tòa nhà cao tầng nhìn từ dưới lên ở khu tài chính New York",
+  "alt_en": "Skyscrapers seen from street level in New York's Financial District",
+  "url": "/tin/img/bny-luu-ky-xrp-rlusd-robinhood-ripple-ha-tang-ngan-hang-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "BNY lưu ký XRP, RLUSD lên Robinhood: Ripple mở rộng hạ tầng ngân hàng",
+  "seo_title": "BNY lưu ký XRP, RLUSD lên Robinhood: Ripple ra sao",
+  "desc": "BNY thêm dịch vụ lưu ký XRP và RLUSD, Robinhood sẽ cung cấp RLUSD, sau giấy phép ngân hàng ủy thác của Ripple. Giá XRP chưa phản ứng rõ rệt.",
+  "lead": "Chỉ trong hai ngày, Ripple có giấy phép ngân hàng ủy thác liên bang tại Mỹ, được BNY nhận lưu ký XRP và RLUSD, và đạt thỏa thuận đưa RLUSD lên Robinhood. Tuy vậy, các thông báo này chưa kèm bằng chứng về dòng vốn mới mua XRP.",
+  "bullets": [
+   "Ripple nhận phê duyệt cuối cùng của OCC cho Ripple National Trust Bank ngày 26/10, được phép quản lý dự trữ RLUSD, làm bên ủy thác tài sản thế chấp và lưu ký tài sản số.",
+   "Ngày 27/10, BNY thêm XRP và RLUSD vào nền tảng lưu ký cho khách hàng tổ chức, còn Robinhood dự kiến đưa RLUSD vào ứng dụng trước cuối năm nay.",
+   "Các thông báo không nêu số dư XRP lưu ký hay lượng mua mới; XRP quanh 1,25 USD và giảm nhẹ 0,5% trong ngày 27/10."
+  ],
+  "body_html": "<p>Ripple vừa có hai ngày dồn dập tin tức về hạ tầng tài chính. Ngày 26/10, Cơ quan Quản lý Tiền tệ Mỹ (OCC) cấp phê duyệt cuối cùng cho Ripple National Trust Bank. Ngày 27/10, BNY thông báo mở rộng hợp tác với Ripple, trong đó có dịch vụ lưu ký XRP, còn Robinhood công bố kế hoạch đưa stablecoin RLUSD của Ripple đến khách hàng.</p><h2>Giấy phép ngân hàng ủy thác của Ripple</h2><p>Theo thông báo của Ripple, OCC cho phép ngân hàng ủy thác mới quản lý dự trữ của RLUSD, đóng vai trò bên ủy thác tài sản thế chấp cho người nắm giữ token và cung cấp dịch vụ lưu ký tài sản số theo nghĩa vụ ủy thác. Ripple cho biết vốn hóa RLUSD hiện khoảng 2,5 tỷ USD.</p><p>Giấy phép này có giới hạn rõ ràng. Ngân hàng không hoạt động như một ngân hàng thương mại thông thường, tức không mở tài khoản tiền gửi hay cho vay đại trà. Việc phát hành RLUSD vẫn do công ty con được New York giám sát đảm nhiệm, còn BNY tiếp tục là bên lưu ký dự trữ chính.</p><p>Quyết định đến sau thời gian dài tranh luận. Một số hiệp hội ngân hàng Mỹ từng phản đối việc các công ty tiền số được cấp điều lệ ủy thác liên bang, trong khi OCC đã cấp phê duyệt có điều kiện cho Ripple từ tháng 12/2025.</p><h2>BNY thêm XRP và RLUSD vào nền tảng lưu ký</h2><p>Một ngày sau, BNY cho biết nền tảng lưu ký tổ chức của mình hỗ trợ XRP và RLUSD cho khách hàng đủ điều kiện. Khách hàng của BNY cũng được kỳ vọng sẽ đúc và đổi RLUSD trực tiếp qua ngân hàng này, dù chưa có thời điểm cụ thể cho các dịch vụ trên.</p><p>Cùng ngày, Ripple, BNY và nền tảng vốn lưu động C2FO công bố kế hoạch thử nghiệm tài trợ chuỗi cung ứng trên XRP Ledger, dùng RLUSD để thanh toán các hóa đơn đã được duyệt. Dự án còn ở giai đoạn phát triển; sản phẩm Instant Pay của C2FO sẽ mở theo đợt giới hạn, có danh sách chờ và chỉ dành cho khách hàng tại Mỹ ở giai đoạn đầu.</p><p>Điểm cần phân biệt là lưu ký khác với mua vào. Thông báo không nêu số dư XRP nào đang nằm tại BNY, cũng không nêu khoản mua mới. Nếu một tổ chức chỉ chuyển XRP đã sở hữu từ nơi lưu ký khác sang BNY, lượng token do ngân hàng giữ có thể tăng mà không có thêm lệnh mua nào ngoài thị trường.</p><h2>Robinhood đưa RLUSD đến hàng triệu khách hàng</h2><p>Robinhood cho biết RLUSD đã có trên Robinhood Chain và Bitstamp, và dự kiến xuất hiện trong ứng dụng trước cuối năm 2026. Nền tảng này có khoảng 28,6 triệu khách hàng có tài khoản nạp tiền tính đến cuối tháng 8. Bitstamp sẽ dùng RLUSD trên XRP Ledger để thanh toán bù trừ, Robinhood áp dụng phần mềm quản lý ngân quỹ của Ripple, và hai bên dự định bổ sung giao dịch hợp đồng tương lai vĩnh cửu trong năm nay.</p><p>Robinhood cũng từng góp phần ra mắt USDG, stablecoin cạnh tranh do Paxos phát hành. Chưa rõ hai đồng sẽ cùng xuất hiện trong các sản phẩm của Robinhood ra sao, và công ty chưa công bố thay đổi nào với thỏa thuận USDG.</p><h2>Điều cần theo dõi tiếp</h2><p>Các thông báo cho thấy RLUSD và dịch vụ lưu ký mở rộng, nhưng với XRP câu hỏi mấu chốt là nhu cầu mua mới. RLUSD cũng hoạt động trên Ethereum, nơi giao dịch không cần XRP. Trên XRP Ledger, XRP vẫn dùng để trả phí và giữ dự trữ tài khoản, nhưng tổ chức có thể chuyển RLUSD mà không phải đổi sang XRP. Vì vậy, số dư XRP thực tế tại các nơi lưu ký và thời điểm triển khai từng dịch vụ sẽ quan trọng hơn bản thân các thông báo.</p><h2>Tác động tới trader</h2><p>Thị trường chưa phản ứng mạnh. Trong bản tin ngày 27/10, XRP giao dịch quanh 1,25 USD và giảm khoảng 0,5% kể từ đầu ngày theo giờ UTC, dù tin giấy phép đã ra trước đó. Các nhà phân tích trích trong bản tin này nhận định giấy phép không tạo ra nghĩa vụ mua XRP, trong lúc funding rate của XRP ở mức khoảng 0,81 điểm cơ bản và open interest quy ra USD tăng 3,1%.</p><p>Với trader futures, điều đó cho thấy vị thế đòn bẩy chưa bị đẩy lệch mạnh về một phía, và tin tức mang tính hạ tầng dài hạn thường không tạo cú sốc giá tức thì. Nếu có dòng vốn mua mới thực sự, dấu hiệu có thể xuất hiện qua funding rate tăng cùng open interest, nhưng đây là điều cần quan sát chứ chưa phải kết luận. Bối cảnh chung vẫn do thị trường chung và cuộc họp Fed chi phối, nên biến động của XRP có thể đến từ các yếu tố ngoài câu chuyện Ripple.</p><p>Trader có thể dùng <a href=\"/cong-cu.html\">công cụ tính vị thế và giá thanh lý</a> để kiểm soát rủi ro đòn bẩy, và tham khảo <a href=\"/xep-hang.html\">bảng xếp hạng sàn</a> khi so phí và thanh khoản giao dịch XRP.</p>",
+  "keywords": [
+   "XRP",
+   "RLUSD",
+   "Ripple",
+   "BNY lưu ký XRP",
+   "Robinhood RLUSD"
+  ]
+ },
+ "en": {
+  "title": "BNY Adds XRP Custody and Robinhood Taps RLUSD as Ripple Builds Bank Rails",
+  "seo_title": "BNY XRP Custody, Robinhood RLUSD: What Ripple Won",
+  "desc": "BNY now offers XRP and RLUSD custody and Robinhood plans to offer RLUSD, a day after Ripple's national trust bank approval. XRP price barely moved.",
+  "lead": "In two days Ripple secured a US federal trust bank charter, won XRP and RLUSD custody at BNY and agreed to bring RLUSD to Robinhood. None of the announcements, however, shows fresh money buying XRP.",
+  "bullets": [
+   "The OCC gave final approval on Oct. 26 for Ripple National Trust Bank to manage RLUSD reserves, act as collateral trustee and provide fiduciary digital asset custody.",
+   "On Oct. 27 BNY added XRP and RLUSD to its institutional custody platform, while Robinhood expects to offer RLUSD in its app before the end of this year.",
+   "The announcements disclose no XRP custody balance or new purchases; XRP traded near $1.25 and was down about 0.5% on Oct. 27."
+  ],
+  "body_html": "<p>Ripple had a busy two days on the infrastructure front. On Oct. 26 the Office of the Comptroller of the Currency (OCC) granted final approval for Ripple National Trust Bank. On Oct. 27 BNY announced an expanded partnership with Ripple that includes XRP custody, and Robinhood said it will bring Ripple's RLUSD stablecoin to its customers.</p><h2>Ripple's national trust charter</h2><p>According to Ripple, the OCC approval lets the new trust bank manage RLUSD reserves, serve as collateral trustee for token holders and provide fiduciary custody for digital assets. Ripple puts RLUSD's market capitalization at about $2.5 billion.</p><p>The charter has clear limits. The bank is not a conventional commercial lender and will not offer ordinary deposit accounts or loans. RLUSD issuance stays with a New York-regulated Ripple subsidiary, and BNY remains the stablecoin's primary reserve custodian.</p><p>The decision followed a long dispute. Several US banking groups had objected to crypto firms obtaining federal trust charters, while the OCC granted Ripple conditional approval in December 2025.</p><h2>BNY adds XRP and RLUSD custody</h2><p>A day later, BNY said its institutional custody platform now supports XRP and RLUSD for eligible clients. Clients are also expected to be able to mint and redeem RLUSD directly through the bank, though no timeline was given for those services.</p><p>The same day, Ripple, BNY and working-capital platform C2FO announced plans to test supply-chain financing on the XRP Ledger, using RLUSD to settle approved invoices. The project is still in development, and C2FO's Instant Pay will roll out in limited stages with a waitlist and US-only access at launch.</p><p>Custody is not the same as buying. The announcement names no XRP balance held at BNY and no new purchase. If an institution simply moves XRP it already owns from another custodian, the amount held by BNY could rise without any additional market buying.</p><h2>Robinhood brings RLUSD to millions of users</h2><p>Robinhood said RLUSD is already live on Robinhood Chain and Bitstamp and is expected in its app before the end of 2026. The platform reported about 28.6 million funded customers at the end of August. Bitstamp will use RLUSD on the XRP Ledger for settlement, Robinhood will adopt Ripple's treasury software, and the companies plan to add perpetual futures trading later this year.</p><p>Robinhood also helped launch USDG, a rival stablecoin issued by Paxos. It is unclear how the two tokens will coexist across Robinhood's products, and the company has announced no change to its USDG arrangement.</p><h2>What to watch next</h2><p>The news points to a wider RLUSD and custody footprint, but for XRP the key question is incremental demand. RLUSD also exists on Ethereum, where transfers do not require XRP. On the XRP Ledger, XRP still pays fees and covers account reserves, yet institutions can move RLUSD without converting into XRP. Actual XRP balances at custodians and the launch dates of each service will matter more than the announcements themselves.</p><h2>What it means for traders</h2><p>The market reaction has been muted. In its Oct. 27 note, XRP traded near $1.25 and was down about 0.5% since midnight UTC, even after the charter news. Analysts quoted in that report said the charter creates no obligation to buy XRP, while XRP funding stood near 0.81 basis points and dollar open interest was up 3.1%.</p><p>For futures traders, that suggests leveraged positioning has not tilted sharply to one side, and long-dated infrastructure news often fails to trigger an immediate price shock. If genuine new buying arrives, it could show up as rising funding alongside rising open interest, but that is something to watch rather than a conclusion. The broader market and the Fed meeting remain the main drivers, so XRP moves may owe little to the Ripple story.</p><p>Traders can use the <a href=\"/cong-cu.html\">position and liquidation price calculator</a> to manage leverage risk, and check the <a href=\"/xep-hang.html\">exchange rankings</a> when comparing fees and liquidity for XRP trading.</p>",
+  "keywords": [
+   "XRP",
+   "RLUSD",
+   "Ripple trust bank",
+   "BNY XRP custody",
+   "Robinhood RLUSD"
+  ]
+ },
+ "slug_en": "bny-adds-xrp-custody-and-robinhood-taps-rlusd-as-ripple",
+ "dir": "tin-tuc",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "ripple-doanh-thu-ky-luc-rlusd-moodys-a2-xrp-giam-30-phan-tram"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu"
+  }
+ ]
+}

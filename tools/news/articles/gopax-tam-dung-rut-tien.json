@@ -1,0 +1,75 @@
+{
+ "slug": "gopax-tam-dung-rut-tien",
+ "slug_en": "gopax-halts-withdrawals-hacking-threat",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bitmart-hack-lien-quan-mercado"
+  },
+  {
+   "kind": "news",
+   "slug": "bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu"
+  }
+ ],
+ "cat": "ex",
+ "coin": "BTC",
+ "ts": "2026-11-06T18:30:00+07:00",
+ "event": "South Korean exchange GOPAX halts withdrawals at 2:55pm KST Nov 6 2026 after hacking threat email, moving hot wallet assets to cold storage; no losses reported",
+ "src_urls": [
+  "https://www.koreaherald.com/article/10928990",
+  "https://news.sbs.co.kr/english/article.do?news_id=N1008834685",
+  "https://en.sedaily.com/finance/2026/11/06/gopax-halts-withdrawals-after-hacking-threat",
+  "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/city-during-nighttime-vbk7AyX3CPE",
+  "license": "Unsplash",
+  "credit": "",
+  "alt_vi": "Đường chân trời Seoul về đêm bên sông Hán",
+  "alt_en": "Seoul skyline at night along the Han River",
+  "caption_vi": "Seoul về đêm, nơi đặt trụ sở sàn GOPAX",
+  "caption_en": "Seoul at night, home city of the GOPAX exchange",
+  "url": "/tin/img/gopax-tam-dung-rut-tien-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "GOPAX tạm dừng rút tiền sau lời đe doạ tấn công mạng",
+  "seo_title": "GOPAX dừng rút tiền sau lời đe doạ tấn công",
+  "desc": "Sàn GOPAX của Hàn Quốc dừng rút tiền từ 14:55 ngày 6/11, chuyển tài sản ví nóng sang ví lạnh sau lời đe doạ tấn công; sàn nói chưa có thiệt hại tài sản.",
+  "lead": "Sàn GOPAX của Hàn Quốc tạm dừng rút tiền và chuyển tài sản từ ví nóng sang ví lạnh sau khi nhận lời đe doạ tấn công mạng; sàn cho biết chưa có tài sản nào bị mất.",
+  "bullets": [
+   "GOPAX dừng rút tiền từ 14:55 ngày 6/11 theo giờ Hàn Quốc và chuyển phần lớn tài sản ví nóng sang ví lạnh không kết nối internet.",
+   "Sàn gọi đây là biện pháp phòng ngừa, chưa ghi nhận thiệt hại; yêu cầu rút tiền chỉ nhận qua trung tâm hỗ trợ và được duyệt thủ công.",
+   "Nội dung lời đe doạ, giá trị tài sản trong ví nóng và thời điểm mở lại dịch vụ đều chưa được công bố."
+  ],
+  "body_html": "<p>Sàn giao dịch tiền mã hoá GOPAX của Hàn Quốc đã dừng rút tiền từ 14:55 ngày 6/11 theo giờ Hàn Quốc (12:55 giờ Việt Nam) sau khi nhận lời đe doạ tấn công mạng. Sàn cho biết đây là biện pháp khẩn cấp mang tính phòng ngừa và chưa ghi nhận thiệt hại tài sản nào.</p>\n<h2>GOPAX đã làm gì</h2>\n<p>Theo thông báo của sàn, hệ thống rút tiền bị tạm dừng ngay từ 14:55, đồng thời GOPAX bắt đầu chuyển phần lớn tài sản trong ví nóng sang ví lạnh, tức loại ví không kết nối internet. Ví nóng luôn online để phục vụ rút tiền nên là phần dễ bị tấn công nhất, còn ví lạnh khó bị chiếm quyền hơn nhiều.</p>\n<p>Phạm vi tạm dừng được mô tả không hoàn toàn giống nhau. Một số thông tin nói sàn chuyển \"phần lớn\" tài sản, thông tin khác nói \"toàn bộ\" tài sản ảo sang ví lạnh. Theo thông báo được dẫn lại, nạp tiền và giao dịch cũng bị ngừng cho đến khi có thông báo mới, và người dùng không còn rút trực tiếp qua website hay ứng dụng.</p>\n<p>Khách hàng vẫn có thể gửi yêu cầu rút tiền qua trung tâm hỗ trợ. Các lệnh này được xử lý thủ công, lần lượt, sau khi kiểm tra và phê duyệt nội bộ, nên thời gian chờ sẽ lâu hơn bình thường. Sàn chưa nêu thời điểm mở lại đầy đủ các dịch vụ.</p>\n<h2>Điều chưa được công bố</h2>\n<p>Các thông tin đã đăng chỉ gọi đây là \"lời đe doạ tấn công\", trong đó có nguồn nhắc tới một email đe doạ. Nội dung email, danh tính người gửi, loại tài sản hay giá trị đang nằm trong ví nóng đều chưa được công bố. Không có số liệu về lượng người dùng bị ảnh hưởng, và cũng chưa thấy phản ứng riêng của cơ quan quản lý đối với GOPAX.</p>\n<h2>Bối cảnh an ninh ngành</h2>\n<p>Ngành tài chính Hàn Quốc đang chịu nhiều sự cố an ninh mạng liên tiếp. Uỷ ban Dịch vụ Tài chính (FSC) trước đó cho biết đã xác nhận sự cố ở 37 tổ chức tài chính, liên quan khoảng 470.000 bản ghi khách hàng; con số này là của toàn ngành, không gắn riêng với GOPAX. Trước đó, <a href=\"/tin-tuc/bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu\">Bithumb cũng bị xâm nhập hệ thống nội bộ</a> và lộ thông tin cá nhân.</p>\n<p>Các sàn khác cũng đang bị soi tỷ lệ tài sản giữ offline sau vụ tấn công Binance trị giá khoảng 6,3 tỷ USD. Một số sàn đã công bố tỷ lệ ví lạnh của mình để trấn an người dùng, và việc GOPAX chủ động rút hết về ví lạnh nằm trong cùng làn sóng thận trọng đó.</p>\n<h2>Tác động tới trader</h2>\n<p>Với người đang để tiền trên GOPAX, rủi ro trước mắt là thanh khoản: không rút trực tiếp được và không đóng hoặc mở vị thế được trong lúc giao dịch bị ngừng. Đây là rủi ro đối tác, tức khả năng tài sản bị kẹt tại sàn, chứ không phải rủi ro giá.</p>\n<p>Về thị trường chung, Bitcoin đang giữ trên 76.000 USD sau khi rơi xuống dưới mốc này hôm thứ Năm, khi đợt bán tháo cổ phiếu công nghệ kéo theo hơn 1 tỷ USD vị thế bị thanh lý. Khi giá biến động mạnh, nhu cầu rút tiền thường tăng, và một sàn đóng băng rút tiền có thể làm tâm lý lo ngại về an toàn sàn lan rộng hơn.</p>\n<p>Điều nên theo dõi tiếp là thông báo mở lại của GOPAX, thông tin về nguồn gốc lời đe doạ và việc các sàn châu Á khác có siết quy trình rút tiền hay không. Việc chia nhỏ tài sản giữa nhiều sàn và không để số dư nhàn rỗi trên ví sàn vẫn là cách giảm rủi ro đối tác cơ bản. Xem thêm công cụ <a href=\"/xep-hang.html\">xếp hạng sàn giao dịch</a> của CoinHammy.</p>",
+  "keywords": [
+   "GOPAX",
+   "sàn GOPAX tạm dừng rút tiền",
+   "hack sàn crypto Hàn Quốc",
+   "ví nóng ví lạnh"
+  ]
+ },
+ "en": {
+  "title": "GOPAX Halts Withdrawals After Hacking Threat, Moves Assets Offline",
+  "seo_title": "GOPAX Halts Withdrawals After Hack Threat",
+  "desc": "South Korean exchange GOPAX stopped withdrawals at 2:55 p.m. on Nov 6 and moved hot wallet assets to cold storage after a hacking threat; no losses reported.",
+  "lead": "South Korean exchange GOPAX paused withdrawals and began moving hot wallet assets into cold storage after a hacking threat, saying no assets have been lost.",
+  "bullets": [
+   "GOPAX halted withdrawals at 2:55 p.m. Korea time on November 6 and began moving most hot wallet assets into offline cold wallets.",
+   "The exchange calls it a precaution with no losses reported; withdrawal requests now go through customer support and are approved manually.",
+   "The threat's content, the value held in hot wallets and a reopening date have not been disclosed."
+  ],
+  "body_html": "<p>South Korean crypto exchange GOPAX suspended withdrawals at 2:55 p.m. Korea time on November 6 (12:55 p.m. in Vietnam) after receiving a hacking threat. The exchange called it a precautionary emergency measure and said no loss of assets has been reported.</p>\n<h2>What GOPAX did</h2>\n<p>According to the exchange's notice, withdrawals were halted from 2:55 p.m. while GOPAX began moving most of the assets held in its hot wallets into cold wallets, which are kept offline. Hot wallets stay connected to the internet to serve withdrawals, which makes them the most exposed part of an exchange; cold wallets are far harder to compromise.</p>\n<p>Accounts of the scope differ slightly. Some reports say \"most\" assets are being moved to cold storage, others say \"all\" virtual assets. Under the notice as relayed, deposits and trading are also paused until further notice, and users can no longer withdraw directly through the website or app.</p>\n<p>Customers can still request withdrawals through the support center. Those requests are handled manually and in sequence after internal verification and approval, so they will take longer than usual. The exchange has not given a date for full resumption.</p>\n<h2>What has not been disclosed</h2>\n<p>Published details only describe a \"hacking threat,\" and one account mentions a threatening email. The email's wording, the sender, the assets involved and the value in the hot wallets have not been made public. There are no figures on how many users are affected, and no regulator reaction specific to GOPAX has been reported.</p>\n<h2>The wider security backdrop</h2>\n<p>South Korea's financial sector has been hit by a string of cyber incidents. The Financial Services Commission said earlier that incidents had been confirmed at 37 financial institutions, touching about 470,000 customer records; that is a sector-wide figure and is not tied to GOPAX. Previously, <a href=\"/en/news/bithumb-breached-through-internal-system-personal-data\">Bithumb was also breached through an internal system</a>, leaking personal data.</p>\n<p>Other exchanges are also being asked about how much they keep offline after the attack on Binance, put at about $6.3 billion. Several have published cold-storage ratios to reassure users, and GOPAX's move to shift assets offline fits the same wave of caution.</p>\n<h2>What it means for traders</h2>\n<p>For anyone holding funds on GOPAX, the immediate risk is liquidity: no direct withdrawals, and no way to open or close positions while trading is halted. That is counterparty risk, meaning funds could be stuck at the exchange, rather than price risk.</p>\n<p>In the wider market, Bitcoin is holding above $76,000 after dipping below that level on Thursday, when a tech-stock selloff coincided with more than $1 billion in liquidations. When prices swing hard, withdrawal demand tends to rise, and a frozen exchange can deepen worries about exchange safety.</p>\n<p>Worth watching next are GOPAX's reopening notice, any details on the origin of the threat, and whether other Asian exchanges tighten their withdrawal procedures. Spreading funds across venues and not leaving idle balances on exchange wallets remains the basic way to limit counterparty risk. See also CoinHammy's <a href=\"/en/rankings.html\">exchange ranking</a>.</p>",
+  "keywords": [
+   "GOPAX",
+   "GOPAX withdrawals halted",
+   "Korean exchange hacking threat",
+   "cold wallet"
+  ]
+ },
+ "cats": [
+  "ex"
+ ],
+ "dir": "tin-tuc"
+}

@@ -1,0 +1,78 @@
+{
+ "slug": "han-quoc-tam-dung-rut",
+ "slug_en": "south-korea-exchanges-freeze-withdrawals",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "gopax-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu"
+  }
+ ],
+ "cat": "reg",
+ "cats": [
+  "reg",
+  "ex"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-12T14:20:00+07:00",
+ "event": "South Korea FSC plans to let exchanges suspend deposits and withdrawals on suspected hacks via no-action letter (Nov 12 2026)",
+ "src_urls": [
+  "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks",
+  "https://www.koreaherald.com/article/10928990"
+ ],
+ "image": {
+  "src": "minh-hoa-ai-do-chu-kho-cung-cap-2026-11-12",
+  "license": "CC0",
+  "credit": "",
+  "alt_vi": "Minh hoạ ví Bitcoin vàng sau cổng khoá đỏ cạnh toà nhà FSC Hàn Quốc",
+  "alt_en": "Illustration of a gold Bitcoin behind a red locked barrier beside an FSC building",
+  "caption_vi": "Minh hoạ do AI tạo: cổng khoá cho tài sản số, gợi ý việc tạm dừng rút khi nghi có tấn công.",
+  "caption_en": "AI-generated illustration: a locked barrier guarding a Bitcoin, suggesting withdrawal halts on suspected attacks.",
+  "url": "/tin/img/han-quoc-tam-dung-rut-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Hàn Quốc cho sàn tạm dừng rút tiền khi nghi hack, không cần đợi xác nhận",
+  "seo_title": "FSC Hàn Quốc cho tạm dừng rút khi nghi hack",
+  "desc": "FSC Hàn Quốc dự kiến cho sàn tạm dừng nạp rút ngay khi nghi tấn công, không chờ xác nhận hack. Trader trên sàn Hàn Quốc cần lưu ý nguy cơ bị chặn rút đột ngột.",
+  "lead": "Cơ quan giám sát tài chính Hàn Quốc dự kiến cho phép sàn tiền mã hoá tạm dừng nạp và rút tiền khi mới nghi có tấn công, thay vì chờ xác nhận vụ hack.",
+  "bullets": [
+   "FSC dự kiến ban hành văn bản không xử phạt cho phép sàn tạm dừng nạp rút khi nghi hack, với một số điều kiện.",
+   "Quy định hiện hành chỉ cho phép hạn chế rút khi vụ hack đã được xác định rõ, nên có khoảng thời gian chờ nguy hiểm.",
+   "Trader trên sàn Hàn Quốc nên kiểm tra cách sàn xử lý nạp rút và giờ trực kỹ thuật, vì chênh lệch giá có thể mở rộng khi bị dừng."
+  ],
+  "body_html": "<p>Cơ quan giám sát tài chính Hàn Quốc (FSC) dự kiến cho phép các sàn tiền mã hoá tạm dừng nạp và rút tiền ngay khi nghi có tấn công, thay vì phải đợi xác nhận đã xảy ra vụ hack. Theo kế hoạch, FSC sẽ ban hành một văn bản không xử phạt (no-action letter) cho phép hành động phòng ngừa này, với một số điều kiện đi kèm.</p><h2>Quy định hiện hành đang chặn điều gì</h2><p>Quy định hiện nay không cho sàn chặn rút tiền nếu không có lý do chính đáng, và chỉ cho phép hạn chế khi vụ hack đã được xác định rõ ràng. Khoảng thời gian chờ xác nhận đó chính là lúc tài sản có thể bị chuyển đi nhanh nhất.</p><h2>Các sự cố gần đây thúc đẩy đề xuất</h2><p>Ngày 6/11, sàn GOPAX đã tạm ngưng giao dịch, nạp và rút thông thường sau khi nhận lời đe doạ tấn công. Sàn cho biết đã chuyển phần lớn tài sản trong ví nóng sang ví lạnh và chưa ghi nhận thất thoát nào. Trước đó, sàn Prabang tạm ngừng dịch vụ hôm 24/10 khi phát hiện rút tiền bất thường từ ví nóng, thiệt hại khoảng 70.000 USD.</p><p>FSC cũng cho biết đã ghi nhận sự cố an ninh mạng tại 37 tổ chức tài chính, ảnh hưởng khoảng 470.000 hồ sơ khách hàng. Đầu tháng 10, cơ quan này đã phát hiện thiếu sót an ninh mạng tại 130 trong số 555 công ty tài chính được rà soát.</p><h2>Điều kiện đi kèm</h2><p>FSC yêu cầu sàn giám sát và ứng phó sự cố suốt ngày đêm, nâng tỷ lệ tài sản lưu ví lạnh, và có bảo hiểm cùng dự trữ vững hơn. Sàn không đủ năng lực giám sát liên tục sẽ chỉ xử lý nạp rút trong giờ có nhân viên trực, và phải báo trước cho người dùng.</p><h2>Tác động tới trader</h2><p>Với trader giao dịch trên sàn Hàn Quốc, rủi ro lớn nhất là không thể rút tài sản đúng lúc. Khi một sàn bị tạm dừng rút, chênh lệch giá giữa sàn đó và các sàn khác có thể mở rộng, vì lượng tài sản không thể chuyển đi làm giảm khả năng chênh lệch được cân bằng nhanh.</p><p>Quy định mới làm tăng khả năng dừng rút đột ngột, kể cả khi chưa có vụ hack thật. Nếu anh có tài sản trên sàn Hàn Quốc, nên kiểm tra sớm cách sàn xử lý nạp rút và giờ trực của đội ngũ kỹ thuật, vì giá có thể đi xa trong lúc không chuyển được tài sản.</p><p>Tham chiếu từ dữ liệu đã đọc trong phiên, BTC giao dịch quanh 74.000 USD vào ngày 11/11. Điều cần theo dõi tiếp là FSC có ban hành văn bản chính thức hay không, và các điều kiện cụ thể của văn bản đó.</p>",
+  "keywords": [
+   "Hàn Quốc crypto",
+   "FSC",
+   "rút tiền sàn",
+   "bảo mật sàn crypto"
+  ]
+ },
+ "en": {
+  "title": "South Korea Lets Exchanges Halt Withdrawals on Suspected Hacks",
+  "seo_title": "South Korea FSC Allows Halts on Suspected Hacks",
+  "desc": "South Korea's FSC plans to let exchanges suspend deposits and withdrawals as soon as a hack is suspected. Traders on local venues should watch for sudden halts.",
+  "lead": "South Korea's Financial Services Commission plans to let crypto exchanges suspend deposits and withdrawals on suspected attacks, instead of waiting for a confirmed hack.",
+  "bullets": [
+   "The FSC plans a no-action letter letting exchanges halt deposits and withdrawals on suspected hacks, under certain conditions.",
+   "Current rules allow restrictions only once a hack is clearly established, leaving a risky waiting period.",
+   "Traders on Korean exchanges should check how withdrawals are handled and when technical staff are on duty, as price gaps can widen during halts."
+  ],
+  "body_html": "<p>South Korea's Financial Services Commission (FSC) plans to let crypto exchanges suspend deposits and withdrawals as soon as a hack is suspected, rather than waiting until a breach is confirmed. The regulator says it will issue a no-action letter allowing these preventive suspensions under certain conditions.</p><h2>What the current rules block</h2><p>Current rules bar exchanges from blocking withdrawals without legitimate grounds, and allow restrictions only once a hack has been clearly established. That waiting period is exactly when assets can be moved out fastest.</p><h2>Recent incidents behind the proposal</h2><p>On November 6, exchange GOPAX suspended trading, deposits and standard withdrawals after receiving a hacking threat. It moved most of its hot-wallet assets to cold storage and said no loss had occurred. Earlier, exchange Prabang suspended services on October 24 after detecting abnormal hot-wallet withdrawals, with losses of about 70,000 USD.</p><p>The FSC also said it had confirmed cybersecurity incidents at 37 financial institutions, affecting about 470,000 customer records. In October, the regulator identified cybersecurity deficiencies at 130 of 555 financial companies it reviewed.</p><h2>Conditions attached</h2><p>The FSC wants exchanges to run round-the-clock monitoring and incident response, hold a higher share of assets in cold wallets, and maintain stronger insurance and reserves. An exchange unable to monitor continuously would process deposits and withdrawals only during staffed hours and notify users in advance.</p><h2>What it means for traders</h2><p>For traders using Korean exchanges, the biggest risk is being unable to withdraw at the moment it matters. When one venue halts withdrawals, price gaps between that exchange and others can widen, because assets that cannot move stop arbitrage from closing the gap quickly.</p><p>The new framework raises the chance of sudden withdrawal halts, even without a confirmed hack. If you hold assets on a Korean exchange, check how it handles deposits and withdrawals and when its technical team is on duty, since prices can move a long way while funds are stuck.</p><p>Based on data reviewed this session, BTC traded around 74,000 USD on November 11. The next things to watch are whether the FSC issues the formal letter and what its specific conditions are.</p>",
+  "keywords": [
+   "South Korea crypto",
+   "FSC",
+   "exchange withdrawals",
+   "crypto exchange security"
+  ]
+ },
+ "dir": "tin-tuc"
+}

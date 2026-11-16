@@ -1,0 +1,77 @@
+{
+ "slug": "dtcc-tich-hop-solana-2027",
+ "slug_en": "dtcc-brings-tokenization-to-solana",
+ "cat": "alt",
+ "coin": "SOL",
+ "ts": "2026-11-13T11:30:00+07:00",
+ "event": "DTCC plans to connect its tokenization service to Solana, with DTC-tokenized assets expected on Solana in H2 2027 (Nov 12 2026)",
+ "src_urls": [
+  "https://www.dtcc.com/press-releases/2026/dtcc-tokenization-service-to-connect-with-solana",
+  "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
+  "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+  "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/NMP7dNPAMSk",
+  "license": "Unsplash",
+  "credit": "",
+  "alt_vi": "Mặt tiền đá trắng của Sở giao dịch chứng khoán New York trên phố Wall, có quốc kỳ Mỹ",
+  "alt_en": "White stone facade of the New York Stock Exchange on Wall Street with a US flag",
+  "caption_vi": "Mặt tiền Sở giao dịch chứng khoán New York trên phố Wall, đại diện cho hạ tầng tài chính truyền thống.",
+  "caption_en": "The New York Stock Exchange facade on Wall Street, representing the traditional financial infrastructure.",
+  "url": "/tin/img/dtcc-tich-hop-solana-2027-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "DTCC sẽ đưa tài sản token hoá lên Solana trong nửa cuối 2027",
+  "seo_title": "DTCC đưa token hoá lên Solana vào 2027",
+  "desc": "DTCC cho biết tài sản đã lưu ký tại DTC sẽ được token hoá trên Solana từ nửa cuối 2027. Quy định ví hiện hành vẫn giới hạn ai được nắm giữ và chuyển token.",
+  "lead": "Công ty lưu ký chứng khoán DTCC của Mỹ công bố kế hoạch kết nối dịch vụ token hoá với Solana. Tích hợp dự kiến hoàn tất trong nửa cuối 2027, nhưng quy định hiện hành vẫn giới hạn ai được nắm giữ token.",
+  "bullets": [
+   "DTCC công bố kế hoạch cho phép token hoá các tài sản đang lưu ký tại DTC trên mạng Solana, dự kiến từ nửa cuối 2027.",
+   "Theo quy định hiện hành, token chỉ được chuyển giữa các ví đã đăng ký với DTC, nên khả năng tiếp cận từ DeFi còn hạn chế.",
+   "Tính đến 11/11, giá trị tài sản thực (RWA) trên Solana khoảng 4,76 tỷ USD, nhưng số giao dịch trong 30 ngày qua giảm gần 40%."
+  ],
+  "body_html": "<p>Ngày 12/11, DTCC thông báo kế hoạch kết nối Dịch vụ token hoá DTCC (DTS) với mạng lưới L1 của Solana. Theo công bố, các tài sản đang được lưu ký tại công ty lưu ký chứng khoán DTC có thể được chuyển thành dạng token trên Solana, và tích hợp này dự kiến hoàn tất trong nửa cuối 2027. <a href=\"/tin-tuc/dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain\">DTS đã ra mắt ngày 28/10</a> trên mạng Canton và mạng riêng Besu.</p><h2>Diễn biến chính</h2><p>DTCC nhấn mạnh tài sản token hoá trên Solana vẫn giữ các bảo vệ nhà đầu tư, quyền sở hữu và giám sát pháp lý như khi nắm giữ theo cách truyền thống. Phía Solana Foundation hoan nghênh quyết định này, cho rằng các tổ chức tài chính đang tìm đến mạng lưới để chạy hoạt động tài chính ở quy mô lớn.</p><h2>Bối cảnh và giới hạn</h2><p>Tháng 12/2025, SEC có công văn không hành động (no-action letter) yêu cầu người tham gia DTC phải đăng ký ví để nắm giữ chứng khoán token hoá, và chỉ được chuyển giữa các ví đã đăng ký. Điều này tạo ra một hệ sinh thái khép kín, khiến thanh khoản DeFi và nhà đầu tư bán lẻ chưa thể chạm trực tiếp vào các tài sản này.</p><p>Khi DTS ra mắt, 20 người tham gia DTC đã ký thoả thuận sử dụng dịch vụ, nhưng DTCC chưa cho biết bên nào sẽ dùng Solana. Các chuyên gia cho rằng tác động thực tế phụ thuộc vào việc ngân hàng và công ty môi giới có thực sự phát hành, giao dịch và thanh toán trên mạng này hay không.</p><h2>Số liệu hiện tại trên Solana</h2><ul><li>Tổng giá trị khoá (TVL) trên Solana khoảng 4,94 tỷ USD tính đến 12/11, theo DefiLlama.</li><li>Giá trị RWA đã token hoá trên Solana khoảng 4,76 tỷ USD tính đến 11/11, tăng khoảng 7% so với mốc 12/10 (4,46 tỷ USD).</li><li>Khối lượng giao dịch cổ phiếu token hoá trên Solana trong nửa đầu 2026 khoảng 4,9 tỷ USD, theo Birdeye.</li><li>Trong 30 ngày đến 11/11, mạng ghi nhận khoảng 6,9 tỷ giao dịch, giảm gần 40% so với 30 ngày trước đó; khối lượng DEX giảm 34,4% xuống 39,1 tỷ USD; phí mạng giảm 39% xuống khoảng 17 triệu USD.</li></ul><h2>Tác động tới trader</h2><p>Với người giao dịch SOL và các hợp đồng futures liên quan, đây chủ yếu là câu chuyện dài hạn về hạ tầng, chưa phải tín hiệu ngắn hạn cho giá. Dòng tiền tổ chức chỉ thực sự có ý nghĩa với SOL khi tài sản token hoá được giao dịch liên tục, dùng làm tài sản thế chấp và sinh lợi trên mạng, thay vì chỉ nằm yên trong ví đã đăng ký.</p><p>Điều cần theo dõi: tiến độ tích hợp trước nửa cuối 2027, việc SEC có nới quy định ví đã đăng ký hay không, và các chỉ số hoạt động của Solana (giao dịch, phí mạng, khối lượng DEX) có hồi phục sau đợt giảm gần đây hay không. Các chỉ số on-chain này chưa cho thấy tác động trực tiếp tới giá, nên trader nên tách bạch tin dài hạn với biến động giá ngắn hạn.</p>",
+  "keywords": [
+   "DTCC",
+   "Solana",
+   "token hoá",
+   "tài sản token hoá",
+   "SOL"
+  ]
+ },
+ "en": {
+  "title": "DTCC plans to bring tokenized securities to Solana in 2027",
+  "seo_title": "DTCC to Tokenize Securities on Solana by 2027",
+  "desc": "DTCC plans to tokenize DTC-custodied assets on Solana from the second half of 2027. Current SEC wallet rules still limit who can hold and transfer the tokens.",
+  "lead": "US clearinghouse DTCC has announced plans to connect its tokenization service to Solana, with integration expected in the second half of 2027. Current rules still restrict who can hold and transfer the tokens.",
+  "bullets": [
+   "DTCC plans to let DTC-custodied assets be tokenized on Solana, with the integration expected in the second half of 2027.",
+   "Under current SEC relief, tokens can only move between wallets registered with DTC, which limits access from DeFi for now.",
+   "As of November 11, tokenized real-world assets on Solana were worth about 4.76 billion USD, while 30-day transactions fell nearly 40%."
+  ],
+  "body_html": "<p>On November 12, DTCC announced plans to connect its DTCC Tokenization Service (DTS) to Solana's layer-1 network. Under the plan, assets held at the Depository Trust Company (DTC) could be converted into tokens on Solana, with the integration expected in the second half of 2027. <a href=\"/en/news/dtcc-launches-live-tokenization-of-u-s-securities-with-20\">DTS itself launched on October 28</a> on the Canton Network and DTCC's private Besu network.</p><h2>What was announced</h2><p>DTCC said tokenized assets on Solana would keep the same investor protections, ownership rights and regulatory safeguards as traditionally held securities. The Solana Foundation welcomed the move, arguing that institutions are choosing the network because it already runs significant financial activity.</p><h2>Context and limits</h2><p>In December 2025, the SEC issued a no-action letter requiring DTC participants to register wallets to hold tokenized securities, and allowing transfers only between registered wallets. That creates a walled garden, so DeFi liquidity and retail investors cannot yet access these tokens directly.</p><p>At launch, 20 DTC participants had signed agreements to use the service, but DTCC has not said which of them, if any, will use Solana. Analysts say the real impact depends on whether banks and brokers actually issue, trade and settle on the network.</p><h2>Current Solana figures</h2><ul><li>Total value locked (TVL) on Solana was about 4.94 billion USD as of November 12, according to DefiLlama.</li><li>Tokenized real-world assets on Solana were worth about 4.76 billion USD as of November 11, up roughly 7% from 4.46 billion USD on October 12.</li><li>Tokenized stock trading volume on Solana reached about 4.9 billion USD in the first half of 2026, according to Birdeye.</li><li>Over the 30 days to November 11, the network recorded about 6.9 billion transactions, down almost 40% from the prior 30-day period. DEX volume fell 34.4% to 39.1 billion USD and network fees fell 39% to about 17 million USD.</li></ul><h2>What it means for traders</h2><p>For traders holding SOL or trading related futures, this is mainly a long-term infrastructure story rather than a short-term price signal. Institutional flows would matter for SOL only once tokenized assets trade continuously, serve as collateral and earn yield on-chain, rather than sitting idle in registered wallets.</p><p>Watch the integration timeline ahead of H2 2027, any SEC changes to the registered-wallet requirement, and whether Solana activity metrics such as transactions, fees and DEX volume recover from their recent declines. These on-chain indicators do not yet show a direct price impact, so traders should separate the long-term news from short-term volatility.</p>",
+  "keywords": [
+   "DTCC",
+   "Solana",
+   "tokenization",
+   "tokenized securities",
+   "SOL"
+  ]
+ },
+ "related": [
+  {
+   "kind": "news",
+   "slug": "dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain"
+  },
+  {
+   "kind": "news",
+   "slug": "nyse-chon-avalanche-avax-tang"
+  }
+ ],
+ "cats": [
+  "alt"
+ ],
+ "dir": "tin-tuc"
+}

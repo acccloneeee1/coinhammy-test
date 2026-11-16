@@ -1,0 +1,74 @@
+{
+ "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien",
+ "cat": "ex",
+ "cats": [
+  "ex"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-03T18:30:00+07:00",
+ "event": "Brazil's Mercado Bitcoin hit by ~$38-46M hot-wallet hack across 10+ chains on Nov 2 2026, pauses deposits/withdrawals, pledges to cover losses; Tether freezes 4.5M+ USDT",
+ "src_urls": [
+  "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+  "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+  "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
+  "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/aerial-photography-of-city-buildings-during-sunrise-6OMe9rp3v9c",
+  "license": "Unsplash",
+  "alt_vi": "Toàn cảnh các tòa nhà ở São Paulo, Brazil lúc hoàng hôn",
+  "alt_en": "Skyline of São Paulo, Brazil at sunset",
+  "url": "/tin/img/mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Mercado Bitcoin bị hack hơn 40 triệu USD, tạm dừng nạp rút",
+  "seo_title": "Mercado Bitcoin hack hơn 40 triệu USD, dừng rút",
+  "desc": "Sàn lớn nhất Brazil mất khoảng 38–46 triệu USD từ ví nóng trên hơn 10 blockchain, cam kết bồi thường toàn bộ cho người dùng và đã đóng băng một phần tiền.",
+  "lead": "Mercado Bitcoin, sàn tiền số lớn nhất Brazil, xác nhận bị tấn công vào sáng 2/11 và tạm dừng nạp rút. Sàn cam kết bù đắp mọi thiệt hại của khách hàng.",
+  "bullets": [
+   "Sàn nói mất khoảng 38 triệu USD từ ví nóng trên ít nhất 10 blockchain, trong khi dữ liệu on-chain ước tính tới khoảng 46 triệu USD.",
+   "Tether đã chặn hơn 4,5 triệu USDT; tổng tài sản bị đóng băng với sự phối hợp của Tether, Circle và Chainalysis được báo cáo ở mức 9–11 triệu USD.",
+   "Sàn khẳng định dữ liệu khách hàng không bị lộ và cam kết bồi thường toàn bộ, nhưng chưa nêu thời điểm mở lại nạp rút."
+  ],
+  "body_html": "<p>Mercado Bitcoin, sàn giao dịch tiền số lớn nhất Brazil, xác nhận đã phát hiện và khoanh vùng một sự cố an ninh trong một hệ thống của mình vào sáng thứ Hai 2/11. Sàn tạm dừng nạp và rút như một biện pháp phòng ngừa, đồng thời công bố các địa chỉ ví nhận tiền để giới an ninh và các đơn vị khác cùng truy vết. Vụ việc xảy ra chưa đầy bốn ngày sau vụ trộm kỷ lục nhắm vào Binance, khiến nỗi lo về an toàn của các sàn tập trung càng rõ hơn.</p><h2>Quy mô thiệt hại và cách kẻ tấn công ra tay</h2><p>Con số thiệt hại chưa thống nhất. Theo thông báo của sàn, khoảng 38 triệu USD bị mất, còn các nhà nghiên cứu an ninh ban đầu đưa ra mức trên 40 triệu USD. Dữ liệu theo dõi on-chain của Arkham Intelligence tính các ví gắn với kẻ tấn công đang nắm khoảng 46 triệu USD, trong đó có chừng 8,4 triệu USD Ethereum, 8,2 triệu USD Bitcoin và 1,8 triệu USD PEPE; phần còn lại chưa được liệt kê chi tiết.</p><p>Tiền bị rút từ ví nóng trải trên ít nhất 10 blockchain. Một nhà phân tích của Arkham cho biết kẻ tấn công đang quét tiền từ các địa chỉ nạp cũ và bán dần memecoin cùng một số altcoin. Các địa chỉ đích mà sàn công bố trải trên Bitcoin, các mạng tương thích Ethereum, Solana, Stellar và Tron.</p><h2>Phản ứng của sàn và nỗ lực đóng băng</h2><p>Mercado Bitcoin cho biết khách hàng không chịu thiệt hại tài chính và không có dữ liệu cá nhân nào bị lộ. Sàn cam kết sẽ tự bù đắp toàn bộ khoản mất, đồng thời cho biết các nhóm kỹ thuật đang điều tra, truy vết tài sản và phối hợp với cơ quan chức năng. Trang trạng thái của sàn hiển thị tình trạng gián đoạn một phần, và chưa có lịch mở lại nạp rút.</p><p>Về phía truy hồi, CEO Tether Paolo Ardoino xác nhận Tether đã chặn hơn 4,5 triệu USDT liên quan đến vụ việc. Sau đó, với sự tham gia của Tether, Circle và Chainalysis, tổng tài sản bị bất động hóa được báo cáo ở mức khoảng 9 đến 11 triệu USD, gồm nhiều loại như USDC, PAXG và RLUSD. Đáng chú ý, Tether từng công bố khoản đầu tư 20 triệu USD vào Mercado Bitcoin hồi tháng 7.</p><h2>Bối cảnh: chuỗi sự cố an ninh liên tiếp</h2><p>Đây là sự cố sàn lớn thứ hai trong chưa đầy một tuần. Vụ trộm nhắm vào Binance ngày 29/10 được ghi nhận khoảng 6,3 tỷ USD, và FBI quy cho nhóm TraderTraitor của Triều Tiên. Các nhà điều tra chưa liên kết nhóm này với vụ Mercado Bitcoin. Trước đó, Bitget mất khoảng 388 triệu USD hồi tháng 9 và Bybit mất khoảng 1,5 tỷ USD hồi tháng 2/2025.</p><p>So với các vụ trên, quy mô lần này nhỏ hơn nhiều và sàn đã có cam kết bồi thường. Tuy vậy, việc kẻ tấn công vẫn đang di chuyển và bán tài sản cho thấy rủi ro bán tháo từ tiền bị đánh cắp là có thật, nhất là với các token thanh khoản mỏng.</p><h2>Tác động tới trader</h2><p>Với trader futures, vụ này ít khả năng tạo cú sốc giá riêng cho Bitcoin và Ethereum vì phần tiền bị lấy tương đối nhỏ. Dữ liệu cho thấy Bitcoin giao dịch quanh và dưới mức 77.000 USD trong phiên 3/11, trong lúc thị trường chịu sức ép từ nhóm cổ phiếu công nghệ và tâm lý trước bầu cử giữa kỳ Mỹ; đó là những yếu tố lớn hơn nhiều so với vụ hack này.</p><p>Điều trader nên cân nhắc là rủi ro đối tác: tiền ký quỹ nằm trên sàn nào đều chịu rủi ro vận hành và an ninh của sàn đó, và việc tạm dừng nạp rút có thể làm gián đoạn chuyển margin giữa các nền tảng. Việc kẻ tấn công bán memecoin và altcoin có thể gây trượt giá cục bộ ở các cặp thanh khoản thấp, nên cần chú ý khối lượng và độ sâu sổ lệnh trước khi đặt lệnh lớn.</p><p>Những điểm cần theo dõi tiếp theo gồm thời điểm sàn mở lại nạp rút, tiến độ đóng băng và truy hồi tài sản, và việc có thêm sàn nào công bố sự cố hay không. Bạn có thể xem thêm cách so sánh các sàn tại <a href=\"/xep-hang.html\">bảng xếp hạng sàn</a> và tính trước rủi ro vị thế bằng <a href=\"/cong-cu.html\">công cụ tính vị thế</a>.</p>",
+  "keywords": [
+   "Mercado Bitcoin hack",
+   "sàn bị hack",
+   "Tether đóng băng USDT",
+   "rủi ro sàn tập trung",
+   "sàn Brazil"
+  ]
+ },
+ "en": {
+  "title": "Mercado Bitcoin Hacked for Over $40M, Pauses Withdrawals",
+  "seo_title": "Mercado Bitcoin $40M+ Hack Pauses Withdrawals",
+  "desc": "Brazil's largest crypto exchange lost about $38-46 million from hot wallets across 10+ blockchains, vows to cover all customer losses and has frozen some funds.",
+  "lead": "Mercado Bitcoin, Brazil's largest crypto exchange, confirmed a security breach on Nov. 2 and paused deposits and withdrawals, while pledging to make customers whole.",
+  "bullets": [
+   "The exchange says about $38 million was lost from hot wallets on at least 10 blockchains, while on-chain tracking puts attacker-linked holdings near $46 million.",
+   "Tether froze more than 4.5 million USDT, and total immobilized assets, with help from Tether, Circle and Chainalysis, are reported at roughly $9-11 million.",
+   "The exchange says no customer data leaked and promises to cover all losses, but has not said when deposits and withdrawals will resume."
+  ],
+  "body_html": "<p>Mercado Bitcoin, Brazil's largest cryptocurrency exchange, said it identified and contained a security incident in one of its systems early on Monday, Nov. 2. As a precaution it suspended deposits and withdrawals, and it published the destination wallet addresses so security firms and other platforms can trace the funds. The breach came less than four days after the record theft from Binance, sharpening concern about the safety of centralized exchanges.</p><h2>How big the loss is and how the attacker is moving</h2><p>The numbers differ by source. The exchange says about $38 million was lost, while security researchers initially pointed to more than $40 million. Arkham Intelligence data shows wallets tied to the attacker holding about $46 million, including roughly $8.4 million in Ether, $8.2 million in Bitcoin and $1.8 million in PEPE; the rest has not been itemized.</p><p>The funds were drained from hot wallets across at least 10 blockchains. An Arkham analyst said the attacker was sweeping money from older deposit addresses and selling memecoins and other altcoins. The addresses the exchange published span Bitcoin, Ethereum-compatible networks, Solana, Stellar and Tron.</p><h2>The exchange's response and the freezing effort</h2><p>Mercado Bitcoin says customers suffered no financial loss and that no personal data was exposed. It pledged to cover the stolen amount itself, and said its teams are investigating, tracing assets and coordinating with authorities. Its status page showed a partial outage, and no reopening date has been given.</p><p>On recovery, Tether CEO Paolo Ardoino confirmed the company blocked more than 4.5 million USDT linked to the incident. With Tether, Circle and Chainalysis involved, the total of immobilized assets has since been reported at roughly $9 million to $11 million, spread across assets such as USDC, PAXG and RLUSD. Tether had announced a $20 million investment in Mercado Bitcoin in July.</p><h2>Context: a run of security incidents</h2><p>This is the second major exchange incident in under a week. The Oct. 29 theft from Binance was put at about $6.3 billion, and the FBI attributed it to North Korea's TraderTraitor group. Investigators have not linked that group to the Mercado Bitcoin breach. Earlier this year, Bitget lost about $388 million in September, and Bybit lost about $1.5 billion in February 2025.</p><p>The loss here is far smaller than those cases, and the exchange has promised compensation. Still, the fact that the attacker is moving and selling assets shows that sell pressure from stolen funds is real, especially in thinly traded tokens.</p><h2>What it means for traders</h2><p>For futures traders, the incident is unlikely to move Bitcoin or Ethereum on its own, because the sum taken is small relative to market size. Bitcoin traded around and below $77,000 on Nov. 3 as pressure from tech stocks and nerves before the U.S. midterm vote weighed on markets; those factors matter far more than this hack.</p><p>The more relevant issue is counterparty risk: collateral held on any exchange carries that venue's operational and security risk, and a pause in deposits and withdrawals can interrupt margin transfers between platforms. The attacker's sales of memecoins and altcoins can cause local slippage in low-liquidity pairs, so volume and order-book depth deserve a check before placing large orders.</p><p>Worth watching next: when the exchange reopens deposits and withdrawals, progress on freezing and recovering funds, and whether any other venue discloses an incident. You can compare venues on the <a href=\"/xep-hang.html\">exchange ranking</a> and size positions with the <a href=\"/cong-cu.html\">position calculator</a>.</p>",
+  "keywords": [
+   "Mercado Bitcoin hack",
+   "exchange hack",
+   "Tether freeze USDT",
+   "counterparty risk",
+   "Brazil crypto exchange"
+  ]
+ },
+ "dir": "tin-tuc",
+ "slug_en": "mercado-bitcoin-hacked-for-over-40m-pauses-withdrawals",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd"
+  }
+ ]
+}

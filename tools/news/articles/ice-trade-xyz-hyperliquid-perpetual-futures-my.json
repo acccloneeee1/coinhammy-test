@@ -1,0 +1,70 @@
+{
+ "slug": "ice-trade-xyz-hyperliquid-perpetual-futures-my",
+ "cat": "ex",
+ "coin": "BTC",
+ "ts": "2026-10-29T21:27:00+07:00",
+ "event": "ICE signs definitive deal with Trade[XYZ] to bring Hyperliquid-based perpetual futures markets onshore in the U.S., ICE exclusive operator, minority stake, pending approvals (Oct 29 2026)",
+ "src_urls": [
+  "https://ir.theice.com/press/news-details/2026/Intercontinental-Exchange-and-TradeXYZ-to-Bring-Hyperliquid-Based-Perpetual-Markets-Onshore/default.aspx",
+  "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+  "https://news.bitcoin.com/finance/ice-targets-americas-retail-traders-with-a-hyperliquid-alliance/"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/HpYTYo_jF2Y",
+  "license": "Unsplash",
+  "alt_vi": "Mặt tiền Sàn chứng khoán New York với cờ Mỹ",
+  "alt_en": "New York Stock Exchange facade with American flags",
+  "url": "/tin/img/ice-trade-xyz-hyperliquid-perpetual-futures-my-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "ICE, công ty mẹ NYSE, bắt tay Trade[XYZ] đưa perpetual futures kiểu Hyperliquid vào Mỹ",
+  "seo_title": "ICE bắt tay Trade[XYZ] đưa perp Hyperliquid vào Mỹ",
+  "desc": "ICE, công ty mẹ của NYSE, ký thỏa thuận với Trade[XYZ] mở thị trường perpetual futures 24/7 kiểu Hyperliquid tại Mỹ, nhưng còn chờ cơ quan quản lý phê duyệt.",
+  "lead": "ICE sẽ độc quyền vận hành thị trường perpetual được quản lý của Trade[XYZ] và đầu tư vốn thiểu số; chưa có ngày ra mắt vì còn chờ phê duyệt.",
+  "bullets": [
+   "ICE ký thỏa thuận chính thức với Trade[XYZ], trở thành đơn vị vận hành độc quyền thị trường perpetual được quản lý và nắm cổ phần thiểu số chưa công bố giá trị.",
+   "Thị trường mới dành cho trader bán lẻ, giao dịch 24/7 với crypto, cổ phiếu, hàng hóa, ngoại hối, được tách khỏi mảng thanh toán bù trừ tổ chức của ICE.",
+   "Chưa có ngày ra mắt; kế hoạch còn chờ phê duyệt, gồm cả phê duyệt cho giao dịch có đòn bẩy, còn liên doanh với OKX vẫn chờ cấp phép."
+  ],
+  "body_html": "<p>Intercontinental Exchange (ICE), công ty mẹ của Sàn chứng khoán New York (NYSE), ngày 29/10 công bố ký thỏa thuận chính thức với Trade[XYZ] để đưa thị trường hợp đồng perpetual xây trên hạ tầng Hyperliquid vào khuôn khổ pháp lý của Mỹ. ICE sẽ là đơn vị vận hành độc quyền các thị trường được quản lý của Trade[XYZ] và đầu tư một khoản vốn thiểu số, giá trị chưa được tiết lộ.</p>\n<h2>Thỏa thuận gồm những gì</h2>\n<p>Theo thông cáo của ICE, hai bên sẽ dựng một thị trường bán lẻ và cơ chế thanh toán bù trừ riêng, tách biệt hoàn toàn với mảng hợp đồng tương lai và thanh toán bù trừ dành cho tổ chức của ICE. Hyperliquid cung cấp hạ tầng nền, Trade[XYZ] thiết kế và triển khai sản phẩm, còn ICE lo phần sàn giao dịch, thanh toán bù trừ và hạ tầng pháp lý.</p>\n<p>Danh mục dự kiến gồm perpetual futures, tức hợp đồng không có ngày đáo hạn, tham chiếu tiền mã hóa, cổ phiếu, chỉ số chứng khoán, hàng hóa, ngoại hối và các tài sản thực khác, giao dịch liên tục 24/7. Khách hàng phải qua xác minh KYC/AML và truy cập thông qua các công ty môi giới hợp đồng tương lai (FCM) trở thành thành viên của nền tảng.</p>\n<p>Đây là một bước đi lớn của hạ tầng tài chính truyền thống vào mảng mà lâu nay chỉ các sàn phi tập trung và sàn quốc tế phục vụ trader bên ngoài nước Mỹ.</p>\n<h2>Bối cảnh: Hyperliquid và thị trường perp</h2>\n<p>Trade[XYZ] cho biết các thị trường của họ trên Hyperliquid đã xử lý hơn 650 tỷ USD khối lượng giao dịch chỉ sau hơn một năm, và các thị trường do bên thứ ba triển khai hiện đóng góp khoảng một nửa khối lượng của Hyperliquid. Hồi tháng 3, đơn vị này nhận được giấy phép cho hợp đồng perpetual S&amp;P 500 chính thức đầu tiên. Họ cho biết các thị trường hiện có trên Hyperliquid vẫn tiếp tục chạy song song với thị trường mới tại Mỹ.</p>\n<p>ICE cho biết hơn 99% lượng tham gia hiện tại của họ là tổ chức, nên mảng bán lẻ là cơ hội hoàn toàn mới. Ông Jeffrey Sprecher, Chủ tịch kiêm CEO của ICE, nói ICE xem thị trường perp là phần bổ sung chứ không thay thế cho thị trường hợp đồng tương lai truyền thống, và sẽ tiếp cận trader qua các nền tảng họ đang dùng, trong đó có liên doanh với OKX, vốn vẫn chờ phê duyệt tư cách môi giới-đại lý và FCM tại Mỹ.</p>\n<h2>Những điều chưa rõ</h2>\n<p>Thỏa thuận còn phụ thuộc vào các phê duyệt của cơ quan quản lý, gồm cả những phê duyệt cần để cho phép giao dịch có đòn bẩy. Chưa có mốc ra mắt hay danh sách điều kiện người dùng. ICE cũng cho biết khoản đầu tư này không ảnh hưởng đáng kể tới kết quả điều chỉnh năm 2026 của họ. Trade[XYZ] cho biết sẽ công bố chi tiết sản phẩm, đối tượng đủ điều kiện và thời điểm khi các phê duyệt tiến triển.</p>\n<h2>Tác động tới trader</h2>\n<p>Với trader futures, tin này chưa đổi gì ngay hôm nay vì chưa có ngày ra mắt, nhưng nó cho thấy hợp đồng perpetual đang được một tổ chức vận hành sàn lớn của Mỹ xem là sản phẩm bán lẻ chính thống. Nếu được cấp phép, trader tại Mỹ có thể tiếp cận perp trong khuôn khổ có quản lý, thay vì phải dùng sàn ngoài nước.</p>\n<p>Về thị trường, Bitcoin giao dịch quanh 80.300 USD, giảm khoảng 0,2% trong 24 giờ theo số liệu trên trang tin cùng thời điểm; trước đó trong ngày BTC từng giảm 1,4% xuống quanh 80.100 USD. Trong khi đó, quyền chọn Bitcoin trị giá khoảng 10,86 tỷ USD sẽ đáo hạn trên Deribit lúc 08:00 UTC thứ Sáu, và độ lệch (skew) 25-delta ngắn hạn nghiêng hẳn về quyền chọn bán với chênh lệch trên 10 điểm biến động, cho thấy nhu cầu bảo hiểm giảm giá đang mạnh. Đó là bối cảnh đáng theo dõi hơn tin cấp phép dài hạn khi nói tới biến động ngắn hạn.</p>\n<p>Điều cần theo dõi tiếp: thời điểm và điều kiện phê duyệt, mức đòn bẩy được phép cho khách bán lẻ Mỹ, và việc liên doanh với OKX có được cấp phép hay không. Trader có thể tính trước quy mô vị thế và giá thanh lý bằng <a href=\"/cong-cu.html\">công cụ tính vị thế</a>, và xem <a href=\"/xep-hang.html\">bảng xếp hạng sàn</a> để so sánh các nền tảng futures.</p>",
+  "keywords": [
+   "perpetual futures",
+   "Hyperliquid",
+   "ICE",
+   "Trade[XYZ]",
+   "NYSE"
+  ]
+ },
+ "en": {
+  "title": "NYSE Owner ICE Teams With Trade[XYZ] to Bring Hyperliquid-Style Perpetual Futures to the U.S.",
+  "seo_title": "ICE and Trade[XYZ] Bring Hyperliquid Perps to US",
+  "desc": "ICE, the parent of the NYSE, signed a deal with Trade[XYZ] to launch regulated 24/7 perpetual futures on Hyperliquid in the U.S., pending approvals.",
+  "lead": "ICE will be the exclusive operator of Trade[XYZ]'s regulated perpetual markets and take a minority stake; no launch date yet as approvals are pending.",
+  "bullets": [
+   "ICE signed a definitive agreement with Trade[XYZ] to be exclusive operator of its regulated perpetual markets, with an undisclosed minority investment.",
+   "The new retail venue would offer 24/7 perps on crypto, equities, commodities and FX, kept separate from ICE's institutional clearing business.",
+   "No launch date has been set; the plan awaits regulatory approvals, including for leveraged trading, and the OKX joint venture is still pending."
+  ],
+  "body_html": "<p>Intercontinental Exchange (ICE), the parent company of the New York Stock Exchange, announced on October 29 a definitive agreement with Trade[XYZ] to bring perpetual futures markets built on Hyperliquid infrastructure into the U.S. regulatory framework. ICE will be the exclusive operator of Trade[XYZ]'s regulated markets and is taking an undisclosed minority stake.</p>\n<h2>What the deal covers</h2>\n<p>According to ICE's release, the two companies will build a dedicated retail market and clearing structure that is kept separate from ICE's institutional futures and clearing franchise. Hyperliquid supplies the underlying infrastructure, Trade[XYZ] designs and runs the products, and ICE provides the exchange, clearing and regulatory layer.</p>\n<p>The planned lineup is perpetual futures, contracts with no expiry date, referencing crypto, equities, stock indices, commodities, foreign exchange and other real-world assets, trading around the clock. Customers must pass KYC and AML checks and are expected to reach the markets through futures commission merchants that join the platform.</p>\n<p>It is a significant step for traditional market infrastructure into a product that has mostly been served by decentralized and offshore venues for traders outside the United States.</p>\n<h2>Background: Hyperliquid and the perp market</h2>\n<p>Trade[XYZ] says its Hyperliquid markets have handled more than $650 billion in trading volume in just over a year, and builder-deployed markets now account for roughly half of Hyperliquid's volume. In March it secured a license for the first official S&amp;P 500 perpetual. Its existing Hyperliquid markets will keep running alongside the new U.S. venue.</p>\n<p>ICE says more than 99% of its current participation is institutional, so retail is a new opportunity. Chair and CEO Jeffrey Sprecher said ICE sees perp markets as additive to its futures business rather than a replacement, and plans to reach traders through platforms they already use, including a joint venture with OKX that is still waiting on U.S. broker-dealer and FCM approvals.</p>\n<h2>What is still unclear</h2>\n<p>The plan depends on regulatory approvals, including those needed to support leveraged trading. No launch date or eligibility rules have been given. ICE also said the investment is not expected to have a material impact on its 2026 adjusted results. Trade[XYZ] says it will share product, eligibility and timing details as approvals progress.</p>\n<h2>What it means for traders</h2>\n<p>For futures traders nothing changes today, since there is no launch date, but the deal shows a major U.S. exchange operator treating perpetuals as a mainstream retail product. If approved, U.S. traders could reach perps under regulatory oversight instead of relying on offshore venues.</p>\n<p>On the market side, Bitcoin traded around $80,300, down about 0.2% over 24 hours per figures on a news page at the time; earlier in the day it had fallen 1.4% to around $80,100. Meanwhile about $10.86 billion of bitcoin options are due to expire on Deribit at 08:00 UTC on Friday, and short-dated 25-delta skew is heavily tilted toward puts by more than 10 volatility points, a sign of strong demand for downside protection. That is a more immediate driver of short-term volatility than a licensing story that will take time.</p>\n<p>What to watch next: the timing and terms of approvals, the leverage allowed for U.S. retail customers, and whether the OKX joint venture is cleared. You can size positions and estimate liquidation prices with the <a href=\"/cong-cu.html\">position calculator</a> and compare platforms in the <a href=\"/xep-hang.html\">exchange rankings</a>.</p>",
+  "keywords": [
+   "perpetual futures",
+   "Hyperliquid",
+   "ICE",
+   "Trade[XYZ]",
+   "NYSE"
+  ]
+ },
+ "slug_en": "nyse-owner-ice-teams-with-trade-xyz-to-bring-hyperliquid",
+ "dir": "tin-tuc",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "hyperliquid-payward-kraken-hip-3-cftc-perpetual"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu"
+  }
+ ]
+}

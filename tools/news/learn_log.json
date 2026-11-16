@@ -1,0 +1,100 @@
+[
+ {
+  "ts": "2026-10-28T11:22:47+07:00",
+  "slug": "cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac",
+  "cat": "tr",
+  "title_vi": "Cách đặt cắt lỗ (SL) theo biên độ ATR thay vì theo cảm giác",
+  "title_en": "How to Set a Stop Loss Using ATR Instead of Gut Feeling"
+ },
+ {
+  "ts": "2026-10-29T12:09:43+07:00",
+  "slug": "funding-rate-duong-keo-dai-co-phai-tin-hieu-dao-chieu",
+  "cat": "mk",
+  "title_vi": "Funding rate dương kéo dài có phải tín hiệu đảo chiều không?",
+  "title_en": "Does Long-Running Positive Funding Signal a Reversal?"
+ },
+ {
+  "ts": "2026-10-29T16:44:04+07:00",
+  "slug": "open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi",
+  "cat": "mk",
+  "title_vi": "Open interest tăng khi giá giảm: đòn bẩy đang báo điều gì?",
+  "title_en": "Open Interest Rises as Price Falls: What Is Leverage Signalling?"
+ },
+ {
+  "ts": "2026-11-02T20:17:39+07:00",
+  "slug": "cach-tinh-khoi-luong-lenh-futures-theo-rui-ro-1-von",
+  "cat": "tr",
+  "title_vi": "Cách tính khối lượng lệnh Futures theo rủi ro 1% vốn mỗi lệnh",
+  "title_en": "How to Calculate Futures Position Size With 1% Risk Per Trade"
+ },
+ {
+  "ts": "2026-11-03T19:51:57+07:00",
+  "slug": "ty-le-long-short-la-gi",
+  "cat": "mk",
+  "title_vi": "Tỷ lệ long/short là gì và vì sao số tài khoản long không báo giá sẽ tăng",
+  "title_en": "Long/Short Ratio Explained: Why Crowded Longs Do Not Predict a Price Rise"
+ },
+ {
+  "ts": "2026-11-04T19:51:33+07:00",
+  "slug": "ty-le-rr-va-ty-le-thang-hoa-von-khi-trade-futures",
+  "cat": "tr",
+  "title_vi": "Tỷ lệ R:R và tỷ lệ thắng tối thiểu để hòa vốn khi trade Futures",
+  "title_en": "Risk-Reward Ratio and Break-Even Win Rate in Futures Trading"
+ },
+ {
+  "ts": "2026-11-05T19:51:10+07:00",
+  "slug": "taker-buy-volume-la-gi",
+  "cat": "mk",
+  "title_vi": "Taker buy volume là gì và cách đọc lực mua chủ động của Bitcoin",
+  "title_en": "Taker Buy Volume Explained: Reading Bitcoin's Aggressive Buying"
+ },
+ {
+  "ts": "2026-11-06T19:53:28+07:00",
+  "slug": "gong-lo-doi-cat-lo",
+  "cat": "tr",
+  "title_vi": "Vì sao không nên dời cắt lỗ khi giá đi ngược vị thế Futures",
+  "title_en": "Moving Your Stop Loss: How a Small Loss Becomes a Large One"
+ },
+ {
+  "ts": "2026-11-10T19:52:39+07:00",
+  "slug": "fomo-khi-trade-futures",
+  "cat": "tr",
+  "title_vi": "FOMO khi trade Futures: vì sao mua đuổi nến tăng mạnh dễ thua",
+  "title_en": "FOMO Trading in Futures: Why Chasing a Strong Candle Often Fails"
+ },
+ {
+  "ts": "2026-11-11T19:51:13+07:00",
+  "slug": "basis-futures-am-la-gi",
+  "cat": "mk",
+  "title_vi": "Basis futures âm là gì và đọc tín hiệu Bitcoin ra sao",
+  "title_en": "Negative futures basis explained and what it signals for Bitcoin"
+ },
+ {
+  "ts": "2026-11-12T19:51:37+07:00",
+  "slug": "cau-truc-dinh-day-futures",
+  "cat": "tr",
+  "title_vi": "Cấu trúc đỉnh đáy là gì và cách xác định xu hướng trước khi vào lệnh Futures",
+  "title_en": "Higher highs and lower lows: how to read trend structure before a futures trade"
+ },
+ {
+  "ts": "2026-11-13T19:57:59+07:00",
+  "slug": "mark-price-la-gi",
+  "cat": "mk",
+  "title_vi": "Mark price là gì và vì sao thanh lý Futures tính theo mark price",
+  "title_en": "Mark Price Explained: Why Futures Liquidations Do Not Use the Last Trade"
+ },
+ {
+  "ts": "2026-11-14T19:51:57+07:00",
+  "slug": "pha-vo-gia-breakout-futures",
+  "cat": "tr",
+  "title_vi": "Phá vỡ giả là gì và cách xác nhận breakout trước khi vào lệnh Futures",
+  "title_en": "What a false breakout is and how to confirm a breakout before a futures trade"
+ },
+ {
+  "ts": "2026-11-16T19:53:35+07:00",
+  "slug": "nhat-ky-giao-dich-futures",
+  "cat": "tr",
+  "title_vi": "Nhật ký giao dịch Futures là gì và cách ghi chép để đánh giá kỷ luật",
+  "title_en": "Futures trading journal: what to record for each trade"
+ }
+]

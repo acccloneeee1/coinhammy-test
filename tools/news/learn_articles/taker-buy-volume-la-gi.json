@@ -1,0 +1,60 @@
+{
+ "slug": "taker-buy-volume-la-gi",
+ "slug_en": "taker-buy-volume-explained",
+ "cat": "mk",
+ "coin": "BTC",
+ "ts": "2026-11-05T19:58:00+07:00",
+ "related": [
+  {
+   "kind": "learn",
+   "slug": "ty-le-long-short-la-gi"
+  },
+  {
+   "kind": "learn",
+   "slug": "open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi"
+  }
+ ],
+ "image": {
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến ngày của Bitcoin kèm cột khối lượng giao dịch phía dưới",
+  "alt_en": "Daily Bitcoin candlestick chart with trading volume bars underneath",
+  "caption_vi": "Bitcoin khung ngày, giá đi từ 86.000 USD xuống quanh 79.700 USD với hai cột khối lượng lớn cuối tháng 10 và đầu tháng 11",
+  "caption_en": "Bitcoin daily chart, price easing from 86,000 USD to around 79,700 USD with two large volume bars in late October and early November",
+  "url": "/hoc/img/taker-buy-volume-la-gi-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Taker buy volume là gì và cách đọc lực mua chủ động của Bitcoin",
+  "seo_title": "Taker buy volume là gì? Cách đọc mua chủ động",
+  "desc": "Taker buy volume đo lượng mua chủ động trên sàn. Bài giải thích cách tính tỷ lệ mua chủ động và số liệu Bitcoin 30 ngày cho thấy chỉ số này đúng và sai ở đâu.",
+  "lead": "Taker buy volume đo lượng mua do bên chấp nhận khớp ngay, giúp biết phía nào đang chủ động trong một phiên nhưng không đủ để dự báo giá.",
+  "body_html": "<p>Khi giá Bitcoin tăng hoặc giảm mạnh, câu hỏi thường gặp là bên nào đã chủ động đẩy giá: người mua hay người bán. Bài viết trả lời ba câu hỏi: taker buy volume là gì, cách đọc tỷ lệ mua chủ động trên dữ liệu Binance, và vì sao chỉ số này hữu ích nhưng không đủ để dự đoán hướng đi tiếp theo của giá.</p>\n<h2>Taker buy volume là gì</h2>\n<p>Mỗi giao dịch trên sàn luôn có hai bên: bên đặt lệnh chờ (<strong>maker</strong>) và bên khớp ngay vào lệnh đang chờ đó (<strong>taker</strong>). Taker chấp nhận mua ở giá bán thấp nhất hoặc bán ở giá mua cao nhất để được khớp tức thì. <strong>Taker buy volume</strong> là tổng khối lượng do các taker mua vào, còn <strong>taker sell volume</strong> là phần taker bán ra. Hai con số cộng lại bằng tổng khối lượng giao dịch.</p>\n<p>Vì taker là bên vội vàng muốn vào hoặc thoát vị thế, khối lượng mua chủ động thường được xem là dấu vết của lực cầu sẵn sàng trả giá cao hơn, còn bán chủ động là dấu vết của lực cung sẵn sàng bán thấp hơn.</p>\n<h2>Cách đọc: tỷ lệ mua chủ động và chênh lệch ròng</h2>\n<p>Có hai cách quy đổi dễ dùng. Thứ nhất là <strong>tỷ lệ mua chủ động</strong>, bằng taker buy volume chia tổng khối lượng. Mức 50% nghĩa là hai bên cân bằng, trên 50% là người mua chủ động nhiều hơn, dưới 50% là người bán chủ động nhiều hơn. Thứ hai là <strong>chênh lệch ròng</strong>, bằng taker buy trừ taker sell, tính theo số Bitcoin; số dương cho thấy lực mua chủ động áp đảo trong phiên.</p>\n<table><tr><th>Chỉ số</th><th>Công thức</th><th>Ý nghĩa</th></tr><tr><td>Tỷ lệ mua chủ động</td><td>Taker buy chia tổng khối lượng</td><td>Trên 50%: phía mua chủ động hơn</td></tr><tr><td>Chênh lệch ròng</td><td>Taker buy trừ taker sell</td><td>Dương: mua chủ động nhiều hơn bán chủ động</td></tr></table>\n<p>Dữ liệu này có sẵn trong nến của Binance: mỗi nến trả về cả tổng khối lượng lẫn phần taker buy, nên người dùng có thể tự tính mà không cần công cụ bên ngoài.</p>\n<h2>Số liệu thực tế của Bitcoin trong 30 ngày</h2>\n<p>Dữ liệu futures BTCUSDT theo ngày, từ 06/10 đến 04/11, cho thấy tỷ lệ mua chủ động dao động trong khoảng hẹp từ 47,6% đến 52,9%, trung bình khoảng 49,6% tính theo khối lượng. Nói cách khác, thị trường gần như luôn cân bằng, và chênh lệch vài điểm phần trăm đã đủ tạo ra khác biệt.</p>\n<p>Hai ngày có biến động lớn nhất cho thấy rõ mối liên hệ. Ngày 29/10, giá Bitcoin giảm 4,1%, từ 81.309 đô xuống 77.963 đô, với khối lượng 253.736 BTC. Tỷ lệ mua chủ động chỉ là 48,1% và chênh lệch ròng âm khoảng 9.891 BTC. Ngày 04/11 diễn ra ngược lại: giá tăng 3,9%, từ 77.442 đô lên 80.467 đô, khối lượng 250.597 BTC, tỷ lệ mua chủ động 51,4% và chênh lệch ròng dương khoảng 6.965 BTC. Ngày 22/10 giá giảm 3,2% với tỷ lệ mua chủ động 47,6%, mức thấp nhất trong 30 ngày.</p>\n<p>Về thống kê, hệ số tương quan giữa tỷ lệ mua chủ động và mức thay đổi giá trong ngày là khoảng 0,64, tức hai đại lượng khá cùng chiều. Trong 30 ngày, có 19 ngày chiều của giá khớp với phía chủ động (tỷ lệ trên 50% khi giá tăng hoặc dưới 50% khi giá giảm).</p>\n<h2>Điều gì sẽ chứng minh cách đọc này sai</h2>\n<p>Con số 19 trên 30 ngày cũng có nghĩa 11 ngày không khớp, nên chỉ số này không phải công cụ dự báo. Ngày 02/11, tỷ lệ mua chủ động là 50,4% nhưng giá vẫn giảm 1,9%. Ngày 16/10, tỷ lệ là 51,2% và giá vẫn giảm 0,8%. Những phiên như vậy xảy ra khi lệnh bán chờ sẵn hấp thụ lượng mua chủ động, hoặc khi giá đã đi trước và chỉ số chỉ phản ánh lại.</p>\n<p>Ngoài ra, tương quan chỉ mô tả điều đã xảy ra trong cùng một phiên. Giá tăng cũng khiến nhiều người mua đuổi theo, nên mua chủ động có thể là hệ quả chứ không phải nguyên nhân của đà tăng. Cách đọc này sẽ bị bác bỏ nếu tỷ lệ mua chủ động trên 50% kéo dài nhiều phiên liên tiếp mà giá vẫn đi xuống, vì khi đó lực cầu đang bị hấp thụ thay vì đẩy giá lên.</p>\n<h2>Mốc cần theo dõi khi dùng chỉ số này</h2>\n<ul><li><strong>Khối lượng đi kèm:</strong> tỷ lệ lệch khỏi 50% trong phiên có khối lượng thấp ít giá trị hơn phiên có khối lượng gấp đôi mức bình thường.</li><li><strong>Nhiều phiên liên tiếp:</strong> một ngày lệch chưa nói lên điều gì; chuỗi vài ngày cùng một phía mới đáng chú ý.</li><li><strong>So với giá:</strong> mua chủ động tăng mà giá không tăng là dấu hiệu có lực bán đang hấp thụ.</li></ul>\n<p>Người đọc có thể đối chiếu thêm với các <a href=\"/cong-cu.html\">công cụ phân tích thị trường</a> của CoinHammy để xem khối lượng và biến động cùng lúc.</p>\n<h2>Tóm lại</h2>\n<p>Taker buy volume đo lượng mua vào do bên chấp nhận khớp ngay, và tỷ lệ mua chủ động giúp biết phía nào đang chủ động trong một phiên. Trong 30 ngày gần nhất của Bitcoin, chỉ số này khá cùng chiều với giá nhưng vẫn lệch ở 11 phiên, nên nó phù hợp để xác nhận bối cảnh hơn là làm căn cứ duy nhất ra quyết định.</p>",
+  "keywords": [
+   "taker buy volume",
+   "mua chủ động",
+   "taker sell",
+   "dòng tiền Bitcoin",
+   "khối lượng futures"
+  ]
+ },
+ "en": {
+  "title": "Taker Buy Volume Explained: Reading Bitcoin's Aggressive Buying",
+  "seo_title": "Taker Buy Volume: Read Aggressive BTC Buying",
+  "desc": "Taker buy volume measures aggressive buying on an exchange. See how to compute the buy share and where 30 days of Bitcoin data show it works and fails.",
+  "lead": "Taker buy volume measures buying by those willing to be filled at once, showing which side led a session but not enough to forecast price.",
+  "body_html": "<p>When Bitcoin moves sharply, a common question is who pushed the price: buyers or sellers. This article answers three questions: what taker buy volume is, how to read the aggressive buy share on Binance data, and why the metric is useful but not enough to predict where price goes next.</p>\n<h2>What taker buy volume means</h2>\n<p>Every trade has two sides: the participant who placed a resting order (the <strong>maker</strong>) and the one who hits that order immediately (the <strong>taker</strong>). A taker accepts the lowest ask to buy or the highest bid to sell in order to be filled at once. <strong>Taker buy volume</strong> is the total bought by takers, and <strong>taker sell volume</strong> is the total sold by takers. Together they equal total traded volume.</p>\n<p>Because takers are the side in a hurry to enter or exit, taker buying is often treated as a footprint of demand willing to pay higher prices, and taker selling as supply willing to sell lower.</p>\n<h2>How to read it: the buy share and net difference</h2>\n<p>Two simple conversions are useful. The first is the <strong>aggressive buy share</strong>: taker buy volume divided by total volume. A reading of 50% means balance, above 50% means aggressive buyers dominated, below 50% means aggressive sellers dominated. The second is the <strong>net difference</strong>: taker buy minus taker sell, measured in BTC. A positive value means aggressive buying outweighed aggressive selling in that session.</p>\n<table><tr><th>Metric</th><th>Formula</th><th>Meaning</th></tr><tr><td>Aggressive buy share</td><td>Taker buy divided by total volume</td><td>Above 50%: buyers more aggressive</td></tr><tr><td>Net difference</td><td>Taker buy minus taker sell</td><td>Positive: more aggressive buying than selling</td></tr></table>\n<p>This data is already inside Binance candles: each candle returns both total volume and the taker buy portion, so anyone can compute it without outside tools.</p>\n<h2>What Bitcoin data showed over 30 days</h2>\n<p>Daily BTCUSDT futures data from October 6 to November 4 shows the aggressive buy share stayed in a narrow band from 47.6% to 52.9%, averaging about 49.6% by volume. In other words, the market is almost always balanced, and a few percentage points are enough to matter.</p>\n<p>The two largest moves illustrate the link. On October 29, Bitcoin fell 4.1%, from 81,309 USD to 77,963 USD, on volume of 253,736 BTC. The aggressive buy share was only 48.1% and the net difference was about negative 9,891 BTC. November 4 was the mirror image: price rose 3.9%, from 77,442 USD to 80,467 USD, on 250,597 BTC of volume, with a 51.4% buy share and a net difference of about positive 6,965 BTC. On October 22 price fell 3.2% with a 47.6% buy share, the lowest of the 30 days.</p>\n<p>Statistically, the correlation between the daily buy share and the daily price change was about 0.64, so the two moved fairly closely together. On 19 of the 30 days, the direction of price matched the aggressive side (a share above 50% on an up day, or below 50% on a down day).</p>\n<h2>What would prove this reading wrong</h2>\n<p>A score of 19 out of 30 also means 11 days did not match, so the metric is not a forecasting tool. On November 2 the buy share was 50.4% yet price still fell 1.9%. On October 16 the share was 51.2% and price still fell 0.8%. Sessions like these happen when resting sell orders absorb aggressive buying, or when price has already moved and the metric merely reflects it.</p>\n<p>Correlation also only describes what happened within the same session. Rising prices pull in buyers who chase, so aggressive buying can be a result rather than a cause of a rally. This reading would be refuted if a buy share above 50% persisted for several sessions in a row while price kept falling, since demand would then be absorbed rather than lifting price.</p>\n<h2>What to watch when using the metric</h2>\n<ul><li><strong>Accompanying volume:</strong> a deviation from 50% on thin volume carries less weight than on a session with double the usual volume.</li><li><strong>Several sessions in a row:</strong> one skewed day says little; a streak on one side deserves attention.</li><li><strong>Compared with price:</strong> rising aggressive buying without rising price suggests selling is absorbing it.</li></ul>\n<p>Readers can cross-check with the <a href=\"/en/chart-calculator.html\">market analysis tools</a> on CoinHammy to see volume and volatility together.</p>\n<h2>Summary</h2>\n<p>Taker buy volume measures buying done by those willing to be filled immediately, and the aggressive buy share shows which side took the initiative in a session. Over Bitcoin's latest 30 days it moved fairly closely with price yet diverged on 11 sessions, so it works better as context than as the sole basis for a decision.</p>",
+  "keywords": [
+   "taker buy volume",
+   "aggressive buying",
+   "taker sell volume",
+   "Bitcoin order flow",
+   "futures volume"
+  ]
+ },
+ "event": "Taker buy volume là gì và cách đọc lực mua chủ động của Bitcoin",
+ "cats": [
+  "mk"
+ ],
+ "dir": "kien-thuc"
+}

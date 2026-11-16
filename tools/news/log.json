@@ -1,0 +1,807 @@
+[
+ {
+  "ts": "2026-10-27T18:41:35+07:00",
+  "published": "2026-10-27T18:30:00+07:00",
+  "slug": "hyperliquid-payward-kraken-hip-3-cftc-perpetual",
+  "cat": "ex",
+  "event": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer (Oct 26 2026)",
+  "title_vi": "Hyperliquid chọn công ty mẹ Kraken làm nhà triển khai HIP-3 đầu tiên được CFTC quản lý",
+  "title_en": "Hyperliquid Picks Kraken Parent as First CFTC-Regulated HIP-3 Deployer",
+  "src_urls": [
+   "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+   "https://crypto.news/hyperliquid-payward-regulated-us-hip-3-markets/",
+   "https://cryptobriefing.com/payward-cftc-regulated-hyperliquid-hip3-deployer/",
+   "https://www.cryptotimes.io/2026/10/27/kraken-parent-payward-plans-regulated-perpetual-markets-on-hyperliquid/"
+  ]
+ },
+ {
+  "ts": "2026-10-27T23:12:08+07:00",
+  "published": "2026-10-27T23:20:00+07:00",
+  "slug": "bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu",
+  "cat": "btc",
+  "event": "Bitcoin dips below $80,000 as the Fed's two-day meeting begins; spot ETFs take in $110M after outflows (Oct 27 2026)",
+  "title_vi": "Bitcoin xuống dưới 80.000 USD trước thềm họp Fed, ETF hồi 110 triệu USD",
+  "title_en": "Bitcoin Slips Below $80,000 Before Fed Decision as ETFs Take In $110M",
+  "src_urls": [
+   "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+   "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+   "https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/",
+   "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k"
+  ]
+ },
+ {
+  "ts": "2026-10-28T07:45:09+07:00",
+  "published": "2026-10-28T07:56:00+07:00",
+  "slug": "thi-truong-crypto-hom-nay-28-10-bitcoin-80000-usd-cho-fed",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-10-28",
+  "title_vi": "Thị trường crypto hôm nay (28/10): Bitcoin quanh 80.000 USD chờ Fed, ETF Ether rút ròng",
+  "title_en": "Crypto Market Today (Oct. 28): Bitcoin Near $80,000 Awaits Fed as Ether ETFs See Outflows",
+  "src_urls": [
+   "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+   "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+   "https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/",
+   "https://news.bitcoin.com/bitcoin-etf/blackrock-drives-entire-110-million-bitcoin-etf-inflow/",
+   "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+   "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+   "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans"
+  ]
+ },
+ {
+  "ts": "2026-10-28T11:17:54+07:00",
+  "published": "2026-10-28T11:30:00+07:00",
+  "slug": "bny-luu-ky-xrp-rlusd-robinhood-ripple-ha-tang-ngan-hang",
+  "cat": "alt",
+  "event": "Ripple widens its bank-grade footprint: BNY adds XRP and RLUSD custody and Robinhood to offer RLUSD, a day after final OCC trust bank approval (Oct 26-27 2026)",
+  "title_vi": "BNY lưu ký XRP, RLUSD lên Robinhood: Ripple mở rộng hạ tầng ngân hàng",
+  "title_en": "BNY Adds XRP Custody and Robinhood Taps RLUSD as Ripple Builds Bank Rails",
+  "src_urls": [
+   "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
+   "https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/",
+   "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+   "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+   "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891"
+  ]
+ },
+ {
+  "ts": "2026-10-28T14:14:17+07:00",
+  "published": "2026-10-28T14:25:00+07:00",
+  "slug": "cftc-kien-utah-bao-ve-thi-truong-du-doan-kalshi",
+  "cat": "reg",
+  "event": "CFTC sues Utah and its attorney general to block state enforcement against Kalshi and prediction markets, its tenth suit against a state (Oct 27 2026)",
+  "title_vi": "CFTC kiện bang Utah để bảo vệ thị trường dự đoán, vụ kiện thứ 10 nhằm vào một bang",
+  "title_en": "CFTC Sues Utah to Protect Prediction Markets in Its Tenth Suit Against a State",
+  "src_urls": [
+   "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+   "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+   "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+   "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
+  ]
+ },
+ {
+  "ts": "2026-10-28T18:21:13+07:00",
+  "published": "2026-10-28T18:35:00+07:00",
+  "slug": "bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu",
+  "cat": "ex",
+  "event": "Bithumb says outsider breached internal employee mobile system and leaked personal data; no crypto funds reported lost (Oct 27-28 2026)",
+  "title_vi": "Bithumb bị xâm nhập hệ thống nội bộ, lộ thông tin cá nhân nhưng chưa mất tiền",
+  "title_en": "Bithumb Breached Through Internal System, Personal Data Leaked but No Crypto Lost",
+  "src_urls": [
+   "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+   "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
+   "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report"
+  ]
+ },
+ {
+  "ts": "2026-10-28T21:18:58+07:00",
+  "published": "2026-10-28T21:35:00+07:00",
+  "slug": "dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain",
+  "cat": "reg",
+  "event": "DTCC launches live tokenization service for stocks, ETFs and Treasuries on Canton and Besu with 20 Wall Street firms signed up (Oct 28 2026)",
+  "title_vi": "DTCC chính thức token hoá chứng khoán Mỹ trên blockchain, 20 tổ chức Phố Wall tham gia",
+  "title_en": "DTCC Launches Live Tokenization of U.S. Securities With 20 Wall Street Firms Signed Up",
+  "src_urls": [
+   "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+   "https://genfinity.io/2026/10/28/dtcc-tokenization-service-goes-live-114-trillion/",
+   "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services"
+  ]
+ },
+ {
+  "ts": "2026-10-29T07:44:11+07:00",
+  "published": "2026-10-29T07:58:00+07:00",
+  "slug": "thi-truong-crypto-hom-nay-29-10-fed-giu-lai-suat-bitcoin-81000-usd",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-10-29",
+  "title_vi": "Thị trường crypto hôm nay (29/10): Fed giữ lãi suất, Bitcoin đi ngang quanh 81.000 USD",
+  "title_en": "Crypto Market Today (Oct. 29): Fed Holds Rates, Bitcoin Drifts Near $81,000",
+  "src_urls": [
+   "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+   "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+   "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+   "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
+   "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor"
+  ]
+ },
+ {
+  "ts": "2026-10-29T11:15:58+07:00",
+  "published": "2026-10-29T11:30:00+07:00",
+  "slug": "ripple-doanh-thu-ky-luc-rlusd-moodys-a2-xrp-giam-30-phan-tram",
+  "cat": "alt",
+  "event": "Ripple projects record $900M annualized product revenue run rate while Moody's rates RLUSD A2/P-1 and Coinbase lists RLUSD, as XRP is down ~29% year to date (Oct 28 2026)",
+  "title_vi": "Ripple đạt doanh thu kỷ lục, RLUSD được Moody's xếp hạng A2 nhưng XRP giảm gần 30%",
+  "title_en": "Ripple Posts Record Revenue and Moody's Rates RLUSD A2, Yet XRP Is Down Nearly 30%",
+  "src_urls": [
+   "https://cryptoslate.com/ripple-is-heading-for-its-best-year-ever-while-xrp-faces-its-worst-since-2022/",
+   "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
+   "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+   "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009"
+  ]
+ },
+ {
+  "ts": "2026-10-29T14:13:43+07:00",
+  "published": "2026-10-29T14:25:00+07:00",
+  "slug": "utah-truy-to-hinh-su-kalshi-14-toi-danh-co-bac",
+  "cat": "reg",
+  "event": "Utah AG Derek Brown files 14 criminal counts against Kalshi and co-founders Mansour and Lopes Lara two days after CFTC sued Utah (Oct 28 2026)",
+  "title_vi": "Utah truy tố hình sự Kalshi và hai nhà sáng lập với 14 tội danh cờ bạc",
+  "title_en": "Utah files criminal charges against Kalshi and its co-founders on 14 counts",
+  "src_urls": [
+   "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
+   "https://www.aljazeera.com/economy/2026/10/29/kalshi-co-founders-hit-with-criminal-charges-in-us-state-of-utah",
+   "https://www.kuer.org/politics-government/2026-10-28/kalshi-prediction-market-utah-gambling-criminal-charges",
+   "https://www.cftc.gov/PressRoom/PressReleases/9315-26"
+  ]
+ },
+ {
+  "ts": "2026-10-29T19:55:23+07:00",
+  "published": "2026-10-29T18:45:00+07:00",
+  "slug": "lagarde-roi-ghe-chu-tich-ecb-ngay-7-2-2027-giua-chu-ky-tang-lai-suat",
+  "cat": "pol",
+  "event": "ECB President Lagarde announces she will step down on 7 Feb 2027, months before term end (Oct 29 2026)",
+  "title_vi": "Christine Lagarde rời ghế Chủ tịch ECB ngày 7/2/2027 giữa chu kỳ tăng lãi suất",
+  "title_en": "Christine Lagarde to leave ECB on 7 February 2027, mid-way through a rate-hike cycle",
+  "src_urls": [
+   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+   "https://finance.yahoo.com/economy/policy/articles/ecb-lagarde-resign-february-2027-103951830.html",
+   "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027"
+  ]
+ },
+ {
+  "ts": "2026-10-29T21:19:11+07:00",
+  "published": "2026-10-29T21:27:00+07:00",
+  "slug": "ice-trade-xyz-hyperliquid-perpetual-futures-my",
+  "cat": "ex",
+  "event": "ICE signs definitive deal with Trade[XYZ] to bring Hyperliquid-based perpetual futures markets onshore in the U.S., ICE exclusive operator, minority stake, pending approvals (Oct 29 2026)",
+  "title_vi": "ICE, công ty mẹ NYSE, bắt tay Trade[XYZ] đưa perpetual futures kiểu Hyperliquid vào Mỹ",
+  "title_en": "NYSE Owner ICE Teams With Trade[XYZ] to Bring Hyperliquid-Style Perpetual Futures to the U.S.",
+  "src_urls": [
+   "https://ir.theice.com/press/news-details/2026/Intercontinental-Exchange-and-TradeXYZ-to-Bring-Hyperliquid-Based-Perpetual-Markets-Onshore/default.aspx",
+   "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+   "https://news.bitcoin.com/finance/ice-targets-americas-retail-traders-with-a-hyperliquid-alliance/"
+  ]
+ },
+ {
+  "ts": "2026-10-30T07:45:52+07:00",
+  "published": "2026-10-30T07:45:00+07:00",
+  "slug": "thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd",
+  "cat": "ex",
+  "event": "Daily crypto market wrap 2026-10-30",
+  "title_vi": "Thị trường crypto hôm nay (30/10): Binance mất hơn 5,5 tỷ USD, Bitcoin lùi về quanh 77.000 USD",
+  "title_en": "Crypto Market Today (Oct. 30): Binance Loses Over $5.5 Billion as Bitcoin Slides Toward $77,000",
+  "src_urls": [
+   "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+   "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+   "https://cryptoslate.com/bitcoin-whipsaws-below-79000-as-binance-hot-wallet-reportedly-drained-by-tornado-cash-linked-wallet/",
+   "https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion/",
+   "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+   "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide",
+   "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
+   "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode"
+  ]
+ },
+ {
+  "ts": "2026-11-02T21:28:20+07:00",
+  "published": "2026-11-02T21:35:00+07:00",
+  "slug": "binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc",
+  "cat": "ex",
+  "event": "Binance reopens withdrawals after $6.3B hack: $3.64B net outflow, SAFU Bitcoin halves to ~7,500 BTC",
+  "title_vi": "Binance rút ròng 3,64 tỷ USD, quỹ SAFU giảm một nửa Bitcoin",
+  "title_en": "Binance Posts $3.64B Net Outflow as SAFU Bitcoin Halves",
+  "src_urls": [
+   "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+   "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear",
+   "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+   "https://cryptoslate.com/tracked-binance-wallets-record-2-5-billion-in-outflows-as-withdrawals-reopen-after-hack/"
+  ]
+ },
+ {
+  "ts": "2026-11-03T07:49:19+07:00",
+  "published": "2026-11-03T07:49:16+07:00",
+  "slug": "thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-11-03",
+  "title_vi": "Thị trường crypto hôm nay (03/11): Bitcoin quanh 77.000 USD trước bầu cử Mỹ",
+  "title_en": "Crypto Market Today (Nov 3): Bitcoin Near $77,000 Ahead of US Midterms",
+  "src_urls": [
+   "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally",
+   "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+   "https://coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+   "https://cryptoslate.com/binance-warns-of-second-wave-of-crypto-theft-as-6-3-billion-hack-recovery-continues/"
+  ]
+ },
+ {
+  "ts": "2026-11-03T11:15:51+07:00",
+  "published": "2026-11-03T11:40:00+07:00",
+  "slug": "xrp-ledger-va-loi-in-token-kich-hoat-4-11",
+  "cat": "alt",
+  "event": "XRP Ledger fixCleanup3_4_0 amendment, fixing PaymentBurn token-minting flaw, due to activate Nov 4 2026 14:46 UTC",
+  "title_vi": "XRP Ledger sắp vá lỗi cho phép tài khoản đốt token tạo thêm token",
+  "title_en": "XRP Ledger Fix for Token-Minting Flaw Due to Activate November 4",
+  "src_urls": [
+   "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+   "https://www.altcoinbuzz.io/xrp-ledger-fix-for-token-minting-flaw-is-due-to-activate-wednesday",
+   "https://cryptoticker.io/en/xrp-amendment-delay-validators-november-4/"
+  ]
+ },
+ {
+  "ts": "2026-11-03T14:16:09+07:00",
+  "published": "2026-11-03T14:30:00+07:00",
+  "slug": "new-jersey-rut-lenh-cam-staking-coinbase",
+  "cat": "reg",
+  "event": "New Jersey Bureau of Securities rescinds 2023 cease-and-desist order and $5M penalty against Coinbase staking (notice Oct 30, 2026), without prejudice",
+  "title_vi": "New Jersey rút lệnh cấm staking của Coinbase sau hơn ba năm, trước thềm bầu cử giữa kỳ",
+  "title_en": "New Jersey Drops Coinbase Staking Order, Ending a Three-Year Ban Ahead of Midterms",
+  "src_urls": [
+   "https://cointelegraph.com/news/new-jersey-coinbase-staking",
+   "https://www.kucoin.com/news/flash/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+   "https://finwire.io/news/crypto-news/coinbase-says-new-jersey-plans-to-lift-3-year-staking-order",
+   "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+  ]
+ },
+ {
+  "ts": "2026-11-03T18:09:45+07:00",
+  "published": "2026-11-03T18:30:00+07:00",
+  "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien",
+  "cat": "ex",
+  "event": "Brazil's Mercado Bitcoin hit by ~$38-46M hot-wallet hack across 10+ chains on Nov 2 2026, pauses deposits/withdrawals, pledges to cover losses; Tether freezes 4.5M+ USDT",
+  "title_vi": "Mercado Bitcoin bị hack hơn 40 triệu USD, tạm dừng nạp rút",
+  "title_en": "Mercado Bitcoin Hacked for Over $40M, Pauses Withdrawals",
+  "src_urls": [
+   "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+   "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+   "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
+   "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack"
+  ]
+ },
+ {
+  "ts": "2026-11-03T21:21:45+07:00",
+  "published": "2026-11-03T21:21:00+07:00",
+  "slug": "bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6",
+  "cat": "btc",
+  "event": "US spot Bitcoin ETFs net outflow ~$399M on Nov 2 2026, IBIT -$405.3M biggest since June; >$1B over two sessions",
+  "title_vi": "Quỹ ETF Bitcoin rút ròng 399 triệu USD, IBIT có phiên xả mạnh nhất từ tháng 6",
+  "title_en": "Bitcoin ETFs Lose $399 Million as IBIT Sees Biggest Outflow Since June",
+  "src_urls": [
+   "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+   "https://cryptoslate.com/stronger-us-factory-activity-complicates-bitcoins-hopes-for-lower-rates/",
+   "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june",
+   "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
+  ]
+ },
+ {
+  "ts": "2026-11-04T07:54:42+07:00",
+  "published": "2026-11-04T08:00:00+07:00",
+  "slug": "thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-11-04",
+  "title_vi": "Thị trường crypto hôm nay (04/11): Bitcoin đi ngang quanh 77.000 USD giữa ngày bầu cử Mỹ",
+  "title_en": "Crypto Market Today (Nov 4): Bitcoin Holds Near $77,000 as US Midterm Votes Are Counted",
+  "src_urls": [
+   "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails/",
+   "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+   "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-76k-sizable-etf-outflows-liquidations/",
+   "https://cryptoslate.com/binance-relied-on-ai-to-fight-fraud-before-hackers-exploited-internal-tool-in-6-billion-theft/",
+   "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets/",
+   "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
+   "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street"
+  ]
+ },
+ {
+  "ts": "2026-11-04T11:16:54+07:00",
+  "published": "2026-11-04T11:35:00+07:00",
+  "slug": "sec-xem-canton-coin-la-hang-hoa-so-khong-khuyen-nghi-thuc-thi",
+  "cat": "alt",
+  "event": "SEC Division of Corporation Finance no-action letter (Nov 3 2026) views Canton Coin as a digital commodity and won't recommend enforcement over its programmatic minting",
+  "title_vi": "SEC xem Canton Coin là hàng hoá số, không khuyến nghị xử lý việc phát hành token",
+  "title_en": "SEC Staff Calls Canton Coin a Digital Commodity in No-Action Letter",
+  "src_urls": [
+   "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+   "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326",
+   "https://defiprime.com/sec-canton-coin-minting-no-action-letter",
+   "https://genfinity.io/2026/11/03/canton-coin-no-action-letter-digital-commodity-minting/"
+  ]
+ },
+ {
+  "ts": "2026-11-04T14:20:08+07:00",
+  "published": "2026-11-04T14:25:00+07:00",
+  "slug": "dang-dan-chu-gianh-thuong-vien-my-bitcoin-hoi-phuc",
+  "cat": "pol",
+  "event": "Democrats win US Senate in Nov 3 2026 midterms (51 seats with allies), Sherrod Brown beats Husted; BTC dips to ~$75.7k then rebounds near $78k; CLARITY Act outlook uncertain",
+  "title_vi": "Đảng Dân chủ giành Thượng viện Mỹ, Bitcoin chao đảo rồi hồi về gần 78.000 USD",
+  "title_en": "Democrats Win US Senate as Bitcoin Dips Below $76,000, Then Rebounds",
+  "src_urls": [
+   "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset",
+   "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
+   "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+   "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets"
+  ]
+ },
+ {
+  "ts": "2026-11-04T18:12:44+07:00",
+  "published": "2026-11-04T18:30:00+07:00",
+  "slug": "credit-mutuel-arkea-133-trieu-usd-san-giao-dich",
+  "cat": "ex",
+  "event": "ZachXBT names French bank Credit Mutuel Arkea as suspected victim of $133M+ theft from exchange accounts (Kraken, Crypto.com, OKX), Nov 1-4 2026; funds swapped to ETH then XMR",
+  "title_vi": "Crédit Mutuel Arkéa bị cho là nạn nhân vụ trộm hơn 133 triệu USD trên các sàn",
+  "title_en": "Crédit Mutuel Arkéa Named in $133M Crypto Exchange Theft",
+  "src_urls": [
+   "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+   "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft",
+   "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607"
+  ]
+ },
+ {
+  "ts": "2026-11-04T21:18:12+07:00",
+  "published": "2026-11-04T21:30:00+07:00",
+  "slug": "cftc-cho-phep-perpetual-co-phieu-bi-kien-cung-ngay",
+  "cat": "reg",
+  "event": "CFTC clears equity perpetual futures on registered US exchanges (Nov 3 2026); Capital Markets Alliance (Cboe, Citadel Securities backers) sues in SDNY the same day",
+  "title_vi": "CFTC cho phép perpetual cổ phiếu Mỹ, nhóm Cboe và Citadel ủng hộ kiện cùng ngày",
+  "title_en": "CFTC Clears US Stock Perpetuals, Sued the Same Day by Cboe-Backed Group",
+  "src_urls": [
+   "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+   "https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
+   "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges"
+  ]
+ },
+ {
+  "ts": "2026-11-05T07:45:33+07:00",
+  "published": "2026-11-05T07:55:00+07:00",
+  "slug": "thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-11-05",
+  "title_vi": "Thị trường crypto hôm nay (05/11): Bitcoin lấy lại 80.000 USD, ETF vẫn rút ròng",
+  "title_en": "Crypto Market Today (Nov 5): Bitcoin Back Above $80,000, ETFs Still Bleed",
+  "src_urls": [
+   "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/",
+   "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+   "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result",
+   "https://www.tokenpost.com/news/investing/48350",
+   "https://cryptoslate.com/aave-and-lido-lose-1-7b-in-massive-defi-capital-drop-after-the-binance-hack/"
+  ]
+ },
+ {
+  "ts": "2026-11-05T11:17:01+07:00",
+  "published": "2026-11-05T11:40:00+07:00",
+  "slug": "rune-tang-10-thorchain-mo-lai-tien-hack-binance",
+  "cat": "alt",
+  "event": "THORChain RUNE rises 10.6% to $0.637 on Nov 4 2026 as swaps reopen on most chains after Oct 31 halt, while North Korea-linked hackers keep laundering Binance hack proceeds through it",
+  "title_vi": "RUNE tăng 10% khi THORChain mở lại, tiền hack Binance vẫn bị rửa qua đây",
+  "title_en": "RUNE Jumps 10% as THORChain Reopens, Binance Hack Funds Still Flow",
+  "src_urls": [
+   "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+   "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
+   "https://cointelegraph.com/markets/rune-token-surges-binance-hack"
+  ]
+ },
+ {
+  "ts": "2026-11-05T14:14:37+07:00",
+  "published": "2026-11-05T14:25:00+07:00",
+  "slug": "hong-kong-thong-qua-carf",
+  "cat": "reg",
+  "event": "Hong Kong LegCo passes CARF and amended CRS bill on Nov 4 2026; providers collect crypto tax info from 2027, IRD exchanges from 2028",
+  "title_vi": "Hong Kong thông qua luật buộc nhà cung cấp crypto báo cáo thuế từ 2027",
+  "title_en": "Hong Kong Passes Crypto Tax Reporting Law, Data Collection Starts in 2027",
+  "src_urls": [
+   "https://cryptoslate.com/hong-kong-forces-crypto-providers-to-track-customer-trades/",
+   "https://www.news.gov.hk/eng/2026/11/20261104/20261104_181944_819.html"
+  ]
+ },
+ {
+  "ts": "2026-11-05T18:14:07+07:00",
+  "published": "2026-11-05T18:25:00+07:00",
+  "slug": "bitmart-hack-lien-quan-mercado",
+  "cat": "ex",
+  "event": "BitMart founder confirms Nov 2 2026 hack, suspects same group as Mercado Bitcoin; Bitquery traces ~$391k from BitMart-linked wallets and says Mercado drain continued ~4h after exchange declared it contained, total $48.6M across 10 chains",
+  "title_vi": "BitMart xác nhận bị hack, nghi cùng nhóm tấn công Mercado Bitcoin",
+  "title_en": "BitMart Confirms Hack, Suspects Same Group Behind Mercado Bitcoin Attack",
+  "src_urls": [
+   "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+   "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring",
+   "https://www.bitquery.io/investigations/mercado-bitcoin-hack"
+  ]
+ },
+ {
+  "ts": "2026-11-05T21:18:29+07:00",
+  "published": "2026-11-05T21:30:00+07:00",
+  "slug": "etf-bitcoin-hut-lai-tien",
+  "cat": "btc",
+  "event": "US spot Bitcoin ETFs net inflow ~$74.6M on Nov 4 2026 ending 3-session outflow streak; FBTC +$237M, IBIT -$201M (4th straight outflow); Ether ETFs +$53M",
+  "title_vi": "ETF Bitcoin hút lại 74,6 triệu USD sau 3 phiên rút ròng, IBIT vẫn bị rút",
+  "title_en": "Bitcoin ETF Inflows Return at $74.6M as IBIT Outflows Continue",
+  "src_urls": [
+   "https://cryptoslate.com/bitcoin-etfs-record-74-6-million-in-net-inflows-as-fbtc-offsets-ibit-withdrawals/",
+   "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound"
+  ]
+ },
+ {
+  "ts": "2026-11-06T07:44:47+07:00",
+  "published": "2026-11-06T07:58:00+07:00",
+  "slug": "bitcoin-mat-80000-usd",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-11-06",
+  "title_vi": "Thị trường crypto hôm nay (06/11): Bitcoin mất 80.000 USD, hơn 1 tỷ USD bị thanh lý",
+  "title_en": "Crypto Market Today (Nov 6): Bitcoin Loses $80,000 as Over $1 Billion Is Liquidated",
+  "src_urls": [
+   "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street/",
+   "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+   "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains",
+   "https://cryptoslate.com/bitcoin-traders-face-fridays-2-7-billion-options-expiry-with-a-dangerous-five-hour-blind-spot/"
+  ]
+ },
+ {
+  "ts": "2026-11-06T11:17:51+07:00",
+  "published": "2026-11-06T11:30:00+07:00",
+  "slug": "hyperliquid-strategies-xin-lam-fcm",
+  "cat": "alt",
+  "event": "Hyperliquid Strategies (HYPE treasury firm) seeks to become a US futures commission merchant for HIP-3 perps; Q3 revenue $13.3M, net income $620.6M (Nov 5 2026)",
+  "title_vi": "Công ty nắm giữ HYPE xin làm FCM để đưa perp Hyperliquid vào Mỹ",
+  "title_en": "Hyperliquid Treasury Firm Files to Become a U.S. Futures Broker",
+  "src_urls": [
+   "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+   "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455"
+  ]
+ },
+ {
+  "ts": "2026-11-06T14:14:17+07:00",
+  "published": "2026-11-06T14:30:00+07:00",
+  "slug": "han-quoc-hoan-thue-2029",
+  "cat": "reg",
+  "event": "South Korea government proposes delaying 22% crypto income tax from Jan 2027 to Jan 2029 (fourth delay) with 3-year loss carryforward; needs Income Tax Act amendment (Nov 4-5 2026)",
+  "title_vi": "Hàn Quốc đề xuất hoãn thuế crypto 22% sang năm 2029, kèm chuyển lỗ 3 năm",
+  "title_en": "South Korea proposes delaying 22% crypto tax to 2029 with 3-year loss carryforward",
+  "src_urls": [
+   "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses/",
+   "https://news.bitcoin.com/regulation-and-legal/south-korea-pushes-implementation-of-crypto-income-tax-to-2029/",
+   "https://news.bitcoin.com/south-korea-crypto-tax-faces-fourth-delay-2029-date-looms-report/"
+  ]
+ },
+ {
+  "ts": "2026-11-06T18:12:33+07:00",
+  "published": "2026-11-06T18:30:00+07:00",
+  "slug": "gopax-tam-dung-rut-tien",
+  "cat": "ex",
+  "event": "South Korean exchange GOPAX halts withdrawals at 2:55pm KST Nov 6 2026 after hacking threat email, moving hot wallet assets to cold storage; no losses reported",
+  "title_vi": "GOPAX tạm dừng rút tiền sau lời đe doạ tấn công mạng",
+  "title_en": "GOPAX Halts Withdrawals After Hacking Threat, Moves Assets Offline",
+  "src_urls": [
+   "https://www.koreaherald.com/article/10928990",
+   "https://news.sbs.co.kr/english/article.do?news_id=N1008834685",
+   "https://en.sedaily.com/finance/2026/11/06/gopax-halts-withdrawals-after-hacking-threat",
+   "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage"
+  ]
+ },
+ {
+  "ts": "2026-11-10T09:24:33+07:00",
+  "published": "2026-11-10T08:00:00+07:00",
+  "slug": "thi-truong-crypto-10-11",
+  "cat": "fut",
+  "event": "Daily crypto market wrap 2026-11-10",
+  "title_vi": "Thị trường crypto hôm nay (10/11): Bitcoin đóng tuần dưới MA 50, hơn 1 tỷ USD long bị thanh lý",
+  "title_en": "Crypto Market Today (Nov 10): Bitcoin Closes Week Under 50-Week Average as $1B Longs Liquidated",
+  "src_urls": [
+   "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
+   "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
+   "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target",
+   "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+   "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094"
+  ]
+ },
+ {
+  "ts": "2026-11-10T11:18:00+07:00",
+  "published": "2026-11-10T11:35:00+07:00",
+  "slug": "nyse-chon-avalanche-avax-tang",
+  "cat": "alt",
+  "event": "NYSE picks Avalanche as core ledger for its planned 24/7 tokenized securities platform; AVAX jumps up to 10% on Nov 9 2026",
+  "title_vi": "NYSE chọn Avalanche thanh toán chứng khoán token hóa, AVAX tăng hơn 8%",
+  "title_en": "NYSE Picks Avalanche to Settle Tokenized Stocks as AVAX Jumps 8%",
+  "src_urls": [
+   "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+   "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
+   "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
+   "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal"
+  ]
+ },
+ {
+  "ts": "2026-11-10T16:43:51+07:00",
+  "published": "2026-11-10T14:55:00+07:00",
+  "slug": "warren-thuong-vien-soi-crypto",
+  "cat": "pol",
+  "event": "Elizabeth Warren set to chair Senate Banking Committee in January after Democrats win Senate; aide vows scrutiny of prediction markets and Trump family crypto ventures (Nov 9 2026)",
+  "title_vi": "Bà Warren sắp nắm Ủy ban Ngân hàng Thượng viện, nhắm crypto nhà Trump và kèo dự đoán",
+  "title_en": "Warren to Chair Senate Banking, Eyeing Trump Family Crypto Ventures and Prediction Markets",
+  "src_urls": [
+   "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+   "https://news.bitcoin.com/regulation-and-legal/elizabeth-warren-senate-banking-chair-crypto/"
+  ]
+ },
+ {
+  "ts": "2026-11-10T18:13:28+07:00",
+  "published": "2026-11-10T18:30:00+07:00",
+  "slug": "hacker-ria-tien-binance-near",
+  "cat": "ex",
+  "event": "Elliptic: North Korean launderers of the Binance hack mint six NEAR meme coins (Nov 5-8 2026) and route ~117,000 NEAR (~$430k) through liquidity pools; 11.8M NEAR ($43.7M) unmoved",
+  "title_vi": "Hacker Triều Tiên dùng meme coin trên NEAR để rửa tiền hack Binance",
+  "title_en": "North Korean Hackers Launder Binance Hack Funds Through NEAR Meme Coins",
+  "src_urls": [
+   "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+   "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic"
+  ]
+ },
+ {
+  "ts": "2026-11-11T07:43:49+07:00",
+  "published": "2026-11-11T08:00:00+07:00",
+  "slug": "thi-truong-crypto-11-11",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-11-11",
+  "title_vi": "Thị trường crypto hôm nay (11/11): CPI nóng khiến BTC lùi dưới 74.000 USD",
+  "title_en": "Crypto Market Today (Nov 11): Hot CPI Pushes Bitcoin Below $74,000",
+  "src_urls": [
+   "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation",
+   "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike"
+  ]
+ },
+ {
+  "ts": "2026-11-11T11:16:28+07:00",
+  "published": "2026-11-11T11:30:00+07:00",
+  "slug": "grayscale-day-manh-zcash",
+  "cat": "alt",
+  "event": "Grayscale raises Zcash ecosystem grants to $1M and launches ad campaign as ZEC falls over 10% and ZCSH sees outflows (Nov 10 2026)",
+  "title_vi": "Grayscale chi thêm 1 triệu USD cho Zcash, nhưng ZEC vẫn giảm hơn 10%",
+  "title_en": "Grayscale Backs Zcash With $1M as ZEC Drops Over 10%",
+  "src_urls": [
+   "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+   "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277"
+  ]
+ },
+ {
+  "ts": "2026-11-11T16:16:16+07:00",
+  "published": "2026-11-11T15:30:00+07:00",
+  "slug": "cftc-canh-bao-kalshi",
+  "cat": "reg",
+  "event": "CFTC warned Kalshi of imminent charges over how it notified the agency about dozens of new contracts (Nov 10 2026)",
+  "title_vi": "CFTC cảnh báo Kalshi có thể bị truy tố vì cách nộp hồ sơ hợp đồng mới",
+  "title_en": "CFTC Warns Kalshi of Possible Charges Over New Contract Filings",
+  "src_urls": [
+   "https://www.thestar.com.my/tech/tech-news/2026/11/11/wall-street-regulator-poised-to-bring-charges-against-kalshi-politico-reports",
+   "https://whbl.com/2026/11/10/wall-street-regulator-poised-to-bring-charges-against-kalshi-politico-reports/",
+   "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts"
+  ]
+ },
+ {
+  "ts": "2026-11-11T18:58:40+07:00",
+  "published": "2026-11-11T19:05:00+07:00",
+  "slug": "lnbits-tat-server-vi-lightning",
+  "cat": "btc",
+  "event": "LNbits urges operators to shut servers after Lightning wallet drains; 1.7.0 patch released Nov 10",
+  "title_vi": "LNbits yêu cầu tắt mọi server sau làn tấn công rút BTC từ ví Lightning",
+  "title_en": "LNbits Tells All Operators to Shut Down Servers After Lightning Wallet Attacks",
+  "src_urls": [
+   "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts",
+   "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+   "https://cryptobriefing.com/lnbits-urges-users-shut-down-servers/"
+  ]
+ },
+ {
+  "ts": "2026-11-11T21:19:33+07:00",
+  "published": "2026-11-11T21:25:00+07:00",
+  "slug": "kraken-xstocks-200-co-phieu",
+  "cat": "ex",
+  "event": "Kraken parent Payward adds 200+ UK and EU stocks to xStocks, passing 1,500 tokenized assets (Nov 11 2026)",
+  "title_vi": "Kraken đưa hơn 200 cổ phiếu Anh và EU lên chuỗi qua xStocks",
+  "title_en": "Kraken xStocks Adds 200+ UK and EU Stocks, Including All of DAX",
+  "src_urls": [
+   "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities",
+   "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
+   "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+   "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837"
+  ]
+ },
+ {
+  "ts": "2026-11-12T07:44:01+07:00",
+  "published": "2026-11-12T08:00:00+07:00",
+  "slug": "bitcoin-duoi-75600-stablecoin-giam",
+  "cat": "btc",
+  "event": "Stablecoin supply falls $14.2B in 30 days, fastest since June 2022; BTC spot ETFs see $1.6B net outflows over 20 sessions",
+  "title_vi": "Bitcoin dưới 75.600 USD khi stablecoin co lại nhanh nhất từ 2022",
+  "title_en": "Bitcoin slips below $75,600 as stablecoin supply shrinks fastest since 2022",
+  "src_urls": [
+   "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+   "https://cryptoslate.com/bitcoin-faces-70000-test-as-14-2-billion-stablecoin-contraction-exposes-demand-weakness/",
+   "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi"
+  ]
+ },
+ {
+  "ts": "2026-11-12T12:25:03+07:00",
+  "published": "2026-11-12T12:00:00+07:00",
+  "slug": "msci-loai-strategy-chi-so",
+  "cat": "btc",
+  "event": "MSCI confirms Strategy, Metaplanet and Upexi index deletions effective after Nov 30 close",
+  "title_vi": "MSCI chính thức loại Strategy khỏi chỉ số, có hiệu lực sau 30/11",
+  "title_en": "MSCI Drops Strategy From Global Indexes Effective After Nov. 30",
+  "src_urls": [
+   "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november"
+  ]
+ },
+ {
+  "ts": "2026-11-12T14:31:38+07:00",
+  "published": "2026-11-12T14:20:00+07:00",
+  "slug": "han-quoc-tam-dung-rut",
+  "cat": "reg",
+  "event": "South Korea FSC plans to let exchanges suspend deposits and withdrawals on suspected hacks via no-action letter (Nov 12 2026)",
+  "title_vi": "Hàn Quốc cho sàn tạm dừng rút tiền khi nghi hack, không cần đợi xác nhận",
+  "title_en": "South Korea Lets Exchanges Halt Withdrawals on Suspected Hacks",
+  "src_urls": [
+   "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks",
+   "https://www.koreaherald.com/article/10928990"
+  ]
+ },
+ {
+  "ts": "2026-11-12T18:18:12+07:00",
+  "published": "2026-11-12T18:40:00+07:00",
+  "slug": "okxice-mo-san-token",
+  "cat": "ex",
+  "event": "OKXICE opens tokenized securities venue Nov 23 with 70+ assets after 56 companies objected",
+  "title_vi": "OKXICE mở sàn cổ phiếu token hoá từ 23/11 sau khi nhiều công ty từ chối niêm yết",
+  "title_en": "OKXICE Opens Tokenized Stock Venue Nov 23 as Major Companies Refuse Listings",
+  "src_urls": [
+   "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+   "https://cointelegraph.com/news/spacex-tokenization-okxice"
+  ]
+ },
+ {
+  "ts": "2026-11-12T21:17:49+07:00",
+  "published": "2026-11-12T21:30:00+07:00",
+  "slug": "bitcoin-thung-73000-nvidia",
+  "cat": "btc",
+  "event": "Bitcoin falls below 73,000 USD as Nvidia CEO Jensen Huang resigns and US spot ETFs post a fifth straight day of outflows",
+  "title_vi": "Bitcoin thủng 73.000 USD khi CEO Nvidia từ chức, ETF rút ròng 5 phiên liên tiếp",
+  "title_en": "Bitcoin Falls Below $73,000 as Nvidia's CEO Resigns and ETFs Bleed",
+  "src_urls": [
+   "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member",
+   "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+   "https://cointelegraph.com/news/btc-price-nvidia-volatility-three-things-bitcoin-this-week"
+  ]
+ },
+ {
+  "ts": "2026-11-13T07:45:11+07:00",
+  "published": "2026-11-13T07:50:00+07:00",
+  "slug": "thi-truong-crypto-eth-1983",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-11-13",
+  "title_vi": "Thị trường crypto hôm nay: ETH chạm 1.983 USD, thanh lý gần 730 triệu USD",
+  "title_en": "Crypto market today: ETH touches $1,983 as $727M liquidated in 24 hours",
+  "src_urls": [
+   "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
+   "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+   "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation"
+  ]
+ },
+ {
+  "ts": "2026-11-13T11:16:51+07:00",
+  "published": "2026-11-13T11:30:00+07:00",
+  "slug": "dtcc-tich-hop-solana-2027",
+  "cat": "alt",
+  "event": "DTCC plans to connect its tokenization service to Solana, with DTC-tokenized assets expected on Solana in H2 2027 (Nov 12 2026)",
+  "title_vi": "DTCC sẽ đưa tài sản token hoá lên Solana trong nửa cuối 2027",
+  "title_en": "DTCC plans to bring tokenized securities to Solana in 2027",
+  "src_urls": [
+   "https://www.dtcc.com/press-releases/2026/dtcc-tokenization-service-to-connect-with-solana",
+   "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
+   "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+   "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559"
+  ]
+ },
+ {
+  "ts": "2026-11-13T14:15:27+07:00",
+  "published": "2026-11-13T14:30:00+07:00",
+  "slug": "illinois-thue-giao-dich-crypto",
+  "cat": "reg",
+  "event": "Illinois 0.2% digital asset tax challenged in court by DOJ, industry groups and DeFi coalition; start delayed to July 1, 2027 (Nov 6-12 2026)",
+  "title_vi": "Illinois thu 0,2% mọi giao dịch crypto dù không lãi, bị kiện ra toà",
+  "title_en": "Illinois 0.2% Crypto Tax on Every Transfer, Even Without Profit",
+  "src_urls": [
+   "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+   "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi"
+  ]
+ },
+ {
+  "ts": "2026-11-13T18:29:36+07:00",
+  "published": "2026-11-13T18:30:00+07:00",
+  "slug": "binance-hack-doj-thu-hoi",
+  "cat": "ex",
+  "event": "DOJ obtains court authorization to seize over $1.2B tied to Binance hack; FaceStealer infrastructure seized (Nov 12 2026)",
+  "title_vi": "Mỹ được phép tịch thu hơn 1,2 tỷ USD từ vụ hack Binance",
+  "title_en": "US Court Clears Seizure of Over $1.2 Billion From Binance Hack",
+  "src_urls": [
+   "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+   "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls"
+  ]
+ },
+ {
+  "ts": "2026-11-13T21:31:10+07:00",
+  "published": "2026-11-13T21:33:00+07:00",
+  "slug": "bitcoin-xuong-duoi-70000-usd",
+  "cat": "btc",
+  "event": "Bitcoin falls below 70,000 USD to a 3-month low as spot ETF outflows run six sessions and CPI comes in hotter than expected",
+  "title_vi": "Bitcoin xuống dưới 70.000 USD khi ETF rút ròng và CPI nóng hơn dự kiến",
+  "title_en": "Bitcoin Falls Below $70,000 as ETF Outflows and Hot CPI Weigh",
+  "src_urls": [
+   "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear",
+   "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand"
+  ]
+ },
+ {
+  "ts": "2026-11-16T07:44:27+07:00",
+  "published": "2026-11-16T08:00:00+07:00",
+  "slug": "bitcoin-roi-62000-usd",
+  "cat": "btc",
+  "event": "Daily crypto market wrap 2026-11-16: bitcoin four-month low near 62k, spot ETF outflows streak",
+  "title_vi": "Thị trường crypto hôm nay (16/11): Bitcoin xuống gần 62.000 USD, ETF rút ròng liên tiếp",
+  "title_en": "Bitcoin Drops Near 62,000 USD as ETF Outflows Stretch to Seven Days",
+  "src_urls": [
+   "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+   "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+  ]
+ },
+ {
+  "ts": "2026-11-16T11:17:08+07:00",
+  "published": "2026-11-16T11:30:00+07:00",
+  "slug": "eth-sol-giam-manh-etf",
+  "cat": "alt",
+  "event": "Ether and Solana fall nearly 20% in a week as ETF outflows deepen",
+  "title_vi": "ETH và SOL giảm gần 20% trong tuần khi ETF tiền mã hoá rút ròng",
+  "title_en": "Ether and Solana Drop Nearly 20% as ETF Outflows Mount",
+  "src_urls": [
+   "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+   "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+  ]
+ },
+ {
+  "ts": "2026-11-16T18:11:47+07:00",
+  "published": "2026-11-16T18:20:00+07:00",
+  "slug": "aster-lao-doc-32-phut",
+  "cat": "ex",
+  "event": "Aster CEO says ASTER token fell 32% in 15 minutes from leveraged liquidations he calls likely malicious",
+  "title_vi": "ASTER lao xuống 0,48 USD trong 15 phút, CEO Aster nghi thanh lý bị thao túng",
+  "title_en": "ASTER falls 32% in 15 minutes as Aster CEO suspects malicious liquidations",
+  "src_urls": [
+   "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes",
+   "https://en.cryptonomist.ch/2026/11/16/aster-price-crash/",
+   "https://blockonomi.com/aster-aster-price-swings-32-in-15-minutes-as-futures-volume-hits-11x-spot"
+  ]
+ },
+ {
+  "ts": "2026-11-16T21:27:36+07:00",
+  "published": "2026-11-16T21:27:21+07:00",
+  "slug": "strategy-mua-485-btc-strc",
+  "cat": "btc",
+  "event": "Strategy buys 485 BTC while spending $228M on STRC buybacks",
+  "title_vi": "Strategy mua thêm 485 BTC nhưng chi gấp gần 7 lần để mua lại cổ phiếu STRC",
+  "title_en": "Strategy Buys 485 BTC but Spends Nearly 7x More Repurchasing STRC",
+  "src_urls": [
+   "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback",
+   "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886"
+  ]
+ }
+]

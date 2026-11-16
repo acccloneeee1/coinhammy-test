@@ -1,0 +1,78 @@
+{
+ "binance": [
+  "Binance",
+  "Sàn lớn nhất theo số người dùng và thanh khoản, thành lập 2017 bởi Changpeng Zhao và Yi He."
+ ],
+ "bingx": [
+  "BingX",
+  "Thành lập 2018 với tên Bingbon, đổi thành BingX từ 11/2021. Mạnh về copy trading."
+ ],
+ "bitget": [
+  "Bitget",
+  "Thành lập 2018, nổi bật với copy trading, hơn 760 cặp (theo CoinGecko, qua Coin Bureau)."
+ ],
+ "bitunix": [
+  "Bitunix",
+  "Thành lập 2021, đăng ký tại Saint Vincent và Grenadines. Có đăng ký MSB tại Mỹ, Canada và giấy phép VASP tại Philippines."
+ ],
+ "blofin": [
+  "BloFin",
+  "Thành lập 9/2019, trụ sở tại Quần đảo Cayman, tập trung vào futures."
+ ],
+ "bybit": [
+  "Bybit",
+  "Sàn thành lập 2018 bởi Ben Zhou, tập trung vào phái sinh, thuộc nhóm hai sàn lớn nhất theo khối lượng giao dịch (Bloomberg, 2024)."
+ ],
+ "coinbase": [
+  "Coinbase",
+  "Thành lập 2012 bởi Brian Armstrong và Fred Ehrsam, niêm yết Nasdaq năm 2021. Perpetual futures thanh toán bằng USDC."
+ ],
+ "cryptocom": [
+  "Crypto.com",
+  "Thành lập 2016 tại Hồng Kông với tên Monaco, đổi tên Crypto.com năm 2018, trụ sở Singapore. Có giấy phép MiCA tại EU (1/2025)."
+ ],
+ "deribit": [
+  "Deribit",
+  "Thành lập 2016, sàn quyền chọn bitcoin lớn nhất (hơn 85% hợp đồng mở năm 2022). Coinbase mua lại năm 2025."
+ ],
+ "gate": [
+  "Gate",
+  "Ra đời năm 2013 với tên Bter, đổi tên Gate năm 2025. Là một trong những sàn lâu đời nhất."
+ ],
+ "htx": [
+  "HTX",
+  "Thành lập 2013 tại Trung Quốc bởi Leon Li với tên Huobi, đổi tên HTX năm 2023; Justin Sun là chủ sở hữu (theo Bloomberg)."
+ ],
+ "kraken": [
+  "Kraken",
+  "Thành lập 2011 tại San Francisco bởi Jesse Powell, Thanh Luu và Michael Gronager. Có giấy phép ở nhiều khu vực."
+ ],
+ "kucoin": [
+  "KuCoin",
+  "Thành lập 2017 tại Trung Quốc bởi Chun Gan, Ke Tang và Johnny Lyu. Có bot giao dịch và margin."
+ ],
+ "lbank": [
+  "LBank",
+  "Thành lập 2015, hỗ trợ đòn bẩy 125x với phần lớn hợp đồng và tới 200x với memecoin."
+ ],
+ "mexc": [
+  "MEXC",
+  "Thành lập 2018, nổi bật với phí futures rất thấp và danh sách coin rộng."
+ ],
+ "okx": [
+  "OKX",
+  "Thành lập 2017 với tên OKEx, đổi thành OKX từ 1/2022. Mạnh về công cụ nâng cao và options."
+ ],
+ "phemex": [
+  "Phemex",
+  "Ra mắt 2019 như một sàn phái sinh. Đăng ký FinCEN (Mỹ) và có giấy phép VASP tại Ba Lan."
+ ],
+ "primexbt": [
+  "PrimeXBT",
+  "Thành lập 2018, giao dịch futures crypto và CFD nhiều tài sản trên một tài khoản. Phí maker 0,010%, taker từ 0,020%, đòn bẩy futures crypto tới 500x."
+ ],
+ "weex": [
+  "WEEX",
+  "Thành lập 2018, tập trung vào futures đòn bẩy cao. Có quỹ bảo vệ người dùng 1.000 BTC."
+ ]
+}

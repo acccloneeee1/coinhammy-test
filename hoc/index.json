@@ -1,0 +1,257 @@
+{
+ "items": [
+  {
+   "slug": "nhat-ky-giao-dich-futures",
+   "slug_en": "futures-trading-journal-guide",
+   "u": "/kien-thuc/nhat-ky-giao-dich-futures",
+   "ue": "/en/learn/futures-trading-journal-guide",
+   "cat": "tr",
+   "coin": "BTC",
+   "ts": "2026-11-16T20:00:00+07:00",
+   "img": "/hoc/img/nhat-ky-giao-dich-futures-h.jpg",
+   "vi": {
+    "title": "Nhật ký giao dịch Futures là gì và cách ghi chép để đánh giá kỷ luật",
+    "desc": "Nhật ký giao dịch Futures cần ghi giá vào, cắt lỗ, rủi ro bằng tiền và kết quả. Ví dụ ghi chép trên nến BTC thật và cách đọc nhật ký để tìm lỗi lặp lại."
+   },
+   "en": {
+    "title": "Futures trading journal: what to record for each trade",
+    "desc": "Learn what a futures trading journal should record for each trade: entry, stop loss, dollar risk and result. Includes a worked example on real BTC candles."
+   }
+  },
+  {
+   "slug": "pha-vo-gia-breakout-futures",
+   "slug_en": "false-breakout-confirmation-futures",
+   "u": "/kien-thuc/pha-vo-gia-breakout-futures",
+   "ue": "/en/learn/false-breakout-confirmation-futures",
+   "cat": "tr",
+   "coin": "BTC",
+   "ts": "2026-11-14T20:00:00+07:00",
+   "img": "/hoc/img/pha-vo-gia-breakout-futures-h.jpg",
+   "vi": {
+    "title": "Phá vỡ giả là gì và cách xác nhận breakout trước khi vào lệnh Futures",
+    "desc": "Phá vỡ giả là khi giá vượt một vùng kháng cự rồi quay lại dưới vùng đó. Bài nêu bốn cách xác nhận breakout và đọc một ví dụ BTC đã xảy ra trên khung 4 giờ."
+   },
+   "en": {
+    "title": "What a false breakout is and how to confirm a breakout before a futures trade",
+    "desc": "A false breakout is a move above resistance that falls back. Learn four checks to confirm a breakout before a futures trade, with a real BTC 4-hour example."
+   }
+  },
+  {
+   "slug": "mark-price-la-gi",
+   "slug_en": "mark-price-vs-last-price",
+   "u": "/kien-thuc/mark-price-la-gi",
+   "ue": "/en/learn/mark-price-vs-last-price",
+   "cat": "mk",
+   "coin": "BTC",
+   "ts": "2026-11-13T20:00:00+07:00",
+   "img": "/hoc/img/mark-price-la-gi-h.jpg",
+   "vi": {
+    "title": "Mark price là gì và vì sao thanh lý Futures tính theo mark price",
+    "desc": "Mark price là mức giá sàn dùng để tính ký quỹ và ngưỡng thanh lý Futures, khác với giá khớp lệnh. Bài viết giải thích cách tính và khoảng chênh đo được."
+   },
+   "en": {
+    "title": "Mark Price Explained: Why Futures Liquidations Do Not Use the Last Trade",
+    "desc": "Mark price is the figure exchanges use for margin and futures liquidation levels, not the last trade. Here is how it is built and how wide the gap can get."
+   }
+  },
+  {
+   "slug": "cau-truc-dinh-day-futures",
+   "slug_en": "higher-highs-lower-lows-trend",
+   "u": "/kien-thuc/cau-truc-dinh-day-futures",
+   "ue": "/en/learn/higher-highs-lower-lows-trend",
+   "cat": "tr",
+   "coin": "BTC",
+   "ts": "2026-11-12T20:05:00+07:00",
+   "img": "/hoc/img/cau-truc-dinh-day-futures-h.jpg",
+   "vi": {
+    "title": "Cấu trúc đỉnh đáy là gì và cách xác định xu hướng trước khi vào lệnh Futures",
+    "desc": "Cấu trúc đỉnh đáy là cách đọc chuỗi đỉnh và đáy để biết xu hướng tăng, giảm hay đi ngang trước khi vào lệnh Futures, kèm ví dụ Bitcoin khung 4 giờ đầu tháng 11."
+   },
+   "en": {
+    "title": "Higher highs and lower lows: how to read trend structure before a futures trade",
+    "desc": "Learn how higher highs, higher lows, lower highs and lower lows reveal trend direction, with a worked Bitcoin 4-hour example before opening a futures trade."
+   }
+  },
+  {
+   "slug": "basis-futures-am-la-gi",
+   "slug_en": "negative-futures-basis-explained",
+   "u": "/kien-thuc/basis-futures-am-la-gi",
+   "ue": "/en/learn/negative-futures-basis-explained",
+   "cat": "mk",
+   "coin": "BTC",
+   "ts": "2026-11-11T19:50:00+07:00",
+   "img": "/hoc/img/basis-futures-am-la-gi-h.jpg",
+   "vi": {
+    "title": "Basis futures âm là gì và đọc tín hiệu Bitcoin ra sao",
+    "desc": "Basis futures âm là gì? Cách tính chênh lệch giá hợp đồng và spot, đọc basis âm 30 nến của Bitcoin cùng funding rate và open interest, kèm mốc theo dõi."
+   },
+   "en": {
+    "title": "Negative futures basis explained and what it signals for Bitcoin",
+    "desc": "Negative futures basis explained: how to calculate the futures-spot gap, why BTC basis stayed below zero for 30 days, and how to read it with funding."
+   }
+  },
+  {
+   "slug": "fomo-khi-trade-futures",
+   "slug_en": "fomo-trading-chasing-candles",
+   "u": "/kien-thuc/fomo-khi-trade-futures",
+   "ue": "/en/learn/fomo-trading-chasing-candles",
+   "cat": "tr",
+   "coin": "BTC",
+   "ts": "2026-11-10T20:00:00+07:00",
+   "img": "/hoc/img/fomo-khi-trade-futures-h.jpg",
+   "vi": {
+    "title": "FOMO khi trade Futures: vì sao mua đuổi nến tăng mạnh dễ thua",
+    "desc": "FOMO khiến trader mua đuổi sau nến tăng mạnh. Bài giải thích dùng ATR nhận biết nến quá đà, ví dụ Bitcoin 29/10/2026 và cách kiểm tra trước khi vào lệnh."
+   },
+   "en": {
+    "title": "FOMO Trading in Futures: Why Chasing a Strong Candle Often Fails",
+    "desc": "FOMO pushes traders to chase strong candles. Learn how ATR flags an overextended move, a Bitcoin example from Oct 29, 2026, and what to check before a trade."
+   }
+  },
+  {
+   "slug": "gong-lo-doi-cat-lo",
+   "slug_en": "moving-stop-loss-mistake",
+   "u": "/kien-thuc/gong-lo-doi-cat-lo",
+   "ue": "/en/learn/moving-stop-loss-mistake",
+   "cat": "tr",
+   "coin": "BTC",
+   "ts": "2026-11-06T19:53:27+07:00",
+   "img": "/hoc/img/gong-lo-doi-cat-lo-h.jpg",
+   "vi": {
+    "title": "Vì sao không nên dời cắt lỗ khi giá đi ngược vị thế Futures",
+    "desc": "Dời cắt lỗ ra xa làm khoản lỗ lớn hơn kế hoạch bao nhiêu lần? Ví dụ thật trên nến Bitcoin 1 giờ: lỗ 1,55% thành 6,33% và vốn mất hơn 4% thay vì 1% vốn."
+   },
+   "en": {
+    "title": "Moving Your Stop Loss: How a Small Loss Becomes a Large One",
+    "desc": "How much bigger does a loss get when a stop is widened? A real Bitcoin 1-hour example: a 1.55% planned loss became 6.33%, over 4% of capital instead of 1%."
+   }
+  },
+  {
+   "slug": "taker-buy-volume-la-gi",
+   "slug_en": "taker-buy-volume-explained",
+   "u": "/kien-thuc/taker-buy-volume-la-gi",
+   "ue": "/en/learn/taker-buy-volume-explained",
+   "cat": "mk",
+   "coin": "BTC",
+   "ts": "2026-11-05T19:58:00+07:00",
+   "img": "/hoc/img/taker-buy-volume-la-gi-h.jpg",
+   "vi": {
+    "title": "Taker buy volume là gì và cách đọc lực mua chủ động của Bitcoin",
+    "desc": "Taker buy volume đo lượng mua chủ động trên sàn. Bài giải thích cách tính tỷ lệ mua chủ động và số liệu Bitcoin 30 ngày cho thấy chỉ số này đúng và sai ở đâu."
+   },
+   "en": {
+    "title": "Taker Buy Volume Explained: Reading Bitcoin's Aggressive Buying",
+    "desc": "Taker buy volume measures aggressive buying on an exchange. See how to compute the buy share and where 30 days of Bitcoin data show it works and fails."
+   }
+  },
+  {
+   "slug": "ty-le-rr-va-ty-le-thang-hoa-von-khi-trade-futures",
+   "slug_en": "risk-reward-ratio-and-break-even-win-rate-in-futures-trading",
+   "u": "/kien-thuc/ty-le-rr-va-ty-le-thang-hoa-von-khi-trade-futures",
+   "ue": "/en/learn/risk-reward-ratio-and-break-even-win-rate-in-futures-trading",
+   "cat": "tr",
+   "coin": "BTC",
+   "ts": "2026-11-04T19:51:29+07:00",
+   "img": "/hoc/img/ty-le-rr-va-ty-le-thang-hoa-von-khi-trade-futures-h.jpg",
+   "vi": {
+    "title": "Tỷ lệ R:R và tỷ lệ thắng tối thiểu để hòa vốn khi trade Futures",
+    "desc": "Tỷ lệ R:R 1:2 cần thắng ít nhất bao nhiêu lệnh để hòa vốn? Công thức, bảng tra và ví dụ thật trên nến Bitcoin 1 giờ với cắt lỗ theo ATR."
+   },
+   "en": {
+    "title": "Risk-Reward Ratio and Break-Even Win Rate in Futures Trading",
+    "desc": "What win rate does a 1:2 risk-reward ratio need to break even? The formula, a lookup table and a real example on 1-hour Bitcoin candles using ATR stops."
+   }
+  },
+  {
+   "slug": "ty-le-long-short-la-gi",
+   "slug_en": "long-short-ratio-explained-why-crowded-longs-do-not-predict",
+   "u": "/kien-thuc/ty-le-long-short-la-gi",
+   "ue": "/en/learn/long-short-ratio-explained-why-crowded-longs-do-not-predict",
+   "cat": "mk",
+   "coin": "BTC",
+   "ts": "2026-11-03T19:51:00+07:00",
+   "img": "/hoc/img/ty-le-long-short-la-gi-h.jpg",
+   "vi": {
+    "title": "Tỷ lệ long/short là gì và vì sao số tài khoản long không báo giá sẽ tăng",
+    "desc": "Tỷ lệ long/short đo điều gì, vì sao tỷ lệ tài khoản và vị thế trader lớn lệch nhau, và số liệu Bitcoin tháng này cho thấy gì về rủi ro của phía đông hơn."
+   },
+   "en": {
+    "title": "Long/Short Ratio Explained: Why Crowded Longs Do Not Predict a Price Rise",
+    "desc": "What the long/short ratio measures, why the account ratio and top trader ratio differ, and what this month's Bitcoin data says about the risk of a crowded side."
+   }
+  },
+  {
+   "slug": "cach-tinh-khoi-luong-lenh-futures-theo-rui-ro-1-von",
+   "cat": "tr",
+   "coin": "BTC",
+   "ts": "2026-11-02T20:20:00+07:00",
+   "img": "/hoc/img/cach-tinh-khoi-luong-lenh-futures-theo-rui-ro-1-von-h.jpg",
+   "vi": {
+    "title": "Cách tính khối lượng lệnh Futures theo rủi ro 1% vốn mỗi lệnh",
+    "desc": "Hướng dẫn tính khối lượng lệnh Futures từ vốn, phần trăm rủi ro và khoảng cách cắt lỗ theo ATR, có ví dụ trên nến Bitcoin thật đã xảy ra."
+   },
+   "en": {
+    "title": "How to Calculate Futures Position Size With 1% Risk Per Trade",
+    "desc": "Learn to size a futures position from account balance, risk percentage and an ATR-based stop distance, with a worked example on real Bitcoin candles."
+   },
+   "slug_en": "how-to-calculate-futures-position-size-with-1-percent-risk",
+   "u": "/kien-thuc/cach-tinh-khoi-luong-lenh-futures-theo-rui-ro-1-von",
+   "ue": "/en/learn/how-to-calculate-futures-position-size-with-1-percent-risk"
+  },
+  {
+   "slug": "open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi",
+   "cat": "mk",
+   "coin": "BTC",
+   "ts": "2026-10-29T16:45:00+07:00",
+   "img": "/hoc/img/open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi-h.jpg",
+   "vi": {
+    "title": "Open interest tăng khi giá giảm: đòn bẩy đang báo điều gì?",
+    "desc": "Open interest Bitcoin tăng khoảng 4,8% trong 30 ngày khi giá giảm hơn 4%. Giải thích OI đo gì, cách đọc cùng giá và điều gì sẽ chứng minh cách đọc này sai."
+   },
+   "en": {
+    "title": "Open Interest Rises as Price Falls: What Is Leverage Signalling?",
+    "desc": "Bitcoin open interest rose about 4.8% over 30 days while price fell more than 4%. What OI measures, how to read it with price, and what would prove the reading wrong."
+   },
+   "u": "/kien-thuc/open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi",
+   "slug_en": "open-interest-rises-as-price-falls-what-is-leverage",
+   "ue": "/en/learn/open-interest-rises-as-price-falls-what-is-leverage"
+  },
+  {
+   "slug": "funding-rate-duong-keo-dai-co-phai-tin-hieu-dao-chieu",
+   "cat": "mk",
+   "coin": "BTC",
+   "ts": "2026-10-29T03:20:00+07:00",
+   "img": "/hoc/img/funding-rate-duong-keo-dai-co-phai-tin-hieu-dao-chieu-h.jpg",
+   "vi": {
+    "title": "Funding rate dương kéo dài có phải tín hiệu đảo chiều không?",
+    "desc": "Funding rate dương 29/30 kỳ nhưng giá Bitcoin vẫn dao động 7% hai chiều. Giải thích funding rate và open interest đo điều gì, đọc cùng nhau ra sao."
+   },
+   "en": {
+    "title": "Does Long-Running Positive Funding Signal a Reversal?",
+    "desc": "Funding stayed positive for 29 of 30 periods, yet Bitcoin swung 7% both ways. Learn what funding rate and open interest measure and how to read them together."
+   },
+   "u": "/kien-thuc/funding-rate-duong-keo-dai-co-phai-tin-hieu-dao-chieu",
+   "slug_en": "does-long-running-positive-funding-signal-a-reversal",
+   "ue": "/en/learn/does-long-running-positive-funding-signal-a-reversal"
+  },
+  {
+   "slug": "cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac",
+   "cat": "tr",
+   "coin": "ZEC",
+   "ts": "2026-10-28T03:10:00+07:00",
+   "img": "/hoc/img/cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac-h.jpg",
+   "vi": {
+    "title": "Cách đặt cắt lỗ (SL) theo biên độ ATR thay vì theo cảm giác",
+    "desc": "Hướng dẫn đặt lệnh cắt lỗ (Stop Loss) theo biên độ dao động thật của coin, đo bằng chỉ báo ATR, thay vì theo cảm giác chủ quan, kèm ví dụ thật từ một lệnh SHORT ZEC."
+   },
+   "en": {
+    "title": "How to Set a Stop Loss Using ATR Instead of Gut Feeling",
+    "desc": "Learn how to place a stop loss based on an asset's real volatility range, measured with the ATR indicator, instead of guessing — illustrated with a real ZEC short trade."
+   },
+   "u": "/kien-thuc/cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac",
+   "slug_en": "how-to-set-a-stop-loss-using-atr-instead-of-gut-feeling",
+   "ue": "/en/learn/how-to-set-a-stop-loss-using-atr-instead-of-gut-feeling"
+  }
+ ],
+ "updated": "2026-11-16T19:53:35+07:00"
+}

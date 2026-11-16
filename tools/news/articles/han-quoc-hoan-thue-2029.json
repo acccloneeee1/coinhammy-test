@@ -1,0 +1,77 @@
+{
+ "slug": "han-quoc-hoan-thue-2029",
+ "slug_en": "south-korea-delays-crypto-tax",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "hong-kong-thong-qua-carf"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-mat-80000-usd"
+  }
+ ],
+ "cat": "reg",
+ "cats": [
+  "reg",
+  "ex"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-06T14:30:00+07:00",
+ "event": "South Korea government proposes delaying 22% crypto income tax from Jan 2027 to Jan 2029 (fourth delay) with 3-year loss carryforward; needs Income Tax Act amendment (Nov 4-5 2026)",
+ "src_urls": [
+  "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses/",
+  "https://news.bitcoin.com/regulation-and-legal/south-korea-pushes-implementation-of-crypto-income-tax-to-2029/",
+  "https://news.bitcoin.com/south-korea-crypto-tax-faces-fourth-delay-2029-date-looms-report/"
+ ],
+ "image": {
+  "src": "https://commons.wikimedia.org/wiki/File:Seoul-National.Assembly-02.jpg",
+  "license": "CC BY",
+  "credit": "frakorea, CC BY 2.0, Wikimedia Commons",
+  "alt_vi": "Toà nhà Quốc hội Hàn Quốc ở Yeouido, Seoul, với mái vòm xanh và tượng đài phía trước",
+  "alt_en": "The National Assembly Building of South Korea in Yeouido, Seoul, with its green dome and a statue in front",
+  "caption_vi": "Toà nhà Quốc hội Hàn Quốc ở Seoul, nơi dự luật hoãn thuế crypto phải được thông qua.",
+  "caption_en": "South Korea's National Assembly Building in Seoul, where the crypto tax delay bill must pass.",
+  "url": "/tin/img/han-quoc-hoan-thue-2029-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Hàn Quốc đề xuất hoãn thuế crypto 22% sang năm 2029, kèm chuyển lỗ 3 năm",
+  "seo_title": "Hàn Quốc hoãn thuế crypto 22% đến 2029",
+  "desc": "Chính phủ Hàn Quốc đề xuất lùi thuế thu nhập crypto 22% từ 2027 sang 2029, lần hoãn thứ tư, kèm cho chuyển lỗ ba năm. Dự luật vẫn cần Quốc hội thông qua.",
+  "lead": "Chính phủ Hàn Quốc đề xuất hoãn thêm hai năm thuế thu nhập từ tiền mã hóa sang 2029 và cho chuyển lỗ tối đa ba năm, nhưng đề xuất vẫn cần Quốc hội thông qua.",
+  "bullets": [
+   "Chính phủ Hàn Quốc muốn lùi thuế thu nhập crypto 22% từ 1/1/2027 sang 1/1/2029, lần hoãn thứ tư kể từ khi thuế được đưa vào luật.",
+   "Đề xuất cho chuyển lỗ tối đa ba năm: lỗ từ 2029 được trừ vào lãi đến hết 2032, còn lỗ trước ngày thuế bắt đầu thì không được tính.",
+   "Đề xuất chưa có hiệu lực: luật phải được sửa trước ngày 1/1/2027, còn hướng dẫn của cơ quan thuế vẫn ghi mốc 2027 cho đến lúc đó."
+  ],
+  "body_html": "<p>Chính phủ Hàn Quốc cho biết sẽ đề xuất lùi thêm hai năm thời điểm đánh thuế thu nhập từ tiền mã hóa, từ ngày 1/1/2027 sang 1/1/2029. Kèm theo là đề xuất cho nhà đầu tư chuyển lỗ sang các năm sau trong tối đa ba năm. Nếu Quốc hội thông qua, đây sẽ là lần hoãn thứ tư kể từ khi khoản thuế được đưa vào luật năm 2020.</p>\n<h2>Chính phủ đề xuất những gì</h2>\n<p>Thông báo được đưa ra trong ngày 4–5/11 (các bản tin ghi lệch nhau một ngày). Bộ trưởng Tài chính Lee Hyoung-il nói rằng ông thông báo với tâm trạng nặng nề vì thuế đã bị hoãn ba lần, và chính phủ sẽ dùng hai năm này để bảo đảm việc đánh thuế tài sản ảo vận hành trơn tru từ năm 2029.</p>\n<p>Điểm mới lớn nhất là cơ chế chuyển lỗ. Theo đề xuất, khoản lỗ phát sinh từ năm 2029 được trừ vào lãi các năm sau cho đến hết năm 2032. Khoản lỗ trước ngày thuế chính thức bắt đầu thì không được tính. Hiện luật không cho chuyển lỗ qua năm, nên người lãi 10 triệu won năm nay vẫn phải nộp thuế dù năm trước lỗ nặng.</p>\n<p>Mức thuế hiện hành là 22%, gồm 20% thuế quốc gia và 2% thuế địa phương, áp dụng trên thu nhập ròng từ chuyển nhượng hoặc cho vay tài sản số vượt 2,5 triệu won mỗi năm, tương đương khoảng 1.900 USD. Đề xuất lần này chưa đổi thuế suất hay ngưỡng miễn thuế.</p>\n<h2>Vì sao lại hoãn</h2>\n<p>Lý do chính là dữ liệu. Hàn Quốc dự kiến bắt đầu trao đổi thông tin giao dịch tiền mã hóa theo khung CARF của OECD từ năm 2027, nhưng Mỹ chỉ tham gia từ năm 2029. Khoảng trống hai năm này khiến cơ quan thuế khó theo dõi tài sản mà người dân giữ trên sàn nước ngoài. Khi người dùng chuyển token mua ở nước ngoài về sàn trong nước, sàn thường không có hồ sơ giá mua để tính lãi chịu thuế. Các sàn nội địa còn cho biết tiêu chuẩn báo cáo chưa rõ khiến phần mềm thu thuế chưa hoàn thiện, và đánh thuế người giao dịch trong nước trước khi nhìn được ví nước ngoài sẽ đặt họ vào thế bất lợi cạnh tranh.</p>\n<p>Hồ sơ này cũng gắn với một xu hướng chung ở châu Á. Hong Kong vừa thông qua luật buộc nhà cung cấp dịch vụ thu thập thông tin thuế crypto từ năm 2027, cho thấy các nền kinh tế đang xây hạ tầng báo cáo trước khi thu thuế. Bạn đọc có thể xem thêm trong bài <a href=\"/tin-tuc/hong-kong-thong-qua-carf\">Hong Kong thông qua luật báo cáo thuế crypto theo CARF</a>.</p>\n<p>[[rel:1]]</p>\n<h2>Bước tiếp theo và điều chưa chắc chắn</h2>\n<p>Đề xuất chưa có hiệu lực. Chính phủ sẽ trình dự luật sửa Luật Thuế thu nhập lên Quốc hội trong kỳ họp thường kỳ hiện nay, và hướng dẫn của Cục Thuế Quốc gia vẫn ghi ngày 1/1/2027 cho đến khi luật được sửa. Bộ Tài chính cũng sẽ lập một nhóm làm việc công – tư gồm đại diện ngành và chuyên gia pháp lý để làm rõ tiêu chuẩn tính thuế cho các hoạt động phức tạp, hoạt động đến hết nửa đầu năm sau. Nếu nhóm đề xuất thay đổi thêm, chính phủ sẽ trình sửa đổi bổ sung ở kỳ họp năm 2027, còn hướng dẫn hành chính dự kiến hoàn tất trong nửa đầu năm 2028.</p>\n<p>Về phía chính trị, Đảng Dân chủ cầm quyền đã đề nghị hoãn từ ngày 4/11 và nhiều dự luật tương tự đã được đệ trình, trong đó có dự luật của một nghị sĩ đối lập đề xuất mốc 2029, nâng mức miễn thuế lên 50 triệu won và cho chuyển lỗ năm năm. Vì vậy hướng hoãn có sự ủng hộ ở cả hai phía, nhưng chi tiết cuối cùng như mức miễn thuế hay số năm chuyển lỗ vẫn có thể thay đổi trong quá trình thảo luận.</p>\n<h2>Tác động tới trader</h2>\n<p>Với người giao dịch tại Hàn Quốc, tin này trước mắt chỉ lùi một nghĩa vụ nộp thuế chứ không đổi quy tắc giao dịch trên sàn. Cơ chế chuyển lỗ nếu được thông qua sẽ làm lợi cho người giao dịch futures và spot biến động mạnh, vì lỗ ở năm này có thể bù lãi năm sau, nhưng chỉ áp dụng từ khi thuế bắt đầu.</p>\n<p>Chưa có nguồn nào gắn tin này với diễn biến giá. Bitcoin rơi khoảng 6% xuống vùng 75.700 USD trong phiên 5/11, chạm đáy trong ngày quanh 75.568 USD rồi hồi lên khoảng 76.800 USD, kèm khoảng 1 tỷ USD thanh lý. Báo chí gắn đợt giảm này với cú bán tháo cổ phiếu công nghệ Mỹ chứ không phải tin thuế Hàn Quốc.</p>\n<p>Điều nên theo dõi là ngày Quốc hội đưa dự luật vào chương trình nghị sự, vì thời hạn 1/1/2027 chỉ còn chưa đầy hai tháng và luật phải sửa trước đó. Về rủi ro ngắn hạn, quyền chọn Bitcoin trị giá khoảng 2,7 tỷ USD đáo hạn trên Deribit trong hôm nay, trước báo cáo việc làm Mỹ khoảng năm tiếng rưỡi, nên biến động quanh giờ đó có thể lớn hơn bình thường. Đây là mô tả cơ chế chứ không phải dự báo giá.</p>",
+  "keywords": [
+   "thuế crypto Hàn Quốc",
+   "hoãn thuế tiền mã hóa 2029",
+   "chuyển lỗ crypto",
+   "CARF",
+   "luật thuế crypto"
+  ]
+ },
+ "en": {
+  "title": "South Korea proposes delaying 22% crypto tax to 2029 with 3-year loss carryforward",
+  "seo_title": "South Korea delays 22% crypto tax to 2029",
+  "desc": "South Korea proposes delaying its 22% crypto income tax from 2027 to 2029, a fourth delay, plus a three-year loss carryforward. Lawmakers must still approve.",
+  "lead": "South Korea's government wants to delay its crypto income tax by two more years to 2029 and allow losses to be carried forward for up to three years, pending approval by the National Assembly.",
+  "bullets": [
+   "South Korea's government wants to move its 22% crypto income tax from January 1, 2027 to January 1, 2029, the fourth delay since the tax became law.",
+   "The plan lets investors carry losses forward for up to three years: losses from 2029 could offset gains through 2032, while losses before the start date would not count.",
+   "The proposal is not in force: the law must be amended before January 1, 2027, and tax authority guidance still lists the 2027 start until then."
+  ],
+  "body_html": "<p>South Korea's government says it will propose pushing back the start of income tax on crypto by two more years, from January 1, 2027 to January 1, 2029. The package also includes a plan to let investors carry losses forward for up to three years. If the National Assembly approves it, this would be the fourth postponement since the tax was written into law in 2020.</p>\n<h2>What the government is proposing</h2>\n<p>The announcement came on November 4–5, with reports dating it a day apart. Finance Minister Lee Hyoung-il said he was announcing the delay with a heavy heart because the tax had already been postponed three times, and that the government would use the two years to make sure taxation of virtual assets runs smoothly from 2029.</p>\n<p>The biggest new element is loss carryforward. Under the proposal, losses incurred from 2029 could offset gains in later years through 2032, while losses booked before the tax officially starts would not count. Today the law does not allow losses to be carried across years, so an investor who makes 10 million won this year still owes tax even after a heavy loss the year before.</p>\n<p>The current rate is 22%, made up of a 20% national tax and a 2% local tax, applied to net income from transferring or lending digital assets above 2.5 million won a year, roughly 1,900 USD. This proposal does not change the rate or the exemption threshold.</p>\n<h2>Why the delay</h2>\n<p>The main reason is data. South Korea expects to start exchanging crypto transaction information under the OECD's CARF framework in 2027, but the United States only joins in 2029. That two-year gap makes it hard for tax authorities to see assets held on foreign platforms. When users move tokens bought abroad onto a domestic exchange, the exchange often lacks purchase-price records needed to calculate taxable profit. Local exchanges also say unclear reporting standards have held up tax-collection software, and taxing domestic traders before overseas holdings are visible would put local platforms at a competitive disadvantage.</p>\n<p>The file also fits a wider Asian pattern. Hong Kong just passed a law requiring providers to collect crypto tax information from 2027, a sign that economies are building reporting infrastructure before collecting tax. Readers can find more in <a href=\"/en/news/hong-kong-passes-carf-law\">Hong Kong's crypto tax reporting law under CARF</a>.</p>\n<p>[[rel:1]]</p>\n<h2>What happens next, and what is still uncertain</h2>\n<p>The proposal is not in force yet. The government plans to submit an amendment to the Income Tax Act during the current regular session of the National Assembly, and National Tax Service guidance still lists January 1, 2027 until the law is changed. The Finance Ministry will also set up a public-private working group of industry representatives and legal experts to refine tax standards for complex activities, running through the first half of next year. If the group recommends more changes, the government would bring further amendments in the 2027 session, with administrative guidance expected in the first half of 2028.</p>\n<p>Politically, the ruling Democratic Party asked for a delay on November 4, and several similar bills have been filed, including one from an opposition lawmaker proposing a 2029 start, a 50 million won exemption and a five-year loss carryforward. That suggests support for a delay on both sides, but details such as the exemption level or the number of carryforward years could still change in debate.</p>\n<h2>What it means for traders</h2>\n<p>For traders in South Korea, the news for now only pushes back a tax obligation and does not change trading rules on exchanges. If passed, loss carryforward would help people who trade volatile spot and futures markets, since a loss in one year could offset gains in the next, but only from the date the tax begins.</p>\n<p>No source has tied this news to price action. Bitcoin fell about 6% to the 75,700 USD area on November 5, touched an intraday low near 75,568 USD and recovered to around 76,800 USD, with roughly 1 billion USD in liquidations. Coverage linked that drop to the selloff in US tech stocks rather than to the Korean tax news.</p>\n<p>The thing to watch is when the National Assembly puts the bill on its agenda, since the January 1, 2027 deadline is less than two months away and the law must change before then. On near-term risk, about 2.7 billion USD of Bitcoin options expire on Deribit today, roughly five and a half hours before the US jobs report, so volatility around that window could be larger than usual. This describes a mechanism and is not a price forecast.</p>",
+  "keywords": [
+   "South Korea crypto tax",
+   "crypto tax delay 2029",
+   "loss carryforward",
+   "CARF",
+   "Korea crypto regulation"
+  ]
+ },
+ "dir": "tin-tuc"
+}

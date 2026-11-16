@@ -1,0 +1,82 @@
+{
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-04-11-bitcoin-quanh-77000-usd-bau-cu-giua-ky"
+  }
+ ],
+ "slug": "thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd",
+ "cat": "btc",
+ "cats": [
+  "btc",
+  "fut"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-05T07:55:00+07:00",
+ "event": "Daily crypto market wrap 2026-11-05",
+ "src_urls": [
+  "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/",
+  "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+  "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result",
+  "https://www.tokenpost.com/news/investing/48350",
+  "https://cryptoslate.com/aave-and-lido-lose-1-7b-in-massive-defi-capital-drop-after-the-binance-hack/"
+ ],
+ "image": {
+  "src": "",
+  "license": "chart",
+  "alt_vi": "Biểu đồ nến 4 giờ của Bitcoin trên Binance cho thấy giá hồi lên trên 80.000 USD",
+  "alt_en": "4-hour Bitcoin candlestick chart on Binance showing price rebounding above $80,000",
+  "url": "/tin/img/thi-truong-crypto-hom-nay-05-11-bitcoin-80000-usd-h.jpg",
+  "caption_vi": "Bitcoin khung 4 giờ: giá giảm về vùng 76.000 USD hôm 4/11 rồi bật lên quanh 80.700 USD, vượt mốc 80.000 USD.",
+  "caption_en": "Bitcoin 4-hour chart: price dropped to the $76,000 area on Nov 4, then jumped to around $80,700, above the $80,000 mark."
+ },
+ "images": [],
+ "vi": {
+  "title": "Thị trường crypto hôm nay (05/11): Bitcoin lấy lại 80.000 USD, ETF vẫn rút ròng",
+  "seo_title": "Crypto hôm nay 05/11: BTC lấy lại 80.000 USD",
+  "desc": "Bitcoin hồi lên 80.000 USD, Ether tăng gần 6%, lệnh short bị quét trong khi ETF Bitcoin rút ròng phiên thứ ba liên tiếp. Tổng hợp thị trường sáng 05/11.",
+  "lead": "Bitcoin lấy lại mốc 80.000 USD lần đầu kể từ vụ Binance bị tấn công, nhưng dòng tiền ETF vẫn chưa quay lại.",
+  "bullets": [
+   "Bitcoin tăng khoảng 3,5% lên quanh 80.500 USD, hồi hơn 5% từ đáy 75.600 USD đêm bầu cử; Ether tăng gần 6% lên khoảng 2.433 USD.",
+   "Thanh lý nghiêng mạnh về lệnh short, open interest tăng khoảng 3% trong khi khối lượng futures tăng khoảng 27%.",
+   "Quỹ ETF Bitcoin giao ngay Mỹ rút ròng 115,56 triệu USD ngày 03/11, phiên thứ ba liên tiếp, giảm khoảng 71% so với phiên trước."
+  ],
+  "body_html": "<p>Bitcoin đã lấy lại mốc 80.000 USD trong phiên Mỹ ngày 04/11, lần đầu tiên kể từ khi Binance công bố vụ tấn công bảo mật cuối tháng 10. Giá BTC tăng khoảng 3,5% lên quanh 80.500 USD, hồi hơn 5% từ đáy khoảng 75.600 USD của đêm bầu cử, còn Ether tăng gần 6% lên khoảng 2.433 USD. Tuy vậy, dòng tiền vào các quỹ ETF Bitcoin giao ngay vẫn rút ròng phiên thứ ba liên tiếp.</p>\n<h2>Bitcoin và Ether hồi phục sau cú rung chuyển chính trị</h2>\n<p>Đảng Dân chủ giành quyền kiểm soát cả hai viện Quốc hội Mỹ trong kỳ bầu cử giữa nhiệm kỳ. Phản ứng ban đầu là bán tháo: hợp đồng tương lai giảm tới 2,5% trên các kết quả kiểm phiếu sớm, rồi hồi lại hoàn toàn khi phiên Mỹ mở cửa. Bitcoin quay lại 80.000 USD đúng lúc Phố Wall mở phiên, còn Solana và XRP cùng tăng khoảng 2,5% trong ngày.</p>\n<p>Bối cảnh vĩ mô cũng thuận hơn. Dầu WTI giảm xuống dưới 93 USD/thùng, thấp nhất từ giữa tháng 10, trong lúc kỳ vọng chấm dứt xung đột Mỹ - Iran được cho là kéo giá dầu đi xuống. Dầu rẻ hơn làm giảm áp lực lạm phát và có thể làm dịu kỳ vọng tăng lãi suất. Ông James Butterfill, trưởng bộ phận nghiên cứu của CoinShares, nhận định với Bitcoin thì lãi suất thực, thanh khoản đô la và dòng tiền sản phẩm đầu tư vẫn quan trọng hơn kết quả bầu cử.</p>\n<p>Không phải đồng nào cũng hưởng lợi. Token TRUMP giảm khoảng 17% trong ngày, và token của World Liberty Financial là hai đồng giảm mạnh nhất top 100, dù Bitcoin và Ether tăng.</p>\n<h2>Futures: lệnh short bị quét, vị thế mở tăng chậm hơn giá</h2>\n<p>Đợt tăng kéo theo một đợt thanh lý đáng kể. Một thống kê ghi nhận khoảng 469 triệu USD vị thế đòn bẩy bị quét trong nhịp hồi, một thống kê khác ghi 913 triệu USD trong 24 giờ, trong đó riêng lệnh Bitcoin có hơn 96% là lệnh short. Hai con số chênh nhau vì khác phạm vi và thời điểm tính, nhưng cùng chỉ về một hướng: phe bán khống là bên bị ép đóng vị thế.</p>\n<p>Khối lượng giao dịch futures tăng khoảng 27% trong khi open interest (tổng giá trị hợp đồng đang mở) chỉ tăng khoảng 3%, và open interest của Bitcoin tăng chậm hơn giá. Nói cách khác, nhịp hồi lần này có nhiều yếu tố đóng lệnh hơn là mở thêm lệnh mới. Lệnh thị trường chuyển sang nghiêng nhẹ về phía mua sau một ngày nghiêng về bán, và các hợp đồng quyền chọn hoạt động mạnh nhất chủ yếu là quyền chọn mua. Số liệu funding rate chưa được công bố rõ trong các nguồn đã tham khảo.</p>\n<h2>Dòng tiền ETF: ba phiên rút ròng liên tiếp</h2>\n<p>Các quỹ ETF Bitcoin giao ngay tại Mỹ rút ròng khoảng 115,56 triệu USD ngày 03/11, phiên rút ròng thứ ba liên tiếp, chuỗi này bắt đầu từ ngày 30/10. Mức rút giảm khoảng 71% so với phiên trước đó, khi <a href=\"/tin-tuc/bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6\">quỹ IBIT của BlackRock bị rút hơn 405 triệu USD</a>. Ngày 03/11, IBIT rút ròng khoảng 94,98 triệu USD, lớn hơn tổng tiền vào của ba quỹ có dòng tiền dương gồm BITB (21,92 triệu USD), FBTC (6,76 triệu USD) và MSBT (3,34 triệu USD).</p>\n<p>Tổng tài sản ròng của nhóm quỹ này vào khoảng 99,16 tỷ USD, tương đương khoảng 6,33% vốn hoá Bitcoin, còn tổng dòng tiền vào tích luỹ là khoảng 56,47 tỷ USD. Số liệu ngày 04/11 chưa có. Một nhà phân tích của CryptoQuant nhận xét người bán đang cạn dần nhưng nhu cầu mua vẫn thiếu: ngay cả khi bên bán dịu lại, thị trường vẫn cần dòng tiền mới.</p>\n<h2>Tin đáng chú ý: hậu quả vụ Binance vẫn lan sang DeFi</h2>\n<p>Binance cho biết khoảng 6,34 tỷ USD tài sản bị ảnh hưởng trong sự cố ngày 29/10 và sàn sẽ tự gánh thiệt hại. Theo dữ liệu DeFiLlama, vốn hoá stablecoin đạt khoảng 293,8 tỷ USD đến ngày 03/11, giảm hơn 10 tỷ USD trong 30 ngày, dù mức co lại đã xuất hiện trước vụ tấn công. Từ 27/10 đến 03/11, tổng giá trị khoá (TVL) của Aave giảm khoảng 1 tỷ USD và Lido giảm 713 triệu USD. TVL còn chịu ảnh hưởng của giá token nên con số này chưa chứng minh dòng vốn rút đi.</p>\n<p>Bitcoin giảm khoảng 4% sau vụ tấn công, mức mà một nhà phân tích đánh giá là nhỏ hơn nhiều so với các cuộc khủng hoảng trước. Thông tin được theo dõi tiếp là việc Binance xử lý thiệt hại và liệu stablecoin có quay lại phát hành ròng hay không.</p>\n<h2>Tác động tới trader</h2>\n<p>Thanh lý nghiêng về phía short và open interest tăng chậm hơn giá cho thấy nhịp hồi lên 80.000 USD có phần đến từ việc ép đóng lệnh bán khống. Kiểu tăng này thường kém bền hơn nếu không có lệnh mua mới đi kèm, và dòng tiền ETF vẫn đang rút ròng nên chưa có nguồn cầu cơ học rõ ràng.</p>\n<p>Với người giao dịch futures, điều cần theo dõi là funding rate và open interest sau nhịp hồi: nếu open interest tăng nhanh trong khi giá đi ngang, rủi ro bị quét hai chiều tăng lên. Dữ liệu dòng tiền ETF ngày 04/11 sẽ cho thấy lực mua giao ngay có quay lại hay không.</p>\n<p>Về lịch sử, Bitcoin tăng trong 12 tháng sau cả bốn kỳ bầu cử giữa nhiệm kỳ kể từ 2010, nhưng đó là thống kê quá khứ, không phải dự báo, và cùng thống kê đó ghi nhận các đợt sụt gần 50% trong quá trình hồi phục.</p>",
+  "keywords": [
+   "thị trường crypto hôm nay",
+   "giá Bitcoin",
+   "ETF Bitcoin",
+   "thanh lý futures",
+   "open interest"
+  ]
+ },
+ "en": {
+  "title": "Crypto Market Today (Nov 5): Bitcoin Back Above $80,000, ETFs Still Bleed",
+  "seo_title": "Crypto Market Today: Bitcoin Back Above $80,000",
+  "desc": "Bitcoin rebounds above $80,000 and Ether gains nearly 6% as shorts get squeezed, while US spot Bitcoin ETFs post a third straight day of outflows. Morning wrap.",
+  "lead": "Bitcoin reclaimed $80,000 for the first time since the Binance breach, but ETF demand has not returned yet.",
+  "bullets": [
+   "Bitcoin rose about 3.5% to around $80,500, recovering more than 5% from the $75,600 election-night low; Ether gained nearly 6% to about $2,433.",
+   "Liquidations skewed heavily toward shorts, and open interest rose about 3% while futures volume climbed about 27%.",
+   "US spot Bitcoin ETFs lost $115.56 million on Nov. 3, a third straight outflow session, about 71% smaller than the previous day."
+  ],
+  "body_html": "<p>Bitcoin reclaimed $80,000 during Wednesday's US session, its first time above that level since Binance disclosed its record security breach at the end of October. BTC rose about 3.5% to around $80,500, recovering more than 5% from an election-night low near $75,600, while Ether gained nearly 6% to about $2,433. US spot Bitcoin ETFs, however, still posted net outflows for a third straight session.</p>\n<h2>Bitcoin and Ether recover after a political shock</h2>\n<p>Democrats took control of both chambers of Congress in the midterms. The first reaction was a sell-off: futures fell as much as 2.5% on early vote counts, then recovered fully by the time the US session opened. Bitcoin returned to $80,000 right around the Wall Street open, and Solana and XRP each rose about 2.5% on the day.</p>\n<p>The macro backdrop helped. WTI crude slipped below $93 a barrel, its lowest since mid-October, as hopes of an end to the US-Iran conflict were cited as pulling oil lower. Cheaper oil eases inflation pressure and can soften rate-hike expectations. James Butterfill, head of research at CoinShares, said real yields, dollar liquidity and ETP flows still matter more to Bitcoin than the election.</p>\n<p>Not every token benefited. The TRUMP token fell about 17% on the day, and the World Liberty Financial token were the two biggest losers in the top 100, even as Bitcoin and Ether rose.</p>\n<h2>Futures: shorts squeezed, open interest lags price</h2>\n<p>The rally came with a sizeable round of liquidations. One tally put leveraged positions flushed during the rebound at roughly $469 million, another at $913 million over 24 hours, with more than 96% of Bitcoin liquidations being shorts. The figures differ because of scope and timing, but both point the same way: short sellers were the side forced to close.</p>\n<p>Crypto futures volume rose about 27% while open interest, the total value of open contracts, rose only about 3%, and Bitcoin's open interest grew more slowly than its price. In other words, the bounce involved more position-closing than fresh position-opening. Market orders tilted slightly toward buying after favoring sellers the previous day, and the most active options were mostly calls. A clear funding rate figure was not available in the sources reviewed.</p>\n<h2>ETF flows: three straight sessions of outflows</h2>\n<p>US spot Bitcoin ETFs saw net outflows of about $115.56 million on Nov. 3, the third consecutive outflow session, a streak that began Oct. 30. The outflow was about 71% smaller than the prior session, when <a href=\"/en/news/bitcoin-etfs-lose-399-million-as-ibit-sees-biggest-outflow\">BlackRock's IBIT alone lost more than $405 million</a>. On Nov. 3, IBIT shed about $94.98 million, more than the combined inflows into the three funds that gained: BITB ($21.92 million), FBTC ($6.76 million) and MSBT ($3.34 million).</p>\n<p>The funds hold roughly $99.16 billion in net assets, about 6.33% of Bitcoin's market cap, with cumulative net inflows near $56.47 billion. Figures for Nov. 4 were not yet available. A CryptoQuant analyst said sellers appear to be running out but demand is still missing: even if selling calms, the market needs fresh capital.</p>\n<h2>Overnight: the Binance fallout still spreads into DeFi</h2>\n<p>Binance said about $6.34 billion in assets were affected in the Oct. 29 incident and that it will absorb the loss. DeFiLlama data put stablecoin market capitalization near $293.8 billion by Nov. 3, down more than $10 billion in 30 days, although the contraction was visible before the breach. Between Oct. 27 and Nov. 3, Aave's total value locked fell about $1 billion and Lido's fell $713 million. TVL also moves with token prices, so the drop does not by itself prove capital flight.</p>\n<p>Bitcoin fell about 4% after the breach, which one analyst called far smaller than in past crises. What to watch next is how Binance handles the losses and whether stablecoins return to net issuance.</p>\n<h2>What it means for traders</h2>\n<p>Liquidations skewed toward shorts and open interest lagging price suggest part of the move to $80,000 came from forced short covering. That kind of rally tends to be less durable without fresh buying, and ETF flows are still negative, so there is no clear mechanical bid yet.</p>\n<p>For futures traders, the key gauges are funding rate and open interest after the bounce: if open interest climbs quickly while price stalls, the risk of two-sided liquidation sweeps rises. Nov. 4 ETF data will show whether spot buying is returning.</p>\n<p>Historically, Bitcoin has risen over the 12 months after all four midterm elections since 2010, but that is a past statistic, not a forecast, and the same data include drawdowns of nearly 50% along the way.</p>",
+  "keywords": [
+   "crypto market today",
+   "Bitcoin price",
+   "Bitcoin ETF flows",
+   "futures liquidations",
+   "open interest"
+  ]
+ },
+ "dir": "tin-tuc",
+ "slug_en": "crypto-market-today-nov-5-bitcoin-back-above-80000-etfs"
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "hyperliquid-payward-kraken-hip-3-cftc-perpetual",
+ "cat": "ex",
+ "coin": "BTC",
+ "ts": "2026-10-27T18:30:00+07:00",
+ "event": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer (Oct 26 2026)",
+ "src_urls": [
+  "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+  "https://crypto.news/hyperliquid-payward-regulated-us-hip-3-markets/",
+  "https://cryptobriefing.com/payward-cftc-regulated-hyperliquid-hip3-deployer/",
+  "https://www.cryptotimes.io/2026/10/27/kraken-parent-payward-plans-regulated-perpetual-markets-on-hyperliquid/"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/the-dome-of-the-capital-building-lit-up-at-night-vZkZH6K5mCo",
+  "license": "Unsplash",
+  "alt_vi": "Mái vòm Quốc hội Mỹ về đêm, biểu tượng của các cơ quan quản lý tài chính liên bang",
+  "alt_en": "The US Capitol dome at night, symbol of the federal financial regulators",
+  "url": "/tin/img/hyperliquid-payward-kraken-hip-3-cftc-perpetual-h.jpg"
+ },
+ "vi": {
+  "title": "Hyperliquid chọn công ty mẹ Kraken làm nhà triển khai HIP-3 đầu tiên được CFTC quản lý",
+  "seo_title": "Hyperliquid và Payward: perp HIP-3 đầu tiên có CFTC",
+  "desc": "Hyperliquid cho biết sẽ chọn Payward, công ty mẹ Kraken, làm nhà triển khai HIP-3 đầu tiên được CFTC quản lý. Kế hoạch còn chờ phê duyệt.",
+  "lead": "Hyperliquid dự định chọn Payward, công ty mẹ của Kraken, làm nhà triển khai HIP-3 đầu tiên được CFTC quản lý, mở đường cho perpetual futures on-chain tại Mỹ nếu được duyệt.",
+  "body_html": "<p>Hyperliquid, giao thức giao dịch phi tập trung chuyên về hợp đồng vĩnh viễn (perpetual futures), vừa cho biết dự định chọn Payward, công ty mẹ của sàn Kraken, làm bên triển khai (deployer) đầu tiên được Ủy ban Giao dịch Hàng hóa Tương lai Mỹ (CFTC) quản lý trên hệ thống thị trường HIP-3. Thông báo được đưa ra ngày 26/10/2026. Kế hoạch vẫn phụ thuộc vào phê duyệt của cơ quan quản lý và chưa có ngày ra mắt.</p>\n<h2>Kế hoạch gồm những gì</h2>\n<p>Theo thông tin được công bố, Bitnomial, đơn vị mà Payward mua lại trong năm nay và là sàn hợp đồng được CFTC chỉ định, sẽ tạo lập và vận hành các thị trường, đồng thời đảm nhận thanh toán bù trừ (clearing) và quyết toán. NinjaTrader Clearing, một công ty môi giới hợp đồng tương lai đã đăng ký với CFTC và cũng thuộc Payward, sẽ giữ tài khoản của khách hàng. Hyperliquid chỉ cung cấp hạ tầng sổ lệnh và khớp lệnh trên chuỗi.</p>\n<p>Chỉ những khách hàng nằm trong danh sách cho phép (allowlist) của cả NinjaTrader và Bitnomial, tức là đã hoàn tất quy trình mở tài khoản, mới được giao dịch. Tính năng phân quyền này là tùy chọn trong HIP-3, hiện mới chạy trên mạng thử nghiệm với thông số còn sơ bộ và sẽ được hỗ trợ trong một bản nâng cấp mạng sau này. Các thị trường HIP-3 đang hoạt động không bị thay đổi.</p>\n<h2>HIP-3 là gì và quy mô hiện tại</h2>\n<p>HIP-3 cho phép bên xây dựng tự tạo thị trường perpetual riêng trên Hyperliquid, với điều kiện đặt cọc tối thiểu 500.000 HYPE. Theo dữ liệu được dẫn trong một báo cáo đăng cùng ngày, tổng khối lượng giao dịch của Hyperliquid đạt khoảng 64,7 tỷ USD trong 30 ngày tính đến khoảng 20/10/2026. Phần HIP-3 chiếm khoảng 26,7% khối lượng đó, với open interest (vị thế đang mở) khoảng 3,92 tỷ USD. Một nhà triển khai là trade.xyz chiếm khoảng 97–98% khối lượng và open interest của HIP-3.</p>\n<p>Con số này cho thấy HIP-3 đã là mảng đáng kể, nhưng đang tập trung rất cao vào một đơn vị. Nếu mô hình có kiểm soát truy cập được duyệt, một nhà triển khai thứ hai với tư cách pháp lý rõ ràng sẽ thay đổi bức tranh đó, dù quy mô thực tế còn phụ thuộc vào việc thị trường nào được ra mắt đầu tiên, điều chưa được công bố.</p>\n<h2>Bối cảnh</h2>\n<p>Đây không phải ý tưởng hoàn toàn mới. Payward đã công bố kế hoạch đưa perpetual on-chain tới khách hàng Mỹ qua Bitnomial từ ngày 16/9/2026, còn Hyperliquid cũng đã thử nghiệm thị trường có quyền truy cập hạn chế từ đầu tháng 9. Thông báo ngày 26/10 là lần đầu Hyperliquid nêu đích danh Payward là nhà triển khai được CFTC quản lý đầu tiên. Hyperliquid mô tả mình là một lớp hạ tầng trung lập, và mỗi nhà triển khai tự chịu trách nhiệm về thị trường của mình. Payward chưa trả lời yêu cầu bình luận trong thời điểm tin được đưa.</p>\n<h2>Điều cần theo dõi tiếp</h2>\n<p>Có ba điểm đáng chú ý: Bitnomial có được phê duyệt làm nhà triển khai hay không, danh sách hợp đồng đầu tiên gồm tiền mã hoá, cổ phiếu hay tài sản khác, và cách xác minh danh tính khách hàng vận hành ra sao, vì phần này chưa được làm rõ. Người dùng muốn so sánh các sàn có hợp đồng tương lai có thể xem thêm <a href=\"/xep-hang.html\">bảng xếp hạng sàn</a> và <a href=\"/danh-gia-kraken.html\">đánh giá Kraken</a> của CoinHammy.</p>\n<h2>Tác động tới trader</h2>\n<p>Với trader futures, tin này trước hết là câu chuyện về hạ tầng và pháp lý, chưa phải thay đổi ngay trên thị trường. Hiện chưa có thị trường nào mở, nên chưa có tác động trực tiếp tới thanh khoản, funding rate hay thanh lý trên Hyperliquid.</p>\n<p>Về cơ chế, nếu khách hàng Mỹ được tiếp cận sổ lệnh on-chain qua một đơn vị được quản lý, dòng vốn mới có thể làm tăng khối lượng và open interest trên các thị trường HIP-3. Open interest cao hơn thường đi kèm quy mô vị thế đòn bẩy lớn hơn, nghĩa là các cú biến động mạnh có thể kéo theo thanh lý dây chuyền lớn hơn. Đó là khả năng cần theo dõi, không phải dự báo.</p>\n<p>Về giá, token HYPE giao dịch quanh 77–78 USD trong phiên 27/10, tăng khoảng 1–1,6% trong 24 giờ, còn Bitcoin quanh 79.500–79.800 USD và Ethereum khoảng 2.300 USD. Mức biến động của HYPE trong ngày chưa cho thấy phản ứng đặc biệt với tin này. Trader nên theo dõi thông báo phê duyệt chính thức, danh sách hợp đồng đầu tiên và dữ liệu open interest của HIP-3 trong những tuần tới, thay vì coi thông báo kế hoạch là đã có hiệu lực.</p>",
+  "keywords": [
+   "Hyperliquid",
+   "HIP-3",
+   "Kraken",
+   "Payward",
+   "perpetual futures",
+   "CFTC"
+  ],
+  "bullets": [
+   "Hyperliquid dự định chọn Payward, công ty mẹ của Kraken, làm bên triển khai HIP-3 đầu tiên được CFTC quản lý.",
+   "Bitnomial vận hành thị trường và thanh toán bù trừ, NinjaTrader Clearing giữ tài khoản khách hàng.",
+   "Kế hoạch còn chờ cơ quan quản lý phê duyệt và chưa có ngày ra mắt."
+  ]
+ },
+ "en": {
+  "title": "Hyperliquid Picks Kraken Parent as First CFTC-Regulated HIP-3 Deployer",
+  "seo_title": "Hyperliquid Names Payward First CFTC HIP-3 Deployer",
+  "desc": "Hyperliquid says Kraken parent Payward will be the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. on-chain perpetuals pending approval.",
+  "lead": "Hyperliquid plans to name Payward, Kraken's parent company, as the first CFTC-regulated HIP-3 deployer, a step toward U.S. on-chain perpetual futures if regulators approve.",
+  "body_html": "<p>Hyperliquid, the decentralized exchange built around perpetual futures, said on October 26, 2026 that it intends to name Payward, the parent company of Kraken, as the first deployer regulated by the U.S. Commodity Futures Trading Commission (CFTC) on its HIP-3 market framework. The plan still depends on regulatory approval, and no launch date has been given.</p>\n<h2>What the plan involves</h2>\n<p>Under the announced structure, Bitnomial, a CFTC-designated contract market that Payward acquired this year, would create and operate the markets and handle clearing and settlement. NinjaTrader Clearing, a CFTC-registered futures commission merchant that also sits within Payward, would hold customer accounts. Hyperliquid would supply only the on-chain order book and matching infrastructure.</p>\n<p>Trading would be limited to customers on the allowlists of both NinjaTrader and Bitnomial, meaning they must finish onboarding first. The permissioning feature is optional within HIP-3, currently runs only on testnet with preliminary parameters, and is expected to ship in a future network upgrade. Existing HIP-3 markets are unchanged.</p>\n<h2>What HIP-3 is, and how big it already is</h2>\n<p>HIP-3 lets builders launch their own perpetual markets on Hyperliquid, provided they stake at least 500,000 HYPE. According to data cited in a report published the same day, Hyperliquid's total trading volume was about 64.7 billion USD over the 30 days to around October 20, 2026. HIP-3 accounted for roughly 26.7% of that volume, with open interest of about 3.92 billion USD. One deployer, trade.xyz, represents around 97–98% of HIP-3 volume and open interest.</p>\n<p>That makes HIP-3 a meaningful segment, but a highly concentrated one. A second deployer with a clear regulatory status would change the picture if approved, although the real impact depends on which markets launch first, and that has not been disclosed.</p>\n<h2>Background</h2>\n<p>The idea is not entirely new. Payward announced a plan to bring on-chain perpetuals to U.S. clients through Bitnomial on September 16, 2026, and Hyperliquid had already been testing permissioned markets since early September. The October 26 statement is the first time Hyperliquid named Payward as the first CFTC-regulated deployer. Hyperliquid describes itself as a neutral infrastructure layer, with each deployer responsible for its own markets. Payward had not responded to requests for comment when the news broke.</p>\n<h2>What to watch next</h2>\n<p>Three things matter: whether Bitnomial wins approval as a deployer, whether the first contracts are crypto, equities or something else, and how customer identity checks will work, which is still unclear. Readers comparing futures venues can also browse CoinHammy's <a href=\"/xep-hang.html\">exchange rankings</a> and the <a href=\"/danh-gia-kraken.html\">Kraken review</a>.</p>\n<h2>What it means for traders</h2>\n<p>For futures traders this is first an infrastructure and regulatory story rather than an immediate market change. No regulated market is live yet, so there is no direct effect on liquidity, funding rates or liquidations on Hyperliquid today.</p>\n<p>Mechanically, if U.S. customers gain access to an on-chain order book through a regulated entity, new capital could lift volume and open interest on HIP-3 markets. Higher open interest usually means larger leveraged positions, so sharp moves could trigger bigger liquidation cascades. That is a possibility to monitor, not a forecast.</p>\n<p>On prices, HYPE traded around 77–78 USD on October 27, up roughly 1–1.6% over 24 hours, while Bitcoin sat near 79,500–79,800 USD and Ethereum near 2,300 USD. HYPE's move so far shows no outsized reaction to the news. Traders should watch for a formal approval, the first contract list and HIP-3 open interest data in coming weeks, rather than treating an announced plan as already in effect.</p>",
+  "keywords": [
+   "Hyperliquid",
+   "HIP-3",
+   "Kraken",
+   "Payward",
+   "perpetual futures",
+   "CFTC"
+  ],
+  "bullets": [
+   "Hyperliquid intends to name Payward, Kraken's parent company, as the first CFTC-regulated HIP-3 deployer.",
+   "Bitnomial would run the markets and clearing, while NinjaTrader Clearing would hold customer accounts.",
+   "The plan still needs regulatory approval and has no launch date."
+  ]
+ },
+ "images": [],
+ "cats": [
+  "ex",
+  "reg"
+ ],
+ "slug_en": "hyperliquid-picks-kraken-parent-as-first-cftc-regulated-hip",
+ "dir": "tin-tuc",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "ice-trade-xyz-hyperliquid-perpetual-futures-my"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu"
+  }
+ ]
+}

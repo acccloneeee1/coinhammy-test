@@ -1,0 +1,74 @@
+{
+ "slug": "lnbits-tat-server-vi-lightning",
+ "slug_en": "lnbits-shutdown-lightning-wallet-attacks",
+ "cat": "btc",
+ "coin": "BTC",
+ "ts": "2026-11-11T19:05:00+07:00",
+ "event": "LNbits urges operators to shut servers after Lightning wallet drains; 1.7.0 patch released Nov 10",
+ "src_urls": [
+  "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts",
+  "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+  "https://cryptobriefing.com/lnbits-urges-users-shut-down-servers/"
+ ],
+ "related": [
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu"
+  }
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/hacker-in-hoodie-working-on-multiple-computer-screens-hLAmfdxGlls",
+  "license": "Unsplash",
+  "credit": "",
+  "alt_vi": "Người đeo mũ trùm đầu làm việc trước nhiều màn hình máy tính trong bóng tối",
+  "alt_en": "Person in a hooded top working in front of several computer screens in the dark",
+  "caption_vi": "Ảnh minh họa cho rủi ro bảo mật với ví Bitcoin Lightning tự lưu trữ.",
+  "caption_en": "Illustrative image for security risks facing self-hosted Bitcoin Lightning wallets.",
+  "url": "/tin/img/lnbits-tat-server-vi-lightning-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "LNbits yêu cầu tắt mọi server sau làn tấn công rút BTC từ ví Lightning",
+  "seo_title": "LNbits tắt server sau tấn công, mất 0,023 BTC",
+  "desc": "LNbits yêu cầu mọi server tắt sau khi kẻ tấn công rút tiền từ tài khoản người dùng. Một nhà vận hành mất khoảng 0,023 BTC; bản vá 1.7.0 đã ra. Cần đổi khóa.",
+  "lead": "Phần mềm ví Bitcoin Lightning LNbits yêu cầu mọi người vận hành tắt server sau khi kẻ tấn công rút tiền từ nhiều tài khoản. Bản vá 1.7.0 vừa ra mắt.",
+  "bullets": [
+   "Một nhà vận hành bot tip báo mất khoảng 2.285.545 sat, tương đương 0,023 BTC, trong vụ tấn công kéo dài gần 5 giờ.",
+   "Mọi phiên bản LNbits trước 1.7.0 đều bị ảnh hưởng; bản 1.7.0 được phát hành hôm thứ Ba 10/11 với nhiều bản vá bảo mật.",
+   "Cập nhật phần mềm chưa đủ: người dùng cần đặt lại khóa ví và thông tin đăng nhập nếu nghi đã bị lộ trước khi nâng cấp."
+  ],
+  "body_html": "<p>Phần mềm LNbits, một hệ thống ví Bitcoin Lightning mã nguồn mở, vừa bị kẻ tấn công nhắm vào hàng loạt server. Đơn vị phát triển đã yêu cầu mọi người vận hành dừng server ngay lập tức trong khi chuẩn bị các bản vá bảo mật.</p>\n<h2>Diễn biến chính</h2>\n<p>Cảnh báo đầu tiên đến vào ngày 8/11, khi dự án yêu cầu tạm tắt tiện ích Paywall vì nghi có lỗ hổng. Chỉ sau khoảng một giờ, thông báo được nâng cấp thành lệnh tắt toàn bộ server LNbits. Lý do là người dùng báo cáo có tài khoản mới được tạo ra và rút tiền khỏi ví mà không được phép.</p>\n<p>Một nhà vận hành bot tip trên Telegram báo mất khoảng 2.285.545 sat, tương đương khoảng 0,023 BTC. Vụ tấn công trên server này diễn ra từ 9:22 đến 14:00 giờ UTC, tức là đã bắt đầu trước khi cảnh báo đầu tiên được đưa ra. Người vận hành cho biết sẽ hoàn trả cho người dùng, nhưng tiền vẫn bị khóa cho đến khi lỗ hổng được vá.</p>\n<h2>Bối cảnh và bản vá</h2>\n<p>Dự án cho biết mọi phiên bản trước 1.7.0 đều bị ảnh hưởng và có nguy cơ mất tiền. Bản 1.7.0 được phát hành hôm thứ Ba (10/11), và được mô tả là bản quan trọng với các thay đổi về xác thực, quản lý tiện ích và xử lý thanh toán.</p>\n<p>Điểm cần lưu ý là cập nhật phần mềm chưa đủ. Nếu thông tin đăng nhập hoặc khóa ví đã bị lộ trước khi nâng cấp, kẻ tấn công vẫn có thể truy cập sau đó. LNbits khuyến nghị đặt lại khóa ví, thay thông tin của nguồn nạp tiền, và coi các bí mật lưu trong cài đặt là đã bị xâm phạm. Nếu nghi ngờ bị xâm nhập, nên chuyển sang một server mới.</p>\n<p>Dự án cũng đã tắt các instance mà họ vận hành cho người dùng trên dịch vụ đám mây. Tổng số server bị tấn công và tổng số tiền bị lấy vẫn chưa được công bố.</p>\n<p>LNbits cho phép người dùng tự chạy ví, bot tip, điểm bán hàng và ví dùng chung trên hạ tầng Lightning mà không giao quyền giữ tiền cho công ty lớn nào. Theo nhà phát triển, khoảng 200.000 người tự vận hành phần mềm này. Đây không phải lần đầu dự án gặp vấn đề bảo mật: các lỗ hổng trước đó đã được vá trong phiên bản 1.6.0 vào tháng 9 sau một đợt kiểm toán.</p><h2>Tác động tới trader</h2>\n<p>Sự cố này nằm ở tầng phần mềm ví tự lưu trữ, không phải ở sàn giao dịch hay hạ tầng thanh toán chung. Vì vậy, nó chưa cho thấy tác động trực tiếp tới thanh khoản hay đòn bẩy trên thị trường futures. Các nguồn đưa tin cho biết chưa ghi nhận phản ứng thị trường rõ rệt.</p>\n<p>Với người giao dịch, điều đáng theo dõi là ba việc: số tiền thiệt hại được công bố, thời điểm bản vá được triển khai rộng rãi, và liệu có sự cố tương tự ở các phần mềm Lightning khác hay không.</p>",
+  "keywords": [
+   "lnbits",
+   "ví lightning",
+   "bảo mật bitcoin",
+   "lỗ hổng lnbits"
+  ]
+ },
+ "en": {
+  "title": "LNbits Tells All Operators to Shut Down Servers After Lightning Wallet Attacks",
+  "seo_title": "LNbits Orders Shutdown After Wallet Thefts",
+  "desc": "LNbits told every operator to shut servers after attackers drained user accounts. One operator lost about 0.023 BTC. Version 1.7.0 is out with security fixes.",
+  "lead": "LNbits, an open-source Bitcoin Lightning wallet system, has told every operator to shut their servers down after attackers withdrew funds from user accounts. Version 1.7.0 is out.",
+  "bullets": [
+   "One operator of a Telegram tip bot reported losing about 2,285,545 sats, roughly 0.023 BTC, in an attack that ran for nearly five hours.",
+   "Every LNbits version before 1.7.0 is affected, and version 1.7.0 shipped on Tuesday, November 10, with several security fixes.",
+   "Updating is not enough on its own: operators should reset wallet keys and credentials if they may have been exposed before the upgrade."
+  ],
+  "body_html": "<p>LNbits, an open-source Bitcoin Lightning wallet system, is under attack, and its developers have told every operator to shut down their servers while security patches are prepared.</p>\n<h2>What happened</h2>\n<p>The first warning came on November 8, asking operators to disable the Paywall extension while the project looked into a possible vulnerability. About an hour later, the notice became an order to shut down all LNbits servers, after users reported that new accounts were being created and funds withdrawn without permission.</p>\n<p>One operator who runs a Telegram tip bot reported losing about 2,285,545 sats, roughly 0.023 BTC. The attack on that server ran from 9:22 to 14:00 UTC, starting before the first warning was issued. The operator says affected users will be repaid, but the funds stay locked until the flaws are fixed.</p>\n<h2>Patch and what operators should do</h2>\n<p>The project says every version before 1.7.0 is affected and puts funds at risk. Version 1.7.0 was released on Tuesday, November 10, as a critical update covering authentication, extension management and payment handling.</p>\n<p>Updating alone is not enough. If credentials were exposed before the upgrade, an attacker could still get in afterwards. LNbits advises resetting wallet keys, replacing funding-source credentials and treating secrets stored in its settings as compromised. Operators who suspect a breach should move to a fresh server.</p>\n<p>The project has also switched off the hosted instances it runs for users. The number of servers attacked and the total amount taken have not been disclosed.</p>\n<p>LNbits lets people run their own wallets, tip bots, point-of-sale checkouts and shared wallets on top of the Lightning Network, without handing custody to a large company. The developer said in May that about 200,000 people run the software themselves. This is not the first security problem for the project: earlier vulnerabilities were fixed in version 1.6.0 in September, after an audit.</p><h2>What it means for traders</h2>\n<p>This incident sits in self-hosted wallet software, not in exchanges or market infrastructure. It does not point to direct pressure on spot liquidity or futures positioning, and no immediate market reaction has been reported.</p>\n<p>For traders, three things are worth watching: the total losses once they are disclosed, how quickly the patch reaches running servers, and whether similar flaws turn up in other Lightning software.</p>",
+  "keywords": [
+   "lnbits",
+   "lightning wallet",
+   "bitcoin security",
+   "lnbits exploit"
+  ]
+ },
+ "cats": [
+  "btc"
+ ],
+ "dir": "tin-tuc"
+}

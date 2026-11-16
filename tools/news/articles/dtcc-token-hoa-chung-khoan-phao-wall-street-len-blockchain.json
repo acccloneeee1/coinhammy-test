@@ -1,0 +1,71 @@
+{
+ "slug": "dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain",
+ "cat": "reg",
+ "coin": "BTC",
+ "ts": "2026-10-28T21:35:00+07:00",
+ "event": "DTCC launches live tokenization service for stocks, ETFs and Treasuries on Canton and Besu with 20 Wall Street firms signed up (Oct 28 2026)",
+ "src_urls": [
+  "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+  "https://genfinity.io/2026/10/28/dtcc-tokenization-service-goes-live-114-trillion/",
+  "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/wall-street-street-sign-in-new-york-city-s5M88L_Ts_0",
+  "license": "Unsplash",
+  "alt_vi": "Biển tên phố Wall Street ở New York",
+  "alt_en": "Wall Street street sign in New York",
+  "caption_vi": "",
+  "url": "/tin/img/dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "DTCC chính thức token hoá chứng khoán Mỹ trên blockchain, 20 tổ chức Phố Wall tham gia",
+  "seo_title": "DTCC token hoá chứng khoán Mỹ lên blockchain",
+  "desc": "DTCC vận hành dịch vụ token hoá cổ phiếu, ETF và trái phiếu kho bạc Mỹ trên Canton và Besu, với 20 tổ chức Phố Wall đã ký thỏa thuận tham gia.",
+  "lead": "DTCC, trụ cột hạ tầng chứng khoán Mỹ, đã đưa dịch vụ token hoá cổ phiếu, ETF và trái phiếu kho bạc vào vận hành ngày 28/10, với 20 tổ chức lớn đã ký tham gia.",
+  "bullets": [
+   "DTCC vận hành dịch vụ token hoá trên Canton Network và mạng Besu riêng, ban đầu hỗ trợ 34 chứng khoán, tương ứng khoảng 30.000 tỷ USD giá trị thị trường.",
+   "Token được bảo chứng một–một bằng chứng khoán lưu ký tại DTC, hồ sơ sở hữu chính thức vẫn nằm ở DTC và token chuyển được giữa các ví suốt 24 giờ.",
+   "Hai mươi tổ chức như JPMorgan, Citi, Morgan Stanley đã ký tham gia; năm 2027 sẽ thêm Stellar, mạng Arc của Circle và tài sản thế chấp token hoá."
+  ],
+  "body_html": "<p>Công ty lưu ký và thanh toán bù trừ DTCC, trụ cột hạ tầng của thị trường chứng khoán Mỹ, ngày 28/10 chính thức đưa dịch vụ token hoá chứng khoán vào vận hành. Đây là lần đầu một cơ sở lưu ký trung tâm của Phố Wall cho phép cổ phiếu, quỹ ETF và trái phiếu kho bạc Mỹ tồn tại dưới dạng token trên blockchain, với quyền sở hữu vẫn được ghi nhận tại hệ thống hiện hữu.</p>\n<h2>Dịch vụ vận hành thế nào</h2>\n<p>Dịch vụ chạy trên hai mạng: Canton Network, một blockchain công khai do Digital Asset phát triển, và Besu, mạng riêng của chính DTCC. Ở giai đoạn đầu, danh mục đủ điều kiện gồm một số cổ phiếu vốn hoá lớn thuộc chỉ số Russell 1000, các quỹ ETF theo dõi chỉ số lớn và trái phiếu kho bạc Mỹ các kỳ hạn. Theo người phát ngôn DTCC, trang sản phẩm liệt kê 34 mã đủ điều kiện lúc ra mắt, tương ứng khoảng 30.000 tỷ USD giá trị thị trường.</p>\n<p>Mỗi token được bảo chứng một–một bằng chứng khoán thật mà công ty con Depository Trust Company (DTC) đang giữ. Các tổ chức đủ điều kiện có thể chuyển chứng khoán thành token trong giờ làm việc, với mục tiêu xử lý trong vòng 15 phút hoặc nhanh hơn, rồi chuyển token giữa các ví đã đăng ký suốt 24 giờ mỗi ngày, tuân theo các hạn chế về tuân thủ.</p>\n<h2>Khác gì so với cổ phiếu token hoá \"tổng hợp\"</h2>\n<p>Điểm khác biệt lớn nhất là hồ sơ sở hữu chính thức vẫn nằm tại DTC ngay cả khi token di chuyển giữa các ví. Cách làm này khác với các loại token cổ phiếu tổng hợp chỉ bám theo giá mà không trao quyền sở hữu chứng khoán gốc. Token của DTCC đại diện cho chứng khoán đã được lưu ký, nên giữ nguyên các quyền hiện có của người nắm giữ.</p>\n<p>Dịch vụ dựa trên thư không hành động (no-action letter) mà các nhân viên Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) ban hành hồi tháng 12 năm ngoái, cho phép DTCC token hoá một nhóm chứng khoán xác định. Đợt vận hành hôm nay nối tiếp một buổi trình diễn hồi đầu năm và kế hoạch được công bố vào tháng 5.</p>\n<h2>Ai tham gia và lộ trình tiếp theo</h2>\n<p>Hai mươi tổ chức đã ký thỏa thuận truy cập dịch vụ, trong đó có JPMorgan, Citi, Morgan Stanley, Bank of America, Barclays, UBS, State Street, Fidelity Investments và Citadel Securities. DTCC cho biết sẽ có thêm đơn vị tham gia theo thời gian.</p>\n<p>Lộ trình năm 2027 gồm việc bổ sung blockchain Stellar và mạng Arc của Circle, mở rộng hỗ trợ các sự kiện doanh nghiệp (cổ tức, chia tách) và công cụ thanh toán bằng tiền số cũng như dùng chứng khoán token hoá làm tài sản thế chấp. Các nhà vận hành khác cũng đi cùng hướng: Nasdaq và NYSE đang phát triển hạ tầng giao dịch chứng khoán token hoá, còn Intercontinental Exchange dự kiến vận hành sàn giao dịch trên blockchain cùng OKX theo cơ chế miễn trừ đổi mới của SEC. Các chuyên gia của Citi dự báo thị trường chứng khoán token hoá có thể đạt 5.500 tỷ USD vào năm 2030.</p>\n<h2>Tác động tới trader</h2>\n<p>Với trader crypto, tin này chủ yếu là tín hiệu về dài hạn: hạ tầng blockchain đang đi sâu vào lõi thị trường truyền thống, thay vì chỉ nằm ở rìa. Tuy vậy, tin chưa tạo ra dòng tiền trực tiếp vào Bitcoin hay altcoin. Khi dịch vụ ra mắt, Canton Coin giao dịch quanh 0,099 USD và Stellar quanh 0,17 USD, chưa cho thấy phản ứng giá đáng kể.</p>\n<p>Trong ngắn hạn, thị trường còn bị chi phối bởi vĩ mô. Bitcoin đã vượt 81.000 USD trong phiên châu Á nhờ cổ phiếu chip khởi sắc, nhưng sau đó nhường lại một phần mức tăng khi Fed sắp công bố quyết định. Giới phân tích kỳ vọng Fed giữ nguyên lãi suất nhưng phát đi thông điệp diều hâu, chuẩn bị cho khả năng tăng lãi suất vào tháng 12. Với người giao dịch futures, các phiên có tin vĩ mô lớn thường kéo theo biến động mạnh, funding rate và giá thanh lý có thể đổi nhanh; có thể dùng <a href=\"/cong-cu.html\">công cụ tính vị thế và giá thanh lý</a> để kiểm soát rủi ro.</p>\n<p>Điều cần theo dõi tiếp: số tổ chức tham gia dịch vụ, thời điểm Stellar và Arc được bổ sung vào năm 2027, và việc SEC có nâng thư không hành động thành khung quy định lâu dài hay không.</p>",
+  "keywords": [
+   "DTCC token hoá",
+   "token hoá chứng khoán",
+   "Canton Network",
+   "chứng khoán on-chain",
+   "tài sản thực RWA"
+  ]
+ },
+ "en": {
+  "title": "DTCC Launches Live Tokenization of U.S. Securities With 20 Wall Street Firms Signed Up",
+  "seo_title": "DTCC Launches Tokenized U.S. Securities on Blockchain",
+  "desc": "DTCC has gone live with tokenized U.S. stocks, ETFs and Treasuries on Canton and Besu, with 20 Wall Street firms signed up to use the service.",
+  "lead": "DTCC, the backbone of U.S. securities markets, went live on October 28 with tokenized stocks, ETFs and Treasuries, and 20 major firms have signed up.",
+  "bullets": [
+   "DTCC's service runs on Canton Network and its private Besu chain, initially covering 34 securities worth about $30 trillion in market value.",
+   "Tokens are backed one-for-one by securities held at DTC, which keeps the official ownership record, and they can move between wallets around the clock.",
+   "Twenty firms including JPMorgan, Citi and Morgan Stanley have signed up; Stellar, Circle's Arc network and tokenized collateral are due in 2027."
+  ],
+  "body_html": "<p>DTCC, the clearing and custody giant at the center of U.S. securities markets, put its tokenization service into live operation on October 28. It is the first time a central depository on Wall Street lets stocks, ETFs and U.S. Treasuries exist as tokens on a blockchain while official ownership records stay in the existing system.</p>\n<h2>How the service works</h2>\n<p>The service runs on two networks: Canton Network, a public blockchain built by Digital Asset, and Besu, DTCC's own private chain. The initial scope covers select large-cap stocks from the Russell 1000 index, ETFs tracking major indexes and U.S. Treasury bills, notes and bonds. A DTCC spokesperson said the product site lists 34 eligible securities at launch, representing roughly $30 trillion in market value.</p>\n<p>Each token is backed one-for-one by securities held at DTCC subsidiary Depository Trust Company (DTC). Eligible firms can convert securities into tokens during business hours, with a processing target of 15 minutes or less, and then move the tokens between registered wallets around the clock, subject to compliance restrictions.</p>\n<h2>Why this differs from synthetic stock tokens</h2>\n<p>The key difference is that the official ownership record stays at DTC even as tokens move between wallets. That sets the approach apart from synthetic stock tokens that only track a share price without granting ownership of the underlying security. DTCC's tokens represent securities already in custody, so existing holder rights carry over.</p>\n<p>The service builds on a no-action letter issued by SEC staff in December, which allowed DTCC to tokenize a defined set of securities. Today's launch follows a demonstration earlier this year and plans announced in May.</p>\n<h2>Who is in and what comes next</h2>\n<p>Twenty firms have signed agreements to use the service, including JPMorgan, Citi, Morgan Stanley, Bank of America, Barclays, UBS, State Street, Fidelity Investments and Citadel Securities. DTCC says more will join over time.</p>\n<p>The 2027 road map adds the Stellar blockchain and Circle's Arc network, broader corporate-action support, tools for settling with digital cash and the use of tokenized securities as collateral. Other market operators are moving the same way: Nasdaq and NYSE are developing tokenized trading infrastructure, and Intercontinental Exchange is set to run a blockchain-based venue with OKX under the SEC's innovation exemption. Citi analysts project tokenized securities could become a $5.5 trillion market by 2030.</p>\n<h2>What it means for traders</h2>\n<p>For crypto traders, this is mainly a long-term signal: blockchain infrastructure is moving into the core of traditional markets rather than sitting at the edge. It does not, however, create a direct flow of money into Bitcoin or altcoins. At launch, Canton Coin traded near $0.099 and Stellar near $0.17, with no clear price reaction.</p>\n<p>In the short run, macro still drives the market. Bitcoin rose above $81,000 during the Asian session on a chip-stock rally, then gave back part of the gain as the Fed decision approached. Markets expect the Fed to hold rates but deliver a hawkish message that prepares the ground for a possible December hike. For futures traders, days with major macro events often bring sharp swings, and funding rates and liquidation prices can shift quickly; a <a href=\"/cong-cu.html\">position and liquidation calculator</a> can help manage risk.</p>\n<p>What to watch next: how many firms join the service, when Stellar and Arc arrive in 2027, and whether the SEC turns the no-action letter into a lasting framework.</p>",
+  "keywords": [
+   "DTCC tokenization",
+   "tokenized securities",
+   "Canton Network",
+   "onchain securities",
+   "real world assets"
+  ]
+ },
+ "slug_en": "dtcc-launches-live-tokenization-of-u-s-securities-with-20",
+ "dir": "tin-tuc",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "ice-trade-xyz-hyperliquid-perpetual-futures-my"
+  },
+  {
+   "kind": "news",
+   "slug": "new-jersey-rut-lenh-cam-staking-coinbase"
+  }
+ ]
+}

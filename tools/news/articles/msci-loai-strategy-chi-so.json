@@ -1,0 +1,74 @@
+{
+ "slug": "msci-loai-strategy-chi-so",
+ "slug_en": "msci-drops-strategy-metaplanet-indexes",
+ "cat": "btc",
+ "coin": "BTC",
+ "ts": "2026-11-12T12:00:00+07:00",
+ "event": "MSCI confirms Strategy, Metaplanet and Upexi index deletions effective after Nov 30 close",
+ "src_urls": [
+  "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november"
+ ],
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu"
+  }
+ ],
+ "image": {
+  "src": "tự làm: anh Thái, ảnh gốc 7d6ec079-image.png",
+  "license": "CC0",
+  "credit": "",
+  "alt_vi": "Biển Strategy bị gạch chéo đặt trước bảng MSCI",
+  "alt_en": "A crossed-out Strategy sign in front of an MSCI board",
+  "caption_vi": "Minh hoạ: biển Strategy bị gạch chéo, bên cạnh bảng MSCI.",
+  "caption_en": "Illustration: a crossed-out Strategy sign beside an MSCI board.",
+  "url": "/tin/img/msci-loai-strategy-chi-so-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "MSCI chính thức loại Strategy khỏi chỉ số, có hiệu lực sau 30/11",
+  "seo_title": "MSCI loại Strategy khỏi chỉ số, hiệu lực 30/11",
+  "desc": "MSCI xác nhận loại Strategy, Metaplanet và Upexi khỏi chỉ số toàn cầu sau phiên 30/11. Quỹ bám chỉ số có thể bán bao nhiêu và trader cần theo dõi gì? hiện nay?",
+  "lead": "MSCI đã xác nhận Strategy, Metaplanet và Upexi nằm trong danh sách bị xoá khỏi chỉ số toàn cầu, có hiệu lực sau phiên 30/11.",
+  "bullets": [
+   "MSCI đánh dấu Strategy, Metaplanet và Upexi là bị xoá khỏi chỉ số toàn cầu trong đợt rà soát tháng 11.",
+   "JPMorgan từng ước tính việc loại Strategy có thể kéo theo khoảng 2,8 tỷ USD lệnh bán từ các quỹ bám chỉ số.",
+   "Strategy cho rằng các quỹ bám chỉ số chỉ nắm khoảng 3,1% cổ phiếu, ít hơn một ngày khối lượng giao dịch."
+  ],
+  "body_html": "<p>MSCI đã công bố danh sách cuối của đợt rà soát chỉ số tháng 11. Strategy, công ty nắm giữ bitcoin trên bảng cân đối, bị đánh dấu xoá khỏi các chỉ số cổ phiếu toàn cầu. Metaplanet của Nhật Bản và Upexi cũng nằm trong danh sách xoá. Sharplink, công ty nắm giữ ether, được đưa vào danh sách theo dõi.</p><p>Thay đổi có hiệu lực sau khi thị trường đóng cửa ngày 30/11. Đây là kết quả của cuộc tranh luận kéo dài nhiều tháng về việc các công ty nắm giữ tài sản số có đủ điều kiện là doanh nghiệp kinh doanh thực sự hay không.</p><h2>Diễn biến chính</h2><p>Strategy đã phản đối đề xuất này ngay từ đầu. Công ty cho rằng quy định mới chỉ là một phiên bản khác của đề xuất loại trừ các công ty nắm giữ tài sản số trước đó, đồng thời đưa thêm các phán đoán chính sách vào cách xây dựng chỉ số.</p><h2>Số liệu đáng chú ý</h2><p>Trong phản hồi tham vấn, Strategy cho biết các quỹ bám theo chỉ số MSCI nắm khoảng 13 triệu cổ phiếu, tương đương 3,1% số cổ phiếu cơ bản đang lưu hành, và khối lượng đó ít hơn một ngày giao dịch. Ngược lại, JPMorgan từng ước tính việc loại Strategy có thể tạo ra khoảng 2,8 tỷ USD lệnh bán.</p><h2>Điều cần theo dõi</h2><p>Trọng tâm là giai đoạn từ nay đến phiên 30/11. Các quỹ theo dõi chỉ số sẽ phải điều chỉnh danh mục vào thời điểm đó, và khối lượng giao dịch quanh ngày này sẽ cho thấy áp lực bán thực tế lớn đến đâu.</p><h2>Tác động tới trader</h2><p>Đây là tin về dòng tiền bị động chứ không phải tin trực tiếp về bitcoin. Dòng bán từ quỹ chỉ số có thể gây áp lực lên cổ phiếu Strategy và Metaplanet trong vài phiên trước và sau ngày hiệu lực.</p><p>Với trader futures, điểm cần chú ý là tâm lý với nhóm công ty nắm bitcoin trên thị trường cổ phiếu. Nếu cổ phiếu các công ty này giảm mạnh, nhà đầu tư có thể giảm rủi ro ở cả thị trường tiền số. Vào ngày 11/11, bitcoin giao dịch quanh 74.000 USD theo dữ liệu thị trường được ghi nhận lúc đó.</p><p>Trader nên theo dõi khối lượng giao dịch cổ phiếu và phản ứng của giá bitcoin quanh 30/11, thay vì coi thông báo này là tín hiệu mua hay bán.</p>",
+  "keywords": [
+   "MSCI",
+   "Strategy",
+   "bitcoin",
+   "chỉ số",
+   "Metaplanet"
+  ]
+ },
+ "en": {
+  "title": "MSCI Drops Strategy From Global Indexes Effective After Nov. 30",
+  "seo_title": "MSCI Removes Strategy From Indexes After Nov 30",
+  "desc": "MSCI confirms Strategy, Metaplanet and Upexi removal from global indexes after November 30. How much index selling is expected, and what traders should watch?",
+  "lead": "MSCI has confirmed that Strategy, Metaplanet and Upexi are marked for deletion from its global indexes, with changes taking effect after the November 30 close.",
+  "bullets": [
+   "MSCI marked Strategy, Metaplanet and Upexi for deletion from its global indexes in its November review.",
+   "JPMorgan had estimated that excluding Strategy could trigger roughly $2.8 billion in selling from index-tracking funds.",
+   "Strategy said funds tracking MSCI indexes hold only about 3.1% of its shares, less than one day of trading volume."
+  ],
+  "body_html": "<p>MSCI has published the final list for its November index review, and Strategy, the company that holds bitcoin on its balance sheet, is marked for deletion from its global equity indexes. Japan's Metaplanet and Upexi are also on the deletion list. Sharplink, an ether treasury firm, has been placed on a watchlist.</p><p>The changes take effect after the market close on November 30. The decision ends months of debate over whether crypto treasury companies qualify as operating businesses.</p><h2>What happened</h2><p>Strategy opposed the proposal from the start. The company argued that the new rule repackaged MSCI's earlier effort to exclude digital asset treasury companies and injected policy judgments into how the index is built.</p><h2>The numbers that matter</h2><p>In its consultation response, Strategy said funds tracking MSCI indexes held about 13 million shares, or 3.1% of its basic shares outstanding, which is less than one day of trading volume. JPMorgan had earlier estimated that excluding Strategy could trigger roughly $2.8 billion in selling.</p><p>The final list shows MSCI kept its position after the consultation. Index providers usually weigh the rules against their methodology rather than the reaction of any single company, so the decision is unlikely to be reversed before the effective date.</p><h2>What to watch</h2><p>The focus now is the stretch between today and the November 30 close. Index-tracking funds will have to adjust their holdings by then, and trading volume around that date will show how much selling pressure actually arrives.</p><h2>What it means for traders</h2><p>This is a story about passive flows, not a direct bitcoin headline. Selling from index funds could weigh on the shares of Strategy and Metaplanet in the sessions before and after the effective date.</p><p>For futures traders, the key link is sentiment toward companies that hold bitcoin in the stock market. If those shares fall sharply, investors may cut risk across the crypto market as well. On November 11, bitcoin traded around 74,000 USD based on market data recorded that day.</p><p>Traders should watch share volume and how bitcoin's price responds around November 30, rather than treating the announcement as a buy or sell signal.</p>",
+  "keywords": [
+   "MSCI",
+   "Strategy",
+   "bitcoin",
+   "index",
+   "Metaplanet"
+  ]
+ },
+ "cats": [
+  "btc"
+ ],
+ "dir": "tin-tuc"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "cach-tinh-khoi-luong-lenh-futures-theo-rui-ro-1-von",
+ "cat": "tr",
+ "coin": "BTC",
+ "ts": "2026-11-02T20:20:00+07:00",
+ "image": {
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến 1 giờ của Bitcoin hợp đồng vĩnh cửu, đánh dấu giá vào 77.794 và mức cắt lỗ 76.460 của ví dụ tính khối lượng lệnh",
+  "alt_en": "Bitcoin perpetual 1-hour candlestick chart marking the 77,794 entry and 76,460 stop used in the position sizing example",
+  "url": "/hoc/img/cach-tinh-khoi-luong-lenh-futures-theo-rui-ro-1-von-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Cách tính khối lượng lệnh Futures theo rủi ro 1% vốn mỗi lệnh",
+  "seo_title": "Cách tính khối lượng lệnh Futures theo rủi ro 1% vốn",
+  "desc": "Hướng dẫn tính khối lượng lệnh Futures từ vốn, phần trăm rủi ro và khoảng cách cắt lỗ theo ATR, có ví dụ trên nến Bitcoin thật đã xảy ra.",
+  "lead": "Khối lượng lệnh nên được tính ngược từ số tiền chấp nhận mất và khoảng cách đến mức cắt lỗ, thay vì chọn theo cảm giác hay theo đòn bẩy.",
+  "body_html": "<p>Nhiều trader đặt cắt lỗ rất cẩn thận nhưng vẫn mất một phần vốn quá lớn chỉ sau một lệnh, vì khối lượng lệnh được chọn theo cảm giác. Bài này trả lời câu hỏi: <strong>cách tính khối lượng lệnh Futures theo mức rủi ro cố định</strong> là gì, và làm thế nào để một lệnh chạm cắt lỗ chỉ lấy đi đúng phần vốn đã định trước.</p>\n<h2>Rủi ro mỗi lệnh khác với kích thước lệnh</h2>\n<p>Rủi ro mỗi lệnh là số tiền mất đi nếu giá chạm mức cắt lỗ (stop loss). Kích thước lệnh là tổng giá trị vị thế đang mở. Hai con số này không đồng nghĩa: cùng một vị thế 1.000 USDT, nếu mức cắt lỗ cách giá vào 0,5% thì lỗ tối đa khoảng 5 USDT, còn nếu cách 5% thì lỗ tối đa khoảng 50 USDT.</p>\n<p>Vì vậy, thứ cần cố định trước là <strong>phần trăm vốn chấp nhận mất</strong> cho mỗi lệnh. Nhiều người giao dịch chọn 1% vốn, một số chọn thấp hơn khi mới học. Khối lượng lệnh sau đó được tính ngược từ khoảng cách đến mức cắt lỗ.</p>\n<h2>Công thức tính khối lượng lệnh theo rủi ro</h2>\n<p>Công thức gồm ba bước và áp dụng cho cả lệnh long lẫn short:</p>\n<ol>\n<li><strong>Số tiền chấp nhận mất</strong> = vốn × phần trăm rủi ro. Ví dụ vốn 1.000 USDT, rủi ro 1% thì số tiền này là 10 USDT.</li>\n<li><strong>Khoảng cách cắt lỗ</strong> = chênh lệch giữa giá vào và giá cắt lỗ, tính bằng đô. Khoảng cách này <a href=\"/kien-thuc/cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac\">nên dựa trên ATR</a> (biên độ dao động trung bình của giá) thay vì một tỷ lệ phần trăm cố định.</li>\n<li><strong>Khối lượng lệnh</strong> = số tiền chấp nhận mất ÷ khoảng cách cắt lỗ, tính bằng số coin.</li>\n</ol>\n<p>Đòn bẩy không xuất hiện trong công thức. Đòn bẩy chỉ quyết định lượng ký quỹ cần để mở vị thế, còn mức lỗ khi chạm cắt lỗ do khối lượng và khoảng cách cắt lỗ quyết định.</p>\n<h2>Ví dụ trên nến Bitcoin thật đã xảy ra</h2>\n<p>Ví dụ dưới đây dùng nến 1 giờ của hợp đồng BTCUSDT và chỉ nhằm minh họa cách tính, không phải một lệnh để vào. Nến mở lúc 17:00 ngày 30/10/2026 (giờ Việt Nam) đóng cửa ở 77.794,1 đô. ATR14 theo Wilder tại nến này là 666,9 đô. Với mức cắt lỗ đặt ở 2×ATR dưới giá vào, giá cắt lỗ là 77.794,1 − 2 × 666,9 = 76.460,3 đô, tức khoảng cách 1.333,8 đô (khoảng 1,71% giá vào).</p>\n<p>Giả sử vốn là 1.000 USDT và rủi ro là 1%, tức 10 USDT. Khối lượng lệnh = 10 ÷ 1.333,8 ≈ 0,0075 BTC, tương ứng giá trị vị thế khoảng 583 USDT, thấp hơn cả số vốn nên không cần đòn bẩy cao.</p>\n<p>[[rel:1]]</p>\n<p>Diễn biến sau đó: đến nến 1 giờ mở lúc 01:00 ngày 31/10, giá có mức thấp nhất 76.270 đô, xuyên qua mức cắt lỗ 76.460,3. Với khối lượng 0,0075 BTC, khoản lỗ khi cắt lỗ xấp xỉ 10 USDT, đúng 1% vốn như dự tính trước.</p>\n<h2>So sánh với cách chọn khối lượng theo cảm giác</h2>\n<p>Cũng với giá vào và mức cắt lỗ trên, nếu trader chọn cố định 0,05 BTC vì thấy \"con số tròn dễ nhớ\", khoản lỗ khi chạm cắt lỗ sẽ là 0,05 × 1.333,8 ≈ 66,7 USDT, tức khoảng 6,7% vốn. Cùng một mức cắt lỗ và cùng một nhận định, kết quả khác nhau gấp hơn sáu lần chỉ vì cách chọn khối lượng.</p>\n<table>\n<thead><tr><th>Cách chọn khối lượng</th><th>Khối lượng</th><th>Lỗ khi chạm cắt lỗ</th><th>Phần vốn bị mất</th></tr></thead>\n<tbody>\n<tr><td>Tính theo rủi ro 1%</td><td>0,0075 BTC</td><td>khoảng 10 USDT</td><td>khoảng 1%</td></tr>\n<tr><td>Chọn theo cảm giác</td><td>0,05 BTC</td><td>khoảng 66,7 USDT</td><td>khoảng 6,7%</td></tr>\n</tbody>\n</table>\n<p>Chuỗi thua liên tiếp là điều bình thường. Với rủi ro 1% mỗi lệnh, năm lệnh thua liên tiếp chỉ làm vốn giảm khoảng 5%; với 6,7% mỗi lệnh, năm lệnh thua có thể làm mất khoảng 30% vốn, và để hòa lại cần lãi khoảng 43%.</p>\n<h2>Những lỗi hay gặp khi tính khối lượng</h2>\n<ul>\n<li><strong>Tính theo ký quỹ thay vì theo khoảng cách cắt lỗ.</strong> Dùng \"toàn bộ ký quỹ\" hay \"một phần ba vốn\" cho mỗi lệnh khiến rủi ro thay đổi tùy mức cắt lỗ.</li>\n<li><strong>Dời cắt lỗ xa hơn sau khi vào lệnh.</strong> Khoảng cách tăng lên trong khi khối lượng giữ nguyên làm rủi ro thực tế lớn hơn kế hoạch.</li>\n<li><strong>Bỏ qua phí và trượt giá.</strong> Phí giao dịch và trượt giá khiến khoản lỗ thực tế cao hơn con số tính toán một chút, nên rủi ro 1% nên hiểu là mức gần đúng.</li>\n<li><strong>Tăng rủi ro sau chuỗi thua để gỡ lại.</strong> Đây là dạng giao dịch theo cảm xúc, thường làm thiệt hại lớn hơn.</li>\n</ul>\n<p>Để thử nhanh với con số của riêng mình, có thể dùng <a href=\"/cong-cu.html\">công cụ tính toán</a> trên CoinHammy.</p>\n<h2>Tóm lại</h2>\n<p>Khối lượng lệnh nên được tính ngược từ ba dữ kiện: vốn, phần trăm rủi ro chấp nhận và khoảng cách đến mức cắt lỗ theo ATR. Trong ví dụ Bitcoin ở trên, cách tính này giữ khoản lỗ ở khoảng 10 USDT, trong khi chọn khối lượng theo cảm giác có thể đẩy khoản lỗ lên hơn 66 USDT với cùng một mức cắt lỗ.</p>",
+  "keywords": [
+   "cách tính khối lượng lệnh",
+   "quản lý vốn futures",
+   "rủi ro 1% mỗi lệnh",
+   "cắt lỗ theo ATR",
+   "position size"
+  ]
+ },
+ "en": {
+  "title": "How to Calculate Futures Position Size With 1% Risk Per Trade",
+  "seo_title": "Futures Position Size Calculator: 1% Risk Rule",
+  "desc": "Learn to size a futures position from account balance, risk percentage and an ATR-based stop distance, with a worked example on real Bitcoin candles.",
+  "lead": "Position size should be worked backward from the amount you accept losing and the distance to the stop, not chosen by feel or by leverage.",
+  "body_html": "<p>Many traders place careful stop losses and still lose too much on a single trade because the position size was picked by feel. This guide answers one question: <strong>how to calculate futures position size from a fixed risk amount</strong>, so a stopped-out trade costs only the share of capital planned in advance.</p>\n<h2>Risk per trade is not the same as position size</h2>\n<p>Risk per trade is the amount lost if price reaches the stop loss. Position size is the total value of the open position. They are different numbers: on the same 1,000 USDT position, a stop 0.5% away risks about 5 USDT, while a stop 5% away risks about 50 USDT.</p>\n<p>So the first thing to fix is the <strong>percentage of capital you accept losing</strong> on each trade. Many traders use 1%, and beginners often use less. Position size is then worked backward from the distance to the stop.</p>\n<h2>The position sizing formula</h2>\n<p>The calculation has three steps and works for both long and short trades:</p>\n<ol>\n<li><strong>Amount at risk</strong> = account balance × risk percentage. With 1,000 USDT and 1% risk, that is 10 USDT.</li>\n<li><strong>Stop distance</strong> = the gap between entry and stop price in dollars. It is <a href=\"/en/learn/how-to-set-a-stop-loss-using-atr-instead-of-gut-feeling\">best based on ATR</a> (average true range, the typical price swing) rather than a fixed percentage.</li>\n<li><strong>Position size</strong> = amount at risk ÷ stop distance, in coins.</li>\n</ol>\n<p>Leverage does not appear in the formula. Leverage only sets how much margin is needed to open the position; the loss at the stop is set by size and stop distance.</p>\n<h2>A worked example on real Bitcoin candles</h2>\n<p>The example below uses 1-hour BTCUSDT candles and only illustrates the math; it is not a trade to copy. The candle that opened at 17:00 on 30 October 2026 (Vietnam time) closed at 77,794.1 USD. Its ATR14, smoothed the Wilder way, was 666.9 USD. With the stop placed 2×ATR below entry, the stop price is 77,794.1 − 2 × 666.9 = 76,460.3 USD, a distance of 1,333.8 USD (about 1.71% of entry).</p>\n<p>Assume a 1,000 USDT account and 1% risk, which is 10 USDT. Position size = 10 ÷ 1,333.8 ≈ 0.0075 BTC, a position worth about 583 USDT, smaller than the account itself, so high leverage is not needed.</p>\n<p>[[rel:1]]</p>\n<p>What happened next: during the 1-hour candle that opened at 01:00 on 31 October, price printed a low of 76,270 USD, through the 76,460.3 stop. With 0.0075 BTC, the stop-out loss is roughly 10 USDT, exactly the 1% planned beforehand.</p>\n<h2>Compared with sizing by feel</h2>\n<p>With the same entry and stop, a trader who picked 0.05 BTC because it is an easy round number would lose 0.05 × 1,333.8 ≈ 66.7 USDT at the stop, about 6.7% of the account. Same stop, same idea, a result more than six times larger purely because of sizing.</p>\n<table>\n<thead><tr><th>Sizing method</th><th>Size</th><th>Loss at stop</th><th>Share of account lost</th></tr></thead>\n<tbody>\n<tr><td>Risk-based, 1%</td><td>0.0075 BTC</td><td>about 10 USDT</td><td>about 1%</td></tr>\n<tr><td>By feel</td><td>0.05 BTC</td><td>about 66.7 USDT</td><td>about 6.7%</td></tr>\n</tbody>\n</table>\n<p>Losing streaks are normal. At 1% per trade, five straight losses cost about 5% of the account; at 6.7% per trade, five losses can cost roughly 30%, and winning it back requires a gain of about 43%.</p>\n<h2>Common sizing mistakes</h2>\n<ul>\n<li><strong>Sizing by margin instead of stop distance.</strong> Using \"the whole margin\" or \"a third of the account\" on every trade makes the real risk change with the stop.</li>\n<li><strong>Moving the stop further away after entry.</strong> A wider distance with the same size means more risk than planned.</li>\n<li><strong>Ignoring fees and slippage.</strong> They make the real loss slightly larger than the calculation, so treat 1% as approximate.</li>\n<li><strong>Raising risk after a losing streak to win it back.</strong> This is emotional trading and usually deepens the loss.</li>\n</ul>\n<p>To test the numbers with your own balance, try the <a href=\"/cong-cu.html\">calculator tools</a> on CoinHammy.</p>\n<h2>Summary</h2>\n<p>Position size should be worked backward from three inputs: account size, accepted risk percentage, and an ATR-based stop distance. In the Bitcoin example above, this keeps the stop-out loss near 10 USDT, while sizing by feel could push the loss past 66 USDT with the same stop.</p>",
+  "keywords": [
+   "position size calculator",
+   "futures risk management",
+   "1% risk rule",
+   "ATR stop loss",
+   "how to size a trade"
+  ]
+ },
+ "event": "Cách tính khối lượng lệnh Futures theo rủi ro 1% vốn mỗi lệnh",
+ "cats": [
+  "tr"
+ ],
+ "slug_en": "how-to-calculate-futures-position-size-with-1-percent-risk",
+ "dir": "kien-thuc",
+ "related": [
+  {
+   "kind": "learn",
+   "slug": "cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac"
+  },
+  {
+   "kind": "learn",
+   "slug": "open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi"
+  }
+ ]
+}

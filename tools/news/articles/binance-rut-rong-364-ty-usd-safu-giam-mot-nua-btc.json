@@ -1,0 +1,75 @@
+{
+ "slug": "binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc",
+ "cat": "ex",
+ "cats": [
+  "ex",
+  "btc"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-02T21:35:00+07:00",
+ "event": "Binance reopens withdrawals after $6.3B hack: $3.64B net outflow, SAFU Bitcoin halves to ~7,500 BTC",
+ "src_urls": [
+  "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+  "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear",
+  "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+  "https://cryptoslate.com/tracked-binance-wallets-record-2-5-billion-in-outflows-as-withdrawals-reopen-after-hack/"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/gold-round-coin-on-brown-and-black-box-WLvog4WcqRU",
+  "license": "Unsplash",
+  "alt_vi": "Biển hiệu Binance cạnh đồng xu Bitcoin và tờ 50 đô la Mỹ",
+  "alt_en": "Binance sign beside Bitcoin coins and a US 50-dollar bill",
+  "url": "/tin/img/binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Binance rút ròng 3,64 tỷ USD, quỹ SAFU giảm một nửa Bitcoin",
+  "seo_title": "Binance rút ròng 3,64 tỷ USD, SAFU còn 7.500 BTC",
+  "desc": "Binance mở lại rút tiền sau vụ hack 6,3 tỷ USD: dòng ra ròng 3,64 tỷ USD, quỹ SAFU còn khoảng 7.500 BTC. Tác động tới trader futures.",
+  "lead": "Binance mở lại rút tiền theo giai đoạn sau vụ trộm 6,3 tỷ USD, ghi nhận dòng ra ròng 3,64 tỷ USD trong 9,5 giờ đầu, trong khi quỹ SAFU đã dùng một nửa lượng Bitcoin.",
+  "bullets": [
+   "Trong 9,5 giờ đầu mở lại rút tiền, Binance xử lý 4,65 tỷ USD rút ra và 1,01 tỷ USD nạp vào, dòng ra ròng khoảng 3,64 tỷ USD, tương đương 2,1% tài sản.",
+   "Ví SAFU công khai còn khoảng 7.500 BTC (khoảng 583 triệu USD) sau khoản chuyển 7.499 BTC, so với khoảng 15.000 BTC trước đó.",
+   "Bitcoin quanh 77.900 USD, ETF giao ngay rút 643 triệu USD hôm thứ Sáu, thanh lý phái sinh khoảng 140 triệu USD trong 24 giờ."
+  ],
+  "body_html": "<p>Binance đang mở lại rút tiền theo từng giai đoạn sau vụ trộm 6,3 tỷ USD hôm 29/10. Trong 9,5 giờ đầu, sàn xử lý 4,65 tỷ USD rút ra so với 1,01 tỷ USD nạp vào, tức dòng ra ròng khoảng 3,64 tỷ USD. Đồng thời, quỹ dự phòng SAFU của sàn đã được dùng một phần: lượng Bitcoin trong ví SAFU giảm từ khoảng 15.000 BTC xuống còn khoảng 7.500 BTC.</p>\n<h2>Dòng tiền rút ra sau khi mở lại rút tiền</h2>\n<p>Binance cho biết mức rút ròng 3,64 tỷ USD tương đương 2,1% trong tổng 171 tỷ USD tài sản ghi nhận ở báo cáo dự trữ ngày 28/10. Sau đợt tăng mạnh ban đầu, sàn nói lượng yêu cầu rút đã giảm và dần ổn định. Giai đoạn một gồm 15 mạng và tài sản, gồm Bitcoin, Ethereum, BNB Smart Chain, XRP, Solana, Tron và nhiều mạng khác; sàn sau đó mở thêm Zcash, TON, Sui và rút tiền pháp định bằng USD, AED, VND, PHP và IDR.</p>\n<p>Cần thận trọng khi đọc các con số từ ví công khai: Binance đã chuyển việc rút sang các ví mới tạo, nên dữ liệu on-chain theo dõi ví cũ không phản ánh chính xác lượng tiền khách rút đi. Số liệu 3,64 tỷ USD là con số do chính sàn công bố.</p>\n<h2>Quỹ SAFU giảm một nửa Bitcoin</h2>\n<p>Binance xác nhận đã chuyển 7.499 BTC vào hôm thứ Bảy, liên quan đến việc dùng một phần SAFU để bù thiệt hại. Ví SAFU công khai hiện giữ khoảng 7.500 BTC, trị giá khoảng 583 triệu USD. Theo chính sách của sàn, quỹ nhắm tới mức 1 tỷ USD và sẽ được cân bằng lại nếu giá trị rơi xuống dưới 800 triệu USD vì biến động giá Bitcoin, nhưng chính sách không đặt hạn chót để bổ sung lại sau một sự cố an ninh. Binance chưa trả lời câu hỏi về kế hoạch bổ sung.</p>\n<p>Theo sàn, tiền bù cho khoản mất đến từ quỹ của công ty, SAFU và một phần quỹ bảo hiểm hợp đồng tương lai. Binance cho biết đã bù khoảng 95% tài sản bị ảnh hưởng, tăng từ 90% một ngày trước đó, và cam kết sàn chứ không phải người dùng sẽ chịu thiệt hại.</p>\n<h2>Bằng chứng dự trữ và điều tra</h2>\n<p>Binance cho biết người dùng có thể đối chiếu số dư với bản chụp dự trữ ngày thứ Bảy. Bản này cho thấy tài sản khách hàng ở 10 loại tiền, trong đó có Bitcoin, Ether và USDT, được đảm bảo ít nhất 1:1. Một bản chụp mở rộng thêm nhiều token dự kiến vào thứ Tư, và việc tạo bằng chứng mất khoảng 40 đến 50 giờ.</p>\n<p>FBI quy trách nhiệm cho nhóm tin tặc Triều Tiên có tên TraderTraitor và công bố hàng trăm địa chỉ liên quan, đề nghị các sàn và dịch vụ chặn giao dịch từ những địa chỉ này. Việc bù đắp tài sản cho người dùng không đồng nghĩa số tiền bị trộm đã được thu hồi.</p>\n<h2>Tác động tới trader</h2>\n<p>Giá chưa phản ứng mạnh: Bitcoin giao dịch quanh 77.900 USD, giảm 0,4% từ nửa đêm UTC, Ethereum quanh 2.286 USD, tăng 0,5%. Dòng tiền ra khỏi quỹ ETF Bitcoin giao ngay lớn hơn: 643 triệu USD hôm thứ Sáu, mức rút trong một ngày lớn nhất kể từ 25/6.</p>\n<p>Trên thị trường phái sinh, khối lượng hợp đồng tương lai đạt 111,8 tỷ USD, tăng 56% trong 24 giờ, còn open interest gần như đi ngang ở 137,1 tỷ USD. Giá trị thanh lý khoảng 140,2 triệu USD, tăng 77%. Funding rate của BTC và ETH vẫn dương, tức bên long đang trả phí cho bên short. Open interest đứng yên trong khi khối lượng tăng cho thấy thị trường đang đổi trạng thái nhiều hơn là mở thêm vị thế mới.</p>\n<p>Những điểm nên theo dõi tiếp: báo cáo dự trữ cập nhật Binance hứa công bố, bản chụp dự trữ mở rộng vào thứ Tư, dòng tiền ETF các phiên tới và việc quỹ SAFU có được bổ sung hay không. Với trader dùng đòn bẩy, rủi ro là biến động tăng đột ngột quanh các thông tin liên quan sàn lớn nhất thị trường; cân nhắc quy mô vị thế và nơi lưu ký tài sản là việc của từng người. Các công cụ tại <a href=\"/cong-cu.html\">trang công cụ</a> và <a href=\"/xep-hang.html\">bảng xếp hạng sàn</a> có thể hỗ trợ tính rủi ro và so sánh nền tảng.</p>",
+  "keywords": [
+   "Binance",
+   "SAFU",
+   "vụ hack Binance",
+   "Bitcoin",
+   "rút tiền Binance"
+  ]
+ },
+ "en": {
+  "title": "Binance Posts $3.64B Net Outflow as SAFU Bitcoin Halves",
+  "seo_title": "Binance $3.64B Net Outflow, SAFU Down to 7,500 BTC",
+  "desc": "Binance reopens withdrawals after the $6.3B hack with a $3.64B net outflow, while its SAFU fund falls to about 7,500 BTC. What it means for traders.",
+  "lead": "Binance is reopening withdrawals in phases after the $6.3 billion theft, with a $3.64 billion net outflow in the first nine and a half hours, while SAFU has used half its Bitcoin.",
+  "bullets": [
+   "In the first nine and a half hours of reopened withdrawals, Binance processed $4.65 billion out and $1.01 billion in, a net outflow of about $3.64 billion, or 2.1% of assets.",
+   "The disclosed SAFU wallet holds about 7,500 BTC (around $583 million) after a 7,499 BTC transfer, down from roughly 15,000 BTC before.",
+   "Bitcoin trades near $77,900, US spot ETFs lost $643 million on Friday, and derivatives liquidations were about $140 million over 24 hours."
+  ],
+  "body_html": "<p>Binance is reopening withdrawals in phases after the $6.3 billion theft on October 29. In the first nine and a half hours it processed $4.65 billion in withdrawals against $1.01 billion in deposits, a net outflow of about $3.64 billion. Separately, the exchange has tapped its SAFU emergency fund: the Bitcoin held in its SAFU wallet fell from roughly 15,000 BTC to about 7,500 BTC.</p>\n<h2>Outflows after withdrawals reopened</h2>\n<p>Binance said the $3.64 billion net outflow equals 2.1% of the $171 billion in assets in its October 28 reserve report. After an initial spike, it said withdrawal volumes declined and were stabilizing. The first phase covered 15 networks and assets, including Bitcoin, Ethereum, BNB Smart Chain, XRP, Solana and Tron. The exchange has since added Zcash, TON and Sui, and restored fiat withdrawals in US dollars, UAE dirhams, Vietnamese dong, Philippine pesos and Indonesian rupiah.</p>\n<p>Public wallet trackers should be read with care. Binance moved withdrawals to newly generated wallets, so on-chain data from older addresses does not cleanly show how much customers pulled out. The $3.64 billion figure is the exchange's own.</p>\n<h2>SAFU's Bitcoin halves</h2>\n<p>Binance confirmed a transfer of 7,499 BTC on Saturday tied to partly deploying SAFU to cover the losses. The disclosed SAFU wallet now holds about 7,500 BTC, worth around $583 million. Under the fund's policy, the target is $1 billion, with a top-up if its value drops below $800 million because of Bitcoin price moves, but the policy sets no deadline for refilling it after a security incident. Binance did not answer questions about replenishment.</p>\n<p>The exchange says losses are being covered from corporate funds, SAFU and part of its futures insurance fund. It reports it has replaced about 95% of affected assets, up from 90% a day earlier, and has pledged that Binance, not users, will absorb the loss.</p>\n<h2>Reserve proof and the investigation</h2>\n<p>Binance said users can check balances against its Saturday proof-of-reserves snapshot. It shows customer holdings in 10 assets, including Bitcoin, Ether and USDT, backed at least 1:1. A wider snapshot covering more tokens is planned for Wednesday, with proof generation expected to take 40 to 50 hours.</p>\n<p>The FBI attributes the theft to North Korea's TraderTraitor group and has published hundreds of linked addresses, asking exchanges and services to block them. Replacing customer assets does not mean the stolen funds have been recovered.</p>\n<h2>What it means for traders</h2>\n<p>Price has not reacted sharply. Bitcoin trades near $77,900, down 0.4% since midnight UTC, and Ether near $2,286, up 0.5%. ETF flows were heavier: US spot Bitcoin ETFs lost $643 million on Friday, their largest one-day outflow since June 25.</p>\n<p>In derivatives, futures volume reached $111.8 billion, up 56% in 24 hours, while open interest was little changed at $137.1 billion. Liquidations were about $140.2 million, up 77%. Funding for BTC and ETH stays positive, meaning longs are paying shorts. Flat open interest with rising volume points to positions changing hands rather than new leverage piling in.</p>\n<p>Items to watch: the updated reserve report Binance promised, Wednesday's wider reserve snapshot, ETF flows over the coming sessions, and whether SAFU is refilled. For leveraged traders, the risk is sudden volatility around news from the largest exchange; position size and custody are personal decisions. The <a href=\"/cong-cu.html\">tools page</a> and the <a href=\"/xep-hang.html\">exchange rankings</a> can help size risk and compare platforms.</p>",
+  "keywords": [
+   "Binance hack",
+   "SAFU fund",
+   "Bitcoin",
+   "Binance withdrawals",
+   "exchange outflows"
+  ]
+ },
+ "dir": "tin-tuc",
+ "slug_en": "binance-posts-3-64b-net-outflow-as-safu-bitcoin-halves",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd"
+  }
+ ]
+}

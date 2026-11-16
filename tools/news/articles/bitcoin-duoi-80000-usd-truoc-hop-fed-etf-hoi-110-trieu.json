@@ -1,0 +1,83 @@
+{
+ "slug": "bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu",
+ "cat": "btc",
+ "coin": "BTC",
+ "ts": "2026-10-27T23:20:00+07:00",
+ "event": "Bitcoin dips below $80,000 as the Fed's two-day meeting begins; spot ETFs take in $110M after outflows (Oct 27 2026)",
+ "src_urls": [
+  "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+  "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+  "https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/",
+  "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k"
+ ],
+ "image": {
+  "license": "chart",
+  "alt_vi": "Biểu đồ nến 4 giờ của Bitcoin trên Binance cho thấy giá lùi về quanh 80.000 USD",
+  "alt_en": "4-hour Bitcoin candlestick chart on Binance showing price easing back toward $80,000",
+  "url": "/tin/img/bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu-h.jpg"
+ },
+ "images": [
+  {
+   "license": "chart",
+   "alt_vi": "Biểu đồ nến ngày của Bitcoin trong những tuần gần đây",
+   "alt_en": "Daily Bitcoin candlestick chart over recent weeks",
+   "url": "/tin/img/bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu-1.jpg",
+   "caption_vi": "Biểu đồ nến ngày của Bitcoin trong những tuần gần đây, giá đi ngang quanh vùng 80.000 USD.",
+   "caption_en": "Daily Bitcoin candlestick chart over recent weeks, with price moving sideways near $80,000."
+  }
+ ],
+ "vi": {
+  "title": "Bitcoin xuống dưới 80.000 USD trước thềm họp Fed, ETF hồi 110 triệu USD",
+  "seo_title": "Bitcoin dưới 80.000 USD trước họp Fed: ETF, futures",
+  "desc": "Bitcoin có lúc xuống 79.370 USD khi Fed bắt đầu họp hai ngày. ETF hút lại 110 triệu USD sau hai phiên rút vốn, còn futures cho thấy phe long vẫn trụ.",
+  "lead": "Bitcoin lùi dưới 80.000 USD đúng ngày Fed bắt đầu họp chính sách. Dòng tiền ETF hồi nhẹ, còn dữ liệu futures cho thấy vị thế long chưa rút lui.",
+  "body_html": "<p>Bitcoin quay lại vùng dưới 80.000 USD vào đúng ngày Cục Dự trữ Liên bang Mỹ (Fed) bắt đầu cuộc họp chính sách kéo dài hai ngày. Trong 24 giờ qua, giá có lúc chạm 79.370 USD rồi hồi về quanh 80.000 USD, trong khi thị trường chứng khoán châu Á tăng mạnh mà crypto không đi theo.</p>\n<h2>Giá lùi dưới 80.000 USD khi chứng khoán châu Á tăng</h2>\n\n<p>Sáng 27/10 (giờ UTC), Bitcoin giao dịch quanh 79.700 USD, giảm 0,4% kể từ đầu ngày và khoảng 2,5% so với một tuần trước. Chỉ số Kospi của Hàn Quốc tăng 3,1% cùng nhịp tăng của cổ phiếu công nghệ châu Á, nhưng dòng tiền đó không lan sang tiền số. Chỉ số DeFi của thị trường giảm 1,8%, mạnh nhất trong các nhóm, còn Ether mất khoảng 0,5%.</p><p>[[img:1]]</p>\n<p>Bitfinex cho biết ngày 26/10 rằng Bitcoin đã đóng cửa dưới 81.300 USD trong ba phiên 22, 23 và 24/10, rồi chạm đáy 79.250 USD vào ngày 24/10, thấp hơn khoảng 9,3% so với đỉnh hồi tháng 9. Hai tuần gần đây giá chủ yếu đi ngang trong vùng 80.000–86.000 USD, biên độ biến động 30 ngày thu hẹp từ 13% xuống 6%. Một đợt nén biến động như vậy thường kết thúc bằng một nhịp di chuyển mạnh, nhưng chưa ai biết trước hướng đi.</p>\n<h2>Dòng tiền ETF hồi lại, Fed là ẩn số của tuần này</h2>\n\n<p>Các quỹ ETF Bitcoin giao ngay tại Mỹ thu về 110,3 triệu USD vào ngày 26/10 theo dữ liệu của Farside Investors, chấm dứt hai phiên rút vốn liên tiếp với tổng cộng khoảng 773,5 triệu USD. Toàn bộ khoản vào ròng đó đến từ quỹ IBIT của BlackRock, các quỹ còn lại không ghi nhận dòng vốn ròng. Tính ba phiên gần nhất, ETF vẫn ở trạng thái rút ròng khoảng 663 triệu USD, nên tín hiệu mới chỉ là một phiên hồi, chưa thể gọi là xu hướng.</p>\n<p>Về Fed, cuộc họp bắt đầu ngày 27/10 và quyết định lãi suất sẽ công bố vào thứ Tư 28/10 giờ Mỹ. Công cụ FedWatch của CME cho thấy khoảng 90% khả năng giữ nguyên lãi suất. Điều thị trường theo dõi là thông điệp đi kèm, cụ thể là khả năng Fed còn tăng lãi suất thêm trước cuối năm hay không. Trên nền tảng quyền chọn Derive, chi phí một chiến lược quyền chọn ATM đáo hạn thứ Sáu ở mức khoảng 2.400 USD, hàm ý thị trường kỳ vọng biên độ dao động quanh 3% mỗi chiều, không quá khác thường so với một tuần có họp Fed.</p>\n<p>[[rel:1]]</p>\n<p>Một chi tiết khác từ Bitfinex: khoảng 874.000 BTC được tích luỹ trong vùng giá 81.000–82.500 USD, tức nhiều nhà đầu tư đang có giá vốn cao hơn giá hiện tại. Đây là ước tính theo vùng giá chứ không phải lệnh bán đã xác nhận, nhưng nó cho thấy lượng nguồn cung tiềm năng nếu giá hồi lên.</p>\n<h2>Tác động tới trader</h2>\n<p>Dữ liệu phái sinh cho thấy phe long chưa rút lui. Khối lượng giao dịch futures toàn thị trường tăng 18% lên 152 tỷ USD trong 24 giờ, open interest (OI, tổng giá trị hợp đồng đang mở) chỉ tăng khoảng 0,95%, còn thanh lý giảm 13% xuống 133 triệu USD. Funding rate (khoản phí định kỳ giữa long và short) của Bitcoin, Ether và Solana đều dương, nghĩa là bên long vẫn đang trả phí để giữ vị thế. Bitfinex cũng ghi nhận OI futures Bitcoin tăng từ 645.411 BTC lên 669.253 BTC từ 21 đến 25/10 dù giá giảm. Nói cách khác, vị thế mới được mở trong lúc giá đi xuống, và khi OI tăng cùng giá giảm, một cú di chuyển bất ngờ có thể kéo theo thanh lý dây chuyền.</p>\n<p>Trên thị trường quyền chọn, quyền chọn bán (put) 72.000 USD đáo hạn 25/12 là hợp đồng được giao dịch nhiều nhất trong 24 giờ, và độ lệch 25-delta vẫn nghiêng về phía mua bảo hiểm giảm giá. Điều này cho thấy một phần người chơi đang phòng ngừa rủi ro giảm sâu hơn thay vì chờ phiên bứt phá.</p>\n<p>Những điều cần theo dõi tiếp: thông điệp của Fed sau cuộc họp, việc dòng tiền ETF có duy trì ở các phiên tới hay không, và mức funding khi biến động tăng trở lại. Trader dùng đòn bẩy có thể dùng <a href=\"/cong-cu.html\">công cụ tính vị thế và giá thanh lý</a> để kiểm tra rủi ro của mình trước giờ công bố quyết định lãi suất. Nội dung trên chỉ mang tính thông tin, không phải khuyến nghị giao dịch.</p>",
+  "keywords": [
+   "bitcoin dưới 80.000 USD",
+   "họp Fed",
+   "ETF bitcoin",
+   "funding rate",
+   "open interest"
+  ],
+  "bullets": [
+   "Bitcoin lùi về quanh 79.700 USD, có lúc chạm 79.370 USD, khi chứng khoán châu Á tăng nhưng tiền số không đi theo.",
+   "ETF Bitcoin giao ngay tại Mỹ thu về 110,3 triệu USD ngày 26/10, toàn bộ từ quỹ IBIT của BlackRock, sau hai phiên rút vốn.",
+   "Quyết định lãi suất của Fed công bố ngày 28/10; thị trường chú ý thông điệp đi kèm nhiều hơn mức lãi suất."
+  ]
+ },
+ "en": {
+  "title": "Bitcoin Slips Below $80,000 Before Fed Decision as ETFs Take In $110M",
+  "seo_title": "Bitcoin Below $80,000 Before Fed: ETFs and Futures",
+  "desc": "Bitcoin touched $79,370 as the Fed began a two-day meeting. Spot ETFs took in $110M after two outflow days, and futures data shows longs are still holding.",
+  "lead": "Bitcoin fell back under $80,000 as the Fed began its policy meeting. ETF flows ticked up, while futures data shows long positions have not been abandoned.",
+  "body_html": "<p>Bitcoin slipped back below $80,000 on the day the Federal Reserve began a two-day policy meeting. Over the past 24 hours the price touched $79,370 before recovering to around $80,000, while Asian equities rallied and crypto stayed behind.</p>\n<h2>Bitcoin dips under $80,000 as Asian stocks climb</h2>\n\n<p>On the morning of Oct. 27 (UTC), Bitcoin traded near $79,700, down 0.4% since midnight and about 2.5% on the week. South Korea's Kospi rose 3.1% in a broad rally in Asian tech shares, but the move did not spread to digital assets. The DeFi index fell 1.8%, the weakest of the major sectors, and Ether lost around 0.5%.</p><p>[[img:1]]</p>\n<p>Bitfinex said on Oct. 26 that Bitcoin had closed below $81,300 on Oct. 22, 23 and 24, then dropped to $79,250 on Oct. 24, roughly 9.3% under its September high. For two weeks the price has mostly ranged between $80,000 and $86,000, and the 30-day range has tightened from 13% to 6%. Squeezes like that often end with a sharp move, though the direction is not known in advance.</p>\n<h2>ETF flows rebound while the Fed remains the open question</h2>\n\n<p>US spot Bitcoin ETFs took in $110.3 million on Oct. 26, per Farside Investors data, ending two straight sessions of outflows worth about $773.5 million. All of the net inflow came from BlackRock's IBIT; the other funds reported no net flows. Across the last three sessions the funds are still down roughly $663 million, so one positive day is a signal to watch rather than a trend.</p>\n<p>The Fed meeting started on Oct. 27, with the rate decision due Wednesday, Oct. 28, U.S. time. CME's FedWatch tool shows about a 90% chance rates are left unchanged. Markets are focused on the message that comes with the decision, in particular whether another rate increase is still possible before year-end. On the Derive options platform, an at-the-money strategy covering Friday's expiry costs about $2,400, implying a move of around 3% in either direction, which is not unusual for a Fed week.</p>\n<p>[[rel:1]]</p>\n<p>Bitfinex also estimates that about 874,000 BTC was accumulated between $81,000 and $82,500, meaning many holders have a cost basis above the current price. That is an estimate by price zone rather than confirmed sell orders, but it shows how much potential supply sits above the market if price recovers.</p>\n<h2>What it means for traders</h2>\n<p>Derivatives data suggests long positioning has not been abandoned. Across crypto futures, volume rose 18% to $152 billion over 24 hours, open interest (OI, the total value of open contracts) rose only about 0.95%, and liquidations fell 13% to $133 million. Funding rates (the periodic payment between longs and shorts) stayed positive for Bitcoin, Ether and Solana, so longs are still paying to hold. Bitfinex also reports Bitcoin futures OI rising from 645,411 BTC to 669,253 BTC between Oct. 21 and 25 even as price fell. When OI climbs while price drops, a sudden move can trigger chained liquidations.</p>\n<p>In options, the $72,000 put expiring Dec. 25 was the most traded contract in the last 24 hours, and 25-delta skews still lean toward downside protection. That points to some participants hedging against a deeper decline rather than waiting for a breakout.</p>\n<p>What to watch next: the Fed's message after the meeting, whether ETF inflows hold up in the coming sessions, and how funding behaves if volatility returns. Leveraged traders can use the <a href=\"/cong-cu.html\">position size and liquidation price calculator</a> to check their own risk before the rate decision. This article is for information only and is not trading advice.</p>",
+  "keywords": [
+   "bitcoin below $80,000",
+   "Fed meeting",
+   "bitcoin ETF flows",
+   "funding rate",
+   "open interest"
+  ],
+  "bullets": [
+   "Bitcoin eased to about $79,700 and briefly touched $79,370 as Asian stocks rallied but crypto did not follow.",
+   "US spot Bitcoin ETFs took in $110.3 million on Oct. 26, all of it into BlackRock's IBIT, after two days of outflows.",
+   "The Fed announces its rate decision on Oct. 28; markets care more about the accompanying message than the rate itself."
+  ]
+ },
+ "cats": [
+  "btc",
+  "pol"
+ ],
+ "slug_en": "bitcoin-slips-below-80000-before-fed-decision-as-etfs-take",
+ "dir": "tin-tuc",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-28-10-bitcoin-80000-usd-cho-fed"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-29-10-fed-giu-lai-suat-bitcoin-81000-usd"
+  }
+ ]
+}

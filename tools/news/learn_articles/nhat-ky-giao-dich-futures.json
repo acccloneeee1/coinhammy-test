@@ -1,0 +1,62 @@
+{
+ "slug": "nhat-ky-giao-dich-futures",
+ "slug_en": "futures-trading-journal-guide",
+ "related": [
+  {
+   "kind": "learn",
+   "slug": "cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac"
+  },
+  {
+   "kind": "learn",
+   "slug": "ty-le-rr-va-ty-le-thang-hoa-von-khi-trade-futures"
+  },
+  {
+   "kind": "learn",
+   "slug": "fomo-khi-trade-futures"
+  }
+ ],
+ "cat": "tr",
+ "coin": "BTC",
+ "ts": "2026-11-16T20:00:00+07:00",
+ "image": {
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ nến 1 giờ của BTCUSDT trên Binance, có nhãn Trade journal",
+  "alt_en": "Binance BTCUSDT one-hour candlestick chart with a Trade journal label",
+  "caption_vi": "Bitcoin khung 1 giờ trên Binance, giảm từ quanh 75.000 USD xuống quanh 64.000 USD trong các phiên 11–16/11/2026.",
+  "caption_en": "Bitcoin 1-hour chart on Binance, falling from around 75,000 USD to around 64,000 USD between 11 and 16 November 2026.",
+  "url": "/hoc/img/nhat-ky-giao-dich-futures-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Nhật ký giao dịch Futures là gì và cách ghi chép để đánh giá kỷ luật",
+  "seo_title": "Nhật ký giao dịch Futures: ghi gì để tự đánh giá",
+  "desc": "Nhật ký giao dịch Futures cần ghi giá vào, cắt lỗ, rủi ro bằng tiền và kết quả. Ví dụ ghi chép trên nến BTC thật và cách đọc nhật ký để tìm lỗi lặp lại.",
+  "lead": "Nhật ký giao dịch ghi lại từng lệnh Futures để so sánh hành vi thực tế với kế hoạch, thay vì dựa vào trí nhớ.",
+  "body_html": "<p>Nhật ký giao dịch (trading journal) là bảng ghi lại mọi lệnh đã vào và đã đóng. Trí nhớ thường giữ lại các lệnh thắng lớn và quên những lần cắt lỗ đúng quy tắc hoặc những lần dời cắt lỗ ra xa. Nhật ký giữ nguyên dữ kiện, nên người giao dịch có thể so sánh hành vi thực tế với kế hoạch đã đặt.</p>\n<h2>Cần ghi những gì cho mỗi lệnh</h2>\n<p>Một dòng nhật ký nên có đủ các cột sau để trả lời được câu hỏi lệnh này có đúng kế hoạch hay không:</p>\n<ul>\n<li><strong>Thời điểm và mã:</strong> ngày giờ vào lệnh, mã hợp đồng và khung thời gian đã dùng để ra quyết định.</li>\n<li><strong>Lý do vào lệnh:</strong> một câu nêu điều kiện đã thỏa, ví dụ giá phá vỡ vùng kháng cự kèm khối lượng tăng, không phải cảm giác \"chắc sẽ tăng\".</li>\n<li><strong>Giá vào, cắt lỗ, chốt lời:</strong> ba mức giá đặt trước khi vào lệnh, kèm khoảng cách tính bằng ATR hoặc phần trăm.</li>\n<li><strong>Rủi ro bằng tiền:</strong> số tiền mất nếu giá chạm cắt lỗ, tính theo tỷ lệ vốn đã định, và khối lượng lệnh tương ứng.</li>\n<li><strong>Kết quả và cách đóng:</strong> đóng theo cắt lỗ, chốt lời hay tự đóng, kèm R đạt được, tức lời hoặc lỗ tính theo số lần rủi ro ban đầu.</li>\n<li><strong>Ghi chú cảm xúc:</strong> lúc vào lệnh đang sợ bỏ lỡ, đang gồng lỗ hay đang bình tĩnh. Cột này ít khi được ghi, nhưng là phần quan trọng nhất khi đọc lại.</li>\n</ul>\n<h2>Ví dụ ghi chép trên nến thật</h2>\n<p>Lấy nến 1 giờ của BTCUSDT trên Binance lúc 03:00 ngày 15/11/2026 (giờ Việt Nam) làm ví dụ. Nến này mở cửa ở 65.694 USD, cao nhất 65.857 USD, thấp nhất 64.470 USD và đóng cửa ở 64.738 USD. ATR14 khung 1 giờ tại thời điểm đó khoảng 689 USD, tức biên độ dao động trung bình mỗi giờ. Cách dùng ATR để đặt cắt lỗ được trình bày trong <a href=\"/kien-thuc/cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac\">bài đặt cắt lỗ theo ATR</a>.</p>\n<p>Giả sử một người giao dịch đặt lệnh bán khống (short) tại 65.694 USD, với cắt lỗ đặt cách giá vào 3 lần ATR, tức khoảng 2.066 USD, nằm ở vùng 67.760 USD. Dòng nhật ký sẽ ghi: giá vào 65.694 USD, cắt lỗ 67.760 USD, khoảng cách 3×ATR14 và rủi ro đã định trước bằng tiền. Ví dụ này chỉ minh họa cách ghi chép, không phải gợi ý giao dịch. Khối lượng lệnh có thể tính theo <a href=\"/cong-cu.html\">công cụ tính khối lượng lệnh</a> trên CoinHammy.</p>\n<p>[[rel:1]]</p>\n<h2>Đọc nhật ký để tìm lỗi lặp lại</h2>\n<p>Giá trị của nhật ký nằm ở việc đọc lại. Sau khoảng 30 lệnh, hãy nhóm các lệnh theo lỗi: vào sau khi giá đã chạy mạnh, dời cắt lỗ ra xa, hoặc đóng sớm khi có lời nhỏ. Một lỗi xuất hiện nhiều lần cho thấy vấn đề nằm ở quy tắc vào lệnh hoặc quản lý vốn, không phải do may rủi.</p>\n<p>Nên tính thêm tỷ lệ tuân thủ kế hoạch, tức số lệnh có cắt lỗ đặt sẵn và không bị dời, chia cho tổng số lệnh. Chỉ số này không cho biết lợi nhuận, nhưng cho biết người giao dịch có đang làm theo quy tắc của chính mình hay không.</p>\n<h2>Tóm lại</h2>\n<p>Nhật ký giao dịch biến kết quả thành dữ kiện. Ghi đủ giá vào, cắt lỗ, rủi ro bằng tiền, kết quả và ghi chú cảm xúc cho mỗi lệnh, rồi đọc lại định kỳ để tìm lỗi lặp lại. Ghi đều đặn quan trọng hơn ghi thật chi tiết ngay từ lệnh đầu tiên.</p>",
+  "keywords": [
+   "nhật ký giao dịch futures",
+   "trading journal",
+   "ghi chép lệnh futures",
+   "đánh giá kỷ luật giao dịch"
+  ]
+ },
+ "en": {
+  "title": "Futures trading journal: what to record for each trade",
+  "seo_title": "Futures Trading Journal: What to Record",
+  "desc": "Learn what a futures trading journal should record for each trade: entry, stop loss, dollar risk and result. Includes a worked example on real BTC candles.",
+  "lead": "A trading journal records each futures trade so you can compare what you did with the plan you set, rather than relying on memory.",
+  "body_html": "<p>A futures trading journal is a record of every trade you open and close. Memory tends to keep the big winners and forget the stops you respected, or the times you moved a stop further away. A journal keeps the facts intact, so you can compare what you actually did with the plan you wrote before entering.</p>\n<h2>What to record for each trade</h2>\n<p>Each entry should contain enough fields to answer one question later: did this trade follow the plan?</p>\n<ul>\n<li><strong>Time and contract:</strong> the date and time of entry, the contract, and the timeframe used to make the decision.</li>\n<li><strong>Reason for entry:</strong> one sentence naming the condition that was met, such as a break above resistance with rising volume, rather than a feeling that price \"must go up\".</li>\n<li><strong>Entry, stop loss and take profit:</strong> the three price levels set before entry, with their distances measured in ATR or percent.</li>\n<li><strong>Dollar risk:</strong> the amount lost if the stop is hit, based on the fraction of capital you had set, and the matching position size.</li>\n<li><strong>Result and exit method:</strong> whether the trade closed at the stop, at the target, or by manual exit, along with the R multiple, meaning profit or loss measured in units of the initial risk.</li>\n<li><strong>Emotional note:</strong> whether you were afraid of missing out, holding a loser, or calm at entry. This field is often skipped, yet it is the most useful when reviewing.</li>\n</ul>\n<h2>A worked example on real candles</h2>\n<p>Take the 1-hour BTCUSDT candle on Binance that opened at 03:00 on 15 November 2026 (Vietnam time). It opened at 65,694 USD, reached a high of 65,857 USD and a low of 64,470 USD, and closed at 64,738 USD. The 1-hour ATR14 at that point was about 689 USD, which is the average hourly range. How to use ATR for stops is covered in <a href=\"/en/learn/how-to-set-a-stop-loss-using-atr-instead-of-gut-feeling\">our guide to ATR-based stop losses</a>.</p>\n<p>Suppose a trader shorted at 65,694 USD with a stop placed three ATR above entry, about 2,066 USD, which puts it near 67,760 USD. The journal line would read: entry 65,694 USD, stop 67,760 USD, distance 3 times ATR14, and the dollar risk fixed in advance. This example only illustrates how to record a trade and is not a trading suggestion. Position size can be calculated with the <a href=\"/cong-cu.html\">position size calculator</a> on CoinHammy.</p>\n<p>[[rel:1]]</p>\n<h2>Reading the journal to find repeated mistakes</h2>\n<p>The value of a journal appears when you read it back. After about 30 trades, group them by mistake: entering after price has already run far, moving a stop further away, or closing early on a small profit. A mistake that repeats points to the entry rules or the position sizing, not to bad luck.</p>\n<p>It is also worth tracking your plan adherence rate, meaning the number of trades that kept their pre-set stop without moving it, divided by the total number of trades. This figure does not show profit, but it shows whether you are following your own rules.</p>\n<h2>Summary</h2>\n<p>A trading journal turns results into facts. Record the entry, stop, dollar risk, result and emotional note for every trade, then review them regularly to find repeated mistakes. Consistent recording matters more than detailed recording from the very first trade.</p>",
+  "keywords": [
+   "futures trading journal",
+   "trade journal template",
+   "futures trade log",
+   "trading discipline"
+  ]
+ },
+ "event": "Nhật ký giao dịch Futures là gì và cách ghi chép để đánh giá kỷ luật",
+ "cats": [
+  "tr"
+ ],
+ "dir": "kien-thuc"
+}

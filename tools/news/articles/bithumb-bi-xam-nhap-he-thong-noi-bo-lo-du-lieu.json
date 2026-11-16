@@ -1,0 +1,68 @@
+{
+ "slug": "bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu",
+ "cat": "ex",
+ "coin": "BTC",
+ "ts": "2026-10-28T18:35:00+07:00",
+ "event": "Bithumb says outsider breached internal employee mobile system and leaked personal data; no crypto funds reported lost (Oct 27-28 2026)",
+ "src_urls": [
+  "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+  "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
+  "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/crescent-moon-over-seoul-skyline-5htrsUUbFGI",
+  "license": "Unsplash",
+  "alt_vi": "Toàn cảnh thành phố Seoul lúc hoàng hôn",
+  "alt_en": "Seoul skyline at dusk",
+  "url": "/tin/img/bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Bithumb bị xâm nhập hệ thống nội bộ, lộ thông tin cá nhân nhưng chưa mất tiền",
+  "seo_title": "Bithumb bị hack hệ thống nội bộ, lộ dữ liệu cá nhân",
+  "desc": "Sàn Bithumb của Hàn Quốc xác nhận kẻ tấn công vào hệ thống di động nội bộ và lấy thông tin cá nhân; chưa có báo cáo mất tiền số.",
+  "lead": "Bithumb cho biết một bên bên ngoài đã xâm nhập hệ thống di động nội bộ của nhân viên và lấy đi thông tin cá nhân, trong khi chưa có báo cáo mất tiền số.",
+  "bullets": [
+   "Bithumb, sàn lớn thứ hai Hàn Quốc, phát hiện vụ xâm nhập hệ thống nội bộ của nhân viên vào ngày 27/10 và đã báo cho các cơ quan quản lý.",
+   "Sàn nói hệ thống bị xâm nhập tách biệt với nền tảng giao dịch, chưa có báo cáo mất tiền số, nhưng số người bị lộ dữ liệu chưa được công bố.",
+   "Cùng ngày, công ty chứng khoán Daishin báo lộ dữ liệu 38.490 khách hàng và Mirae Asset báo chặn truy cập bất thường."
+  ],
+  "body_html": "<p>Bithumb, sàn giao dịch crypto lớn thứ hai Hàn Quốc theo khối lượng, cho biết một bên bên ngoài đã xâm nhập hệ thống di động nội bộ mà nhân viên dùng để làm việc và nhắn tin, và thông tin cá nhân đã bị lấy đi. Sàn phát hiện vụ việc vào thứ Ba 27/10 và đã báo cho Cơ quan Internet và An ninh Hàn Quốc cùng Ủy ban Bảo vệ Thông tin Cá nhân. Tính đến chiều châu Á ngày 28/10, chưa có báo cáo nào về việc mất tiền số.</p>\n<h2>Sàn nói gì và chưa nói gì</h2>\n<p>Bithumb khẳng định hệ thống bị xâm nhập chạy tách biệt với nền tảng giao dịch, nên tài sản ảo của khách hàng không thể bị truy cập qua lỗ hổng này. Sàn đang phân tích phạm vi chính xác, bao gồm khả năng dữ liệu thành viên bị lộ. Một nguồn trong ngành cho biết một phần thông tin cá nhân của khách hàng đã rò rỉ, nhưng sàn chưa xác nhận con số.</p>\n<p>Những điều còn bỏ ngỏ khá nhiều: số người bị ảnh hưởng, loại dữ liệu bị lấy, việc nạp rút có bị gián đoạn hay không, và kẻ tấn công vào bằng cách nào. Sàn cũng chưa công bố cách hệ thống bị truy cập.</p>\n<p>Cùng ngày, hai tổ chức tài chính khác của Hàn Quốc cũng báo sự cố. Công ty chứng khoán Daishin cho biết thông tin của 38.490 khách hàng, gồm tên, email và số điện thoại, bị lộ sau một cuộc tấn công từ bên ngoài. Công ty quản lý tài sản Mirae Asset Global Investments cho biết đã chặn truy cập bất thường vào một số hệ thống web và dữ liệu nhà đầu tư không bị ảnh hưởng. Cơ quan Giám sát Tài chính đang xem xét cả ba trường hợp.</p>\n<h2>Bối cảnh: làn sóng tấn công và năm khó khăn của Bithumb</h2>\n<p>Thống đốc cơ quan giám sát cho biết các cuộc tấn công mạng đã nhắm vào 16 tổ chức tài chính Hàn Quốc tính đến giữa tháng 10, với khoảng 100.000 vụ lộ dữ liệu theo công bố trước đó của cơ quan quản lý. Các cơ quan chức năng cũng đã kêu gọi nhà vận hành website rà soát một lỗ hổng mới công bố trong ngôn ngữ PHP, cho phép chạy lệnh trên máy chủ mà không cần đăng nhập, dù chưa có thông tin nào nối lỗ hổng này với vụ Bithumb.</p>\n<p>Đây là lần thứ hai kiểm soát nội bộ của Bithumb bị chú ý trong năm. Hồi tháng 2, sàn ghi nhầm 620.000 BTC thay vì 620.000 won cho khách hàng trong một đợt khuyến mãi, trị giá khoảng 40 tỷ USD lúc đó; số này chỉ tồn tại trên sổ nội bộ và sàn cho biết đã thu hồi 99,7%. Tháng 3, cơ quan tình báo tài chính phạt sàn 36,8 tỷ won vì lỗi chống rửa tiền.</p>\n<p>Cũng trong ngày 28/10, Coinbase thông báo một sự cố tại nhà cung cấp phân tích Amplitude làm lộ thông tin liên hệ của một nhóm nhỏ khách hàng, nhưng khẳng định hệ thống của mình không bị xâm nhập và tiền không bị ảnh hưởng. Ông Changpeng Zhao liệt kê cả bốn vụ trong một bài đăng, cảnh báo dữ liệu rò rỉ từ sàn thường bị dùng để lừa đảo, hoán đổi SIM và tấn công phi kỹ thuật.</p>\n<h2>Điều cần theo dõi tiếp</h2>\n<p>Các mốc đáng chú ý là kết luận về phạm vi dữ liệu bị lộ, việc Bithumb có đền bù hay không, và kết quả thanh tra của cơ quan quản lý. Vụ việc cũng đặt thêm áp lực lên kế hoạch niêm yết cổ phiếu của sàn vào năm 2028.</p>\n<h2>Tác động tới trader</h2>\n<p>Với trader futures, điểm quan trọng là vụ này không phải mất tiền trên sàn: chưa có báo cáo nào về tài sản bị rút, và sàn nói khu vực giao dịch tách biệt. Vì vậy chưa có dấu hiệu của cú sốc thanh khoản kiểu hack ví nóng, thứ thường kéo theo biến động mạnh và thanh lý dây chuyền.</p>\n<p>Rủi ro thực tế nằm ở thông tin cá nhân. Email, số điện thoại và dữ liệu tài khoản bị lộ thường được dùng để lừa đảo giả mạo sàn và hoán đổi SIM, nên người dùng sàn nên cân nhắc dùng ứng dụng xác thực thay vì mã SMS, bật mã chống lừa đảo nếu sàn có, và kiểm tra thiết lập khóa rút tiền. Cập nhật thêm có thể xem tại trang <a href=\"/xep-hang.html\">xếp hạng sàn</a>.</p>\n<p>Về thị trường, Bitcoin đang giao dịch quanh 81.000 USD trước quyết định của Fed, và sự cố dữ liệu ở một sàn khu vực chưa phải yếu tố được nhắc tới trong diễn biến giá. Cần theo dõi liệu sàn có tạm hạn chế nạp rút hay không, vì đó mới là tín hiệu ảnh hưởng trực tiếp tới người giữ vị thế.</p>",
+  "keywords": [
+   "Bithumb bị hack",
+   "Bithumb lộ dữ liệu",
+   "sàn giao dịch Hàn Quốc",
+   "bảo mật sàn crypto"
+  ]
+ },
+ "en": {
+  "title": "Bithumb Breached Through Internal System, Personal Data Leaked but No Crypto Lost",
+  "seo_title": "Bithumb Hacked via Internal System, Data Leaked",
+  "desc": "South Korea's Bithumb confirms an outsider entered its internal mobile system and took personal data; no loss of crypto funds has been reported.",
+  "lead": "Bithumb said an outside party broke into the internal mobile system used by staff and took personal information, while no loss of crypto funds has been reported.",
+  "bullets": [
+   "Bithumb, South Korea's second-largest exchange, found the intrusion into its internal employee system on Oct. 27 and notified regulators.",
+   "The exchange says the breached system is separate from its trading platform; no crypto losses are reported, but the number of people affected is undisclosed.",
+   "The same day, brokerage Daishin Securities reported a leak of 38,490 customers' data and Mirae Asset said it blocked abnormal access."
+  ],
+  "body_html": "<p>Bithumb, South Korea's second-largest crypto exchange by volume, said an outside party broke into the internal mobile system its staff use for work and messaging, and that personal information was taken. The exchange found the intrusion on Tuesday, Oct. 27 and notified the Korea Internet &amp; Security Agency and the Personal Information Protection Commission. As of Asian afternoon hours on Oct. 28, no loss of crypto funds had been reported.</p>\n<h2>What Bithumb has and has not said</h2>\n<p>Bithumb says the breached system runs separately from its trading platform, so customer virtual assets cannot be reached through it. It is still working out the exact scope, including whether member data was involved. An industry source said some customer personal information did leak, but the exchange has not confirmed a figure.</p>\n<p>Plenty remains open: how many people are affected, what kind of data was taken, whether deposits and withdrawals were disrupted, and how the attacker got in. The exchange has not said how the system was accessed.</p>\n<p>Two other Korean financial firms reported incidents the same day. Brokerage Daishin Securities said names, emails and phone numbers of 38,490 customers leaked after an outside attack, while asset manager Mirae Asset Global Investments said it blocked abnormal access to some web systems and that investor data was untouched. The Financial Supervisory Service is assessing all three cases.</p>\n<h2>Context: a wave of attacks and a rough year for Bithumb</h2>\n<p>The regulator's governor said cyberattacks had hit 16 South Korean financial firms as of mid-October, and officials earlier put the number of leaked records at around 100,000. Authorities have also urged website operators to check for a recently disclosed PHP flaw that lets attackers run commands on a server without logging in, although nothing links it to the Bithumb case yet.</p>\n<p>It is the second time this year that Bithumb's internal controls have come under scrutiny. In February it mistakenly credited customers with 620,000 BTC instead of 620,000 won during a promotion, worth about $40 billion at the time; the balances existed only on its internal ledger and the exchange says it recovered 99.7%. In March, the country's financial intelligence unit fined it 36.8 billion won over anti-money-laundering failures.</p>\n<p>Also on Oct. 28, Coinbase said an incident at analytics vendor Amplitude exposed contact details for a small subset of customers, while insisting its own systems were not breached and funds were unaffected. Changpeng Zhao listed all four incidents in a post, warning that leaked exchange data is mostly used for phishing, SIM swapping and social engineering.</p>\n<h2>What to watch next</h2>\n<p>Watch for a final tally of exposed data, any compensation from Bithumb, and the outcome of the regulator's inspection. The episode also adds pressure on the exchange's plan to list its shares in 2028.</p>\n<h2>What it means for traders</h2>\n<p>For futures traders, the key point is that this is not a loss of funds: no withdrawals of assets have been reported, and the exchange says the breached system is isolated from trading. That means no sign yet of the liquidity shock that follows a hot-wallet hack, which usually brings sharp moves and cascading liquidations.</p>\n<p>The practical risk is personal data. Leaked emails, phone numbers and account details are typically used for impersonation scams and SIM swaps, so exchange users may want an authenticator app instead of SMS codes, anti-phishing codes where offered, and withdrawal whitelists. More on exchange security in our <a href=\"/xep-hang.html\">exchange rankings</a>.</p>\n<p>On the market side, Bitcoin was trading near $81,000 ahead of the Fed decision, and a data incident at a regional exchange was not cited as a price driver. The signal that would matter for open positions is whether Bithumb restricts deposits or withdrawals.</p>",
+  "keywords": [
+   "Bithumb hack",
+   "Bithumb data leak",
+   "South Korea exchange",
+   "exchange security"
+  ]
+ },
+ "slug_en": "bithumb-breached-through-internal-system-personal-data",
+ "dir": "tin-tuc",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "hyperliquid-payward-kraken-hip-3-cftc-perpetual"
+  }
+ ]
+}

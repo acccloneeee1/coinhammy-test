@@ -1,0 +1,73 @@
+{
+ "slug": "kraken-xstocks-200-co-phieu",
+ "slug_en": "kraken-xstocks-200-eu-stocks",
+ "cat": "ex",
+ "coin": "BTC",
+ "ts": "2026-11-11T21:25:00+07:00",
+ "event": "Kraken parent Payward adds 200+ UK and EU stocks to xStocks, passing 1,500 tokenized assets (Nov 11 2026)",
+ "src_urls": [
+  "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities",
+  "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
+  "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+  "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/trader-analyzing-stock-market-data-on-smartphone-and-phone-494uYRfqWDc",
+  "license": "Unsplash",
+  "credit": "",
+  "alt_vi": "Bàn tay cầm điện thoại hiển thị biểu đồ nến xanh đỏ trên nền màn hình giao dịch tối",
+  "alt_en": "A hand holding a phone showing green and red candlestick charts in front of dark trading screens",
+  "caption_vi": "Giao dịch cổ phiếu trên điện thoại: xStocks mở rộng sang hơn 200 cổ phiếu Anh và EU.",
+  "caption_en": "Trading stocks on a phone: xStocks expands to more than 200 UK and EU shares.",
+  "url": "/tin/img/kraken-xstocks-200-co-phieu-h.jpg"
+ },
+ "images": [],
+ "related": [
+  {
+   "kind": "news",
+   "slug": "nyse-chon-avalanche-avax-tang"
+  }
+ ],
+ "vi": {
+  "title": "Kraken đưa hơn 200 cổ phiếu Anh và EU lên chuỗi qua xStocks",
+  "seo_title": "Kraken xStocks thêm 200 cổ phiếu Anh và EU",
+  "desc": "Payward thêm hơn 200 cổ phiếu Anh và EU vào xStocks, gồm 40 công ty DAX. Token bảo chứng 1:1 nhưng không có quyền biểu quyết; người Anh vẫn không được mua.",
+  "lead": "Payward, công ty mẹ của sàn Kraken, đưa hơn 200 cổ phiếu niêm yết tại Anh và Liên minh châu Âu lên xStocks, đợt mở rộng lớn nhất ngoài cổ phiếu Mỹ của nền tảng.",
+  "bullets": [
+   "Kraken, qua công ty mẹ Payward, đưa hơn 200 cổ phiếu niêm yết tại Anh và EU lên nền tảng xStocks, gồm cả 40 công ty trong chỉ số DAX.",
+   "Mỗi token được bảo chứng 1:1 bằng cổ phiếu gốc nhưng không có quyền biểu quyết hay quyền sở hữu pháp lý đối với công ty.",
+   "Nhà đầu tư ở Anh vẫn không thể mua các token này; xStocks hiện có hơn 1.500 tài sản token hóa và giá trị khoảng 1,1 tỷ USD."
+  ],
+  "body_html": "<p>Payward, công ty mẹ của sàn Kraken, vừa đưa hơn 200 cổ phiếu niêm yết tại Anh và Liên minh châu Âu lên nền tảng xStocks. Đây là đợt mở rộng lớn nhất của nền tảng ra ngoài cổ phiếu Mỹ, và nâng số tài sản token hóa trên xStocks lên hơn 1.500, bao gồm cổ phiếu, ETF và IPO.</p><h2>Diễn biến chính</h2><p>Lô token mới gồm cả 40 công ty trong chỉ số DAX của Đức, như SAP, Siemens, Allianz và Deutsche Telekom. Theo Payward, mỗi token được bảo chứng 1:1 bằng cổ phiếu gốc do một đơn vị lưu ký được quản lý nắm giữ. Người nắm token hưởng biến động giá của cổ phiếu, nhưng không có quyền biểu quyết và không có quyền đòi hỏi pháp lý đối với công ty gốc.</p><p>Các token có thể giao dịch trên Kraken và các nền tảng trong liên minh xStocks, tại hơn 110 thị trường. Riêng nhà đầu tư ở Anh vẫn không được mua, dù cổ phiếu gốc được niêm yết tại London.</p><h2>Quy mô và giới hạn</h2><p>Payward cho biết xStocks hiện có hơn 1,1 tỷ USD tài sản, tổng khối lượng giao dịch tích lũy trên 45 tỷ USD và hơn 550.000 người nắm giữ. Theo dữ liệu Token Terminal, vốn hóa xStocks khoảng 1,1 tỷ USD, tương đương khoảng 22% trong tổng 4,9 tỷ USD cổ phiếu token hóa mà đơn vị này theo dõi. Trong bảng xếp hạng hiện tại, xStocks đứng thứ ba, sau Binance bStocks với 1,5 tỷ USD và Ondo Finance với 1,4 tỷ USD.</p><h2>Bối cảnh cổ phiếu token hóa</h2><p>Payward cho biết sẽ bổ sung hàng trăm cổ phiếu niêm yết tại Hong Kong trong vài tuần tới. Công ty cũng có thỏa thuận với Sở Giao dịch Chứng khoán London: nếu được cơ quan quản lý chấp thuận, xStocks sẽ được niêm yết và giao dịch trên nền tảng LSE 24 gần như suốt ngày đêm trong năm 2027.</p><h2>Tác động tới trader</h2><p>Điểm cần nhớ đầu tiên là token không phải là cổ phiếu. Giá token bám theo giá cổ phiếu gốc, nhưng người nắm giữ không có quyền biểu quyết và không có quyền đòi hỏi pháp lý với công ty. Trước khi vào lệnh, nên đọc kỹ cơ chế bảo chứng và quyền lợi của từng token.</p><p>Về thanh khoản, mỗi nền tảng có sổ lệnh riêng nên giá có thể khác nhau giữa các nơi giao dịch. Khi thị trường cổ phiếu gốc đóng cửa, mức chênh lệch giá và độ sâu lệnh là hai yếu tố cần theo dõi. Nhà đầu tư ở Anh cũng cần xác nhận quyền tiếp cận trước khi tính đến chiến lược.</p>",
+  "keywords": [
+   "kraken xstocks",
+   "cổ phiếu token hóa",
+   "payward",
+   "cổ phiếu châu Âu",
+   "kraken"
+  ]
+ },
+ "en": {
+  "title": "Kraken xStocks Adds 200+ UK and EU Stocks, Including All of DAX",
+  "seo_title": "Kraken xStocks Adds 200+ UK and EU Stocks",
+  "desc": "Payward added over 200 UK and EU stocks, including all 40 DAX names, to xStocks. Tokens are 1:1 backed without voting rights, and UK buyers remain excluded.",
+  "lead": "Payward, parent of Kraken, has tokenized more than 200 actively traded UK and EU-listed stocks on xStocks, its biggest expansion beyond US equities so far.",
+  "bullets": [
+   "Payward has tokenized more than 200 UK and EU-listed stocks on xStocks, including all 40 companies in Germany's DAX index.",
+   "Each token is backed 1:1 by a share held with a regulated custodian, but holders get no voting rights or legal claim on the company.",
+   "UK investors still cannot buy the new tokens, while xStocks now lists more than 1,500 assets with roughly $1.1 billion in value."
+  ],
+  "body_html": "<p>Payward, the parent company of the Kraken exchange, has added more than 200 stocks listed in the United Kingdom and the European Union to its xStocks platform. It is the biggest expansion beyond US equities so far, and it takes the platform past 1,500 tokenized assets, including stocks, ETFs and IPOs.</p><h2>Key developments</h2><p>The new batch includes all 40 companies in Germany's DAX index, among them SAP, Siemens, Allianz and Deutsche Telekom. According to Payward, each token is backed 1:1 by the underlying share, which a regulated custodian holds. Holders gain exposure to the share's price, but they receive no voting rights and no legal claim on the company.</p><p>The tokens can be traded on Kraken and on platforms in the xStocks Alliance, in more than 110 markets. Investors in the UK remain excluded, even though many of the underlying shares are listed in London.</p><h2>Scale and limits</h2><p>Payward says xStocks now holds more than $1.1 billion in assets, has processed over $45 billion in cumulative transaction volume and has more than 550,000 holders. Token Terminal data puts xStocks' market capitalization at about $1.1 billion, roughly 22% of the $4.9 billion in tokenized stocks it tracks. In the current ranking, xStocks sits third, behind Binance bStocks at $1.5 billion and Ondo Finance at $1.4 billion.</p><h2>The wider tokenized-stock race</h2><p>Payward says hundreds of Hong Kong-listed stocks will follow in the coming weeks. It also has a deal with the London Stock Exchange: subject to regulatory approval, xStocks would list and trade on LSE 24, the exchange's planned near-24-hour venue, in 2027.</p><h2>What it means for traders</h2><p>The first point to keep in mind is that a token is not the share itself. Its price follows the underlying stock, but holders have no voting rights and no legal claim against the company. Before trading, read the custody and rights terms for each token carefully.</p><p>On liquidity, each platform runs its own order book, so prices can differ between venues. When the underlying stock market is closed, the gap between token price and the last share price, along with order-book depth, are the two factors to watch. UK investors should also confirm their access before building any strategy around these tokens.</p>",
+  "keywords": [
+   "kraken xstocks",
+   "tokenized stocks",
+   "payward",
+   "European stocks tokenized",
+   "kraken"
+  ]
+ },
+ "cats": [
+  "ex"
+ ],
+ "dir": "tin-tuc"
+}

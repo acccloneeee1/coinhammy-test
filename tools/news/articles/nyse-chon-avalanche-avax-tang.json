@@ -1,0 +1,86 @@
+{
+ "slug": "nyse-chon-avalanche-avax-tang",
+ "slug_en": "nyse-picks-avalanche-avax-rallies",
+ "cat": "alt",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain"
+  },
+  {
+   "kind": "news",
+   "slug": "ice-trade-xyz-hyperliquid-perpetual-futures-my"
+  }
+ ],
+ "coin": "AVAX",
+ "ts": "2026-11-10T11:35:00+07:00",
+ "event": "NYSE picks Avalanche as core ledger for its planned 24/7 tokenized securities platform; AVAX jumps up to 10% on Nov 9 2026",
+ "src_urls": [
+  "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+  "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
+  "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
+  "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/new-york-stock-exchange-building-with-american-flags-xnzSgqyP8Hs",
+  "license": "Unsplash",
+  "credit": "",
+  "alt_vi": "Mặt tiền toà nhà Sàn giao dịch chứng khoán New York với cột đá và cờ Mỹ",
+  "alt_en": "Facade of the New York Stock Exchange building with stone columns and American flags",
+  "caption_vi": "Toà nhà NYSE trên phố Wall, nơi sẽ vận hành nền tảng chứng khoán token hóa dùng công nghệ Avalanche.",
+  "caption_en": "The NYSE building on Wall Street, home of the planned tokenized securities platform built on Avalanche technology.",
+  "url": "/tin/img/nyse-chon-avalanche-avax-tang-h.jpg"
+ },
+ "images": [
+  {
+   "license": "chart",
+   "alt_vi": "Biểu đồ nến ngày AVAX/USDT trên Binance",
+   "alt_en": "AVAX/USDT daily candlestick chart on Binance",
+   "caption_vi": "AVAX/USDT khung ngày: nến 9/11 bật từ khoảng 7,9 lên gần 9 USD, giá hiện quanh 8,55 USD, đỉnh gần 12 USD cuối tháng 9.",
+   "caption_en": "AVAX/USDT daily chart: the Nov. 9 candle jumped from about 7.9 to near 9 USD, price now around 8.55 USD, with a high near 12 USD in late September.",
+   "url": "/tin/img/nyse-chon-avalanche-avax-tang-1.jpg"
+  }
+ ],
+ "vi": {
+  "title": "NYSE chọn Avalanche thanh toán chứng khoán token hóa, AVAX tăng hơn 8%",
+  "seo_title": "AVAX tăng 8% khi NYSE chọn Avalanche làm sổ cái",
+  "desc": "NYSE chọn Avalanche làm sổ cái lõi cho nền tảng chứng khoán token hóa 24/7, AVAX tăng tới 10% trong phiên. Nền tảng còn chờ phê duyệt, trader cần lưu ý gì.",
+  "lead": "NYSE chọn Avalanche làm công nghệ sổ cái lõi cho khâu bù trừ và thanh toán chứng khoán token hóa 24/7, đẩy AVAX tăng tới khoảng 10% trong phiên.",
+  "bullets": [
+   "Ava Labs công bố Avalanche sẽ là công nghệ sổ cái lõi cho đơn vị bù trừ đứng sau nền tảng chứng khoán token hóa 24/7 của NYSE.",
+   "AVAX tăng tới khoảng 10% rồi về quanh 8,86 USD, vẫn tăng hơn 8% trong ngày, dẫn đầu nhóm 100 tiền số lớn nhất.",
+   "Nền tảng còn chờ cơ quan quản lý phê duyệt và chưa rõ NYSE dùng chuỗi riêng hay mạng Avalanche công khai."
+  ],
+  "body_html": "<p>Sàn giao dịch chứng khoán New York (NYSE) đã chọn Avalanche làm công nghệ sổ cái lõi cho khâu bù trừ và thanh toán trên nền tảng giao dịch chứng khoán token hóa hoạt động 24/7 mà tập đoàn đang xây dựng. Ava Labs công bố thông tin này hôm 9/11, và token AVAX tăng tới khoảng 10% trong phiên, dẫn đầu nhóm 100 tiền số lớn nhất.</p>\n<h2>NYSE chọn Avalanche cho khâu nào</h2>\n<p>Theo Ava Labs, Avalanche sẽ là \"công nghệ sổ cái lõi\" của đơn vị bù trừ đứng sau nền tảng liên kết với NYSE. Nền tảng nhắm tới giao dịch, bù trừ và thanh toán các chứng khoán token hóa suốt 24 giờ mỗi ngày, và vẫn phải chờ cơ quan quản lý phê duyệt trước khi vận hành. Có thông tin cho rằng nền tảng hướng tới ra mắt trong quý IV, hoặc trước cuối năm 2026 nếu được cấp phép.</p>\n<p>Ông Dennis Lee, người đứng đầu mảng phát hành số của NYSE, cho biết sàn đang chọn \"công nghệ phù hợp cho từng việc\". Nền tảng sẽ hỗ trợ cổ phiếu phát hành trên nhiều blockchain khác nhau, nhưng sổ cái thanh toán phải nhanh, ổn định và kiểm soát được ai được tham gia. Ông Emin Gün Sirer, CEO Ava Labs, nhấn mạnh nhu cầu thanh toán nguyên tử 24/7 với hiệu năng và chi phí dễ dự đoán.</p>\n<p>Một điểm chưa thống nhất là NYSE sẽ dùng mạng Avalanche công khai hay một chuỗi riêng. Ông John Nahas, giám đốc kinh doanh Ava Labs, nói NYSE sẽ vận hành blockchain tùy biến xây trên công nghệ Avalanche chứ không dùng mạng công khai để thanh toán. Điều này quan trọng vì nó quyết định mức độ liên quan trực tiếp tới token AVAX. Đơn vị bù trừ cụ thể và tên nền tảng cũng chưa được nêu.</p>\n<h2>Bối cảnh: cuộc đua token hóa chứng khoán</h2>\n<p>Ava Labs từng cho biết hồi tháng 9 rằng NYSE đã thử nghiệm công nghệ Avalanche khoảng một năm, nhưng chưa xác nhận lựa chọn cuối cùng. Ông Nahas nói các cuộc trao đổi đầu tiên với NYSE bắt đầu cách đây gần một năm. Tuần trước, NYSE cũng công bố thỏa thuận với Broadridge, Computershare, Equiniti và Superstate cho phát hành chứng khoán token hóa và chức năng đại lý chuyển nhượng, bên cạnh Securitize và tZERO đã có từ trước.</p>\n<p>Cuộc đua này không chỉ có một bên. Nasdaq cũng đang phát triển hạ tầng cổ phiếu token hóa, và DTCC đã <a href=\"/tin-tuc/dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain\">ra mắt dịch vụ token hóa chứng khoán Mỹ</a> trên blockchain riêng vào tháng trước. Ở một hướng khác, ICE và OKX đang chuẩn bị sàn cổ phiếu token hóa 24/7 theo cơ chế miễn trừ của SEC, nhưng nhiều công ty lớn đã từ chối tham gia.</p>\n<h2>AVAX phản ứng ra sao</h2>\n<p>AVAX tăng tới khoảng 10% trong phiên 9/11 rồi thu hẹp về khoảng 8,86 USD, vẫn tăng hơn 8% trong ngày. Vốn hóa vào khoảng 3,95 tỷ USD, khối lượng giao dịch 24 giờ khoảng 439,7 triệu USD, còn tổng giá trị khóa (TVL) trên Avalanche khoảng 633 triệu USD, tăng 4%.</p>\n<p>[[img:1]]</p>\n<p>Trên biểu đồ ngày, nến 9/11 bật mạnh từ vùng quanh 7,9 USD lên gần 9 USD kèm khối lượng lớn nhất trong nhiều tuần. Tuy vậy, AVAX vẫn nằm xa vùng gần 12 USD hồi cuối tháng 9, thời điểm thị trường phản ứng với tin NYSE thử nghiệm công nghệ này. Sang phiên 10/11, giá lùi nhẹ về quanh 8,55 USD.</p>\n<h2>Điều cần theo dõi tiếp</h2>\n<p>Ba việc đáng chú ý: tiến độ phê duyệt của cơ quan quản lý, thông tin làm rõ NYSE dùng chuỗi riêng hay mạng công khai, và việc các chứng khoán token hóa đầu tiên được niêm yết trên nền tảng. Nếu hạ tầng là chuỗi riêng, tác động lên nhu cầu AVAX có thể gián tiếp hơn nhiều so với kỳ vọng ban đầu của thị trường.</p>\n<h2>Tác động tới trader</h2>\n<p>Với trader futures, đây là kiểu tin tạo nhịp tăng nhanh theo câu chuyện, thường kéo theo funding rate và open interest của AVAX tăng khi người mua đuổi theo. Khi cơ sở của đợt tăng là một thông báo chứ chưa phải dòng tiền bền vững, biến động hai chiều có thể lớn và các vị thế đòn bẩy cao dễ bị thanh lý nếu giá quay đầu.</p>\n<p>Nên so sánh phản ứng giá với khối lượng: nến 9/11 có khối lượng lớn nhưng phiên sau đã lùi nhẹ khoảng 1,2%, cho thấy lực mua chưa chắc được duy trì. Cần theo dõi thêm phần làm rõ về chuỗi thanh toán và diễn biến phê duyệt, vì hai yếu tố này quyết định tin có chuyển thành nhu cầu thật với token hay không. Nội dung chỉ mang tính thông tin, không phải lời khuyên đầu tư.</p>",
+  "keywords": [
+   "NYSE Avalanche",
+   "AVAX",
+   "chứng khoán token hóa",
+   "Ava Labs",
+   "token hóa tài sản"
+  ]
+ },
+ "en": {
+  "title": "NYSE Picks Avalanche to Settle Tokenized Stocks as AVAX Jumps 8%",
+  "seo_title": "AVAX Up 8% as NYSE Picks Avalanche Ledger",
+  "desc": "NYSE picked Avalanche as the core ledger for its 24/7 tokenized securities platform and AVAX rose up to 10%. Approval is pending; what it means for traders.",
+  "lead": "NYSE has chosen Avalanche as the core ledger for clearing and settlement on its planned 24/7 tokenized securities platform, lifting AVAX as much as 10%.",
+  "bullets": [
+   "Ava Labs said Avalanche will be the core ledger technology for the clearing firm behind NYSE's planned 24/7 tokenized securities platform.",
+   "AVAX rose as much as 10% before easing to about 8.86 USD, still up over 8% on the day and the top gainer among the top 100 coins.",
+   "The platform still needs regulatory approval, and it is unclear whether NYSE will use a private chain or the public Avalanche network."
+  ],
+  "body_html": "<p>The New York Stock Exchange has picked Avalanche as the core ledger technology for clearing and settlement on the 24/7 tokenized-securities platform it is building. Ava Labs announced the choice on Nov. 9, and the AVAX token jumped as much as about 10% during the session, leading the top 100 cryptocurrencies by market value.</p>\n<h2>What NYSE is using Avalanche for</h2>\n<p>According to Ava Labs, Avalanche will serve as the \"core ledger technology\" for the clearing firm behind the NYSE-affiliated venue. The platform is designed for round-the-clock trading, clearing and settlement of tokenized securities, and still needs regulatory approval before it can operate. Reports point to a launch in the fourth quarter, or before the end of 2026 if approval comes through.</p>\n<p>Dennis Lee, NYSE's head of digital issuance, said the exchange is picking the right technology for each job. The venue will support equities issued on several blockchains, but the settlement ledger has to be fast, reliable and able to control who participates. Ava Labs CEO Emin Gün Sirer pointed to the need for 24/7 atomic settlement with predictable performance and costs.</p>\n<p>One open question is whether NYSE will use the public Avalanche network or a separate chain. Ava Labs chief business officer John Nahas said NYSE will run a custom blockchain built on Avalanche technology rather than settle on the public network. That matters because it determines how directly the deal connects to the AVAX token. The clearing firm and the platform's name have not been disclosed.</p>\n<h2>Context: the race to tokenize securities</h2>\n<p>Ava Labs said in September that NYSE had tested Avalanche technology for about a year, without confirming a final pick. Nahas said first conversations with the NYSE team began nearly a year ago. Last week NYSE also announced agreements with Broadridge, Computershare, Equiniti and Superstate for issuer-sponsored tokenized securities and transfer-agent functions, alongside the existing partners Securitize and tZERO.</p>\n<p>NYSE is not alone. Nasdaq is developing its own tokenized-stock infrastructure, and DTCC <a href=\"/en/news/dtcc-launches-live-tokenization-of-u-s-securities-with-20\">launched a live tokenization service for U.S. securities</a> last month on a private blockchain. Separately, ICE and OKX are preparing a 24/7 tokenized-stock venue under an SEC exemption, though many large companies have opted out of it.</p>\n<h2>How AVAX reacted</h2>\n<p>AVAX rose as much as about 10% on Nov. 9 before easing to roughly 8.86 USD, still up more than 8% on the day. Its market capitalization stood near 3.95 billion USD, 24-hour trading volume was about 439.7 million USD, and total value locked (TVL) on Avalanche was about 633 million USD, up 4%.</p>\n<p>[[img:1]]</p>\n<p>On the daily chart, the Nov. 9 candle jumped from the 7.9 USD area to close to 9 USD on the heaviest volume in weeks. Even so, AVAX remains well below the near-12 USD area it reached in late September, when the market reacted to news that NYSE had been testing the technology. On Nov. 10 the price slipped back to around 8.55 USD.</p>\n<h2>What to watch next</h2>\n<p>Three things stand out: the regulatory approval timeline, clarification on whether NYSE settles on a private chain or the public network, and the first tokenized securities actually listed on the platform. If the infrastructure is a private chain, the effect on AVAX demand could be far more indirect than the market first assumed.</p>\n<h2>What it means for traders</h2>\n<p>For futures traders, this is the kind of headline that produces a fast, narrative-driven move, often lifting AVAX funding rates and open interest as buyers chase the price. When the rally rests on an announcement rather than sustained flows, two-way volatility can be large and highly leveraged positions are exposed to liquidation if price reverses.</p>\n<p>It helps to compare the price reaction with volume: the Nov. 9 candle had heavy volume, but the next session slipped about 1.2%, which suggests buying pressure may not hold. Clarity on the settlement chain and the approval process matters most, since those decide whether the news turns into real demand for the token. This is information only, not investment advice.</p>",
+  "keywords": [
+   "NYSE Avalanche",
+   "AVAX",
+   "tokenized stocks",
+   "Ava Labs",
+   "tokenized securities"
+  ]
+ },
+ "cats": [
+  "alt"
+ ],
+ "dir": "tin-tuc"
+}

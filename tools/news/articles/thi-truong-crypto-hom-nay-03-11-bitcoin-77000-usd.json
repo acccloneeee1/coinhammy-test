@@ -1,0 +1,76 @@
+{
+ "slug": "thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd",
+ "cat": "btc",
+ "cats": [
+  "btc",
+  "fut",
+  "ex"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-03T07:49:16+07:00",
+ "event": "Daily crypto market wrap 2026-11-03",
+ "src_urls": [
+  "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally",
+  "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+  "https://coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+  "https://cryptoslate.com/binance-warns-of-second-wave-of-crypto-theft-as-6-3-billion-hack-recovery-continues/"
+ ],
+ "image": {
+  "src": "",
+  "license": "chart",
+  "alt_vi": "Biểu đồ nến 4 giờ BTC/USDT trên Binance cho thấy Bitcoin quanh 77.000 USD",
+  "alt_en": "4-hour BTC/USDT candlestick chart on Binance showing Bitcoin near $77,000",
+  "url": "/tin/img/thi-truong-crypto-hom-nay-03-11-bitcoin-77000-usd-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Thị trường crypto hôm nay (03/11): Bitcoin quanh 77.000 USD trước bầu cử Mỹ",
+  "seo_title": "Thị trường crypto 03/11: BTC quanh 77.000 USD",
+  "desc": "Bitcoin quanh 77.000 USD, ETF rút ròng, quyền chọn đắt lên trước bầu cử Mỹ, Binance mở lại rút tiền sau vụ hack 6,3 tỷ USD. Tổng hợp thị trường sáng 03/11.",
+  "lead": "Bitcoin lùi về quanh 77.000 USD khi thị trường chờ bầu cử giữa kỳ Mỹ, dòng tiền ETF rút ròng và Binance vẫn đang xử lý hậu quả vụ hack 6,3 tỷ USD.",
+  "bullets": [
+   "Bitcoin quanh 77.000 USD, giảm khoảng 1,1% trong 24 giờ; Ether quanh 2.250 USD, giảm 0,4% trước ngày bầu cử giữa kỳ Mỹ.",
+   "ETF Bitcoin giao ngay Mỹ rút ròng 643,3 triệu USD hôm thứ Sáu, lớn nhất từ 25/06, còn open interest futures vẫn quanh 58 tỷ USD.",
+   "Binance mở lại rút tiền, người dùng rút ròng 3,64 tỷ USD trong 9,5 giờ đầu, trong khi Mercado Bitcoin bị mất khoảng 40 triệu USD."
+  ],
+  "body_html": "<p>Bitcoin giao dịch quanh 77.000 USD vào sáng 03/11, giảm khoảng 1,1% trong 24 giờ và lùi khỏi vùng cao 78.750 USD hồi Chủ nhật. Ether đứng quanh 2.250 USD, giảm 0,4%. Thị trường bước vào ngày bầu cử giữa kỳ Mỹ với tâm lý dè dặt, trong khi dư chấn của vụ Binance bị rút 6,3 tỷ USD vẫn chưa lắng.</p>\n<h2>Giá và dòng tiền ETF</h2>\n<p>Bitcoin giảm khoảng 1,7% trong phiên thứ Hai dù giá dầu WTI tụt hơn 7% xuống gần 96,50 USD nhờ kỳ vọng ngoại giao Mỹ - Iran. Nói cách khác, tin tốt từ thị trường năng lượng chưa đủ kéo dòng tiền vào tài sản rủi ro. Chỉ số Fear &amp; Greed hôm Chủ nhật ở mức 37, thuộc vùng sợ hãi.</p>\n<p>Các quỹ ETF Bitcoin giao ngay tại Mỹ ghi nhận dòng rút ròng 643,3 triệu USD hôm thứ Sáu, mức lớn nhất kể từ ngày 25/06; cả tuần rút ròng 202,6 triệu USD. Quỹ ETF Ether rút ròng 155,9 triệu USD trong ngày và 431,5 triệu USD trong tuần. Tổng tài sản của nhóm ETF Bitcoin vẫn ở khoảng 98,14 tỷ USD, nên mức rút trong ngày chỉ chiếm dưới 1%.</p>\n<p>Trong nhóm altcoin lớn, Solana quanh 91,5 USD (giảm 2,6%), HYPE khoảng 83 USD (giảm 4,2%), XRP gần 1,24 USD gần như đi ngang, BNB khoảng 697 USD (giảm 1,6%).</p>\n<h2>Futures: vị thế chưa giảm, biến động kỳ vọng tăng</h2>\n<p>Open interest hợp đồng tương lai Bitcoin vào khoảng 58 tỷ USD và Ether khoảng 23,58 tỷ USD, cả hai gần như không đổi trong 24 giờ. Nghĩa là lượng vị thế đang mở chưa bị dọn đi sau nhịp giảm, và những vị thế đó vẫn có thể bị buộc đóng nếu giá biến động mạnh.</p>\n<p>Thị trường quyền chọn phản ánh sự thận trọng rõ hơn: độ biến động hàm ý (implied volatility) của hợp đồng đáo hạn ngày 04/11, ngay sau bầu cử, khoảng 43,5%, trong khi các kỳ hạn sau đó quanh 36%. Độ lệch (skew) cho thấy quyền chọn bán đang đắt hơn quyền chọn mua khoảng 5 điểm, tức nhiều người đang trả thêm phí để phòng ngừa rủi ro giảm giá. Số liệu thanh lý và funding rate cụ thể chưa có nguồn đáng tin ở thời điểm này nên bài không nêu.</p>\n<h2>Binance và các vụ tấn công qua đêm</h2>\n<p>Binance mở lại rút tiền hôm Chủ nhật. Trong khoảng 9,5 giờ đầu, <a href=\"/tin-tuc/binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc\">người dùng rút ròng 3,64 tỷ USD</a>. Sàn công bố bản chứng minh dự trữ mới và cho biết đã bổ sung khoảng 95% tài sản bị mất; ví Bitcoin của quỹ SAFU còn khoảng 7.500 BTC sau khi một khoản 7.499 BTC được chuyển đi, và chưa có lịch khôi phục quỹ 1 tỷ USD. Binance cũng cảnh báo về một làn sóng trộm cắp thứ hai.</p>\n<p>FBI quy trách nhiệm vụ hack cho tin tặc Triều Tiên, còn Bình Nhưỡng bác bỏ và cho rằng cáo buộc mang động cơ chính trị. Theo dữ liệu theo dõi on-chain, khoảng 2,85 tỷ USD trong số 6,43 tỷ USD bị đánh cắp đã bị đóng băng hoặc thu giữ.</p>\n<p>Ngoài ra, sàn Mercado Bitcoin của Brazil tạm dừng nạp rút sau khi khoảng 40 đến 46 triệu USD bị rút khỏi ví trên ít nhất 10 chuỗi; Tether đã đóng băng hơn 4,5 triệu USDT. Một nhà điều tra on-chain còn cho biết một tổ chức châu Âu chưa rõ danh tính có thể mất hơn 106 triệu USD từ các tài khoản trên sàn.</p>\n<h2>Tin doanh nghiệp đáng chú ý</h2>\n<p>Strategy mua thêm 811 BTC với giá 65,5 triệu USD, nhưng cùng tuần chi 208,2 triệu USD mua lại cổ phiếu ưu đãi STRC, gấp ba lần số tiền mua Bitcoin. Strive mua thêm 124 BTC (khoảng 10 triệu USD), còn Bitmine bổ sung 8.573 ETH, nâng tổng nắm giữ lên 6,06 triệu ETH. Ở mảng cổ phiếu, Morgan Stanley hạ khuyến nghị Coinbase và cắt mục tiêu giá xuống 120 USD vì hoạt động giao dịch chậm lại.</p>\n<h2>Tác động tới trader</h2>\n<p>Với trader futures, điểm cần chú ý là sự lệch pha: open interest còn cao trong khi dòng tiền ETF đang rút và quyền chọn trả giá cao cho kỳ hạn quanh bầu cử. Khi vị thế đông mà giá đi ngang trong biên hẹp, một cú biến động bất ngờ có thể kéo theo chuỗi thanh lý; đòn bẩy cao khiến rủi ro đó lớn hơn.</p>\n<p>Các yếu tố cần theo dõi tiếp gồm kết quả bầu cử giữa kỳ, dòng tiền ETF những phiên tới, tốc độ rút tiền khỏi Binance và liệu độ biến động hàm ý có hạ nhiệt sau ngày 04/11. Anh có thể dùng <a href=\"/cong-cu.html\">công cụ tính vị thế và giá thanh lý</a> để kiểm tra mức rủi ro của lệnh đang mở, hoặc xem <a href=\"/bieu-do.html\">biểu đồ</a> để theo dõi diễn biến giá.</p>",
+  "keywords": [
+   "thị trường crypto hôm nay",
+   "giá Bitcoin hôm nay",
+   "ETF Bitcoin",
+   "open interest",
+   "Binance hack"
+  ]
+ },
+ "en": {
+  "title": "Crypto Market Today (Nov 3): Bitcoin Near $77,000 Ahead of US Midterms",
+  "seo_title": "Crypto Market Today Nov 3: Bitcoin Near $77,000",
+  "desc": "Bitcoin near $77,000 as ETFs bleed, options get pricier before the US midterms and Binance reopens withdrawals after a $6.3B hack. Morning wrap for Nov. 3.",
+  "lead": "Bitcoin slipped back near $77,000 as traders wait on the US midterms, ETFs see outflows and Binance deals with the aftermath of a $6.3 billion hack.",
+  "bullets": [
+   "Bitcoin is near $77,000, down about 1.1% in 24 hours, and Ether is near $2,250, off 0.4%, heading into the US midterm elections.",
+   "US spot Bitcoin ETFs lost $643.3 million on Friday, the biggest daily outflow since June 25, while futures open interest holds near $58 billion.",
+   "Binance reopened withdrawals and users pulled a net $3.64 billion in the first 9.5 hours, while Mercado Bitcoin lost roughly $40 million in a separate attack."
+  ],
+  "body_html": "<p>Bitcoin was trading around $77,000 on the morning of Nov. 3, down about 1.1% over 24 hours and back below Sunday's $78,750 high. Ether sat near $2,250, off 0.4%. Markets head into the US midterm elections in a cautious mood, with the fallout from the $6.3 billion Binance hack still unsettled.</p>\n<h2>Price action and ETF flows</h2>\n<p>Bitcoin fell roughly 1.7% on Monday even though WTI crude dropped more than 7% to near $96.50 on hopes of US-Iran diplomacy. Cheaper energy was not enough to pull money into risk assets. The Crypto Fear &amp; Greed Index stood at 37 on Sunday, in fear territory.</p>\n<p>US spot Bitcoin ETFs lost $643.3 million on Friday, the biggest daily outflow since June 25, and $202.6 million for the week. Spot Ether ETFs shed $155.9 million on the day and $431.5 million over the week. Total Bitcoin ETF net assets remain near $98.14 billion, so Friday's exit was under 1% of the pool.</p>\n<p>Among large altcoins, Solana traded near $91.50 (down 2.6%), HYPE around $83 (down 4.2%), XRP near $1.24 and roughly flat, and BNB about $697 (down 1.6%).</p>\n<h2>Futures: positions intact, expected volatility rising</h2>\n<p>Bitcoin futures open interest is about $58 billion and Ether's about $23.58 billion, both roughly unchanged in 24 hours. Open positions have not been cleared out by the pullback, and they can still be forced shut if prices move sharply.</p>\n<p>Options show more caution. Implied volatility for the Nov. 4 expiry, the day after the election, is around 43.5%, against roughly 36% for later dates. A five-point skew means puts cost more than calls, a sign traders are paying up for downside protection. Specific liquidation totals and funding rates were not available from a reliable source for this report, so none are quoted.</p>\n<h2>Binance and overnight security incidents</h2>\n<p>Binance reopened withdrawals on Sunday, and <a href=\"/en/news/binance-posts-3-64b-net-outflow-as-safu-bitcoin-halves\">users pulled a net $3.64 billion</a> in the first 9.5 hours. The exchange published a new proof of reserves and says it has replenished about 95% of the lost assets. Its SAFU Bitcoin wallet holds roughly 7,500 BTC after a 7,499 BTC transfer, with no timeline to rebuild the $1 billion fund. Binance also warned of a possible second wave of theft.</p>\n<p>The FBI has blamed North Korean hackers; Pyongyang denies it and calls the accusation politically motivated. On-chain tracking suggests about $2.85 billion of the $6.43 billion stolen has been frozen or seized.</p>\n<p>Elsewhere, Brazil's Mercado Bitcoin paused deposits and withdrawals after roughly $40 million to $46 million left wallets on at least 10 chains, and Tether froze more than $4.5 million USDT. An on-chain investigator also says an unidentified European entity may have lost over $106 million from exchange accounts.</p>\n<h2>Corporate headlines</h2>\n<p>Strategy bought 811 BTC for $65.5 million but spent $208.2 million on STRC preferred buybacks the same week, about three times its Bitcoin outlay. Strive added 124 BTC (about $10 million) and Bitmine added 8,573 ETH, lifting its holdings to 6.06 million ETH. Morgan Stanley downgraded Coinbase and cut its price target to $120, citing slower trading activity.</p>\n<h2>What it means for traders</h2>\n<p>For futures traders, the mismatch matters: open interest remains high while ETFs see outflows and options carry a premium around the election. When many positions sit in a narrow price range, one sudden move can set off a chain of liquidations, and high leverage magnifies that risk.</p>\n<p>Watch the midterm results, ETF flows over the next sessions, the pace of Binance withdrawals and whether implied volatility cools after Nov. 4. You can test an open trade's risk with the <a href=\"/cong-cu.html\">position and liquidation-price calculator</a> or follow price action on the <a href=\"/bieu-do.html\">charts page</a>.</p>",
+  "keywords": [
+   "crypto market today",
+   "bitcoin price today",
+   "bitcoin ETF flows",
+   "open interest",
+   "Binance hack"
+  ]
+ },
+ "dir": "tin-tuc",
+ "slug_en": "crypto-market-today-nov-3-bitcoin-near-77000-ahead-of-us",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-28-10-bitcoin-80000-usd-cho-fed"
+  },
+  {
+   "kind": "news",
+   "slug": "thi-truong-crypto-hom-nay-30-10-binance-bi-rut-5-5-ty-usd"
+  }
+ ]
+}

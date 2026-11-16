@@ -1,0 +1,20 @@
+# Quy tắc lưu đệm cho Cloudflare Pages (file này tự được Cloudflare đọc khi triển khai).
+# Trang HTML KHÔNG khai báo ở đây: giữ mặc định của Cloudflare (luôn hỏi lại máy chủ, có 304) để sửa trang là khách thấy ngay.
+# Ảnh bài viết đặt tên theo bài nên gần như không đổi nội dung: cho trình duyệt giữ 7 ngày.
+/tin/img/*
+  Cache-Control: public, max-age=604800
+/hoc/img/*
+  Cache-Control: public, max-age=604800
+/og-default.png
+  Cache-Control: public, max-age=86400
+# Danh sách bài: trang đã gắn ?t=<phút> nên mỗi phút một địa chỉ; cho giữ đúng 60 giây là khớp.
+/tin/index.json
+  Cache-Control: public, max-age=60
+/hoc/index.json
+  Cache-Control: public, max-age=60
+# Font chữ tự host: tên file cố định theo kiểu chữ, cho trình duyệt giữ 30 ngày (đổi font thì đổi tên file).
+/fonts/*
+  Cache-Control: public, max-age=2592000
+# Logo sàn trong header (ảnh ghép): đổi nội dung thì đổi tên file (ex-logos-N.webp)
+/img/*
+  Cache-Control: public, max-age=2592000

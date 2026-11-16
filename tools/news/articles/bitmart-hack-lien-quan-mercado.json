@@ -1,0 +1,80 @@
+{
+ "slug": "bitmart-hack-lien-quan-mercado",
+ "slug_en": "bitmart-hack-linked-mercado-bitcoin",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "credit-mutuel-arkea-133-trieu-usd-san-giao-dich"
+  },
+  {
+   "kind": "news",
+   "slug": "bithumb-bi-xam-nhap-he-thong-noi-bo-lo-du-lieu"
+  }
+ ],
+ "cat": "ex",
+ "coin": "BTC",
+ "ts": "2026-11-05T18:25:00+07:00",
+ "event": "BitMart founder confirms Nov 2 2026 hack, suspects same group as Mercado Bitcoin; Bitquery traces ~$391k from BitMart-linked wallets and says Mercado drain continued ~4h after exchange declared it contained, total $48.6M across 10 chains",
+ "src_urls": [
+  "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+  "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring",
+  "https://www.bitquery.io/investigations/mercado-bitcoin-hack"
+ ],
+ "image": {
+  "src": "https://commons.wikimedia.org/wiki/File:Logo_Horizontal_logo_in_black.png",
+  "license": "CC BY",
+  "credit": "Logo: bitmart corporation ltd, CC BY 2.5, Wikimedia Commons",
+  "alt_vi": "Hacker đeo mặt nạ neon xanh với logo BitMart ở giữa",
+  "alt_en": "Hooded hacker in a blue neon mask with the BitMart logo in the center",
+  "caption_vi": "Sàn BitMart xác nhận bị tấn công vào ngày 2/11.",
+  "caption_en": "BitMart confirmed it was hacked on Nov. 2.",
+  "url": "/tin/img/bitmart-hack-lien-quan-mercado-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "BitMart xác nhận bị hack, nghi cùng nhóm tấn công Mercado Bitcoin",
+  "seo_title": "BitMart bị hack, nghi liên quan vụ Mercado",
+  "desc": "Sàn BitMart xác nhận bị hack ngày 2/11 và nghi cùng nhóm tấn công Mercado Bitcoin, nơi bị rút tiền thêm khoảng 4 giờ sau khi tuyên bố đã khống chế sự cố.",
+  "lead": "BitMart cho biết bị tấn công ngày 2/11 và nghi cùng nhóm đứng sau vụ hack Mercado Bitcoin; số liệu mới cho thấy Mercado vẫn bị rút tiền khoảng bốn giờ sau khi báo đã khống chế sự cố.",
+  "bullets": [
+   "Người sáng lập BitMart xác nhận sàn bị hack hôm 2/11, nói số tiền nhỏ nhưng chưa công bố con số, đồng thời cho biết đội ngũ an ninh đang thiếu người trầm trọng.",
+   "Bitquery truy được khoảng 391.000 USD từ các ví gắn với BitMart trên Base, Arbitrum và Optimism chảy vào địa chỉ của kẻ tấn công Mercado Bitcoin; BitMart chưa xác nhận con số này.",
+   "Tại Mercado, 36.042 địa chỉ nạp tiền bị rút tiếp khoảng bốn giờ sau thông báo khống chế sự cố; tổng tài sản bị lấy được truy ra là 48,6 triệu USD trên 10 blockchain."
+  ],
+  "body_html": "<p>Sàn BitMart cho biết đã bị tấn công vào ngày 2/11, và cuộc điều tra sơ bộ của sàn chỉ về cùng nhóm đứng sau vụ hack sàn Mercado Bitcoin (Brazil) trong cùng ngày. Công ty phân tích blockchain Bitquery cho rằng dòng tiền từ các ví gắn với BitMart đã chảy vào địa chỉ do kẻ tấn công kiểm soát trước khi Mercado bị rút tiền. Nguyên nhân của cả hai vụ vẫn chưa được xác định.</p>\n<h2>BitMart nói gì</h2>\n<p>Người sáng lập BitMart, ông Sheldon Xia, xác nhận sàn bị hack hôm 2/11 và mô tả số tiền liên quan là nhỏ, nhưng không công bố con số cụ thể. Theo Bitquery, khoảng 391.000 USD chuyển bất thường từ các ví chủ yếu gắn với BitMart trên ba mạng là Base, Arbitrum và Optimism đã đổ vào một địa chỉ do kẻ tấn công kiểm soát, địa chỉ này liên quan tới vụ Mercado Bitcoin. BitMart chưa xác nhận con số 391.000 USD.</p>\n<p>Ông Xia cũng thừa nhận đội ngũ an ninh của sàn đang thiếu người trầm trọng. Ông cho biết phải thuyết phục riêng từng nhân sự kỹ thuật chủ chốt ở lại duy trì hệ thống lõi, trong bối cảnh có đe doạ nhắm vào nhân viên và những cáo buộc trả đũa từ cựu nhân sự.</p>\n<h2>Bối cảnh: sàn đang trong giai đoạn đóng cửa</h2>\n<p>Hồi tháng 7, BitMart thông báo sẽ ngừng giao dịch từ 26/8 và chấm dứt hoạt động vào tháng 1/2027. Sau đó người dùng phản ánh việc rút tiền bị chậm và tài khoản bị đóng băng. Đầu tuần này sàn công bố đề xuất tái cơ cấu với ba phương án hoàn trả, gồm chia lại tài sản thanh khoản và phát hành token gắn với khoản thu hồi, dự kiến xin toà án phê duyệt vào tháng 12 hoặc tháng 1.</p>\n<h2>Vụ Mercado Bitcoin: số liệu mới</h2>\n<p>Cùng ngày, báo cáo của Bitquery về vụ tấn công vào Mercado Bitcoin, sàn mà <a href=\"/tin-tuc/mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien\">bị hack hơn 40 triệu USD và tạm dừng nạp rút</a>, cho thấy kẻ tấn công rút 36.042 địa chỉ nạp tiền của khách trên Ethereum trong khoảng 12:27 đến 16:56 UTC ngày 2/11. Sàn tuyên bố đã khống chế sự cố lúc 12:56 UTC, nghĩa là việc rút tiền còn kéo dài khoảng bốn giờ sau đó. Nhóm địa chỉ trên Ethereum này chứa khoảng 266.000 USD.</p>\n<p>Bitquery truy được 48,6 triệu USD tài sản bị lấy trên 10 blockchain, cao hơn mức hơn 40 triệu USD được báo ban đầu. Tether, Circle và Chainalysis đã giúp đóng băng hơn 15 triệu USD. Mercado cam kết bù đắp mọi khoản lỗ cho người dùng, dự kiến mở lại website ở chế độ chỉ xem vào 9/11, chưa có ngày nạp rút. Bitquery nhận định kẻ tấn công có thể đã xâm nhập hệ thống quản lý địa chỉ nạp tiền của khách.</p>\n<h2>Tác động tới trader</h2>\n<p>Hai vụ việc cho thấy rủi ro đối tác của sàn tập trung vẫn là rủi ro thật, nhất là với nơi đang trong quá trình đóng cửa và thiếu nhân sự an ninh. Với người giao dịch futures, tiền ký quỹ và số dư nằm trên sàn cũng chịu cùng rủi ro: sàn tạm dừng rút tiền có thể khiến vị thế và ký quỹ bị kẹt, trong khi thị trường vẫn biến động.</p>\n<p>Điểm cần theo dõi tiếp: BitMart có công bố số tiền mất và kế hoạch bù đắp hay không, Bitquery và các sàn có xác nhận được đường dẫn tiền chung, và Mercado có mở lại nạp rút theo lộ trình hay không. Bài này không dùng số liệu giá hay chỉ báo futures, vì tin chưa kéo theo biến động giá nào có thể đo được ở phiên này.</p>",
+  "keywords": [
+   "BitMart bị hack",
+   "Mercado Bitcoin",
+   "hack sàn giao dịch",
+   "Bitquery",
+   "rủi ro sàn tập trung"
+  ]
+ },
+ "en": {
+  "title": "BitMart Confirms Hack, Suspects Same Group Behind Mercado Bitcoin Attack",
+  "seo_title": "BitMart Hacked, Linked to Mercado Bitcoin Attack",
+  "desc": "BitMart confirms a Nov. 2 hack, suspects the group behind the Mercado Bitcoin attack, where draining went on four hours after it was called contained.",
+  "lead": "BitMart says it was hacked on Nov. 2 and suspects the group behind the Mercado Bitcoin breach, while new data shows Mercado's draining continued about four hours after it said the attack was contained.",
+  "bullets": [
+   "BitMart's founder confirmed the Nov. 2 hack and called the amount small without giving a figure, adding that the exchange's security team is severely understaffed.",
+   "Bitquery traced about $391,000 from BitMart-linked wallets on Base, Arbitrum and Optimism to the Mercado Bitcoin attacker's address; BitMart has not confirmed that figure.",
+   "At Mercado, 36,042 deposit addresses were drained for roughly four hours after the exchange said the breach was contained, and total stolen assets were traced to $48.6 million across 10 blockchains."
+  ],
+  "body_html": "<p>BitMart says it was hacked on Nov. 2, and its preliminary investigation points to the same group behind the attack on Brazil's Mercado Bitcoin the same day. Blockchain analytics firm Bitquery says funds from wallets tied to BitMart flowed to an attacker-controlled address before the Mercado drain began. The cause of both breaches remains unknown.</p>\n<h2>What BitMart said</h2>\n<p>BitMart founder Sheldon Xia confirmed the exchange was hacked on Nov. 2 and described the amount involved as small, without giving a figure. According to Bitquery, about $391,000 in suspicious transfers from wallets mostly associated with BitMart across Base, Arbitrum and Optimism went to an attacker-controlled address linked to the Mercado Bitcoin incident. BitMart has not confirmed that $391,000 figure.</p>\n<p>Xia also said the exchange's security team is severely understaffed. He said it took individual conversations to persuade some key technical staff to stay and keep core systems running, amid threats against employees and alleged retaliation by former staff.</p>\n<h2>Context: an exchange winding down</h2>\n<p>In July, BitMart announced it would stop trading on Aug. 26 and cease operations in January 2027. Users later reported delayed withdrawals and frozen accounts. Earlier this week the exchange published a restructuring proposal with three recovery options, including liquid asset distributions and recovery-linked tokens, and plans to seek court approval in December or January.</p>\n<h2>Mercado Bitcoin: new figures</h2>\n<p>A Bitquery report on the Mercado Bitcoin attack, the exchange that was <a href=\"/en/news/mercado-bitcoin-hacked-for-over-40m-pauses-withdrawals\">hacked for over $40 million and paused withdrawals</a>, shows the attacker drained 36,042 customer deposit addresses on Ethereum between 12:27 and 16:56 UTC on Nov. 2. The exchange said at 12:56 UTC that the breach was contained, so the draining continued for roughly four hours afterward. Those Ethereum addresses held about $266,000.</p>\n<p>Bitquery traced $48.6 million in stolen assets across 10 blockchains, above the initial estimate of more than $40 million. Tether, Circle and Chainalysis helped freeze more than $15 million. Mercado has pledged to cover all user losses and plans to reopen its website in view-only mode on Nov. 9, with no date set for deposits or withdrawals. Bitquery's findings suggest the attacker gained access to systems used to manage customer deposits.</p>\n<h2>What it means for traders</h2>\n<p>The two incidents show that counterparty risk at centralized exchanges is real, especially at a platform that is winding down and short on security staff. For futures traders, margin and balances held on an exchange carry the same risk: if withdrawals are suspended, positions and collateral can be stuck while markets keep moving.</p>\n<p>What to watch next: whether BitMart discloses its loss and a compensation plan, whether Bitquery and the exchanges confirm a shared flow of funds, and whether Mercado reopens deposits and withdrawals on schedule. This piece uses no price or futures-indicator figures because no measurable price move was tied to the news in this session.</p>",
+  "keywords": [
+   "BitMart hack",
+   "Mercado Bitcoin",
+   "exchange hack",
+   "Bitquery",
+   "centralized exchange risk"
+  ]
+ },
+ "cats": [
+  "ex"
+ ],
+ "dir": "tin-tuc"
+}

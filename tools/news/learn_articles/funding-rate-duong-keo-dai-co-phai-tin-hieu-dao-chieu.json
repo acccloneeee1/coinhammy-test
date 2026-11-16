@@ -1,0 +1,66 @@
+{
+ "slug": "funding-rate-duong-keo-dai-co-phai-tin-hieu-dao-chieu",
+ "cat": "mk",
+ "coin": "BTC",
+ "ts": "2026-10-29T03:20:00+07:00",
+ "image": {
+  "license": "own",
+  "credit": "",
+  "src": "owner-provided:funding-rate-cover",
+  "alt_vi": "Hai nhà giao dịch ngồi đối diện nhau, một bên phe long màu xanh, một bên phe short màu đỏ, giữa là đồng Bitcoin với mũi tên trao đổi hai chiều và bảng funding rate +0,010%",
+  "alt_en": "Two traders facing each other, the green long side and the red short side, with a Bitcoin coin between them, two-way exchange arrows and a +0.010% funding rate panel",
+  "url": "/hoc/img/funding-rate-duong-keo-dai-co-phai-tin-hieu-dao-chieu-h.jpg"
+ },
+ "images": [
+  {
+   "license": "chart",
+   "credit": "",
+   "alt_vi": "Biểu đồ nến 4 giờ của Bitcoin hợp đồng perpetual với đỉnh gần 84.900 USD quanh ngày 22/10 rồi lùi về vùng 80.000 USD",
+   "alt_en": "Bitcoin perpetual 4-hour candlestick chart with a high near 84,900 USD around October 22 and a pullback toward 80,000 USD",
+   "caption_vi": "Nến 4 giờ của Bitcoin: giá chạm đỉnh gần 84.900 USD quanh 22/10 rồi lùi về vùng 80.000 USD.",
+   "caption_en": "Bitcoin 4-hour candles: price hit a high near 84,900 USD around October 22, then pulled back toward 80,000 USD.",
+   "url": "/hoc/img/funding-rate-duong-keo-dai-co-phai-tin-hieu-dao-chieu-1.jpg"
+  }
+ ],
+ "vi": {
+  "title": "Funding rate dương kéo dài có phải tín hiệu đảo chiều không?",
+  "seo_title": "Funding rate dương kéo dài: đo gì, báo hiệu gì?",
+  "desc": "Funding rate dương 29/30 kỳ nhưng giá Bitcoin vẫn dao động 7% hai chiều. Giải thích funding rate và open interest đo điều gì, đọc cùng nhau ra sao.",
+  "lead": "Funding dương chỉ cho biết bên nào trả phí, không cho biết thị trường căng đến đâu; open interest mới là thước đo độ căng.",
+  "body_html": "<p>Funding rate dương nhiều ngày liền thường bị hiểu là dấu hiệu phe mua quá đông và giá sắp đảo chiều. Bài này kiểm tra cách hiểu đó bằng số liệu thật của Bitcoin trong 10 ngày gần đây, đồng thời giải thích funding rate và open interest thực sự đo điều gì.</p>\n<h2>Funding rate là gì và ai trả phí cho ai?</h2>\n<p>Funding rate (phí tài trợ) là khoản phí định kỳ giữa người mua (long) và người bán (short) trên hợp đồng vĩnh cửu, nhằm giữ giá hợp đồng bám sát giá giao ngay. Khi funding dương, bên long trả phí cho bên short; khi âm thì ngược lại.</p>\n<p>Điều quan trọng: funding chỉ cho biết <strong>bên nào đang trả phí</strong>, không cho biết thị trường đang căng đến mức nào.</p>\n<h2>Số liệu Bitcoin 10 ngày gần đây nói gì?</h2>\n<p>Từ 19 đến 28/10, hợp đồng BTCUSDT có 30 kỳ funding, trong đó 29 kỳ dương. Kỳ âm duy nhất là 08:00 ngày 22/10, ở mức âm 0,0014%. Có 5 kỳ chạm 0,01%, đúng mức nền mà sàn đặt sẵn.</p>\n<p>Cùng giai đoạn đó, giá Bitcoin chạy từ đáy 79.178 USD lên đỉnh 84.875 USD, biên độ khoảng 7%. Nến ngày 19/10 mở cửa ở 82.078 USD, còn giá cuối giai đoạn là 81.530 USD, gần như quay về chỗ cũ.</p>\n<p>[[img:1]]</p>\n<ul>\n<li>Funding dương gần như liên tục.</li>\n<li>Giá dao động mạnh cả hai chiều.</li>\n<li>Kết quả cuối cùng: giá đi một vòng rồi trở lại, không có cú đảo chiều nào do funding báo trước.</li>\n</ul>\n<h2>Vì sao funding một mình chưa đủ để đo độ căng?</h2>\n<p>Mức 0,01% mỗi 8 giờ nhân lên chưa tới 11% một năm. Với mức đòn bẩy trader thường dùng, đó là chi phí nhẹ. Bên long trả phí ở mức này giống như trả tiền gửi xe hơn là gánh một áp lực nặng.</p>\n<p>Thước đo độ căng nằm ở chỗ khác: <strong>open interest</strong>, tức tổng số hợp đồng đang mở. Số hợp đồng mở càng nhiều thì khi giá đổi hướng, lượng lệnh bị đóng hoặc bị thanh lý càng lớn. Bạn có thể dùng <a href=\"/cong-cu.html\">công cụ tính vị thế và giá thanh lý</a> để hình dung vị thế của mình nằm ở đâu so với các vùng đó.</p>\n<p>[[rel:1]]</p>\n<h2>Open interest đã thay đổi thế nào trong cùng giai đoạn?</h2>\n<ul>\n<li>Open interest Bitcoin chạm 98.002 BTC ngày 22/10, cao nhất trong 14 ngày, quy ra khoảng 8,24 tỷ USD.</li>\n<li>Đến 24/10 chỉ còn 93.266 BTC, giảm 4.736 BTC, tương đương khoảng 4,8%.</li>\n<li>Trong ba ngày này giá rơi từ đỉnh 84.875 USD xuống 79.178 USD, còn funding gần như không đổi.</li>\n</ul>\n<p>Hiểu theo nghĩa thông thường: vị thế được dựng lên rồi bị dọn bớt, trong khi funding không báo trước điều gì. Thứ biến động mạnh là số hợp đồng mở, không phải mức phí.</p>\n<p>Cần thận trọng: hai thứ này đi cùng nhau trong cửa sổ 14 ngày, nhưng không thể kết luận open interest giảm là nguyên nhân làm giá rơi. Cùng một đường giảm có thể do lệnh bị thanh lý, cũng có thể do người dùng tự đóng lệnh.</p>\n<h2>Điều gì sẽ chứng minh nhận định này sai?</h2>\n<p>Nếu funding vượt hẳn mức nền 0,01% trong nhiều kỳ liên tiếp, đồng thời open interest vượt 98.000 BTC mà giá không tiến thêm, khi đó funding đang mang thông tin mà 10 ngày vừa rồi chưa có và cần xem lại luận điểm.</p>\n<h2>Những mốc nên quan sát tiếp</h2>\n<ul>\n<li>Funding đổi dấu sang âm kéo dài trong lúc giá đi ngang. Lúc đó bên short mới là bên trả phí và câu chuyện đảo ngược.</li>\n<li>Open interest quay lại vùng 98.000 BTC, và phản ứng của giá tại đó.</li>\n</ul>\n<h2>Tóm lại</h2>\n<p>Đừng đọc funding rate một mình. Hãy đặt nó cạnh open interest và cạnh biểu đồ nến, rồi tự hỏi hai điều: số hợp đồng mở đang tăng hay giảm, và giá có đi cùng chiều với bên đang trả phí hay không. Ở 10 ngày này, ai chỉ dựa vào funding dương để bán khống sẽ phải gồng qua biên độ 7% mà không nhận được tín hiệu nào từ funding. Xem thêm <a href=\"/so-sanh.html\">so sánh các sàn</a> nếu bạn cần chọn nơi giao dịch hợp đồng tương lai.</p>",
+  "keywords": [
+   "funding rate",
+   "open interest",
+   "funding rate dương",
+   "hợp đồng vĩnh cửu",
+   "Bitcoin futures"
+  ]
+ },
+ "en": {
+  "title": "Does Long-Running Positive Funding Signal a Reversal?",
+  "seo_title": "Positive Funding Rate: What It Measures and Doesn't",
+  "desc": "Funding stayed positive for 29 of 30 periods, yet Bitcoin swung 7% both ways. Learn what funding rate and open interest measure and how to read them together.",
+  "lead": "Positive funding shows which side is paying, not how stretched the market is; open interest is the better gauge of crowding.",
+  "body_html": "<p>Several days of positive funding are often read as a sign that longs are overcrowded and a reversal is near. This article tests that idea against Bitcoin's own data from the past 10 days, and explains what funding rate and open interest actually measure.</p>\n<h2>What is the funding rate, and who pays whom?</h2>\n<p>The funding rate is a periodic payment between long and short traders on perpetual futures, designed to keep the contract price close to spot. When funding is positive, longs pay shorts; when it is negative, shorts pay longs.</p>\n<p>The key point: funding only tells you <strong>who is paying</strong>. It does not tell you how stretched the market is.</p>\n<h2>What did Bitcoin's last 10 days show?</h2>\n<p>From October 19 to 28, the BTCUSDT perpetual had 30 funding periods, and 29 of them were positive. The only negative one was the 08:00 period on October 22, at -0.0014%. Five periods hit 0.01%, the baseline level set by the exchange.</p>\n<p>Over the same stretch, Bitcoin ran from a low of 79,178 USD to a high of 84,875 USD, a range of roughly 7%. The October 19 daily candle opened at 82,078 USD, and the price at the end of the period was 81,530 USD, almost back where it started.</p>\n<p>[[img:1]]</p>\n<ul>\n<li>Funding stayed positive almost throughout.</li>\n<li>Price swung sharply in both directions.</li>\n<li>Net result: price made a full loop with no reversal signalled in advance by funding.</li>\n</ul>\n<h2>Why funding alone cannot measure how crowded a market is</h2>\n<p>A rate of 0.01% per 8 hours adds up to under 11% a year. Against the leverage traders typically use, that is a light cost, closer to a parking fee than a heavy burden on longs.</p>\n<p>The better gauge of crowding is <strong>open interest</strong>, the total number of open contracts. The more contracts are open, the larger the wave of closures and liquidations when price turns. A <a href=\"/cong-cu.html\">position size and liquidation price calculator</a> can help you see where your own position sits relative to those zones.</p>\n<p>[[rel:1]]</p>\n<h2>How did open interest move in the same period?</h2>\n<ul>\n<li>Bitcoin open interest peaked at 98,002 BTC on October 22, the highest in 14 days, worth about 8.24 billion USD.</li>\n<li>By October 24 it had fallen to 93,266 BTC, a drop of 4,736 BTC or about 4.8%.</li>\n<li>Over those three days price fell from the 84,875 USD high to 79,178 USD, while funding barely changed.</li>\n</ul>\n<p>Read plainly: positions were built up and then trimmed, and funding gave no advance warning. The thing that moved sharply was the number of open contracts, not the fee.</p>\n<p>A caution: the two series moved together within a 14-day window, but it cannot be shown that falling open interest caused the price drop. The same decline can come from liquidations or from traders closing positions voluntarily.</p>\n<h2>What would prove this view wrong?</h2>\n<p>If funding rises clearly above the 0.01% baseline for several periods in a row while open interest climbs past 98,000 BTC and price fails to advance, funding would be carrying information the past 10 days did not, and the thesis would need revisiting.</p>\n<h2>What to watch next</h2>\n<ul>\n<li>Funding turning negative for a sustained stretch while price moves sideways. Shorts become the payers and the story flips.</li>\n<li>Open interest returning to the 98,000 BTC area, and how price reacts there.</li>\n</ul>\n<h2>Summary</h2>\n<p>Do not read funding on its own. Put it next to open interest and the candles, and ask two questions: is the number of open contracts rising or falling, and is price moving in the same direction as the side paying the fee? Over these 10 days, anyone shorting on positive funding alone would have had to sit through a 7% swing with no signal from funding. See also our <a href=\"/so-sanh.html\">exchange comparison</a> if you are choosing where to trade futures.</p>",
+  "keywords": [
+   "funding rate",
+   "open interest",
+   "positive funding rate",
+   "perpetual futures",
+   "Bitcoin futures"
+  ]
+ },
+ "event": "Funding rate dương kéo dài có phải tín hiệu đảo chiều không?",
+ "slug_en": "does-long-running-positive-funding-signal-a-reversal",
+ "dir": "kien-thuc",
+ "related": [
+  {
+   "kind": "learn",
+   "slug": "open-interest-tang-khi-gia-giam-bao-hieu-dieu-gi"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-duoi-80000-usd-truoc-hop-fed-etf-hoi-110-trieu"
+  }
+ ]
+}

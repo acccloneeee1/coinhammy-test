@@ -1,0 +1,77 @@
+{
+ "slug": "thi-truong-crypto-10-11",
+ "slug_en": "crypto-market-today-nov-10",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "bitcoin-mat-80000-usd"
+  },
+  {
+   "kind": "news",
+   "slug": "bitcoin-etf-rut-rong-399-trieu-usd-ibit-xa-manh-nhat-tu-thang-6"
+  }
+ ],
+ "cat": "fut",
+ "cats": [
+  "fut",
+  "btc"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-10T08:00:00+07:00",
+ "event": "Daily crypto market wrap 2026-11-10",
+ "src_urls": [
+  "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
+  "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
+  "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target",
+  "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+  "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094"
+ ],
+ "image": {
+  "license": "chart",
+  "alt_vi": "Biểu đồ nến tuần của Bitcoin so với USDT",
+  "alt_en": "Bitcoin weekly candlestick chart against USDT",
+  "caption_vi": "Bitcoin khung tuần, nến hiện tại quanh 74.882 USD sau nhịp giảm từ vùng 87.000 USD.",
+  "caption_en": "Bitcoin weekly chart, the current candle near 74,882 USD after a pullback from the 87,000 USD area.",
+  "url": "/tin/img/thi-truong-crypto-10-11-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Thị trường crypto hôm nay (10/11): Bitcoin đóng tuần dưới MA 50, hơn 1 tỷ USD long bị thanh lý",
+  "seo_title": "Crypto hôm nay: BTC dưới MA50, thanh lý 1 tỷ",
+  "desc": "Bitcoin chạm đáy 11 tuần rồi quay lại quanh 75.000 USD, hơn 1 tỷ USD lệnh long bị thanh lý, ETF rút ròng 1,28 tỷ USD tuần trước và CPI Mỹ ra hôm nay nữa.",
+  "lead": "Bitcoin quay lại quanh 75.000 USD sau khi chạm vùng thấp nhất 11 tuần, nhưng thị trường futures vừa chứng kiến hơn 1 tỷ USD lệnh long bị thanh lý và dòng tiền ETF rút ròng mạnh.",
+  "bullets": [
+   "Bitcoin đóng tuần dưới đường trung bình 50 tuần, có lúc xuống gần 73.500 USD rồi hồi lên quanh 75.000 USD.",
+   "Thanh lý khoảng 1,1–1,2 tỷ USD trong 24 giờ, phần lớn là lệnh long, trong khi open interest giảm 3% còn khoảng 127 tỷ USD.",
+   "ETF Bitcoin Mỹ rút ròng khoảng 1,28 tỷ USD tuần trước, còn CPI tháng 10 của Mỹ công bố hôm nay."
+  ],
+  "body_html": "<p>Bitcoin mở đầu tuần mới trong trạng thái giằng co: giá chạm vùng thấp nhất trong 11 tuần, rồi quay lại quanh 75.000 USD khi chứng khoán Mỹ bật mạnh. Hơn 1 tỷ USD lệnh long bị thanh lý trong 24 giờ, còn dòng tiền ETF tuần trước ghi nhận mức rút ròng lớn nhất kể từ cuối tháng 6.</p>\n<h2>Bitcoin và Ether qua đêm</h2>\n<p>Bitcoin đóng tuần vừa rồi dưới đường trung bình động đơn giản 50 tuần, quanh 75.490 USD, sau bảy tuần liên tiếp nằm trên đường này. Chủ nhật, giá có lúc xuống gần 73.500 USD, mức thấp nhất từ 21/8. Sáng thứ Hai giá còn lùi dưới 74.000 USD trong chốc lát, trước khi hồi lên trên 75.000 USD sau giờ mở cửa Phố Wall và dao động quanh 74.900 USD.</p>\n<p>Ether yếu hơn: ETH giảm khoảng 5,9% về gần 2.100 USD sau khi đóng cửa chủ nhật dưới đường trung bình 200 ngày, lần đầu từ 18/8. Trong 100 đồng tiền lớn nhất, chỉ 5 đồng tăng từ 1% trở lên trong 24 giờ; nhóm token thanh toán giảm hơn 5%, DeFi giảm khoảng 3,5%.</p>\n<p>Chứng khoán diễn biến ngược chiều. Nasdaq và S&amp;P 500 đều tăng hơn 2% trong phiên thứ Hai khi giá dầu giảm, dù cổ phiếu Nvidia giảm mạnh sau thông tin liên quan đến Giám đốc điều hành Jensen Huang. Hai diễn biến này xảy ra cùng ngày, chưa có bằng chứng cho thấy cái này gây ra cái kia.</p>\n<h2>Futures: thanh lý và vị thế</h2>\n<p>Tổng thanh lý trên thị trường futures vào khoảng 1,1–1,2 tỷ USD trong 24 giờ, trong đó khoảng 1,04 tỷ USD là lệnh long. Ether chiếm hơn 500 triệu USD, Bitcoin khoảng 305–324 triệu USD. Lệnh lớn nhất là một vị thế long ETH-USDT trị giá 48,2 triệu USD trên Binance.</p>\n<ul>\n<li>Khối lượng futures tăng hơn 200% lên khoảng 180 tỷ USD, nhưng open interest (tổng giá trị hợp đồng đang mở) giảm 3% còn khoảng 127 tỷ USD, nghĩa là phần lớn vị thế bị đóng chứ chưa có làn sóng mở mới.</li>\n<li>Funding rate của BTC vẫn dương nhưng thấp hơn hôm thứ Năm; funding của ETH đã chuyển sang âm, tức bên short đang trả phí cho bên long.</li>\n<li>Biến động ngầm một tuần của BTC tăng lên khoảng 43% từ 33%, của ETH lên khoảng 60% từ 46%; độ lệch quyền chọn nghiêng về put, và bốn trong sáu hợp đồng BTC sôi động nhất là put ở vùng 70.000–72.000 USD.</li>\n</ul>\n<h2>Dòng tiền ETF và các tổ chức</h2>\n<p>Các quỹ ETF Bitcoin giao ngay tại Mỹ ghi nhận khoảng 1,28 tỷ USD rút ròng trong tuần trước, mức lớn nhất từ cuối tháng 6. IBIT của BlackRock rút 403 triệu USD riêng ngày thứ Sáu. Lũy kế từ đầu năm, nhóm 12 quỹ này đã chuyển sang rút ròng khoảng 914,1 triệu USD.</p>\n<p>Ở chiều ngược lại, Strategy báo cáo mua thêm 1.036 BTC trị giá khoảng 81,9 triệu USD, giá trung bình khoảng 79.012 USD mỗi BTC, nâng tổng nắm giữ lên 850.364 BTC với giá vốn trung bình khoảng 75.456 USD. Công ty bán cổ phiếu MSTR thu khoảng 283,8 triệu USD, đồng thời chi khoảng 188,3 triệu USD mua lại cổ phiếu ưu đãi STRC.</p>\n<h2>Điều cần theo dõi hôm nay</h2>\n<p>Báo cáo lạm phát tiêu dùng (CPI) tháng 10 của Mỹ công bố hôm nay. Thị trường đang định giá khoảng 80% khả năng Fed tăng lãi suất 0,25 điểm phần trăm vào tháng 12 sau báo cáo việc làm mạnh hơn dự báo, nên số liệu lệch kỳ vọng có thể làm giá biến động. Cần theo dõi thêm việc Bitcoin có lấy lại được đường trung bình 50 tuần trong các phiên tới hay không, và dòng tiền ETF những ngày đầu tuần.</p>\n<h2>Tác động tới trader</h2>\n<p>Thanh lý tập trung ở lệnh long cho thấy thị trường vừa được dọn bớt đòn bẩy phía mua: open interest giảm trong lúc khối lượng tăng vọt là dấu hiệu vị thế bị đóng cưỡng bức. Với trader futures, điều này thường làm giá nhạy hơn với tin vĩ mô vì đệm thanh khoản mỏng đi.</p>\n<p>Funding BTC thấp hơn và funding ETH âm cho thấy chi phí giữ long đã hạ nhiệt, nhưng độ lệch quyền chọn nghiêng về put cho thấy nhiều người đang mua bảo hiểm giảm giá. Độ biến động ngầm tăng nghĩa là biên dao động giá có thể rộng hơn bình thường quanh thời điểm công bố CPI; quản lý quy mô vị thế và đòn bẩy quan trọng hơn việc đoán hướng.</p>\n<p>Đây là thông tin tham khảo, không phải khuyến nghị mua bán.</p>",
+  "keywords": [
+   "thị trường crypto hôm nay",
+   "giá Bitcoin",
+   "thanh lý futures",
+   "dòng tiền ETF Bitcoin",
+   "funding rate"
+  ]
+ },
+ "en": {
+  "title": "Crypto Market Today (Nov 10): Bitcoin Closes Week Under 50-Week Average as $1B Longs Liquidated",
+  "seo_title": "Crypto Today: BTC Under 50-Week Average",
+  "desc": "Bitcoin hit an 11-week low then rebounded near 75,000 USD, over 1 billion USD of longs were liquidated, ETFs lost 1.28 billion USD and US CPI is due today.",
+  "lead": "Bitcoin is back near 75,000 USD after touching an 11-week low, but futures traders just saw more than 1 billion USD of longs liquidated and ETFs posted heavy net outflows.",
+  "bullets": [
+   "Bitcoin closed the week below its 50-week average, dipping near 73,500 USD before rebounding to around 75,000 USD.",
+   "Liquidations ran at roughly 1.1–1.2 billion USD in 24 hours, mostly longs, while open interest fell 3% to about 127 billion USD.",
+   "US spot Bitcoin ETFs lost about 1.28 billion USD last week, and October US CPI is due today."
+  ],
+  "body_html": "<p>Bitcoin started the week in a tug of war: the price touched an 11-week low, then recovered to around 75,000 USD as US equities rallied. More than 1 billion USD of long positions were liquidated in 24 hours, and last week's spot ETF flows showed the largest net outflow since late June.</p>\n<h2>Bitcoin and Ether overnight</h2>\n<p>Bitcoin closed last week below its 50-week simple moving average, near 75,490 USD, after seven straight weeks above the line. On Sunday the price dipped close to 73,500 USD, the lowest since Aug. 21. On Monday morning it briefly slipped under 74,000 USD, then rebounded above 75,000 USD after Wall Street opened and has since hovered near 74,900 USD.</p>\n<p>Ether was weaker: ETH fell about 5.9% to near 2,100 USD after closing Sunday below its 200-day moving average for the first time since Aug. 18. Among the 100 largest tokens, only five gained 1% or more over 24 hours; payment tokens fell more than 5% and DeFi tokens about 3.5%.</p>\n<p>Equities moved the other way. The Nasdaq and S&amp;P 500 both rose more than 2% on Monday as oil prices fell, even as Nvidia shares dropped sharply on reports involving CEO Jensen Huang. The two moves happened on the same day, and there is no evidence that one caused the other.</p>\n<h2>Futures: liquidations and positioning</h2>\n<p>Total futures liquidations came to roughly 1.1–1.2 billion USD over 24 hours, of which about 1.04 billion USD were longs. Ether accounted for more than 500 million USD and Bitcoin about 305–324 million USD. The largest single order was a 48.2 million USD ETH-USDT long on Binance.</p>\n<ul>\n<li>Futures volume jumped more than 200% to about 180 billion USD, yet open interest (the total value of open contracts) fell 3% to about 127 billion USD, which points to positions being closed rather than a new wave of positions being opened.</li>\n<li>BTC funding stayed positive but lower than last Thursday; ETH funding flipped negative, meaning shorts are paying longs.</li>\n<li>One-week implied volatility for BTC rose to about 43% from 33%, and for ETH to about 60% from 46%; option skew tilted toward puts, and four of BTC's six most active contracts are puts in the 70,000–72,000 USD zone.</li>\n</ul>\n<h2>ETF flows and institutions</h2>\n<p>US spot Bitcoin ETFs recorded about 1.28 billion USD in net outflows last week, the most since late June. BlackRock's IBIT lost 403 million USD on Friday alone. For the year to date, the 12 funds have turned net negative, with roughly 914.1 million USD of net outflows.</p>\n<p>On the other side, Strategy reported buying 1,036 BTC worth about 81.9 million USD at an average of about 79,012 USD per bitcoin, lifting its holdings to 850,364 BTC at an average cost of about 75,456 USD. It raised about 283.8 million USD by selling MSTR shares and spent about 188.3 million USD repurchasing STRC preferred shares.</p>\n<h2>What to watch today</h2>\n<p>The US consumer price index (CPI) for October is due today. Markets are pricing roughly an 80% chance of a quarter-point Fed rate hike in December after a stronger-than-expected jobs report, so a surprise in the data could move prices. Also watch whether Bitcoin can reclaim its 50-week average in the coming sessions, and whether ETF flows improve early in the week.</p>\n<h2>What it means for traders</h2>\n<p>Liquidations concentrated in longs show that buy-side leverage was just trimmed: open interest falling while volume surges is a sign of forced closures. For futures traders that usually makes price more sensitive to macro headlines because the liquidity cushion is thinner.</p>\n<p>Lower BTC funding and negative ETH funding suggest the cost of holding longs has cooled, but the put-heavy option skew shows many participants are buying downside protection. Higher implied volatility means the price range around the CPI release can be wider than usual; position size and leverage matter more than guessing direction.</p>\n<p>This is for information only, not a trading recommendation.</p>",
+  "keywords": [
+   "crypto market today",
+   "Bitcoin price",
+   "futures liquidations",
+   "Bitcoin ETF flows",
+   "funding rate"
+  ]
+ },
+ "dir": "tin-tuc"
+}

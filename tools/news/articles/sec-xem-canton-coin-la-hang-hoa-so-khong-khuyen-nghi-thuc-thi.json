@@ -1,0 +1,75 @@
+{
+ "slug": "sec-xem-canton-coin-la-hang-hoa-so-khong-khuyen-nghi-thuc-thi",
+ "cat": "alt",
+ "cats": [
+  "alt",
+  "reg"
+ ],
+ "coin": "CC",
+ "ts": "2026-11-04T11:35:00+07:00",
+ "event": "SEC Division of Corporation Finance no-action letter (Nov 3 2026) views Canton Coin as a digital commodity and won't recommend enforcement over its programmatic minting",
+ "src_urls": [
+  "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+  "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326",
+  "https://defiprime.com/sec-canton-coin-minting-no-action-letter",
+  "https://genfinity.io/2026/11/03/canton-coin-no-action-letter-digital-commodity-minting/"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/the-united-states-capitol-building-stands-under-a-cloudy-sky-8IKpOyBV-EE",
+  "license": "Unsplash",
+  "alt_vi": "Toà nhà Quốc hội Hoa Kỳ dưới bầu trời nhiều mây ở Washington, D.C.",
+  "alt_en": "The US Capitol building under a cloudy sky in Washington, D.C.",
+  "url": "/tin/img/sec-xem-canton-coin-la-hang-hoa-so-khong-khuyen-nghi-thuc-thi-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "SEC xem Canton Coin là hàng hoá số, không khuyến nghị xử lý việc phát hành token",
+  "seo_title": "SEC xem Canton Coin là hàng hoá số, không xử lý",
+  "desc": "Bộ phận Tài chính doanh nghiệp của SEC nói sẽ không khuyến nghị xử lý việc Canton Coin được phát hành tự động, và xem CC là hàng hoá số. CC tăng khoảng 4%.",
+  "lead": "Nhân viên bộ phận Tài chính doanh nghiệp của SEC xem Canton Coin là hàng hoá số và sẽ không khuyến nghị xử lý việc token được phát hành tự động mà không đăng ký, theo thư công bố ngày 3/11.",
+  "bullets": [
+   "Thư không hành động ngày 3/11 nêu rằng Canton Coin là hàng hoá số và việc Super Validator, Validator cùng nhà phát triển ứng dụng tạo token theo chương trình sẽ không bị khuyến nghị xử lý.",
+   "Thư chỉ nêu lập trường thực thi theo dữ kiện Digital Asset trình bày, không kết luận CC có phải chứng khoán hay không và không phê duyệt sản phẩm giao dịch nào.",
+   "Dữ liệu giá sau tin cho thấy CC tăng khoảng 4%, quanh mức 0,097 USD, phản ứng khá khiêm tốn so với tầm quan trọng pháp lý của thư."
+  ],
+  "body_html": "<p>Bộ phận Tài chính doanh nghiệp (Division of Corporation Finance) của SEC ngày 3/11 công bố một thư không hành động (no-action letter) về Canton Coin (CC). Theo thư, đội ngũ nhân viên của bộ phận này xem CC là \"hàng hoá số\" (digital commodity) và sẽ không khuyến nghị xử lý việc token được phát hành tự động trên mạng Canton mà không đăng ký theo Mục 5 Đạo luật Chứng khoán hay Mục 12(g) Đạo luật Giao dịch chứng khoán.</p>\n<h2>Thư của SEC nói gì</h2>\n<p>Thư trả lời một đề nghị gửi ngày 30/10 từ phía Digital Asset, công ty phát triển giao thức Canton. Phó cố vấn trưởng Jonathan Ingram ký thư. Nhân viên SEC dựa trên hai điều mà bên đề nghị trình bày: giá trị của CC đến từ hoạt động tự động của mạng Canton cùng quan hệ cung cầu, chứ không từ lợi nhuận kỳ vọng nhờ nỗ lực quản lý của người khác; và mạng không có \"bên trung tâm\" theo định nghĩa trong văn bản diễn giải tháng 3/2026 của SEC.</p>\n<p>Phạm vi được giới hạn khá chặt. Thư chỉ nêu lập trường về việc thực thi, không đưa ra kết luận pháp lý về việc CC có phải chứng khoán hay không, và nói rõ nếu dữ kiện khác đi thì kết luận có thể khác. Thư cũng không phê duyệt sản phẩm giao dịch trên sàn nào dựa trên CC.</p>\n<h2>Cách CC được phát hành</h2>\n<p>Theo hồ sơ đề nghị, Canton chạy từ tháng 6/2024 và không có đợt chào bán tiền mã hoá lần đầu (ICO), không phát hành trước (pre-mine) hay bán trước khi ra mắt. CC được tạo ra theo chương trình cho ba nhóm: Super Validator (nhà xác thực siêu cấp, lo sắp xếp và xác nhận giao dịch, cùng quản trị), Validator (vận hành nút tham gia) và nhà cung cấp ứng dụng kết nối với Global Synchronizer. Từ tháng 2/2026, 5% lượng CC mới được trích vào một quỹ phát triển.</p>\n<p>Phí mạng được định giá bằng USD và giao thức đốt toàn bộ số CC dùng để trả phí, không phần nào chảy về Digital Asset hay tổ chức nào khác. Lượng phát hành mới giảm dần trong mười năm. Digital Asset cho biết họ không hỗ trợ giá hay quảng bá token như một khoản đầu tư, và việc nắm giữ CC không mang lại lãi suất hay quyền hưởng lợi nhuận.</p>\n<h2>Quản trị: 13 nhà vận hành, mỗi bên một phiếu</h2>\n<p>Theo số liệu Digital Asset nêu đến ngày 30/9, Global Synchronizer chạy trên khoảng 60 Super Validator, thuộc 13 nhà vận hành nút, mỗi nhà một phiếu. Thay đổi giao thức cần ít nhất hai phần ba số nhà vận hành đồng ý, và nắm CC không đem lại quyền biểu quyết. Digital Asset vận hành hai trong 13 nút nên không thể tự quyết một mình. Đây là các tuyên bố của bên nộp hồ sơ, không phải kết quả kiểm toán độc lập.</p>\n<p>Về quy mô, hồ sơ nêu hơn 700 validator và hơn 120 ứng dụng trên mạng, những con số do chính công ty công bố.</p>\n<h2>Phản ứng và bối cảnh</h2>\n<p>Đối tác Miles Jennings của quỹ a16z crypto, nhà đầu tư dẫn dắt vòng gọi vốn 355 triệu USD của Digital Asset hồi tháng 6, viết trên X rằng \"token mạng là hàng hoá số\". Tháng 5, 21Shares trở thành đơn vị phát hành ETF đầu tiên ở Mỹ cung cấp mức độ tiếp xúc trực tiếp với CC. Dữ liệu giá sau tin cho thấy CC tăng khoảng 4%, quanh mức 0,097 USD, một phản ứng khá khiêm tốn.</p>\n<h2>Tác động tới trader</h2>\n<p>Thư không thay đổi quy định chung và chỉ áp dụng cho các dữ kiện CC đã nêu, nên đừng hiểu rộng thành \"SEC đã gỡ vòng kim cô cho mọi altcoin\". Tuy nhiên đây là một tiền lệ cụ thể: dự án khác có thể dùng làm khuôn mẫu khi trình bày về quản trị, dòng phí và vai trò của đội phát triển để xin lập trường tương tự.</p>\n<p>Với thị trường phái sinh, mức tăng chỉ khoảng 4% cho thấy tin này chưa tạo sóng mạnh. Chúng mình chưa có số liệu funding rate hay open interest riêng của CC ở phiên này, nên không thể nói vị thế futures đang nghiêng về bên nào. Điều cần theo dõi: dự án nào tiếp theo nộp đề nghị tương tự, phản ứng của các sàn niêm yết đối với CC, và việc SEC có trả lời các đề nghị khác theo cùng hướng hay không. Token vốn có thanh khoản mỏng thường biến động mạnh quanh tin pháp lý, nên cần cân nhắc đòn bẩy.</p>",
+  "keywords": [
+   "Canton Coin",
+   "SEC Canton Coin",
+   "hàng hoá số",
+   "thư không hành động",
+   "Digital Asset"
+  ]
+ },
+ "en": {
+  "title": "SEC Staff Calls Canton Coin a Digital Commodity in No-Action Letter",
+  "seo_title": "SEC Calls Canton Coin a Digital Commodity in Letter",
+  "desc": "SEC corporation finance staff said they view Canton Coin as a digital commodity and won't recommend enforcement over its programmatic minting. CC rose about 4%.",
+  "lead": "SEC corporation finance staff view Canton Coin as a digital commodity and will not recommend enforcement over its unregistered programmatic minting, according to a letter published November 3.",
+  "bullets": [
+   "A no-action letter dated November 3 says Canton Coin is a digital commodity, and staff will not recommend enforcement if Super Validators, Validators and app providers mint it programmatically.",
+   "The letter states an enforcement position based on facts Digital Asset supplied, reaches no conclusion on whether CC is a security, and approves no exchange-traded product.",
+   "Price data after the news showed CC up about 4%, near $0.097, a modest reaction compared with the legal weight of the letter."
+  ],
+  "body_html": "<p>The SEC's Division of Corporation Finance published a no-action letter on Canton Coin (CC) on November 3. In it, staff said they view CC as a \"digital commodity\" and would not recommend enforcement if the token is minted programmatically on the Canton Network without registration under Section 5 of the Securities Act or Section 12(g) of the Exchange Act.</p>\n<h2>What the letter says</h2>\n<p>The letter answers an October 30 request filed on behalf of Digital Asset, the developer behind the Canton protocol, and is signed by Deputy Chief Counsel Jonathan Ingram. Staff leaned on two representations from the requester: that CC's value comes from the programmatic operation of the network and from supply and demand rather than profits expected from others' managerial efforts, and that the network has no \"central party\" as defined in the SEC's March 2026 interpretation.</p>\n<p>The scope is narrow. The letter states an enforcement position only, reaches no legal conclusion on whether CC is a security, and warns that different facts could lead to a different outcome. It also does not approve any exchange-traded product tied to CC.</p>\n<h2>How CC is issued</h2>\n<p>According to the request, the network has run since June 2024 with no initial coin offering, pre-mine or pre-launch sale. CC is minted programmatically for three groups: Super Validators, which sequence and validate transactions and take part in governance; Validators, which run participant nodes; and application providers connected to the Global Synchronizer. Since February 2026, 5% of newly mintable CC goes to a development fund.</p>\n<p>Network fees are priced in US dollars, and the protocol burns every CC spent on them, with no share going to Digital Asset or anyone else. New issuance declines over ten years. Digital Asset says it does not support the token's price or market it as an investment, and that holding CC carries no yield or right to profits.</p>\n<h2>Governance: 13 operators, one vote each</h2>\n<p>By Digital Asset's figures as of September 30, the Global Synchronizer runs on roughly 60 Super Validators operated by 13 node operators, each with one vote. Protocol changes need approval from at least two-thirds of the operators, and holding CC confers no voting power. Digital Asset runs two of the 13 nodes, so it cannot decide outcomes alone. These are the applicant's own statements, not an independent audit.</p>\n<p>The request also cites more than 700 validators and more than 120 applications on the network, again company-reported numbers.</p>\n<h2>Reaction and context</h2>\n<p>a16z crypto partner Miles Jennings, whose firm led Digital Asset's $355 million raise in June, wrote on X that \"network tokens are digital commodities.\" In May, 21Shares became the first US ETF issuer to offer direct exposure to CC. Price data after the news showed CC up about 4%, near $0.097, a modest reaction.</p>\n<h2>What it means for traders</h2>\n<p>The letter does not change the rules for the whole market and covers only the facts CC described, so it should not be read as a blanket green light for altcoins. It is, however, a concrete precedent: other projects can use it as a template for documenting governance, fee flows and the developer's role when they ask for similar treatment.</p>\n<p>For derivatives traders, a move of only about 4% suggests the news did not trigger a strong rally. We did not pull funding-rate or open-interest data specific to CC for this report, so there is no basis to say which way futures positioning leans. Worth watching: which project files a similar request next, how exchanges that list CC respond, and whether the SEC answers other requests in the same direction. Thinly traded tokens often swing sharply around regulatory headlines, so leverage deserves caution.</p>",
+  "keywords": [
+   "Canton Coin",
+   "SEC Canton Coin",
+   "digital commodity",
+   "no-action letter",
+   "Digital Asset"
+  ]
+ },
+ "related": [
+  {
+   "kind": "news",
+   "slug": "dtcc-token-hoa-chung-khoan-phao-wall-street-len-blockchain"
+  },
+  {
+   "kind": "news",
+   "slug": "new-jersey-rut-lenh-cam-staking-coinbase"
+  }
+ ],
+ "dir": "tin-tuc",
+ "slug_en": "sec-staff-calls-canton-coin-a-digital-commodity-in-no-action"
+}

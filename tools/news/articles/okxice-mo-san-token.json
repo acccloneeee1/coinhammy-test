@@ -1,0 +1,77 @@
+{
+ "slug": "okxice-mo-san-token",
+ "slug_en": "okxice-opens-tokenized-stock-venue",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "kraken-xstocks-200-co-phieu"
+  },
+  {
+   "kind": "news",
+   "slug": "nyse-chon-avalanche-avax-tang"
+  },
+  {
+   "kind": "news",
+   "slug": "cftc-cho-phep-perpetual-co-phieu-bi-kien-cung-ngay"
+  }
+ ],
+ "cat": "ex",
+ "coin": "BTC",
+ "ts": "2026-11-12T18:40:00+07:00",
+ "event": "OKXICE opens tokenized securities venue Nov 23 with 70+ assets after 56 companies objected",
+ "src_urls": [
+  "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+  "https://cointelegraph.com/news/spacex-tokenization-okxice"
+ ],
+ "image": {
+  "src": "https://unsplash.com/photos/close-up-photo-of-monitor-displaying-graph-Wb63zqJ5gnE",
+  "license": "Unsplash",
+  "credit": "",
+  "alt_vi": "Ảnh cận cảnh màn hình hiển thị biểu đồ giá trong một phiên giao dịch trực tiếp",
+  "alt_en": "Close-up of a monitor showing stock charts during a live trading session",
+  "caption_vi": "Ảnh minh hoạ, không gắn với sàn nào: biểu đồ cổ phiếu trên màn hình trong phiên giao dịch.",
+  "caption_en": "Illustrative image, not tied to any exchange: stock charts on a monitor during a live trading session.",
+  "url": "/tin/img/okxice-mo-san-token-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "OKXICE mở sàn cổ phiếu token hoá từ 23/11 sau khi nhiều công ty từ chối niêm yết",
+  "seo_title": "OKXICE mở sàn cổ phiếu token hoá từ 23/11",
+  "desc": "OKXICE mở sàn cổ phiếu token hoá cho khách Mỹ đủ điều kiện từ 23/11 với hơn 70 tài sản, sau khi ít nhất 56 công ty, trong đó có Tesla và SpaceX, phản đối.",
+  "lead": "OKX và ICE, công ty mẹ của NYSE, sẽ mở sàn giao dịch cổ phiếu token hoá vào ngày 23/11 với hơn 70 tài sản, dù nhiều công ty lớn đã từ chối đưa cổ phiếu của mình lên sàn.",
+  "bullets": [
+   "Sàn mở ngày 23/11 với hơn 70 tài sản gồm cổ phiếu, quỹ ETF và cổ phiếu ưu đãi của Strategy, chỉ phục vụ khách Mỹ đủ điều kiện.",
+   "Ít nhất 56 công ty, trong đó có Tesla, SpaceX và Amazon, đã phản đối việc token hoá cổ phiếu của mình giao dịch trên sàn này.",
+   "Theo khung miễn trừ của SEC, công ty có 30 ngày để phản đối, và việc phản đối giữ token của họ ra khỏi sàn."
+  ],
+  "body_html": "<p>Sàn giao dịch cổ phiếu token hoá do OKX và ICE lập ra sẽ mở cửa vào ngày 23/11. Lúc công bố, sàn đã có hơn 70 tài sản, trong đó có 59 quỹ ETF của Direxion. Khách hàng Mỹ đủ điều kiện có thể giao dịch 24/7 ngay trong ứng dụng OKX.</p><h2>Danh sách niêm yết đổi khác</h2><p>Trước đó, nhiều công ty lớn đã từ chối. Theo thông báo cập nhật, ít nhất 56 công ty phản đối việc token hoá cổ phiếu của mình giao dịch trên sàn, trong đó có Tesla, SpaceX, Amazon, Netflix và Nvidia. Lần này, danh sách ra mắt lại gồm các công ty đối tác tiền số: Coinbase, Circle, Robinhood, Strategy, BitGo và Securitize. Strategy cho biết sẽ đưa cả cổ phiếu ưu đãi STRC lên sàn.</p><h2>Vì sao công ty có quyền từ chối</h2><p>Sàn hoạt động theo khung miễn trừ đổi mới mà SEC công bố hồi tháng 9, sau khi dự luật Clarity không qua được Thượng viện. Theo khung này, công ty có 30 ngày để phản đối việc bên thứ ba token hoá cổ phiếu của họ. Nếu phản đối, token đó sẽ không được niêm yết trên sàn. Trong bối cảnh này, dịch vụ xStocks của Kraken cũng đã đưa hơn 200 cổ phiếu Anh và EU lên chuỗi. Các nhà phân tích theo dõi sàn này nhiều khả năng sẽ chú ý đến số công ty tham gia trong những tuần tới, vì mỗi lần phản đối đều thu hẹp danh sách cổ phiếu có thể giao dịch và ảnh hưởng tới độ sâu thị trường ban đầu.</p><h2>Cơ chế giao dịch</h2><p>Mỗi token được đảm bảo 1:1 bằng một cổ phiếu thật, theo thông báo của sàn token còn mang quyền cổ tức và quyền biểu quyết. Việc phát hành token do Securitize thực hiện. Giao dịch chạy qua các pool thanh khoản tự động trên Uniswap v4, trên mạng layer 2 X Layer của OKX, và khách giữ token trong ví tự quản.</p><h2>Tác động tới trader</h2><p>Với trader futures, điểm đáng theo dõi là cổ phiếu token hoá sẽ giao dịch ngoài giờ mở cửa của thị trường Mỹ. Giá ở những thời điểm này có thể lệch so với giá cổ phiếu gốc, và do sàn mới mở nên thanh khoản trong pool có thể mỏng, dẫn tới trượt giá lớn hơn khi khối lượng lệnh tăng. Cần theo dõi thêm ba việc: ngày mở cửa 23/11 có giữ đúng không, danh sách phản đối có thay đổi thêm không, và thanh khoản thực tế trong những tuần đầu.</p>",
+  "keywords": [
+   "okxice",
+   "cổ phiếu token hoá",
+   "tokenized stock",
+   "sàn giao dịch OKX"
+  ]
+ },
+ "en": {
+  "title": "OKXICE Opens Tokenized Stock Venue Nov 23 as Major Companies Refuse Listings",
+  "seo_title": "OKXICE Tokenized Stock Venue Opens Nov 23",
+  "desc": "OKXICE opens its tokenized stock venue to eligible US customers on Nov 23 with 70+ assets, after at least 56 companies, including Tesla, objected to listings.",
+  "lead": "OKX and ICE, the parent company of the NYSE, will open a tokenized stock trading venue on Nov 23 with more than 70 assets, even as many large companies have refused to have their shares listed on it.",
+  "bullets": [
+   "The venue opens Nov 23 with more than 70 assets, including stocks, ETFs and Strategy's preferred shares, for eligible US customers only.",
+   "At least 56 companies, including Tesla, SpaceX and Amazon, have objected to tokenized versions of their shares trading on the venue.",
+   "Under the SEC innovation exemption, companies have 30 days to object, and an objection keeps their tokenized shares off the venue."
+  ],
+  "body_html": "<p>The tokenized securities venue run by OKX and ICE will open on Nov 23. At announcement it had more than 70 assets, including 59 Direxion ETFs. Eligible US customers will be able to trade around the clock in the OKX app.</p><h2>A different list of launch names</h2><p>Many large companies have said no. According to the updated notice, at least 56 companies have objected to tokenized versions of their shares trading on the venue, including Tesla, SpaceX, Amazon, Netflix and Nvidia. The launch lineup instead features crypto-linked firms: Coinbase, Circle, Robinhood, Strategy, BitGo and Securitize. Strategy said it would also list its STRC preferred stock.</p><h2>Why companies can say no</h2><p>The venue operates under the SEC innovation exemption the agency unveiled in September, after the Clarity Act stalled in the Senate. Under the exemption, companies can object within 30 days to third-party tokenized versions of their stock, which keeps those tokens off a given venue. Kraken's xStocks service has taken a different route, tokenizing more than 200 UK and EU shares. Analysts following the venue will likely focus on how many issuers join over the coming weeks, since each objection narrows the set of shares that can trade there and shapes the depth of the initial market.</p><h2>How trading works</h2><p>According to the announcement, each token is backed one-for-one by a real share and carries dividends and voting rights. Securitize provides the tokenization. Trading runs through automated market maker pools built on Uniswap v4 on X Layer, OKX's layer-2 network, and customers hold their tokens in self-custodial wallets.</p><h2>What it means for traders</h2><p>For futures traders, the key point is that tokenized stocks will trade outside US market hours. Prices in those hours can drift from the underlying shares, and because the pools are new, liquidity may be thin, so slippage could grow when order sizes increase. Three things are worth watching: whether the Nov 23 date holds, whether the objection list changes again, and how much liquidity the pools actually attract in their first weeks. For now, the practical effect is limited to eligible US accounts, so the venue's early volume will be a useful signal of demand for tokenized equities.</p>",
+  "keywords": [
+   "okxice",
+   "tokenized stocks",
+   "OKX tokenized securities",
+   "tokenized equities venue"
+  ]
+ },
+ "cats": [
+  "ex"
+ ],
+ "dir": "tin-tuc"
+}

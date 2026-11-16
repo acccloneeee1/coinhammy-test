@@ -1,0 +1,75 @@
+{
+ "slug": "rune-tang-10-thorchain-mo-lai-tien-hack-binance",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "binance-rut-rong-364-ty-usd-safu-giam-mot-nua-btc"
+  },
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  }
+ ],
+ "cat": "alt",
+ "cats": [
+  "alt",
+  "ex"
+ ],
+ "coin": "RUNE",
+ "ts": "2026-11-05T11:40:00+07:00",
+ "event": "THORChain RUNE rises 10.6% to $0.637 on Nov 4 2026 as swaps reopen on most chains after Oct 31 halt, while North Korea-linked hackers keep laundering Binance hack proceeds through it",
+ "src_urls": [
+  "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+  "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
+  "https://cointelegraph.com/markets/rune-token-surges-binance-hack"
+ ],
+ "image": {
+  "license": "chart",
+  "alt_vi": "Biểu đồ nến 4 giờ RUNE/USDT trên Binance, giá rơi về quanh 0,50 USD rồi hồi lên khoảng 0,65 USD",
+  "alt_en": "RUNE/USDT 4-hour candlestick chart on Binance showing a drop to about $0.50 and a rebound to around $0.65",
+  "url": "/tin/img/rune-tang-10-thorchain-mo-lai-tien-hack-binance-h.jpg",
+  "caption_vi": "RUNE/USDT khung 4 giờ: giá rơi về vùng 0,50 USD hôm 2/11 rồi hồi lên quanh 0,65 USD.",
+  "caption_en": "RUNE/USDT 4-hour chart: price fell to the $0.50 area on Nov 2, then rebounded to around $0.65."
+ },
+ "images": [],
+ "vi": {
+  "title": "RUNE tăng 10% khi THORChain mở lại, tiền hack Binance vẫn bị rửa qua đây",
+  "seo_title": "RUNE tăng 10% khi THORChain mở lại giao dịch",
+  "desc": "RUNE tăng 10,6% lên 0,637 USD khi THORChain mở lại giao dịch sau đợt dừng 31/10, trong lúc hacker vụ Binance 6,3 tỷ USD tiếp tục đổi tiền hack sang BTC.",
+  "lead": "RUNE của THORChain tăng 10,6% trong phiên 4/11 khi giao thức mở lại giao dịch trên phần lớn các chuỗi, còn dòng tiền hack Binance vẫn chảy qua đây.",
+  "bullets": [
+   "RUNE tăng 10,6% lên 0,637 USD ngày 4/11 sau khi THORChain khôi phục giao dịch trên Bitcoin, Ethereum và một số chuỗi khác từ đợt dừng 31/10.",
+   "Phân tích on-chain cho thấy khoảng 48,3 triệu USD từ vụ hack Binance đã được đổi qua THORChain và khoảng 81% số SOL bị lấy đã được di chuyển.",
+   "THORChain từ chối chặn từng giao dịch, nói chỉ có thể tạm dừng một chuỗi hoặc cả mạng, trong khi FBI kêu gọi các node chặn tiền liên quan."
+  ],
+  "body_html": "<p>Token RUNE của THORChain tăng 10,6% lên 0,637 USD trong phiên 4/11, khi giao thức hoán đổi xuyên chuỗi này mở lại giao dịch trên phần lớn các chuỗi sau đợt tạm dừng từ ngày 31/10. Cùng lúc, các phân tích on-chain cho thấy nhóm hacker bị FBI gắn với vụ trộm 6,3 tỷ USD khỏi Binance đang tiếp tục đưa tiền qua THORChain để đổi sang Bitcoin.</p>\n<h2>THORChain dừng rồi mở lại giao dịch</h2>\n<p>Ngày 31/10, THORChain tạm dừng giao dịch sau khi một đợt tổ chức lại khối (reorg) trên Ethereum làm lộ lỗi trong cơ chế hoàn tiền: mạng đã trả ra 10 ETH mà các vault chưa hề nhận được. Sự cố này kích hoạt cơ chế dừng giao dịch. Đến thứ Tư 4/11, giao dịch được khôi phục trên Bitcoin, Ethereum và một số chuỗi khác, nhưng không phải tất cả.</p>\n<p>Trước đó, ngày 30/10, RUNE đã tăng hơn 13% từ vùng đáy cục bộ 0,59 USD lên khoảng 0,67 USD khi các nhà phân tích chỉ ra rằng tiền bị đánh cắp từ Binance, và cả vụ Bitget hồi tháng 9, từng đi qua giao thức này. Biểu đồ bốn giờ cho thấy giá sau đó rơi về quanh 0,50 USD vào đầu tháng 11 rồi hồi lại, và hiện giao dịch quanh 0,65 USD trên Binance.</p>\n<h2>Tiền hack Binance chảy qua THORChain thế nào</h2>\n<p>FBI quy kết vụ trộm cho nhóm TraderTraitor có liên hệ với Triều Tiên trong cảnh báo ngày 31/10, đồng thời kêu gọi các nhà cung cấp dịch vụ crypto, kể cả các node của THORChain, chặn những giao dịch liên quan. Chính phía Bình Nhưỡng bác bỏ cáo buộc là &quot;luận điệu vô lý&quot;.</p>\n<p>Theo phân tích của SomaXBT ngày 1/11, kẻ tấn công đã hoán đổi khoảng 48,3 triệu USD qua THORChain và nhận về 42,7 triệu USD, tức hao hụt khoảng 12% do phí và trượt giá. Có 2.697 lượt nạp vào giao thức, mang lại khoảng 95.000 USD phí cho các giao diện affiliate. Con số này còn nhỏ so với quy mô vụ trộm, nhưng cho thấy hướng đi của dòng tiền.</p>\n<p>Lookonchain ghi nhận cách làm cụ thể: SOL bị đánh cắp được tách qua nhiều ví, bán lấy USDC, chuyển cầu sang Ethereum để mua ETH, rồi đổi sang BTC qua THORChain. Theo dữ liệu của Arkham, các ví thuộc nhóm hacker còn giữ 182.443 SOL (khoảng 16,9 triệu USD), tương đương 18,8% trong tổng 970.522 SOL bị lấy, nghĩa là khoảng 81% đã được di chuyển. Elliptic dự báo kẻ tấn công sẽ tiếp tục đổi thêm ETH sang BTC theo các giao dịch nhỏ hơn, và cho rằng lượng tiền thật sự đã rút ra tiền mặt là không đáng kể.</p>\n<h2>Cuộc tranh luận về việc chặn giao dịch</h2>\n<p>CEO Bitget Gracy Chen từng kêu gọi THORChain chặn các địa chỉ liên quan, với lập luận rằng phi tập trung là nguyên tắc thiết kế chứ không phải tấm khiên cho việc xử lý tiền bị đánh cắp đã biết. THORChain từ chối, cho biết giao thức không có cách chặn từng giao dịch riêng lẻ, chỉ có thể tạm dừng một chuỗi hoặc toàn mạng. Chainalysis nhận xét đợt tạm dừng vô tình làm chậm hoạt động rửa tiền.</p>\n<p>Về phía Binance, sàn cho biết hôm 3/11 rằng khoảng 2,85 tỷ USD đã bị đóng băng và khoảng 98% số token bị ảnh hưởng đã được bù bằng tiền của công ty.</p>\n<h2>Tác động tới trader</h2>\n<p>Giá RUNE dao động mạnh theo từng diễn biến của vụ hack: tăng hơn 13% ngày 30/10, rơi về quanh 0,50 USD đầu tháng 11, rồi tăng 10,6% ngày 4/11. Với trader futures, đây là kiểu token mà giá bị kéo bởi tin tức và áp lực thanh khoản nhiều hơn là bởi nền tảng, nên biên độ nến lớn và nguy cơ bị quét lệnh theo cả hai hướng đều cao.</p>\n<p>Cơ chế cần hiểu: doanh thu phí của THORChain tăng khi khối lượng hoán đổi tăng, nên dòng tiền rửa qua giao thức có thể hỗ trợ giá RUNE trong ngắn hạn. Ngược lại, áp lực pháp lý, cảnh báo của FBI hoặc một đợt tạm dừng mới có thể đảo chiều nhanh. Nguồn cung thanh khoản mỏng khiến phản ứng giá thường quá đà.</p>\n<p>Những điều cần theo dõi tiếp: THORChain mở lại hết các chuỗi hay không, các node có bắt đầu chặn giao dịch theo đề nghị của FBI không, và dòng tiền hack còn lại, như phần SOL chưa di chuyển, sẽ đi đường nào. Bài này chỉ cung cấp thông tin, không phải khuyến nghị giao dịch.</p>",
+  "keywords": [
+   "RUNE",
+   "THORChain",
+   "hack Binance",
+   "TraderTraitor",
+   "rửa tiền crypto"
+  ]
+ },
+ "en": {
+  "title": "RUNE Jumps 10% as THORChain Reopens, Binance Hack Funds Still Flow",
+  "seo_title": "RUNE Jumps 10% as THORChain Reopens Trading",
+  "desc": "RUNE rose 10.6% to $0.637 as THORChain reopened most chains after its Oct. 31 halt, while Binance hack funds keep moving through the protocol into BTC.",
+  "lead": "THORChain's RUNE rose 10.6% on Nov. 4 as the protocol reopened most chains, while funds from the $6.3 billion Binance theft keep moving through it.",
+  "bullets": [
+   "RUNE rose 10.6% to $0.637 on Nov. 4 after THORChain restored trading on Bitcoin, Ethereum and several other chains following its Oct. 31 halt.",
+   "On-chain analysts estimate about $48.3 million of the Binance loot was swapped through THORChain, and roughly 81% of the stolen SOL has already moved.",
+   "THORChain refused to block individual swaps, saying it can only pause one chain or the whole network, while the FBI urged nodes to block related funds."
+  ],
+  "body_html": "<p>THORChain's RUNE token rose 10.6% to $0.637 on Nov. 4 as the cross-chain swap protocol reopened trading on most chains after pausing on Oct. 31. At the same time, on-chain analysts say the hackers the FBI links to the $6.3 billion Binance theft keep routing funds through THORChain to convert them into Bitcoin.</p>\n<h2>THORChain halts, then reopens</h2>\n<p>THORChain halted trading on Oct. 31 after an Ethereum block reorganization exposed a bug in its refund logic: the network had paid out 10 ETH that its vaults never received. That triggered a trading halt. By Wednesday, Nov. 4, trading was restored on Bitcoin, Ethereum and several other chains, though not all of them.</p>\n<p>Earlier, on Oct. 30, RUNE had gained more than 13% from a local low near $0.59 to about $0.67 after analysts showed that funds stolen from Binance, and from September's Bitget breach, had passed through the protocol. The four-hour chart shows the price then sliding to around $0.50 in early November before recovering to roughly $0.65 on Binance.</p>\n<h2>How the Binance loot moves through THORChain</h2>\n<p>The FBI attributed the theft to TraderTraitor, a group tied to North Korea, in an Oct. 31 alert that also urged crypto service providers, including THORChain node operators, to block related transactions. Pyongyang has rejected the accusation as &quot;absurd rhetoric.&quot;</p>\n<p>According to a Nov. 1 analysis by SomaXBT, the attacker swapped about $48.3 million through THORChain and received $42.7 million, a loss of roughly 12% to fees and slippage. There were 2,697 deposits into the protocol, generating around $95,000 in affiliate fees. The sum is small next to the theft, but it shows where the money is heading.</p>\n<p>Lookonchain described the route: stolen SOL was split across wallets, sold for USDC, bridged to Ethereum to buy ETH, then swapped to BTC on THORChain. Arkham data shows wallets tied to the hacker still held 182,443 SOL (about $16.9 million), or 18.8% of the 970,522 SOL taken, meaning roughly 81% has already moved. Elliptic expects the attackers to convert more ETH to BTC in smaller transactions and believes a negligible share has actually been cashed out.</p>\n<h2>The debate over blocking swaps</h2>\n<p>Bitget CEO Gracy Chen had urged THORChain to block the addresses involved, arguing that decentralization is a design principle, not a shield for known stolen funds. THORChain declined, saying the protocol cannot block individual swaps and can only pause a single chain or the whole network. Chainalysis noted the halt inadvertently slowed the laundering.</p>\n<p>Binance said on Nov. 3 that about $2.85 billion has been frozen and that roughly 98% of affected tokens have been compensated from company funds.</p>\n<h2>What it means for traders</h2>\n<p>RUNE has swung with each turn in the hack story: up more than 13% on Oct. 30, down to around $0.50 in early November, then up 10.6% on Nov. 4. For futures traders, this is a token driven by headlines and thin liquidity more than fundamentals, so large candles and stop-run risk in both directions are higher than usual.</p>\n<p>The mechanism to understand: THORChain earns more fees when swap volume rises, so laundering flows can support RUNE in the short run. Legal pressure, FBI warnings or another trading halt could reverse that quickly, and thin liquidity tends to exaggerate the reaction.</p>\n<p>Watch whether THORChain reopens every chain, whether node operators start blocking transactions in line with the FBI request, and which route the remaining stolen funds, such as the unmoved SOL, take next. This article is information only, not trading advice.</p>",
+  "keywords": [
+   "RUNE",
+   "THORChain",
+   "Binance hack",
+   "TraderTraitor",
+   "crypto laundering"
+  ]
+ },
+ "dir": "tin-tuc",
+ "slug_en": "rune-jumps-10-percent-as-thorchain-reopens-binance-hack"
+}

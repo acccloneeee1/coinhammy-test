@@ -1,0 +1,60 @@
+{
+ "slug": "gong-lo-doi-cat-lo",
+ "slug_en": "moving-stop-loss-mistake",
+ "related": [
+  {
+   "kind": "learn",
+   "slug": "ty-le-rr-va-ty-le-thang-hoa-von-khi-trade-futures"
+  },
+  {
+   "kind": "learn",
+   "slug": "cach-tinh-khoi-luong-lenh-futures-theo-rui-ro-1-von"
+  }
+ ],
+ "cat": "tr",
+ "coin": "BTC",
+ "ts": "2026-11-06T19:53:27+07:00",
+ "image": {
+  "license": "chart",
+  "credit": "",
+  "alt_vi": "Biểu đồ Bitcoin 4 giờ với ba đường ngang đánh dấu giá vào, mức cắt lỗ và đáy thấp nhất của ví dụ dời cắt lỗ",
+  "alt_en": "Four-hour Bitcoin chart with three horizontal lines marking the entry, the stop loss and the lowest low in the moved-stop example",
+  "caption_vi": "Bitcoin khung 4 giờ: giá vào 84.530, cắt lỗ 3×ATR tại 83.218, đáy thấp nhất sau đó 79.179 USD",
+  "caption_en": "Bitcoin 4-hour chart: entry 84,530, 3×ATR stop at 83,218, lowest low afterwards 79,179 USD",
+  "url": "/hoc/img/gong-lo-doi-cat-lo-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "Vì sao không nên dời cắt lỗ khi giá đi ngược vị thế Futures",
+  "seo_title": "Dời cắt lỗ khi giá đi ngược: hậu quả thật",
+  "desc": "Dời cắt lỗ ra xa làm khoản lỗ lớn hơn kế hoạch bao nhiêu lần? Ví dụ thật trên nến Bitcoin 1 giờ: lỗ 1,55% thành 6,33% và vốn mất hơn 4% thay vì 1% vốn.",
+  "lead": "Dời mức cắt lỗ ra xa khi giá đi ngược vị thế biến một lệnh lỗ nhỏ có kế hoạch thành khoản lỗ lớn gấp nhiều lần dự tính.",
+  "body_html": "<p>Dời mức cắt lỗ (stop loss) ra xa hơn khi giá đi ngược vị thế là một trong những thói quen gây thiệt hại nặng nhất khi giao dịch Futures. Bài này trả lời câu hỏi: nếu mức cắt lỗ đã đặt sẵn mà trader nới nó ra \"để giá có thêm chỗ thở\", khoản lỗ có thể lớn hơn kế hoạch bao nhiêu lần, và một ví dụ thật trên nến Bitcoin cho thấy điều đó bằng con số cụ thể.</p>\n<h2>Dời cắt lỗ là gì và vì sao trader hay làm vậy</h2>\n<p>Dời cắt lỗ là việc kéo mức cắt lỗ ra xa giá vào lệnh hơn so với kế hoạch ban đầu, thường khi giá đã tiến gần mức đó. Lý do phổ biến là hy vọng giá sẽ quay lại, hoặc không muốn thừa nhận lệnh sai. Mỗi lần dời, rủi ro thực tế của lệnh tăng lên trong khi lý do vào lệnh ban đầu không đổi.</p>\n<p>Mức cắt lỗ có ý nghĩa vì nó được đặt khi chưa có áp lực tâm lý. Lúc giá đang chạy ngược và khoản lỗ đang hiện trên màn hình, quyết định \"thêm một chút nữa\" gần như luôn mang tính cảm xúc hơn là tính toán. Đây cũng là lý do nhiều phương pháp quản lý vốn coi mức cắt lỗ là con số cố định, chỉ được dời theo chiều có lợi (khóa lãi), không dời theo chiều bất lợi.</p>\n<h2>Ví dụ thật trên nến Bitcoin 1 giờ</h2>\n<p>Xét một lệnh long giả định tại giá đóng cửa của nến 1 giờ ngày 21/10/2026 lúc 21:00 (giờ Việt Nam): giá vào 84.530,0 USD. ATR14 theo Wilder trên khung 1 giờ (biên độ dao động trung bình của 14 nến) khi đó là khoảng 437,5 USD. Đặt cắt lỗ cách giá vào 3 lần ATR, tức khoảng 1.312,4 USD, mức cắt lỗ nằm ở 83.217,6 USD, tương đương 1,55% giá vào. Đây là kế hoạch lỗ 1R.</p>\n<p>Diễn biến sau đó: nến 1 giờ lúc 09:00 ngày 22/10 có đáy 82.701,0 USD, tức đã chạm mức cắt lỗ. Từ thời điểm đó giá không quay lại được vùng giá vào cho đến nay. Đến 22:00 ngày 24/10, đáy thấp nhất của giai đoạn này là 79.178,6 USD, thấp hơn giá vào 6,33%.</p>\n<p>Nếu trader nới mức cắt lỗ và giữ lệnh đến đáy đó, khoản lỗ là 6,33% thay vì 1,55%, tức gấp khoảng 4,08 lần kế hoạch (lỗ 4,08R thay vì 1R).</p>\n<h2>Khoản lỗ lớn hơn kế hoạch tác động thế nào lên vốn</h2>\n<p>Giả sử trader rủi ro 1% vốn mỗi lệnh. Với khoảng cách cắt lỗ 1,55%, giá trị vị thế bằng khoảng 64,4% vốn (1% chia 1,55%). Khi giữ lệnh đến đáy 79.178,6 USD, khoản lỗ là 6,33% nhân 64,4%, khoảng 4,08% vốn. Một lệnh được tính để lỗ 1% vốn đã lỗ hơn 4% vốn.</p>\n<p>Để lấy lại mức lỗ 4,08% cần lãi khoảng 4,25% trên phần vốn còn lại. Chuỗi lệnh sau đó vì vậy phải thắng nhiều hơn mới về lại điểm xuất phát. Cách tính khối lượng lệnh theo rủi ro được trình bày trong bài <a href=\"/kien-thuc/cach-tinh-khoi-luong-lenh-futures-theo-rui-ro-1-von\">tính khối lượng lệnh Futures theo rủi ro 1% vốn</a>, còn cách chọn khoảng cách cắt lỗ theo biên độ nằm trong bài <a href=\"/kien-thuc/cach-dat-cat-lo-sl-theo-atr-thay-vi-cam-giac\">đặt cắt lỗ theo ATR</a>.</p>\n<h2>Những lỗi thường đi kèm việc dời cắt lỗ</h2>\n<ul>\n<li><strong>Bỏ lệnh cắt lỗ trên sàn:</strong> chỉ cắt lỗ \"trong đầu\" nên không có gì ngăn cảm xúc can thiệp khi giá chạm mức.</li>\n<li><strong>Nới thêm sau mỗi lần giá tiến sát:</strong> mức cắt lỗ cuối cùng nằm rất xa kế hoạch, và tỷ lệ R:R ban đầu không còn ý nghĩa.</li>\n<li><strong>Cộng thêm vị thế để hạ giá vốn:</strong> khối lượng tăng đúng lúc lệnh đang sai hướng, làm khoản lỗ tăng nhanh hơn.</li>\n<li><strong>Coi vốn ký quỹ là mức chịu lỗ:</strong> thanh lý trở thành mức cắt lỗ cuối cùng thay vì mức đã tính trước.</li>\n</ul>\n<h2>Cách thay thế: giữ cắt lỗ cố định và đánh giá lại sau khi thoát</h2>\n<p>Quy tắc đơn giản là mức cắt lỗ chỉ dời theo chiều giảm rủi ro. Nếu sau khi bị cắt lỗ trader vẫn tin kịch bản cũ, có thể xét một lệnh mới với đầy đủ kế hoạch riêng: giá vào, cắt lỗ theo ATR và khối lượng theo rủi ro. Cách này tách quyết định thoát lệnh khỏi quyết định vào lệnh, tránh việc cố gỡ một lệnh sai bằng chính khoản vốn đang mất. Các công cụ tính nhanh nằm ở trang <a href=\"/cong-cu.html\">công cụ của CoinHammy</a>.</p>\n<h2>Tóm lại</h2>\n<p>Trong ví dụ trên, giữ nguyên mức cắt lỗ 3 lần ATR giới hạn khoản lỗ ở 1,55% giá vào, còn nới nó đến đáy thấp nhất của ba ngày sau làm khoản lỗ lên 6,33%, gấp 4,08 lần kế hoạch. Mức cắt lỗ chỉ phát huy tác dụng khi nó được tôn trọng, nhất là vào đúng lúc giá chạm đến.</p>",
+  "keywords": [
+   "dời cắt lỗ",
+   "stop loss",
+   "gồng lỗ",
+   "quản lý vốn futures",
+   "ATR"
+  ]
+ },
+ "en": {
+  "title": "Moving Your Stop Loss: How a Small Loss Becomes a Large One",
+  "seo_title": "Why Moving a Stop Loss Turns 1R Into 4R",
+  "desc": "How much bigger does a loss get when a stop is widened? A real Bitcoin 1-hour example: a 1.55% planned loss became 6.33%, over 4% of capital instead of 1%.",
+  "lead": "Pushing a stop loss further away when price runs against a trade turns a small planned loss into one several times larger than intended.",
+  "body_html": "<p>Moving a stop loss further away when price runs against a position is one of the most costly habits in futures trading. This article answers one question: if a trader widens a stop that was already set, \"to give the trade room\", how much bigger than planned can the loss become, and a real example on Bitcoin candles shows it in exact numbers.</p>\n<h2>What moving a stop loss means and why traders do it</h2>\n<p>Moving a stop loss means pushing it further from the entry price than the original plan, usually when price is already close to it. The common reasons are hoping price will return, or not wanting to admit the trade was wrong. Each move raises the real risk of the trade while the original reason for entering stays the same.</p>\n<p>A stop loss has value because it is set before emotional pressure arrives. When price is moving against the position and the loss is showing on screen, the decision to \"give it a bit more\" is almost always driven by emotion rather than calculation. That is why many risk-management methods treat the stop as a fixed number that may only be moved in the favorable direction (locking in profit), never in the unfavorable one.</p>\n<h2>A real example on 1-hour Bitcoin candles</h2>\n<p>Take a hypothetical long entered at the close of the 1-hour candle on 21 October 2026 at 21:00 (Vietnam time): entry price 84,530.0 USD. The ATR14 (Wilder) on the 1-hour timeframe, the average range of the last 14 candles, was about 437.5 USD. Placing the stop 3 ATR below entry, about 1,312.4 USD away, puts it at 83,217.6 USD, which is 1.55% below entry. That is the planned loss of 1R.</p>\n<p>What happened next: the 1-hour candle at 09:00 on 22 October had a low of 82,701.0 USD, so the stop level was reached. From then on, price never returned to the entry zone through to the latest data. At 22:00 on 24 October, the lowest low of that period was 79,178.6 USD, 6.33% below entry.</p>\n<p>If the trader had widened the stop and held to that low, the loss would have been 6.33% instead of 1.55%, about 4.08 times the plan (a 4.08R loss instead of 1R).</p>\n<h2>How a larger-than-planned loss affects the account</h2>\n<p>Suppose the trader risks 1% of capital per trade. With a 1.55% stop distance, the position is worth about 64.4% of capital (1% divided by 1.55%). Holding to the 79,178.6 USD low, the loss is 6.33% times 64.4%, about 4.08% of capital. A trade sized to lose 1% of capital lost more than 4%.</p>\n<p>Recovering a 4.08% loss takes a gain of roughly 4.25% on the remaining capital, so the following trades must win more just to return to the starting point. Position sizing from risk is covered in the article on <a href=\"/en/learn/how-to-calculate-futures-position-size-with-1-percent-risk\">futures position size at 1% risk</a>, and choosing the stop distance from volatility is covered in <a href=\"/en/learn/how-to-set-a-stop-loss-using-atr-instead-of-gut-feeling\">setting a stop loss with ATR</a>.</p>\n<h2>Mistakes that usually come with moving the stop</h2>\n<ul>\n<li><strong>Using no stop order on the exchange:</strong> a stop that exists only \"in the head\" leaves nothing to stop emotions from interfering when price reaches it.</li>\n<li><strong>Widening again each time price gets close:</strong> the final stop ends up far from the plan, and the original R:R ratio no longer means anything.</li>\n<li><strong>Adding size to lower the average price:</strong> position size grows exactly when the trade is going the wrong way, so the loss grows faster.</li>\n<li><strong>Treating the margin balance as the loss limit:</strong> liquidation becomes the real stop instead of a level calculated in advance.</li>\n</ul>\n<h2>The alternative: keep the stop fixed and reassess after the exit</h2>\n<p>The simple rule is that a stop moves only in the direction that reduces risk. If the trader still believes the original scenario after being stopped out, a new trade can be considered with its own full plan: entry, ATR-based stop and size from risk. This separates the decision to exit from the decision to enter, and avoids trying to repair a wrong trade with the very capital that is being lost. Quick calculators are on the <a href=\"/en/tools.html\">CoinHammy tools page</a>.</p>\n<h2>Summary</h2>\n<p>In the example above, keeping the 3 ATR stop capped the loss at 1.55% of the entry price, while widening it to the lowest low three days later pushed the loss to 6.33%, 4.08 times the plan. A stop loss only works when it is respected, especially at the moment price reaches it.</p>",
+  "keywords": [
+   "moving stop loss",
+   "stop loss mistake",
+   "futures risk management",
+   "ATR stop",
+   "position sizing"
+  ]
+ },
+ "event": "Vì sao không nên dời cắt lỗ khi giá đi ngược vị thế Futures",
+ "cats": [
+  "tr"
+ ],
+ "dir": "kien-thuc"
+}

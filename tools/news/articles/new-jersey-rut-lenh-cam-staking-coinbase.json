@@ -1,0 +1,76 @@
+{
+ "slug": "new-jersey-rut-lenh-cam-staking-coinbase",
+ "cat": "reg",
+ "cats": [
+  "reg",
+  "pol"
+ ],
+ "coin": "BTC",
+ "ts": "2026-11-03T14:30:00+07:00",
+ "event": "New Jersey Bureau of Securities rescinds 2023 cease-and-desist order and $5M penalty against Coinbase staking (notice Oct 30, 2026), without prejudice",
+ "src_urls": [
+  "https://cointelegraph.com/news/new-jersey-coinbase-staking",
+  "https://www.kucoin.com/news/flash/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+  "https://finwire.io/news/crypto-news/coinbase-says-new-jersey-plans-to-lift-3-year-staking-order",
+  "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+ ],
+ "image": {
+  "src": "https://commons.wikimedia.org/wiki/File:Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg",
+  "license": "CC BY",
+  "credit": "Ảnh: TechCrunch, CC BY 2.0, Wikimedia Commons",
+  "alt_vi": "Brian Armstrong, giám đốc điều hành Coinbase, phát biểu trên sân khấu",
+  "alt_en": "Brian Armstrong, CEO of Coinbase, speaking on stage",
+  "url": "/tin/img/new-jersey-rut-lenh-cam-staking-coinbase-h.jpg"
+ },
+ "images": [],
+ "vi": {
+  "title": "New Jersey rút lệnh cấm staking của Coinbase sau hơn ba năm, trước thềm bầu cử giữa kỳ",
+  "seo_title": "New Jersey rút lệnh cấm staking của Coinbase",
+  "desc": "Cơ quan chứng khoán New Jersey hủy lệnh cấm staking và khoản phạt 5 triệu USD với Coinbase, nhưng việc mở lại cho người dùng bang này chưa có ngày.",
+  "lead": "Cơ quan chứng khoán New Jersey đã rút lệnh ngừng hoạt động và khoản phạt 5 triệu USD với staking của Coinbase, nhưng việc mở lại cho người dùng bang này chưa có ngày cụ thể.",
+  "bullets": [
+   "New Jersey rút lệnh năm 2023 và khoản phạt 5 triệu USD với staking của Coinbase; thông báo chính thức mang ngày 30/10.",
+   "Việc rút lệnh không kèm phán quyết về nội dung, nên bang vẫn có thể mở vụ thực thi mới; Coinbase cho biết staking sẽ mở lại \"rất sớm\" nhưng chưa nêu ngày.",
+   "California, Maryland và Wisconsin vẫn cấm staking vốn mới, Washington còn vụ việc; tin đến đúng lúc nước Mỹ bầu cử giữa kỳ ngày 3/11."
+  ],
+  "body_html": "<p>Cơ quan quản lý chứng khoán bang New Jersey đã rút lại lệnh ngừng hoạt động kèm khoản phạt 5 triệu USD mà họ ban hành năm 2023 đối với dịch vụ staking của Coinbase. Theo thông tin Coinbase công bố trong báo cáo quý III, cơ quan này báo cho sàn ý định rút lệnh vào ngày 29/10, còn thông báo chính thức mang ngày 30/10.</p>\n<h2>New Jersey đã làm gì với lệnh cấm staking</h2>\n<p>Lệnh gốc do Cục Chứng khoán New Jersey ban hành ngày 6/6/2023, yêu cầu Coinbase ngừng cho cư dân bang này staking thêm tài sản vì cho rằng dịch vụ đó là chứng khoán chưa đăng ký. Từ đó đến nay, người dùng tại New Jersey không thể đưa thêm vốn gốc vào staking trên Coinbase, dù các khoản đang staking vẫn tiếp tục nhận thưởng.</p>\n<p>Việc rút lệnh được thực hiện theo dạng \"without prejudice\", tức không kèm phán quyết về nội dung vụ việc. Nói cách khác, bang vẫn giữ quyền mở một vụ thực thi mới trong tương lai nếu muốn. Đây là điểm quan trọng: đây là bước lùi của cơ quan quản lý, chứ không phải một kết luận rằng staking hợp pháp.</p>\n<p>Giám đốc điều hành Coinbase Brian Armstrong ngày 2/11 viết rằng người dùng New Jersey \"rất sớm\" sẽ được staking trở lại, nhưng không nêu ngày cụ thể. Trang điều kiện sử dụng dịch vụ của Coinbase vẫn liệt kê New Jersey là khu vực bị hạn chế, nên việc mở lại chưa diễn ra.</p>\n<h2>Những bang còn lại và bối cảnh pháp lý</h2>\n<p>Vụ New Jersey là mảnh ghép mới nhất trong chiến dịch của nhiều bang năm 2023, khi hàng loạt cơ quan chứng khoán tiểu bang đồng loạt nhắm vào staking của Coinbase. Theo Coinbase, năm bang đã rút hành động vào tháng 3–4/2025, và sàn mở rộng staking ở New York từ tháng 10/2025.</p>\n<p>Hiện California, Maryland và Wisconsin vẫn cấm staking thêm vốn mới trên Coinbase khi vụ việc còn tiếp diễn. Washington cho phép staking nhưng vụ kiện của bang này vẫn còn, với mức phạt được nêu là 4 triệu USD. Đại diện pháp lý của Coinbase đã nói bốn bang này là \"những bang tiếp theo\" mà sàn muốn giải quyết.</p>\n<h2>Vì sao thời điểm này được chú ý</h2>\n<p>Quyết định đến ngay trước ngày bầu cử giữa kỳ Mỹ 3/11. Cử tri đi bỏ phiếu vào thứ Ba, và kết quả đầu tiên dự kiến xuất hiện khi các thị trường châu Á mở cửa sáng thứ Tư. Thị trường dự báo đang nghiêng về khả năng đảng Dân chủ giành quyền kiểm soát Thượng viện; nếu vậy, Thượng nghị sĩ Elizabeth Warren, một người chỉ trích tiền số nổi tiếng, nhiều khả năng sẽ chủ trì Ủy ban Ngân hàng Thượng viện. Thượng nghị sĩ Cynthia Lummis, một trong những người ủng hộ tiền số mạnh nhất phía Cộng hòa, sẽ nghỉ hưu vào tháng 1/2027.</p>\n<p>Các nguồn tin không cho biết quyết định của New Jersey có liên quan tới cuộc bầu cử hay không, nên đây chỉ là bối cảnh trùng thời điểm, không phải quan hệ nhân quả.</p>\n<h2>Tác động tới trader</h2>\n<p>Tin này không phải chất xúc tác trực tiếp cho giá. Trong bối cảnh thị trường hiện tại, Bitcoin giao dịch quanh 76.400 USD, giảm khoảng 2%, còn Ether quanh 2.240 USD, giảm khoảng 1,7%, khi đợt bán tháo cổ phiếu chip kéo chỉ số Nasdaq 100 vào vùng điều chỉnh. Động lực chính của thị trường lúc này là tâm lý rủi ro chung và kết quả bầu cử, chứ không phải một vụ việc cấp tiểu bang.</p>\n<p>Điều trader futures có thể theo dõi là cách thị trường định giá rủi ro pháp lý Mỹ quanh mốc công bố kết quả bầu cử: nếu cán cân Thượng viện đổi chiều, kỳ vọng về luật cấu trúc thị trường tiền số có thể thay đổi, và biến động thường tăng ở các phiên có tin vĩ mô lớn. Khi biến động tăng, funding rate, open interest và lượng thanh lý có thể đổi nhanh, nên quản trị rủi ro vị thế quan trọng hơn việc đoán hướng. Có thể dùng <a href=\"/cong-cu.html\">công cụ tính vị thế và giá thanh lý</a> để kiểm tra mức rủi ro trước khi vào lệnh.</p>\n<p>Về phía Coinbase, các vụ còn lại ở California, Maryland, Wisconsin và Washington là điểm cần theo dõi tiếp; xem thêm <a href=\"/danh-gia-coinbase.html\">đánh giá sàn Coinbase</a> để hiểu các dịch vụ liên quan.</p>",
+  "keywords": [
+   "Coinbase staking",
+   "New Jersey Coinbase",
+   "pháp lý tiền số Mỹ",
+   "bầu cử giữa kỳ crypto",
+   "staking Coinbase"
+  ]
+ },
+ "en": {
+  "title": "New Jersey Drops Coinbase Staking Order, Ending a Three-Year Ban Ahead of Midterms",
+  "seo_title": "New Jersey Drops Coinbase Staking Order",
+  "desc": "New Jersey's securities regulator withdrew its Coinbase staking ban and $5 million penalty, but staking has not yet reopened for residents of the state.",
+  "lead": "New Jersey's securities regulator has withdrawn its cease-and-desist order and $5 million penalty over Coinbase staking, but residents cannot stake new funds yet.",
+  "bullets": [
+   "New Jersey withdrew its 2023 order and $5 million penalty against Coinbase's staking service, with formal notice dated Oct. 30.",
+   "The withdrawal carries no ruling on the merits, so the state could act again; Coinbase says staking will return \"very soon\" but gave no date.",
+   "California, Maryland and Wisconsin still bar new staking principal and Washington's case is open, as the U.S. heads into midterm elections on Nov. 3."
+  ],
+  "body_html": "<p>New Jersey's securities regulator has withdrawn the 2023 cease-and-desist order and $5 million penalty it imposed on Coinbase's staking service. Coinbase disclosed in its third-quarter filing that the regulator told the exchange on Oct. 29 it intended to rescind the order, and the formal notice is dated Oct. 30.</p>\n<h2>What New Jersey did</h2>\n<p>The original order came from the New Jersey Bureau of Securities on June 6, 2023, and required Coinbase to stop letting state residents stake additional assets, on the view that the service was an unregistered security. Since then, New Jersey users have been unable to add new principal to staking on Coinbase, although existing stakes kept earning rewards.</p>\n<p>The rescission was made \"without prejudice,\" meaning there was no ruling on the merits. The state keeps the option of bringing a new enforcement action later. That matters: this is a retreat by a regulator, not a finding that staking is lawful.</p>\n<p>Coinbase CEO Brian Armstrong wrote on Nov. 2 that New Jersey users would \"very soon\" be able to stake again, without giving a date. Coinbase's eligibility page still lists New Jersey as restricted, so staking has not yet reopened.</p>\n<h2>The states still in play</h2>\n<p>The New Jersey case is the latest piece of a 2023 push in which several state securities regulators targeted Coinbase's staking product. According to Coinbase, five states dropped their actions in March and April 2025, and the exchange expanded staking in New York in October 2025.</p>\n<p>California, Maryland and Wisconsin still bar new staking principal while their cases continue. Washington allows staking, but its case remains open, with a fine reported at $4 million. Coinbase's legal team has said those four states are \"next\" on its list.</p>\n<h2>Why the timing draws attention</h2>\n<p>The decision landed just before the U.S. midterm elections on Nov. 3. Americans vote Tuesday, with first results expected as Asian markets open Wednesday. Prediction markets lean toward Democrats winning the Senate; if that happens, Sen. Elizabeth Warren, a prominent crypto critic, would likely chair the Senate Banking Committee. Sen. Cynthia Lummis, one of the strongest Republican crypto advocates, is set to retire in January 2027.</p>\n<p>Nothing in the reporting says the New Jersey decision is linked to the election, so the overlap in timing should be read as context, not cause.</p>\n<h2>What it means for traders</h2>\n<p>This is not a direct price catalyst. Bitcoin is trading around $76,400, down about 2%, and Ether around $2,240, down about 1.7%, as a chip-stock selloff pushed the Nasdaq 100 into correction territory. Broad risk sentiment and the election result are the main drivers right now, not a single state-level case.</p>\n<p>What futures traders can watch is how the market prices U.S. regulatory risk around the election results: if the Senate balance shifts, expectations for crypto market-structure legislation could change, and volatility tends to rise during sessions with major macro news. When volatility rises, funding rates, open interest and liquidations can move quickly, so position risk management matters more than guessing direction. A <a href=\"/cong-cu.html\">position and liquidation-price calculator</a> can help check risk before entering a trade.</p>\n<p>For Coinbase itself, the remaining cases in California, Maryland, Wisconsin and Washington are the next thing to watch; see also the <a href=\"/danh-gia-coinbase.html\">Coinbase review</a>.</p>",
+  "keywords": [
+   "Coinbase staking",
+   "New Jersey Coinbase",
+   "crypto regulation US",
+   "midterm elections crypto",
+   "state securities regulators"
+  ]
+ },
+ "dir": "tin-tuc",
+ "slug_en": "new-jersey-drops-coinbase-staking-order-ending-a-three-year",
+ "related": [
+  {
+   "kind": "news",
+   "slug": "mercado-bitcoin-bi-hack-hon-40-trieu-usd-tam-dung-rut-tien"
+  },
+  {
+   "kind": "news",
+   "slug": "xrp-ledger-va-loi-in-token-kich-hoat-4-11"
+  }
+ ]
+}
