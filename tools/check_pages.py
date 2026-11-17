@@ -7,7 +7,7 @@ cùng chiều ngược lại (sitemap có địa chỉ không còn trang).
 Cách sửa khi có lỗi:
   - trang chính mới/thiếu thẻ SEO: thêm vào PAGES trong tools/seo_head.py, rồi python3 tools/seo_head.py <file>
   - thiếu mã GA: python3 tools/ga_head.py <file>
-  - trang chính chưa vào sitemap: thêm tên file vào danh sách `pages` trong hàm sitemap() của tools/news/publish.py rồi chạy lại publish
+  - trang chính chưa vào sitemap: thêm tên file vào danh sách `pages` trong hàm sitemap() của tools/news/news_lists.py rồi chạy lại publish
   - bài tin/kiến thức: python3 tools/news/publish.py rebuild (bài do khuôn mẫu sinh ra, đừng sửa tay)"""
 import html, json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

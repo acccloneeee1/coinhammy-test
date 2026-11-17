@@ -17,6 +17,17 @@ Trang nguồn trong kho nhúng sẵn toàn bộ CSS và JS, và các công cụ 
 - **Cloudflare Pages**: đặt Build command `python3 tools/build_site.py`, Build output directory `dist`. Chưa đặt thì site vẫn chạy như cũ từ thư mục gốc (chỉ là chưa tách). `_headers` cho `/assets/*` giữ 1 năm (tên file đổi khi nội dung đổi); `_routes.json` loại `/assets/*` khỏi Functions.
 - `dist/` nằm trong `.gitignore`. `check_pages.py` bỏ qua `dist/`, nhưng `ga_head.py`, `fonts_selfhost.py`, `breadcrumb.py`, `diem_san.py`, `logo/make_logo.py` duyệt mọi file `.html` trong kho: **xoá `dist/` trước khi chạy các công cụ đó** (hoặc dựng bằng `--out` ra ngoài kho).
 
+## Cấu trúc bộ đăng bài (`tools/news/`)
+`publish.py` (trước đây 1.104 dòng) đã chia theo chức năng; cách gọi lệnh không đổi (`python3 tools/news/publish.py <lệnh>`, chạy từ thư mục gốc của kho):
+- `publish.py`: các lệnh (`publish`, `learn-publish`, `rebuild`, `check`, `pages`, `today`...).
+- `news_core.py`: đường dẫn, cấu hình, chuyên mục (`KINDS`), hàm nhỏ dùng chung (`slugify`, `esc`, `vpath`, `epath`, `jload`, `jsave`).
+- `news_images.py`: kiểm ảnh, cắt khung 16:9, sổ ảnh đã dùng, thẻ `<figure>`.
+- `news_related.py`: dòng "Liên quan" (xếp hạng, đặt vào thân bài, `related`, `related-backfill`).
+- `news_article.py`: đọc và kiểm một bài JSON (`load`, `onpage_check`), địa chỉ tiếng Anh.
+- `news_render.py`: dựng trang bài viết, trang 404, `_redirects`.
+- `news_lists.py`: `sitemap()`, hai trang danh sách tiếng Anh, phân trang.
+Module chỉ phụ thuộc theo một chiều: `news_core` ← `news_images`, `news_related`, `news_lists` ← `news_article`, `news_render` ← `publish`. Test: `python -m unittest discover -s tools/tests` (chạy từ thư mục gốc).
+
 ## Kiểm tra SEO toàn site
 
 Mỗi khi thêm hoặc sửa trang, chạy:
