@@ -18,6 +18,9 @@
 # Font chữ tự host: tên file cố định theo kiểu chữ, cho trình duyệt giữ 30 ngày (đổi font thì đổi tên file).
 /fonts/*
   Cache-Control: public, max-age=2592000
+# CSS/JS dùng chung do tools/build_site.py tách ra: tên file chứa mã băm nội dung nên không bao giờ đổi nội dung, giữ 1 năm.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
 # Logo sàn trong header (ảnh ghép): đổi nội dung thì đổi tên file (ex-logos-N.webp)
 /img/*
   Cache-Control: public, max-age=2592000

@@ -7,6 +7,16 @@ Source Web CoinHammy
 - Canonical, hreflang, `og:url`, `sitemap.xml`, JSON-LD vẫn trỏ về `coinhammy.com` (cố ý). Mã GA giữ nguyên vì chỉ chạy trên `coinhammy.com`. Link giới thiệu sàn giữ nguyên.
 - `/.claude/*` (cấu hình Claude Code/ECC) bị chặn 404 trong `BLOCKED` của `functions/_middleware.js`. Để file `.js`, ảnh... trong `.claude/` cũng đi qua Function, `_routes.json` của bản thử KHÔNG còn loại trừ theo đuôi file trên toàn site (`/*.js`, `/*.png`...), mà chỉ loại đúng chỗ có file tĩnh: `/fonts/*.woff2`, `/img/*.webp`, `/tin/*.{png,jpg,webp}`, `/hoc/*.{jpg,webp}`, `/tools/*.png`, 3 file favicon, `sitemap.xml`, `robots.txt`, hai `index.json`. Thêm file tĩnh ở thư mục khác thì vẫn chạy nhưng tốn một lượt Function mỗi lần tải; muốn tránh thì thêm đường dẫn vào `exclude`.
 
+## Bản dựng `dist/` (tách CSS/JS dùng chung)
+Trang nguồn trong kho nhúng sẵn toàn bộ CSS và JS, và các công cụ (`header.py`, `breadcrumb.py`, `fonts_selfhost.py`, `en_pages.py`, `publish.py`...) đọc, vá ngay trong trang. Vì vậy KHÔNG tách CSS/JS ở trang nguồn. Thay vào đó `tools/build_site.py` dựng bản triển khai vào `dist/`:
+- Khối `<style>` (từ 2 KB) và `<script>` thường (từ 4 KB) giống hệt nhau ở từ 2 trang trở lên được ghi một lần vào `dist/assets/c-<mã băm>.css` / `j-<mã băm>.js`, và trong trang được thay **đúng tại vị trí cũ** bằng `<link rel="stylesheet">` / `<script src>`, nên thứ tự áp CSS và thứ tự chạy JS không đổi. HTML toàn site từ khoảng 42,7 MB còn 14,3 MB.
+- Để nguyên trong trang: khối font `<!--fonts-->` (chống giật chữ), JSON-LD, khối nhỏ, khối chỉ có ở một trang, CSS có `url()` tương đối.
+- `dist/` không chứa `.claude/`, `tools/`, `functions/`, `README.*`, `.gitignore`.
+- Mỗi lần dựng, công cụ tự kiểm: nhúng ngược các file đã tách vào trang phải ra đúng từng byte trang gốc, sai thì dừng.
+- Lệnh: `python tools/build_site.py` (dựng), `--check` (chỉ kiểm, in thống kê), `--out DIR` (dựng ra thư mục khác). Test: `python -m unittest discover -s tools/tests`.
+- **Cloudflare Pages**: đặt Build command `python3 tools/build_site.py`, Build output directory `dist`. Chưa đặt thì site vẫn chạy như cũ từ thư mục gốc (chỉ là chưa tách). `_headers` cho `/assets/*` giữ 1 năm (tên file đổi khi nội dung đổi); `_routes.json` loại `/assets/*` khỏi Functions.
+- `dist/` nằm trong `.gitignore`. `check_pages.py` bỏ qua `dist/`, nhưng `ga_head.py`, `fonts_selfhost.py`, `breadcrumb.py`, `diem_san.py`, `logo/make_logo.py` duyệt mọi file `.html` trong kho: **xoá `dist/` trước khi chạy các công cụ đó** (hoặc dựng bằng `--out` ra ngoài kho).
+
 ## Kiểm tra SEO toàn site
 
 Mỗi khi thêm hoặc sửa trang, chạy:

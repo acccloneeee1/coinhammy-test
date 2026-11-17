@@ -15,7 +15,7 @@ import breadcrumb, header
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = json.load(open(os.path.join(ROOT, 'tools', 'news', 'config.json')))['site'].rstrip('/')
-SKIP = {'node_modules', '.git', 'tools', 'functions', 'img'}
+SKIP = {'node_modules', '.git', 'tools', 'functions', 'img', 'dist'}   # dist = bản dựng của tools/build_site.py
 
 
 def pages():
